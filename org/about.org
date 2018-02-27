@@ -1,0 +1,24 @@
+#+BEGIN_HTML
+---
+layout: page
+title: Eric Magar
+permalink: /about/
+---
+#+END_HTML
+
+# #+ATTR_HTML: :alt EMM image :title EMM! :align right :width 33%
+# [[./ericEnCide.jpg]]
+
+# |------+----------+----+--------+-----------+--------+---------+----------+-------+-------------------|
+# | [[http://ericmagar.com][Home]] | [[./contact.html][Contacto]] | [[./cv][CV]] | [[./clases][Clases]] | [[./data.html][Data/code]] | [[./papers][Papers]] | [[./presentations/][Charlas]] | [[./fun][Personal]] | [[./links.html][Ligas]] | Nuevo! [[./data/elec/reeleccion/][Reelección]] |
+# |------+----------+----+--------+-----------+--------+---------+----------+-------+-------------------|
+
+¡Bienvenido! Soy politólogo y profesor de tiempo completo en el [[http://www.itam.mx/politica][ITAM]] en la Ciudad de México. Me intereso principalmente en el campo de las  instituciones políticas comparadas. Investigo cómo las instituciones, los partidos, las elecciones y la interacción de todo esto moldean las estrategias de negociación en sistemas de poderes separados. Mi trabajo lo han publicado las editoras universitarias de Cambridge y Johns Hopkins así como las revistas /American Political Science Review/, /Journal of Politics/, /Political Geography/ y /Electoral Studies/, entre otras.
+
+Obtuve el grado de doctor en la [[https://polisci.ucsd.edu/grad/placement/index.html][Universidad de California, San Diego]] en 2001. Fui profesor visitante en [[http://www.ibei.org][IBEI]] de Barcelona en 2007 e investigador visitante de [[https://polisci.wustl.edu/][Washington University en St. Louis]] en 2014-15. 
+
+------------------------------------
+
+Welcome! I am a political scientist and associate professor at [[http://www.itam.mx/politica][ITAM]] in Mexico City. My interests are primarily in the field of comparative political institutions. My research deals with how institutions, parties, elections, and their interactions shape bargaining strategies in systems of separation of power. My work has been published by Cambridge and Johns Hopkins University Presses and in the /American Political Science Review/, the /Journal of Politics/, /Political Geography/, and /Electoral Studies/, among others.
+
+I received a Ph.D. at the [[https://polisci.ucsd.edu/grad/placement/index.html][University of California, San Diego]] in 2001. I was visiting professor at [[http://www.ibei.org][IBEI]] in Barcelona throughout 2007 and visiting scholar at [[https://polisci.wustl.edu/][Washington University in St. Louis]] in 2014-15. 
