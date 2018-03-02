@@ -4,17 +4,17 @@
 # # will change captions to Spanish, see https://lists.gnu.org/archive/html/emacs-orgmode/2010-03/msg00879.html
 #+LANGUAGE: es 
 #+begin_src yaml :exports results :results value html
----
-layout: post 
-title:  "Reelección, equidad y licencias en Yucatán, por Samuel González Cataño"
-subtitle: "Acción de Inconstitucionalidad 50/2017"
-date:   2017-11-22
-categories: reelección licencias SCJN
----
+  ---
+  layout: post 
+  title:  Reelección, equidad y licencias en Yucatán
+  subtitle: La Acción de Inconstitucionalidad 50/2017
+  author: Samuel González Cataño
+  comments: true
+  date:   2017-11-22
+  tags: reelección, licencias, SCJN
+  ---
 #+end_src
 #+results:
-
-por *Samuel González Cataño*
 
 El pasado 29 de agosto el pleno de la Suprema Corte de Justicia de la Nación (SCJN o /la Corte/) declaró inconstitucional la obligación de solicitar licencia para aspirar a cargos de reelección para los diputados y miembros de los ayuntamientos del Estado de Yucatán.
 
@@ -54,7 +54,7 @@ Para un mejor entendimiento de esta sección se acompaña del Cuadro [[tab:1]], 
 
 #+CAPTION: Comparación del texto legal antes y después del fallo de la SCJN
 #+NAME:   tab:1
-[[file:../_assets/img/figCatanho.png]]
+[[file:../assets/img/figCatanho.png]]
 
 El proyecto, realizado por la Ministra Margarita Luna Ramos, en un principio consideraba válido el artículo tal cual lo legisló el Congreso del Estado, sin embargo al momento de realizarse la discusión y votación se revirtió el sentido y se terminó votando por unanimidad la invalidez de los preceptos señalados anteriormente.
 

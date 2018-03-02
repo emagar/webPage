@@ -4,17 +4,17 @@
 # # will change captions to Spanish, see https://lists.gnu.org/archive/html/emacs-orgmode/2010-03/msg00879.html
 #+LANGUAGE: es 
 #+begin_src yaml :exports results :results value html
----
-layout: post 
-title:  "La redistritación de 1928, por Verónica Navarrete M. y Zabel Revuelta P."
-subtitle: "Pieza faltante de la construcción del Estado moderno mexicano"
-date:   2018-01-23
-categories: redistritación reapportionment
----
+  ---
+  layout: post 
+  title:  La redistritación de 1928
+  subtitle: Pieza faltante de la construcción del Estado moderno mexicano
+  author: Verónica Navarrete Morales, Zabel Revuelta Pineda
+  date:   2018-01-23
+  comments: true
+  tags: redistritación, reapportionment
+  ---
 #+end_src
 #+results:
-
-/por *Verónica Navarrete Morales* y *Zabel Revuelta Pineda*/
 
 * Introducción
 
@@ -148,13 +148,11 @@ Bajo el criterio poblacional estipulado en el artículo 52, las demarcaciones te
 
 En un segundo momento, nuestro análisis utiliza el índice de representación relativa de Ansolabehere, Gerber y Snyder (2002). El RRI (por sus siglas en inglés) de un estado se obtiene dividiendo el tamaño promedio de los distritos del país entre el tamaño promedio de los ditritos del estado (donde el tamaño lo establecimos con la población reportada en el censo de 1930). Esto es, 
 
-$$
 \begin{equation}
   \text{RRI}_e = \frac{\frac{\text{pob. nacional}}{\text{tamaño cámara}}}{\frac{\text{pob. del estado}_e}{\text{diputados del estado}_e}}.
 \end{equation}
-$$
 
-El RRI se interpreta muy simplemente: cuando $$\text{RRI}_e = 1$$, indica que el estado $$e$$ tiene el número ideal de diputados de acuerdo a su población. Indices por encima de uno indican sobre-representación del estado (es decir, $$e$$ tiene más diputados que los correspondientes a su población) y por debajo de uno indican sub-representación. Y el valor cardinal refiere el porcentaje de discrepancia con el ideal: $$/text{RRI}_e=1.12$$ equivale a 12 por ciento por encima del ideal. Esta discrepancia se conoce en ciencia política como /malapportionment/. En el caso de la redistritación de 1928 en México argumentamos que los criterios políticos informales incitaron /malapportionment/.
+El RRI se interpreta muy simplemente: cuando $\text{RRI}_e = 1$, indica que el estado $e$ tiene el número ideal de diputados de acuerdo a su población. Indices por encima de uno indican sobre-representación del estado (es decir, $e$ tiene más diputados que los correspondientes a su población) y por debajo de uno indican sub-representación. Y el valor cardinal refiere el porcentaje de discrepancia con el ideal: $\text{RRI}_e=1.12$ equivale a 12 por ciento por encima del ideal. Esta discrepancia se conoce en ciencia política como /malapportionment/. En el caso de la redistritación de 1928 en México argumentamos que los criterios políticos informales incitaron /malapportionment/.
 
 Regresando a los ocho estados que señalamos anteriormente, los cuales perdieron más de la mitad de sus escaños, podemos precisar las siguientes conclusiones: 
 
@@ -183,7 +181,7 @@ Por aquellos años, la reelección terminó por convertirse en un tema polémico
 Antes, las características que correspondieron al periodo comprendido entre 1917 y 1933 consideraban la elección directa del presidente por un periodo de cuatro años, elecciones legislativas directas cada dos años, reelección consecutiva e indefinida para diputados titulares, un diputado propietario por cada sesenta mil habitantes, y postularse para ocupar puestos de elección popular sin la necesidad de ser nominado por algún partido. Los Diarios de Debate apuntan a que los incentivos que se generaban en el comportamiento de los diputados no eran del todo perversos, era menester poder comunicar a los votantes el trabajo que se estaba realizando. Así lo muestra la intervención de Antonio Quiroga del Estado de México en la XXVII Legislatura:
 
 #+BEGIN_QUOTE
-Estos señores deberían popularizarse en sus distritos, debieran de llevar a sus distritos el convencimiento de que estaban cumpliendo su deber, pero no conformarse exclusivamente con que aquí los aplaudan veinte o treinta o cien mil; deberían de estar siempre en su lugar de origen y entonces serían verdaderamente populares$$\ldots$$[fn:1]
+Estos señores deberían popularizarse en sus distritos, debieran de llevar a sus distritos el convencimiento de que estaban cumpliendo su deber, pero no conformarse exclusivamente con que aquí los aplaudan veinte o treinta o cien mil; deberían de estar siempre en su lugar de origen y entonces serían verdaderamente populares$\ldots$[fn:1]
 #+END_QUOTE
 
 Como argumenta Weldon (2003) existen dos razones fundamentales para explicar estas reformas. En primer lugar, la contribución a la centralización de poderes en torno a las dependencias de gobierno en manos del partido y del Jefe máximo. Y en segundo lugar, aceleraron la centralización a nivel nacional como parte de un proyecto que debilitaba partidos y maquinarias políticas locales en beneficio del PNR. 

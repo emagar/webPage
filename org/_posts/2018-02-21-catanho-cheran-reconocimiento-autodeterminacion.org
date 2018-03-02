@@ -1,22 +1,21 @@
 #+STARTUP: showall
-# #+TITLE: Cherán o un nuevo paradigma para el reconocimiento de la autodeterminación indígena en México
 #+OPTIONS: toc:nil
-# # will change captions to Spanish, see https://lists.gnu.org/archive/html/emacs-orgmode/2010-03/msg00879.html
+# will change captions to Spanish, see https://lists.gnu.org/archive/html/emacs-orgmode/2010-03/msg00879.html
 #+LANGUAGE: es 
 #+begin_src yaml :exports results :results value html
----
-layout: post 
-title:  "Cherán, Mich., municipio de usos y costumbres, por Samuel González Cataño"
-subtitle: "La accción de inconstitucionalidad 50/2017 y el nuevo paradigma para el reconocimiento de la autodeterminación indígena"
-date:   2018-02-21
-categories: SCJN indígenas autodeterminación
----
+  ---
+  layout: post 
+  title:  Cherán, Mich., municipio de usos y costumbres
+  subtitle: La acción de inconstitucionalidad 50/2017 y el nuevo paradigma para el reconocimiento de la autodeterminación indígena
+  author: Samuel González Cataño
+  comments: true
+  date:   2018-02-21
+  tags: SCJN, indígenas, autodeterminación
+  ---
 #+end_src
 #+results:
 
-por *Samuel González Cataño*
-
-Desde que México se constituyó como país independiente, en su interior se comenzaron a fraguar una serie de batallas por la conformación política del mismo. Liberales, conservadores, sindicatos, ejército, mujeres, sufragistas, iglesias, laicos… toda esta serie de grupos fueron peleando sus batallas para abrirse un espacio en la vida pública.  Pero otros grupos de gran importancia permanecieron invisibilizados, desplazados por una serie de políticas que pretendían mostrar a México como un cuerpo homogéneo. 
+Desde que México se constituyó como país independiente, en su interior se comenzaron a fraguar batallas por la conformación política del mismo. Liberales, conservadores, sindicatos, ejército, mujeres, sufragistas, iglesias, laicos… toda esta serie de grupos fueron peleando sus batallas para abrirse un espacio en la vida pública.  Pero otros grupos de gran importancia permanecieron invisibilizados, desplazados por una serie de políticas que pretendían mostrar a México como un cuerpo homogéneo. 
 
 En México conviven más de 70 pueblos indígenas con 15 millones de integrantes. Esto es más del 10% de la población del país. Y en estados como Oaxaca, Yucatán o Chiapas esta cifra supera el 30%. En todo el país existen más de 800 municipios cuya población se conforma predominantemente de comunidades indígenas. Frente a esta realidad, es claro que el sistema jurídico y político se había mantenido empecinado en negar la heterogeneidad de los pueblos que conforman al país.
 

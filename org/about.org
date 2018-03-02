@@ -1,17 +1,19 @@
-#+BEGIN_HTML
----
-layout: page
-title: Eric Magar
-permalink: /about/
----
-#+END_HTML
+#+STARTUP: showall
+# #+TITLE: La redistritación de 1928, pieza faltante de la construcción del Estado moderno mexicano
+#+OPTIONS: toc:nil
+# # will change captions to Spanish, see https://lists.gnu.org/archive/html/emacs-orgmode/2010-03/msg00879.html
+#+LANGUAGE: es 
+#+begin_src yaml :exports results :results value html
+  ---
+  layout: page
+  title: Eric Magar
+  permalink: /about/
+  ---
+#+end_src
+#+results:
 
-# #+ATTR_HTML: :alt EMM image :title EMM! :align right :width 33%
-# [[./ericEnCide.jpg]]
-
-# |------+----------+----+--------+-----------+--------+---------+----------+-------+-------------------|
-# | [[http://ericmagar.com][Home]] | [[./contact.html][Contacto]] | [[./cv][CV]] | [[./clases][Clases]] | [[./data.html][Data/code]] | [[./papers][Papers]] | [[./presentations/][Charlas]] | [[./fun][Personal]] | [[./links.html][Ligas]] | Nuevo! [[./data/elec/reeleccion/][Reelección]] |
-# |------+----------+----+--------+-----------+--------+---------+----------+-------+-------------------|
+#+ATTR_HTML: :alt EMM image :title EMM! :align right :width 40%
+[[../assets/img/ericEnCide.jpg]]
 
 ¡Bienvenido! Soy politólogo y profesor de tiempo completo en el [[http://www.itam.mx/politica][ITAM]] en la Ciudad de México. Me intereso principalmente en el campo de las  instituciones políticas comparadas. Investigo cómo las instituciones, los partidos, las elecciones y la interacción de todo esto moldean las estrategias de negociación en sistemas de poderes separados. Mi trabajo lo han publicado las editoras universitarias de Cambridge y Johns Hopkins así como las revistas /American Political Science Review/, /Journal of Politics/, /Political Geography/ y /Electoral Studies/, entre otras.
 
