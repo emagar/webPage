@@ -5,10 +5,10 @@
 #+LANGUAGE: es 
 #+begin_src yaml :exports results :results value html
   ---
-  layout: post 
+  layout: single
   title:  Reelección, equidad y licencias en Yucatán
   subtitle: La Acción de Inconstitucionalidad 50/2017
-  author: Samuel González Cataño
+  author: samuel.glez
   comments: true
   date:   2017-11-22
   tags: reelección, licencias, SCJN
