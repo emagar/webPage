@@ -1,5 +1,4 @@
 #+STARTUP: showall
-# #+TITLE: Cherán o un nuevo paradigma para el reconocimiento de la autodeterminación indígena en México
 #+OPTIONS: toc:nil
 # # will change captions to Spanish, see https://lists.gnu.org/archive/html/emacs-orgmode/2010-03/msg00879.html
 #+LANGUAGE: es 
