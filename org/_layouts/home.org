@@ -1,0 +1,26 @@
+#+STARTUP: showall
+#+OPTIONS: toc:nil
+#+begin_src yaml :exports results :results value html
+---
+layout: archive
+---
+#+end_src
+#+results:
+
+
+# ---
+# layout: default
+# title: Home
+# heading: Investigamos lo bueno, lo malo y lo feo de la democracia mexicana
+# author_profile: true
+# ---
+
+#+BEGIN_HTML
+<h3 class="archive__subtitle">{{ site.data.ui-text[site.locale].recent_posts | default: "Recent Posts" }}</h3>
+
+{% for post in paginator.posts %}
+  {% include archive-single.html %}
+{% endfor %}
+
+{% include paginator.html %}
+#+END_HTML
