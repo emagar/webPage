@@ -1,0 +1,22 @@
+#+STARTUP: showall
+#+OPTIONS: toc:nil
+#+begin_src yaml :exports results :results value html
+---
+layout: default
+author_profile: false
+---
+#+end_src
+#+results:
+
+#+BEGIN_EXPORT html
+<div id="main" role="main">
+  {% include sidebar.html %}
+
+  <div class="archive">
+    <h1 class="page__title">{{ page.title }}</h1>
+    {% for post in page.posts %}
+      {% include archive-single.html %}
+    {% endfor %}
+  </div>
+</div>
+#+END_EXPORT
