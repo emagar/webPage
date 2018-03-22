@@ -1,0 +1,57 @@
+#+STARTUP: showall
+#+OPTIONS: toc:nil
+# will change captions to Spanish, see https://lists.gnu.org/archive/html/emacs-orgmode/2010-03/msg00879.html
+#+LANGUAGE: es 
+#+begin_src yaml :exports results :results value html
+  ---
+  layout: single
+  title:  Entrevista a Luis Raigosa
+  author: valentina.fix
+  comments: true
+  date:   2017-06-26
+  tags: 
+  ---
+#+end_src
+#+results:
+
+/Entrevista a *Luis Raigosa*, profesor de tiempo completo del Instituto Tecnológico Autónomo de México especialista en derecho constitucional e historia del derecho. Realizada el 3 de mayo de 2017 en el ITAM./
+
+El entrevistado dio su autorización para transcribirla.
+
+------------------------------------
+
+*Valentina Fix*: ¿Nos podría indicar su perspectiva en general sobre la introducción de la figura de reelección en México? ¿Considera que resultará positiva para el acercamiento de la ciudadanía con sus candidatos o realmente no tendrá efecto? ¿Qué sucede con los candidatos plurinominales?
+
+*Luis Raigosa*: La rendición de cuentas es más clara cuando se compite por la regla de mayoría. Es la “constituency” (el electorado) la que va a determinar si trabajó bien por ellos el representante. Creo importante empezar por distinguir los principios electorales. Si es por mayoría relativa uno tendería que pensar que sí se mejora la rendición de cuentas. Si en cambio es po representación proporcional la rendición de cuentas se diluye, sobre todo si es lanzado como candidato conforme lo determinen los partidos políticos. Otra cosa es si hablamos de rendición de cuentas que no es política. Eso es una variable que creo que no deriva de la rendición. 
+
+*Valentina Fix*: Si las candidatas del partido ganaron más distritos que sus candidatos hombres en la última elección, el partido enfrentará en ésta un dilema: frustrar la renominación de alguna(s) diputada(s) para meter hombres. ¿Cómo se debe de ponderar entre la figura de reelección y la paridad de género?
+
+*Raigosa*: En este caso es el partido el tiene que elegir quién permanece. Prima la regla de género sobre alguna otra. Si existe una regla previa que establece que la mujer (o el otro género) va primero, lo que impera es el género. Pero si la regla se mantiene y se aplica depende más bien de los partidos. Los partidos deberían de tomar en cuenta que esta regla de paridad de género se les aplica también cuando hay reelección. Hay que ver en qué sentido se les aplica la paridad de género. En realidad, no debería de suspenderse su aplicación porque se aplique la reelección. En el caso de mayoría relativa no tendría sentido decir quien es reelecto hoy tiene que “cambiar de género”. Si es reelecto pues es la misma persona. El partido político tiene que sopesar en cada caso la posibilidad de reelección. Yo creo que al final depende del partido político. 
+
+*Fix*: ¿Mantiene sentido la obligación de pedir licencia para poder volver a contender en un mundo con reelección consecutiva? Corolario del anterior, ¿por qué un suplente habría de safrificar su elegibilidad para sustituir al ocupante que pide licencia para reelegirse? 
+
+*Raigosa*: Me parece que sí tiene sentido pedir licencia. El hecho de no ocupar un cargo pública obedece a la regla de competir en igualdad de condiciones. Yo sí creería correcto que se separara del cargo para que se conservara el equilibrio. En cuanto al suplente, creo que el debe saber que si se da la posibilidad de reelección el suplente deberá ocupar el cargo. Sabe que eventualmente ocupará ese cargo. Lo que eventualmente habría que ver es si el suplente pierde o no la condición de ser reelegible. El que fue titular y pide licencia y logra reelegirse entra al cargo. Una respuesta podría ser que puede ser valioso para un suplente ocupar el cargo de titular. Eso le da puntos porque es un hombre leal y fiel al partido en el mundo de partidocracia.
+
+*Fix*: Si consideramos a la figura de reelección en funcionamiento, ¿de qué manera debemos de adaptar la figura de actos anticipados de campaña?
+
+*Raigosa*:  La distinción entre los actos de campaña anticipados no es clara. Solo eventualmente el tribunal ha dicho que esto es campaña o no. Eso lo debe de determinar el tribunal. 
+
+*Fix*: La centralización del dinero en el liderazgo partidista. ¿Se le permitirá ocupante buscarse fondos para su campaña o se le garantizará una porción del financiamiento público del partido?¿Cómo distinguir gasto para la representación del distrito de los fondos de campaña del diputado ocupante? 
+
+*Raigosa*: Habría que ver reglas de asignación de fondos por distrito. No conozco las reglas, pero yo entendería que todos tienen derecho a recurrir a recursos públicos y privados como lo marca la ley. Otra cosa diferente es la manera ilegal de financiar campaña.
+La fiscalización debiera ser mediante auditorías a ambos fondos. De un dinero que se asigna a grupos parlamentarios y partidos. ¿Cómo lograr que sea transparente ese ejercicio del dinero? A través de auditorías. Que yo sepa, existe la regla de que todos tienen que justificar egresos. Tiene que ser a través de auditorías e informes. 
+¿Cómo evitar que un candidato que está por elegirse utilice fondos que le corresponden al cargo? Cualquier vía con la que obtuviera dinero deberían de establecérsele auditorías. 
+
+*Fix*: La CPEUM establece quien no haya renunciado al partido antes de medio mandato debe contender por el mismo. ¿Qué debe esperarse de quien haya renunciado antes?
+
+*Raigosa*: Alguien que renunció puede tener muchas razones para ello. Depende de la causa por la que renunció. Lo que debe esperarse jurídicamente es que no puede contender. 
+
+Aquí hay una cuestión interesante. Un diputado es militante de un partido político y solo de uno. No puede renunciar a un partido del que no es miembro (coaliciones). ¿Qué pasa si este renuncia siendo militante del pan al PAN?, podría ser pensable que todavía podría postularse por otro partido de la coalición. En eso la CPEUM no es clara.  Que la reelección sea solo por el partido político que lo postuló o por alguno de las coaliciones refuerza la lealtad partidaria. 
+
+Tener más alternativas resulta en beneficios para el partido y propio diputado o senador. Quien fue candidato por coalición tiene más de una opción para reelegirse. La regla es muy amplia. Algunas cosas se podrían interpretar. Se ha reforzado mucho la lealtad partidista.  Esta regla puede crear un incentivo para hacer coaliciones. Y esto no tiene límites. 
+
+La lógica de la reelección es un derecho del ciudadano, que puede premiar o castigar a sus representantes. Otros piensan en la profesionalización. Aunque esto está pensado para los ciudadanos también es una prerrogativa más para los representantes, lo que implica que habrá un refuerzo en la lealtad partidista. Ahora hay un incentivo más para ser leal al partido. Por otro lado también se podría pensar que el representante gana más fuerza y puede convencer al partido. O bien convences o lo obligas a reconocer que si no va contigo puede perder el distrito. Creo que esto en principio sí refuerza la lealtad salvo casos excepcionales en los que el representante tiene fuerza por sí mismo. La regla es muy abierta en este sentido, pero muy cerrada en los limitantes que propone. No hay posibilidad de reelección para candidatos independientes, porque el artículo 59 de la CPEUM establece claramente que solo puede ser posible por partido. No establece claramente la limitante, pero es algo que se puede inferir de ahí.
+
+*Fix*: Comentario sobre la historia de la figura de reelección en México. 
+
+*Raigosa*: A partir de 1917 se permitía la figura de reelección inmediata para diputados y senadores. La regla cambia en 1933 y deja de permitir la reelección inmediata y solo permite la mediata. Ello sucedió porque se asoció al impedimento total de reelección para presidentes. En 1927 o 1928 se admite la reelección inmediata para el presidente una única vez. No se cambiaron las reglas de los senadores. Pero en 33 cuando se prohíbe de manera rotal la de presidente se prohíbe también la reelección inmediata de legisladores y se aumenta el periodo de diputados y de senadores. En realidad, el tema de la reelección no es un tabú tan grande, solamente lo ha sido la reelección presidencial. 
