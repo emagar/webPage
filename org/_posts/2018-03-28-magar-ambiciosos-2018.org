@@ -1,0 +1,316 @@
+#+STARTUP: showall
+#+OPTIONS: toc:nil
+# # will change captions to Spanish, see https://lists.gnu.org/archive/html/emacs-orgmode/2010-03/msg00879.html
+#+LANGUAGE: es 
+#+begin_src yaml :exports results :results value html
+  ---
+  layout: single
+  title:  Alcaldes y ambición estática en 2018
+  author: eric.magar
+  comments: true
+  date:   2018-03-28
+  tags: 
+   - elecciones 
+   - reelección
+   - alcaldes
+  ---
+#+end_src
+#+results:
+
+/P/: ¿Quiénes tendrán mejores elementos para hacer un voto retrospectivo el 1 de julio? 
+/R/: Serán quienes tengan un ocupante en la boleta.[fn:1] 
+
+Quien vota retrospectivamente infiere qué esperar del futuro gobierno echando mano de su experiencia pasada (Downs 1957, Fiorina 1981). Obviamente, el voto retrospectivo indirecto es posible---con atajos como el partido para proyectar experiencia con el ocupante A al candidato B. Pero en los tiempos revueltos que corren, cuando el valor informativo de las etiquetas partidistas se ha devaluado, la versión /directa/ (esto es, haber sido representado por el candidato) e /inmediata/ (y recientemente) parece mucho más apropiada. 
+
+* Dónde habrá ocupantes en la boleta
+
+Los estados que renovarán cargos de elección popular este año caen en cuatro grupos.
+
+Grupo A. *Permiten la reelección municipal y legislativa*
+   - Baja California Sur
+   - Campeche
+   - Colima
+   - Chiapas
+   - Chihuahua
+   - Guanajuato
+   - Guerrero
+   - Jalisco
+   - México
+   - Michoacán
+   - Morelos
+   - Nuevo León
+   - Oaxaca
+   - Querétaro
+   - San Luis Potosí
+   - Sinaloa
+   - Tabasco
+   - Yucatán
+   - Zacatecas
+Grupo B. *Permiten la reelección municipal solamente*
+   - Coahuila
+   - Quintana Roo
+   - Tamaulipas
+Grupo C. *Permiten la reeleccion legislativa solamente*
+   - Aguascalientes
+   - Durango
+   - Hidalgo
+   - Tlaxcala
+   - Veracruz
+Grupo D. *Renovarán ayuntamientos y congreso sin permitir la reelección consecutiva*
+   - Cd. de México
+   - Puebla
+   - Sonora
+
+El grueso del electorado podría tener ocupantes en una, en otra o en ambas boletas electorales locales del 1 de julio. Y el grupo A (en ambas), que incluye 19 estados, es visiblemente el más nutrido de los cuatro. De hecho cinco estados solamente (los tres del grupo D junto con Baja California y Nayarit, que no renuevan poderes locales este año) postergarán la posibilidad de reeleción consecutiva ([[file:./2017-05-20-magar-instituciones.org][aquí]] las instituciones). 
+
+Hago notar el uso del condicional en el párrafo anterior, que no es casual: podría haber un ocupante en la boleta. Y es que la reelección consecutiva enfrenta dos obstáculos que no pueden soslayarse: el desinterés y el llamado candado partidista (para más detalles, vea Magar y Moreno). El desinterés en cuestion afectaría a los políticos, que bien podrían tener escasa /ambición estática/ (Schelsinger). Si asi fuera, serían pocos quienes desearían hacer carrera política representano a los mismos ciudadanos consecutivamente, como ocurre a menudo en varias naciones del continente (Micozzi). 
+
+El otro obstáculo es una restricción constitucional. El candado partidista impide que un ocupante se presente para la reelección a menos que sea el partido que lo eligió quien vuelva a postularlo. Al parecer los reformadores se reservaron la opción de cortarle las alas al representante que cultive el apoyo del municipio o distrito sin atender la férrea disciplina partidista. 
+
+Juntos, los obstáculos abren la posibilidad de que las boletas queden desiertas de ocupantes. Los que quisieran repetir quizás no puedan, los que pudieran quizás no lo quieran. Hay indicios de que el paisaje de la reelección no será del todo desolador.  
+
+* Alcaldes con ambición estática
+
+El resto del texto rastrea evidencia de ambición estática entre alcaldes. Por esto tomaré en cuenta solamente estados con reelección municipal consecutiva este año (los grupos A y B). De los 22 estados en estos dos grupos he podido investigar quince hasta el momento. Una búsqueda rápida en google arrojó los nombres de 176 alcaldes que han manifestado interés por repetir consecutivamente en el cargo. No se trata sólo de quienes dijeron quererlo (el número sería mayor), sino de quieres han registrado su candidatura ante la autoridad electoral del estado y del partido (no todos han solicitado licencia del cargo porque ese requisito no es universal, vea [[file:./2018-01-29-adol-juanramon-licencias.org][esto]]). En tanto los partidos estatales no decidan sus listas definitivas aspirantes no habrá seguridad de cuántos alcaldes con ambición estática habrán superado el filtro partidista. Pero el inminente arranque de las campañas electorales sugiere que conoceremos las listas en la primera quincena de abril. 
+
+#+CAPTION: Alcaldes de 15 estados que se registraron para contender por la reelección (hasta el 27 de marzo 2018). /Fuentes/: preparado por el autor con información de [[http://www.alcaldesdemexico.com]] y páginas de internet de diversos diarios locales.
+#+NAME:   tab:1
+| Estado          | Alcaldes registrados | Total de alcaldes | % del total |
+|-----------------+----------------------+-------------------+-------------|
+| Baja Calif. Sur |                    2 |                 5 |          40 |
+| Coahuila        |                   21 |                38 |          55 |
+| Colima          |                    3 |                10 |          30 |
+| Chiapas         |                    2 |               123 |           2 |
+| Chihuahua       |                   31 |                67 |          46 |
+| Guanajuato      |                   14 |                46 |          30 |
+| Guerrero        |                    8 |                81 |          10 |
+| Jalico          |                   12 |               125 |          10 |
+| México          |                   36 |               125 |          29 |
+| Michoacán       |                   19 |               113 |          17 |
+| Morelos         |                    9 |                33 |          27 |
+| Nuevo León      |                    4 |                51 |           8 |
+| Querétaro       |                    4 |                18 |          22 |
+| San Luis Potosí |                    1 |                58 |           2 |
+| Yucatán         |                   10 |               106 |           9 |
+|-----------------+----------------------+-------------------+-------------|
+| Total           |                  176 |               999 |          18 |
+
+La Tabla [[tab:1]] desagrega los hallazgos entre estados. Hay dos rasgos notables. 
+
+Los alcaldes registrados para reelegirse suman 18 por ciento de un total de casi mil en la muestra. No son muchos con ambición estática en términos relativos, y serán aún menos tras el veto de las dirigencias partidistas. Pero tampoco se trata de un número insignificante, sobretodo tratándose de la ronda inaugural de reelección municipal consecutiva en México. 
+
+Por otro lado, se observa grande varianza entre estados. En San Luis Potosí y Chiapas sólo 2 por ciento de alcaldes se registraron para reelegirse. El número es apenas mayor en Nuevo León (8 por ciento). san cps, quizás nl. En contraste, la cifra en los estados de México y Guanajuato ronda alrededor del 30 por ciento, en Chihuahua alcanza 46 por ciento y en Coahuila supera el 50. Los partidos estatales contrastan por su entusiasmo o mesura en torno de esta novedad institucional. 
+
+* ¿Quiénes son los posibles alcaldes en la boleta?
+
+La Tabla [[tab:2]], que cierra esta nota, detalla los municipios, sus alcaldes registrados para la reelección consecutiva y quién los eligió originalmente. Esto último permite notar una ambigüedad en el candado partidista y especular al respecto. Contraste a Arely Arce Peralta, de Loreto y Herlinda García Treviño de Abasolo. La primera ocupante fue electa como candidata de un partido solo, la segunda de una coalición de siete partidos. Nada permite suponer que los partidos que se coaligaron en un ciclo electoral estarán obligados a repetir el acuerdo el ciclo subsecuente. 
+
+De modo que la alcaldesa Arce Peralta enfrenta un posible veto absoluto --- si el PAN no la renominara, no podría contender --- pero la alcaldesa García Treviño tiene la opción de superar el veto del PRI con el apoyo de cualquiera de los otros seis partidos. El incentivo es claro: a un candidato siempre le convendrá competir con una elección para diluir el candado de la reelección consecutiva. 
+
+#+CAPTION: Los 176 alcaldes registrados para volver a contender. /Fuente/: vea la Tabla [[tab:1]]
+#+NAME:   tab:2
+| Edo | Municipio        | Alcalde                        | Partido o coalición       |
+|-----+------------------+--------------------------------+---------------------------|
+| bcs | Cabos--Los       | ARTURO DE LA ROSA ESCALANTE    | pan                       |
+| bcs | Loreto           | ARELY ARCE PERALTA             | pan                       |
+|-----+------------------+--------------------------------+---------------------------|
+| coa | Abasolo          | HERLINDA GARCIA TREVIÑO        | pri-pvem-na-si-pj-prc-pcp |
+| coa | Acuña            | ROBERTO DE LOS SANTOS VAZQUEZ  | pan-pudc-ppc-pes          |
+| coa | Arteaga          | EVERARDO DURAN FLORES          | pri-pvem-na-si-pj-prc-pcp |
+| coa | Candela          | MARCOS AMADOR GARZA GONZALEZ   | pri-pvem-na-si-pj-prc-pcp |
+| coa | Castaños         | ENRIQUE SOTO OJEDA             | pri-pvem-na-si-pj-prc-pcp |
+| coa | Escobedo         | DULCE BELEN DE LA ROSA SEGURA  | pri-pvem-na-si-pj-prc-pcp |
+| coa | Frontera         | FLORENCIO SILLER LINAJE        | pri                       |
+| coa | Jiménez          | RAUL PECINA VILLAREAL          | pri                       |
+| coa | Matamoros        | JUAN CARLOS AYUP GUERRERO      | pri-pvem-na-si-pj-prc-pcp |
+| coa | Monclova         | JESUS ALFREDO PAREDES LOPEZ    | pan-pudc-ppc-pes          |
+| coa | Múzquiz          | LUISA SANTOS CADENA            | pri-pvem-na-si-pj-prc-pcp |
+| coa | Nadadores        | ABRAHAM SEGUNDO GONZALEZ RUIZ  | pri                       |
+| coa | Nava             | SERGIO ZENON VELAZQUEZ VAZQUEZ | pri-pvem-na-si-pj-prc-pcp |
+| coa | Piedras Negras   | SONIA VILLAREAL PEREZ          | pri-pvem-na-si-pj-prc-pcp |
+| coa | Sacramento       | SILVIA BERENICE OVALLE REYNA   | pri-pvem-na-si-pj-prc-pcp |
+| coa | Saltillo         | MANOLO JIMENEZ SALINAS         | pri-pvem-na-si-pj-prc-pcp |
+| coa | San Buenaventura | GLADYS AYALA FLORES            | pri                       |
+| coa | San Pedro        | ANA ISABEL DURAN PIÑA          | pri-pvem-na-si-pj-prc-pcp |
+| coa | Torreón          | JORGE ZERMEÑO INFANTE          | pan-pudc-ppc-pes          |
+| coa | Villa Unión      | SERGIO CARDENAS CHAPA          | pri-pvem-na-si-pj-prc-pcp |
+| coa | Zaragoza         | ANGELES ELOISA FLORES TORRES   | pri                       |
+|-----+------------------------+----------------------------------+---------------------------|
+| col | Colima                 | HECTOR INSUA GARCIA              | pan                       |
+| col | Cuauhtémoc             | RAFAEL MENDOZA GODINEZ           | pan                       |
+| col | Villa de Álvarez       | YULENNY CORTES LEON              | pan                       |
+|-----+------------------------+----------------------------------+---------------------------|
+| cps | Soyaló                 | FREDY ESPINOZA HERNANDEZ         | pri                       |
+| cps | Tonalá                 | JOSE LUIS CASTILLEJOS VILA       | pvem-na                   |
+|-----+------------------------+----------------------------------+---------------------------|
+| cua | Ahumada                | LUIS MARCELO LOPEZ RUIZ          | pmc                       |
+| cua | Aquiles Serdán         | HECTOR ARIEL FERNANDEZ MARTINEZ  | pri                       |
+| cua | Bachíniva              | IRMA DELIA MORALES MENDOZA       | pri                       |
+| cua | Balleza                | ROBERTO ARTURO MEDINA AGUIRRE    | pri-pvem-pt-na            |
+| cua | Batopilas              | ISRAEL VARELA ORDOÑEZ            | pri-na                    |
+| cua | Buenaventura           | MIRIAM CABALLERO ARRAS           | pri-pvem-pt-na            |
+| cua | Camargo                | ARTURO ZUBIA FERNANDEZ           | pan                       |
+| cua | Casas Grandes          | YESENIA REYES CALZADIAS          | pan                       |
+| cua | Chihuahua              | MARIA EUGENIA CAMPOS GALVAN      | pan                       |
+| cua | Cruz--La               | ADOLFO TRILLO HERRERA            | pri-pvem-pt-na            |
+| cua | Cuauhtémoc             | HUMBERTO PEREZ HOLGUIN           | pan                       |
+| cua | Delicias               | ELISEO COMPEAN FERNANDEZ         | pan                       |
+| cua | Guachochi              | HUGO AGUIRRE GARCIA              | pri-na                    |
+| cua | Guadalupe              | JAIME GUERRERO GUADIAN           | pri-pvem-pt-na            |
+| cua | Guadalupe y Calvo      | NOEL CHAVEZ VELAZQUEZ            | pri-pvem-pt-na            |
+| cua | Guazapares             | LUIS FERNANDO CHACON ERIVES      | pri-pvem-pt-na            |
+| cua | Hidalgo del Parral     | JORGE ALFREDO LOZOYA SANTILLAN   | indep                     |
+| cua | Jiménez                | JOSE ARNOLDO ABES DURAN          | pri-pvem-pt-na            |
+| cua | Juárez                 | ALEJANDRO LOAEZA CANIZALES       | indep                     |
+| cua | Matamoros              | MA. DE LOS ANGELES GAUCIN SALAS  | pan                       |
+| cua | Meoqui                 | ISMAEL PEREZ PAVIA               | pan                       |
+| cua | Moris                  | PERLA GACELA LOPEZ PEREZ         | pri-pvem-na               |
+| cua | Ocampo                 | ANA MARIA SAENZ CAMPOS           | pri-na                    |
+| cua | Ojinaga                | MARTIN SANCHEZ VALLES            | pan                       |
+| cua | Riva Palacio           | MANUEL RODRIGUEZ ROBLES          | pan                       |
+| cua | Rosales                | ELIDA AIMEE SANCHEZ DIAZ         | pri-pvem-pt-na            |
+| cua | Rosario                | JOSE ALFREDO PRIETO CHAVEZ       | pan                       |
+| cua | Sn Fco. de Conchos     | IZAY VALLES VILLA                | pan                       |
+| cua | Sn Fco. del Oro        | JESUS ENRIQUE PEREZ BARRAZA      | pri-pvem-pt-na            |
+| cua | Santa Isabel           | FERNANDO ORTEGA BALDERRAMA       | pan                       |
+| cua | Valle de Zaragoza      | CARMEN LETICIA SALCIDO GARCIA    | pri-pvem-pt-na            |
+|-----+------------------------+----------------------------------+---------------------------|
+| gua | Comonfort              | JOSE ALBERTO MENDEZ PEREZ        | indep.                    |
+| gua | Coroneo                | ISRAEL MORALES BERMUDEZ          | pri-pvem-na               |
+| gua | Cortazar               | HUGO ESTEFANIA MONROY            | prd                       |
+| gua | Dolores Hidalgo        | JUAN RENDON LOPEZ                | pan                       |
+| gua | Irapuato               | JOSE RICARDO ORTIZ GUTIERREZ     | pan                       |
+| gua | Jaral del Progreso     | JOSE ALBERTO VARGAS FRANCO       | pri                       |
+| gua | León                   | RENE LOPEZ SANTILLANA            | pan                       |
+| gua | Moroleón               | JORGE ORTIZ ORTEGA               | prd                       |
+| gua | Pueblo Nuevo           | LARISA SOLORZANO VILLANUEVA      | pri                       |
+| gua | Salamanca              | ANTONIO ARREDONDO MUÑOZ          | pan                       |
+| gua | Salvatierra            | J. HERLINDO VELAZQUEZ FERNANDEZ  | pri                       |
+| gua | San Fco. del Rincón    | YSMAEL LOPEZ GARCIA              | pan                       |
+| gua | San Luis de la Paz     | GUILLERMO RODRIGUEZ CONTRERAS    | pan                       |
+| gua | Sta Cruz de J. Rosas   | SERAFIN PRIETO ALVAREZ           | prd                       |
+|-----+------------------------+----------------------------------+---------------------------|
+| gue | Arcelia                | ADOLFO TORALES CATALAN           | pri                       |
+| gue | Chilapa de Álvarez     | JESUS PARRA GARCIA               | pri                       |
+| gue | Cocula                 | ERIK ULISES RAMIREZ CRESPO       | prd                       |
+| gue | Copalillo              | GETULIO RAMIREZ CHINO            | pt                        |
+| gue | Coyuca de Catalán      | ABEL MONTUFAR MENDOZA            | pri                       |
+| gue | San Miguel Totolapan   | JUAN MENDOZA ACOSTA              | prd                       |
+| gue | Tlapehuala             | ANABEL BALBUENA LARA             | prd                       |
+| gue | Zihuatanejo de Azueta  | GUSTAVO GARCIA BELLO             | prd                       |
+|-----+------------------------+----------------------------------+---------------------------|
+| jal | Ahualulco de Mercado   | VICTOR EDUARDO CASTAÑEDA LUQUIN  | pri                       |
+| jal | Cihuatlán              | FERNANDO MARTINEZ GUERRERO       | mc                        |
+| jal | Jilotlán               | JUAN CARLOS ANDRADE MAGAÑA       | mc                        |
+| jal | Limón--El              | ROBERTO DURAN MICHEL             | prd mc?                   |
+| jal | Puerto Vallarta        | ARTURO DAVALOS PEÑA              | mc                        |
+| jal | San Gabriel            | CESAR AUGUSTO RAMIREZ GOMEZ      | pri                       |
+| jal | Tlajomulco de Zúñiga   | ALBERTO URIBE CAMACHO            | mc                        |
+| jal | Tlaquepaque            | MARIA ELENA LIMON GARCIA         | mc                        |
+| jal | Tuxcueca               | CUAUHTEMOC SOSA CARDENAS         | mc                        |
+| jal | Zapopan                | JESUS PABLO LEMUS NAVARRO        | mc                        |
+| jal | Zapopan                | JESUS PABLO LEMUS NAVARRO        | mc                        |
+| jal | Zapotlanejo            | HECTOR ALVAREZ CONTRERAS         | mc                        |
+|-----+------------------------+----------------------------------+---------------------------|
+| mex | Amatepec               | JOSE FELIX GALLEGOS HERNANDEZ    | prd                       |
+| mex | Atizapán de Zaragoza   | ANA MARIA BALDERAS TREJO         | pan-pt                    |
+| mex | Chapa de Mota          | LETICIA ZEPEDA MARTINEZ          | pan-pt                    |
+| mex | Cocotitlán             | TOMAS SUAREZ JUAREZ              | prd                       |
+| mex | Ecatzingo              | MARCELINO ROBLES FLORES          | pri                       |
+| mex | Huixquilucan           | ENRIQUE VARGAS DEL VILLAR        | pan                       |
+| mex | Isidro Fabela          | LEOBARDO MONDRAGON ORTEGA        | prd                       |
+| mex | Ixtlahuaca             | JUAN CARLOS BAUTISTA SANTOS      | pri                       |
+| mex | Jiquipilco             | MARISOL GONZALEZ TORRES          | pri                       |
+| mex | Jocotitlán             | IVAN DE JESUS ESQUER CRUZ        | pri-pvem-na               |
+| mex | Joquicingo             | ALMA DELIA PALLARES CASTAÑEDA    | pri-pvem-na               |
+| mex | Lerma                  | JAIME CERVANTES SANCHEZ          | pri-pvem-na               |
+| mex | Luvianos               | ANIBAL MARTINEZ PEÑALOZA         | prd                       |
+| mex | Melchor Ocampo         | MIRIAM ESCALONA PIÑA             | pan-pt                    |
+| mex | Nezahualcóyotl         | JUAN HUGO DE LA ROSA GARCIA      | prd                       |
+| mex | Ocuilan                | FELIX ALBERTO LINARES GONZALEZ   | prd                       |
+| mex | Otzoloapan             | SANTOS CABRERA CRUZ              | pri-pvem                  |
+| mex | Rayón                  | JOSE LUIS ROBLES VAZQUEZ         | pri-pvem-na               |
+| mex | S Martín de las Pirám. | FRANCISCO ROBLES BADILLO         | pri-pvem-na               |
+| mex | San Mateo Atenco       | JULIO CESAR SERRANO GONZALEZ     | pri                       |
+| mex | Santo Tomás            | MARIA CLOTILDE GARCIA ENRIQUEZ   | pri                       |
+| mex | Soyaniquilpan          | JORGE ESPINOSA ARCINIEGA         | pan-pt                    |
+| mex | Sultepec               | MIGUEL ANGEL HERNANDEZ TINOCO    | pri                       |
+| mex | Tejupilco              | LINO GARCIA GAMA                 | pri                       |
+| mex | Temascalcingo          | RIGOBERTO DEL MAZO GARDUÑO       | pri-pvem-na               |
+| mex | Temascaltepec          | NOE BARRUETA BARON               | pri                       |
+| mex | Tenango del Valle      | JOSE FRANCISCO GARDUÑO GOMEZ     | pri                       |
+| mex | Tepetlaoxtoc           | ROLANDO TRUJANO SANCHEZ          | pri-pvem-na               |
+| mex | Tepotzotlán            | ANGEL ZUPPA NUÑEZ                | pmc                       |
+| mex | Texcaltitlán           | ZOILA HUERTA LOZA                | pri                       |
+| mex | Toluca                 | FERNANDO ZAMORA MORALES          | pri-pvem-na               |
+| mex | Tonatico               | ANA CECILIA PERALTA CANO         | pri-pvem-na               |
+| mex | Tultepec               | ARMANDO PORTUGUEZ FUENTES        | prd                       |
+| mex | Valle de Bravo         | MAURICIO OSORIO DOMINGUEZ        | pri-pvem-na               |
+| mex | Villa Victoria         | MARIO SANTANA CARBAJAL           | pri-pvem-na               |
+| mex | Zinacantepec           | MARCOS MANUEL CASTREJON MORALES  | pri                       |
+|-----+------------------------+----------------------------------+---------------------------|
+| mic | Charo                  | LUIS MACIEL MENDOZA              | pan                       |
+| mic | Chucándiro             | SALVADOR VALLEJO VILLALOBOS      | prd                       |
+| mic | Contepec               | RUBEN RODRIGUEZ JIMENEZ          | pri-pvem                  |
+| mic | Copándaro              | DAVID GARCIA GARCIA              | pri-pvem                  |
+| mic | Erongarícuaro          | ADRIAN MARCIAL MELGOZA NOVOA     | pri-pvem                  |
+| mic | Ixtlán                 | ANGEL RAFAEL MACIAS MORA         | prd                       |
+| mic | José Sixto Verduzco    | GUSTAVO AVILA VAZQUEZ            | prd                       |
+| mic | Marcos Castellanos     | ROLANDO GONZALEZ CHAVEZ          | pri-pvem                  |
+| mic | Morelia                | ALFONSO MARTINEZ ALCAZAR         | indep.                    |
+| mic | Morelos                | JOSE GUADALUPE CORIA SOLIS       | prd                       |
+| mic | Numarán                | DANIEL ZARATE ESTRADA            | pan                       |
+| mic | Pátzcuaro              | VICTOR MANUEL BAEZ CEJA          | prd-pt                    |
+| mic | Puruándiro             | VICTOR MANUEL VAZQUEZ TAPIA      | pri-pvem                  |
+| mic | Santa Ana Maya         | MARIA DE JESUS LOPEZ PARRA       | pri-pvem                  |
+| mic | Senguio                | RODOLFO QUINTANA TRUJILLO        | pri                       |
+| mic | Taretan                | ALEJANDRO CHAVEZ ZAVALA          | pan                       |
+| mic | Tuxpan                 | JESUS ANTONIO MORA GONZALEZ      | prd-pt                    |
+| mic | Zinapécuaro            | MARIA DEL REFUGIO SILVA DURAN    | pri                       |
+| mic | Zitácuaro              | CARLOS HERRERA TELLO             | prd-pt                    |
+|-----+------------------------+----------------------------------+---------------------------|
+| mor | Amacuzac               | JORGE MIRANDA ABARCA             | pri-pvem-na               |
+| mor | Atlatlahucan           | ESTEBAN HERNANDEZ FRANCO         | pan                       |
+| mor | Jiutepec               | JOSE MANUEL AGÜERO TOVAR         | prd                       |
+| mor | Tepoztlán              | LAURO SALAZAR GARRIDO            | pmc                       |
+| mor | Tetecala               | LUZ DARY QUEVEDO MALDONADO       | pmc                       |
+| mor | Totolapan              | MARIA DE JESUS VITAL DIAZ        | prd                       |
+| mor | Xochitepec             | ALBERTO SANCHEZ ORTEGA           | pri                       |
+| mor | Yautepec               | AGUSTIN ALONSO GUTIERREZ         | prd                       |
+| mor | Zacatepec de Hidalgo   | FRANCISCO SALINAS SANCHEZ        | psd                       |
+|-----+------------------------+----------------------------------+---------------------------|
+| nl  | General Escobedo       | CLARA LUZ FLORES CARRALES        | pri                       |
+| nl  | Juárez                 | HERIBERTO TREVIÑO CANTU          | pes                       |
+| nl  | Monterrey              | ADRIAN EMILIO DE LA GARZA SANTOS | pri-pvem-na-pd            |
+| nl  | Pesquería              | MIGUEL ANGEL LOZANO MUNGUIA      | pri                       |
+|-----+------------------------+----------------------------------+---------------------------|
+| que | Colón                  | JOSE ALEJANDRO OCHOA VALENCIA    | pan                       |
+| que | Huimilpan              | CELIA DURAN TERRAZAS             | pri-na-pvem               |
+| que | Marqués--El            | MARIO CALZADA MERCADO            | pri-na-pvem               |
+| que | Querétaro              | MARCOS AGUILAR VEGA              | pan                       |
+|-----+------------------------+----------------------------------+---------------------------|
+| san | San Luis Potosí        | RICARDO GALLARDO JUAREZ          | prd                       |
+|-----+------------------------+----------------------------------+---------------------------|
+| yuc | Chicxulub Pueblo       | GUADALUPE CANTE ALE              | ?                         |
+| yuc | Cuncunul               | EUSEBIO VAZQUEZ SALAZAR          | ?                         |
+| yuc | Huhí                   | HUMBERTO ECHEVERRIA CHAN         | ?                         |
+| yuc | Maxcanú                | MARLENE CATZIN CHIN              | ?                         |
+| yuc | Sucilá                 | DIEGO LUNA                       | ?                         |
+| yuc | Suma                   | JOSE DE LA CRUZ PACHECO BAZAN    | ?                         |
+| yuc | Tekantó                | LILIANA ARAUJO                   | ?                         |
+| yuc | Tekax                  | FERNANDO ROMERO AYUSO            | ?                         |
+| yuc | Tixmehuac              | GASPAR PANTI CEL                 | ?                         |
+| yuc | Yaxcabá                | SANSON SANTOS PALMA              | ?                         |
+|-----+------------------------+----------------------------------+---------------------------|
+
+* Referencias
+
+Downs, Anthony. 1957. /An Economic Theory of Democracy./ Nueva York: Harper & Collins.
+
+Fiorina, Morris P. 1981. /Retrospective Voting in American National Elections/. New Haven: Yale University Press.
+
+
+
+[fn:1] Agradezco la asistencia de Camila Blanes, estudiante de ciencia política, para recopilar nombres de los ocupantes de los ayuntamientos de Mexico.
+
+
