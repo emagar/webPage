@@ -6,9 +6,10 @@
   ---
   layout: single
   title:  Alcaldes y ambición estática en 2018
+  subtitle: 
   author: eric.magar
-  comments: true
   date:   2018-03-28
+  last_modified_at: 2018-03-30
   tags: 
    - elecciones 
    - reelección
@@ -17,10 +18,20 @@
 #+end_src
 #+results:
 
-/P/: ¿Quiénes tendrán mejores elementos para hacer un voto retrospectivo el 1 de julio? 
-/R/: Serán quienes tengan un ocupante en la boleta.[fn:1] 
+¿Quiénes tendrán más y mejores elementos para hacer un voto retrospectivo el próximo 1 de julio? (/Pista/: serán quienes tengan un ocupante en la boleta.)[fn:1] 
 
-Quien vota retrospectivamente infiere qué esperar del futuro gobierno echando mano de su experiencia pasada (Downs 1957, Fiorina 1981). Obviamente, el voto retrospectivo indirecto es posible---con atajos como el partido para proyectar experiencia con el ocupante A al candidato B. Pero en los tiempos revueltos que corren, cuando el valor informativo de las etiquetas partidistas se ha devaluado, la versión /directa/ (esto es, haber sido representado por el candidato) e /inmediata/ (y recientemente) parece mucho más apropiada. 
+
+Decidir qué candidato representaría mejor tus intereses requiere un mundo de información que nadie, en su sano juicio, investiga. Por eso votar es echar mano de toda clase de sucedáneos o atajos informativos (Popkin 1991). El voto retrospectivo involucra una clase de atajos para inferir lo que es esperable del futuro gobierno a partir de tu experiencia pasada (Downs 1957, Fiorina 1981). ¿Están tu bolsillo o tu sociedad inmediata mejor o peor que hace tres años? 
+
+Con gobernantes impedidos legalmente para repetir consecutivamente en el cargo el votante retrospectivo mexicano ha tenido que usar una versión indirecta del atajo. 
+
+La no reelección consecutiva obligó al votante mexicano a aplicar una versión indirecta del atajo retrospectivo, usando al partido para proyectar la experiencia vivida con el gobernante A al candidato B. Pero en los tiempos revueltos que corren, cuando el valor informativo de las etiquetas partidistas se ha devaluado (¿temporalmente?), la versión /directa/---esto es, que gobernante y candidato sean la misma persona---parece mucho más atractiva. 
+
+Esta nota investiga el prospecto de que esta posibilidad, que abre la adopción de la reelección consecutiva, se materialice y en qué grado en las elecciones próximas. 
+
+# Ejemplos son la situación de tu bolsillo, la de tu sociedad inmediata, el partido de los candidatos y hasta los aciertos y pifias de campana.
+
+# Votar retrospectivamente infiere qué esperar del futuro gobierno echando mano de su experiencia pasada (Downs 1973, Fiorina 1981). Obviamente, el voto retrospectivo indirecto es posible---con atajos como el partido para proyectar experiencia con el ocupante A al candidato B. Pero en los tiempos revueltos que corren, cuando el valor informativo de las etiquetas partidistas se ha devaluado, la versión /directa/ (esto es, haber sido representado por el candidato) e /inmediata/ (y recientemente) parece mucho más apropiada. 
 
 * Dónde habrá ocupantes en la boleta
 
@@ -305,11 +316,11 @@ De modo que la alcaldesa Arce Peralta enfrenta un posible veto absoluto --- si e
 
 * Referencias
 
-Downs, Anthony. 1957. /An Economic Theory of Democracy./ Nueva York: Harper & Collins.
+Downs, Anthony. 1973. /Teoría económica de la democracia/. Madrid: Aguilar.
 
 Fiorina, Morris P. 1981. /Retrospective Voting in American National Elections/. New Haven: Yale University Press.
 
-
+Popkin, Samuel L. 1991. /The Reasoning Voter: Communication and Persuation in Presidential Campaigns/. Chicago: University of Chicago Press.
 
 [fn:1] Agradezco la asistencia de Camila Blanes, estudiante de ciencia política, para recopilar nombres de los ocupantes de los ayuntamientos de Mexico.
 
