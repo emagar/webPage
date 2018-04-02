@@ -1,24 +1,24 @@
-#+TITLE: Mapa local de Baja California
-#+AUTHOR: Eric Magar
-#+DATE:  <2018-01-08>
-#+OPTIONS: toc:nil # don't place toc in default location
+#+STARTUP: showall
+#+OPTIONS: toc:nil
 # # will change captions to Spanish, see https://lists.gnu.org/archive/html/emacs-orgmode/2010-03/msg00879.html
 #+LANGUAGE: es 
-
-# style sheet
-#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="../css/stylesheet.css" />
-
-# #+BEGIN_CENTER
-# por
-# 
-# *Alonso Lujambio*[fn:1]
-# #+END_CENTER
-
-#+OPTIONS: broken-links:mark
-
-# #+LINK_UP: index.html
-[[./mapDistritos.org][Arriba/up]]
-
+#+begin_src yaml :exports results :results value html
+  ---
+  layout: single
+  title:  Mapa local de Baja California
+  subtitle: 
+  author: eric.magar
+  date:   2018-01-08
+  last_modified_at: 2018-04-01
+  toc: true
+  tags: 
+   - legislaturas 
+   - redistritación
+   - elecciones
+   - mapas
+  ---
+#+end_src
+#+results:
 
 * El mapa
 # Dibujado en 2016, el mapa local que será inaugurado en la elección de 2018 remplaza al mapa 2015. El de 2015, de hecho, fue de los últimos  (quizás el último) cuyo proceso de redistritación estuvo a cargo de la autoridad local. 

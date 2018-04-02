@@ -5,7 +5,7 @@
 #+begin_src yaml :exports results :results value html
   ---
   layout: single
-  title:  Tesis que invetigan la reelección consecutiva
+  title:  Tesis que investigan la reelección en México
   subtitle: 
   author-profile: false
   date:   2017-08-29
@@ -16,6 +16,25 @@
   ---
 #+end_src
 #+results:
+
+* Doctorales
+
+- *Iliana Rendón Arias* "Los efectos de la reelección consecutiva en el comportamiento legislativo. Los congresos locales en México" (FLACSO--México 2017)
+  \\
+  /Resumen/: La reelección consecutiva constituye un insumo para la rendición de cuentas en losx sistemas democráticos. La reelección consecutiva en el Poder Legislativo implica el fortalecimiento de la responsabilidad del representante frente a las demandas del electorado. La presente investigación tiene como objetivo mostrar los efectos de la reelección consecutiva en el comportamiento legislativo, observado en las legislaturas locales en México. Mediante la construcción de la base de datos "comportamiento legislativo y reelección en México", y un diseño cuasiexperimental con regresiones logísticas binomiales en un contexto de sistema electoral de composición mixta, se concluye que la posibilidad de reelección legislativa consecutiva tiene un efecto negativo sobre la disciplina y la cohesión partidarias. La pregunta central de esta investigación es: ¿qué cambios se producen en el comportamiento legislativo como consecuencia de la posibilidad de reelección consecutiva en sistemas electorales de composición mixta?
+  \\
+  Obtén el pdf [[../pdfs/rendonReeleccionLegislativa2017flacsoPhD.pdf][aquí]]. \\
+  \\
+  Cómo citarla, ficha bibTeX:
+#+BEGIN_SRC latex
+@phdthesis{rendon.reeleccion-local.2017,
+  title={Los efectos de la reelecci\'on consecutiva en el comportamiento legislativo: los congresos locales en M\'exico},
+  author={Rendón Arias, Iliana},
+  year={2017},
+  type = {Tesis que para obtener el grado de Doctora de Investigaci\'on en Ciencias Sociales con menci\'on en Ciencia Pol\'itica},
+  school={Facultad Latinoamericana de Ciencias Sociales sede acad\'emica M\'exico}
+}
+#+END_SRC
 
 * De licenciatura
 

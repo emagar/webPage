@@ -1,23 +1,23 @@
-#+TITLE: Un vistazo a la redistritación reciente
-#+AUTHOR: Eric Magar
-#+DATE:  <2017-12-20 Wed>
-#+OPTIONS: toc:nil # don't place toc in default location
+#+STARTUP: showall
+#+OPTIONS: toc:nil
 # # will change captions to Spanish, see https://lists.gnu.org/archive/html/emacs-orgmode/2010-03/msg00879.html
 #+LANGUAGE: es 
-
-# style sheet
-#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="../css/stylesheet.css" />
-
-#+BEGIN_CENTER
-por
-
-*Eric Magar*
-#+END_CENTER
-
-#+OPTIONS: broken-links:mark
-
-# #+LINK_UP: index.html
-[[../index.html][Arriba/up]]
+#+begin_src yaml :exports results :results value html
+  ---
+  layout: single
+  title:  Un vistazo a la redistritación reciente
+  subtitle: 
+  author: eric.magar
+  date:   2017-12-20
+  last_modified_at: 2018-04-01
+  toc: true
+  tags: 
+   - legislaturas 
+   - redistritación
+   - mapas
+  ---
+#+end_src
+#+results:
 
 #+BEGIN_subtoc
 #+TOC: headlines 1  # place toc here
@@ -39,8 +39,8 @@ Los mapas que aparecen a continuación retratan los distritos para elegir diputa
 - El límite del distrito (la línea negra gruesa).
 - La frontera del estado (la línea delgada roja punteada). 
 - Los límites municipales (la línea delgada verde y punteada). En zonas despobladas los distritos legislativos suelen incluir municipios completos, en zonas muy pobladas un municipio suele incluir uno o más distritos legislativos. Y en el caso de la Ciudad de México se representan no municipios sino delegaciones.
-- Las secciones electorales aparecen coloreadas según su historia electoral reciente. La inspiración para este propósito es la distinción de votantes /core v. swing/ de Cox y McCubbins.[[fn:1]] Para operacionalizar esta noción se tomó en cuenta al partido que "ganó" la sección en cada una de las elecciones de diputados federales desde 1997---el partido que obtuvo más votos. Secciones ganadas 4, 5, 6, ó hasta 7 veces por un mismo partido son consideradas bastiones y toman colores azules para el PAN, rojos para el PRI o dorado/marrón para la izquierda. El  color alcanza su intensidad máxima cuando el partido consiguió 7 triunfos al hilo, su menor cuando fueron sólo 4 triunfos. Las secciones que ningún partido ganó 4 ó más veces son consideradas /swing/ y aparecen en tono gris. Hay que decir que para los bastiones de la izquierda sumamos los votos de Morena a los del PRD en 2015---pronto haremos mapas que retraten más fielmente el cisma más reciente de la izquierda.
-- Por último, aparece el distrito "padre" (línea roja gruesa). Esta noción, tomada de Cox y Katz,[[fn:2]] sirve de referencia para apreciar cómo cambió el mapa con la redistritación. El padre de un distrito nuevo es aquel distrito del mapa viejo con el que comparte el mayor número de secciones electorales. El estadístico DSI (índice de similutud distrital, por sus siglas en inglés) que acompaña a cada mapa reporta la proporción de secciones electorales comunes entre los dos distritos: si padre e hijo fueran distritos idénticos se alacanzaría el máximo DSI=1; el DSI=0 (que nunca se alcanza) correspondería a distritos que no comparten ninguna sección.
+- Las secciones electorales aparecen coloreadas según su historia electoral reciente. La inspiración para este propósito es la distinción de votantes /core v. swing/ de Cox y McCubbins.[fn:1] Para operacionalizar esta noción se tomó en cuenta al partido que "ganó" la sección en cada una de las elecciones de diputados federales desde 1997---el partido que obtuvo más votos. Secciones ganadas 4, 5, 6, ó hasta 7 veces por un mismo partido son consideradas bastiones y toman colores azules para el PAN, rojos para el PRI o dorado/marrón para la izquierda. El  color alcanza su intensidad máxima cuando el partido consiguió 7 triunfos al hilo, su menor cuando fueron sólo 4 triunfos. Las secciones que ningún partido ganó 4 ó más veces son consideradas /swing/ y aparecen en tono gris. Hay que decir que para los bastiones de la izquierda sumamos los votos de Morena a los del PRD en 2015---pronto haremos mapas que retraten más fielmente el cisma más reciente de la izquierda.
+- Por último, aparece el distrito "padre" (línea roja gruesa). Esta noción, tomada de Cox y Katz,[fn:2] sirve de referencia para apreciar cómo cambió el mapa con la redistritación. El padre de un distrito nuevo es aquel distrito del mapa viejo con el que comparte el mayor número de secciones electorales. El estadístico DSI (índice de similutud distrital, por sus siglas en inglés) que acompaña a cada mapa reporta la proporción de secciones electorales comunes entre los dos distritos: si padre e hijo fueran distritos idénticos se alacanzaría el máximo DSI=1; el DSI=0 (que nunca se alcanza) correspondería a distritos que no comparten ninguna sección.
 
 * Distritos federales
 En construcción.
@@ -57,24 +57,24 @@ En construcción.
 El INE preparó mapas para elegir a los diputados de mayoría de los congresos de los estados entre 2015 y 2017. El tiempo dependió del calendario electoral de cada estado. Y, en algunos casos, de sentencias del TEPJF. 
 
 ** Baja California
-[[file:./locBc.org][Mapas]]
+[[file:./loc/locBc.org][Mapas]]
 
 ** Coahuila
-[[file:./locCoa.org][Mapas]]
+[[file:./loc/locCoa.org][Mapas]]
 
 ** Colima
-[[file:./locCol.org][Mapas]]
+[[file:./loc/locCol.org][Mapas]]
 
 [[#top_subtoc][Inicio distritos estatales]]
 --------------------------------------------
 ** Ciudad de México
-[[file:./locDf.org][Mapas]]
+[[file:./loc/locDf.org][Mapas]]
 
 ** México
-[[file:./locMex.org][Mapas]]
+[[file:./loc/locMex.org][Mapas]]
 
 ** Morelos
-[[file:./locMor.org][Mapas]]
+[[file:./loc/locMor.org][Mapas]]
 
 ** Nayarit
 Elige 18 diputados de mayoría. El mapa actual se inauguró en la elección legistativa de 2017. Note como el mapa anterior (en uso desde 2005 por lo menos) tenía distritos no contiguos, apreciables vía el padre de los distritos (p.ej. en el mapa del distrito 13).
@@ -511,9 +511,9 @@ Elige 18 diputados de mayoría. El mapa actual se inauguró en la elección legi
 
 * Municipios
 ** Chiapas
-[[file:./munCps.org][Mapas]]
+[[file:mun/munCps.org][Mapas]]
 ** Estado de México
-[[file:./munMex.org][Mapas]]
+[[file:./mun/munMex.org][Mapas]]
 
 
 # ** Veracruz
@@ -549,7 +549,7 @@ La rutina consistió en seleccionar todas las secciones electorales pertenecient
 - Rubén
 - Julio 
 
-[[fn:1]] Gary W. Cox y Mathew D. McCubbins. "Electoral Politics as a Redistributive Game", /Journal of Politics/ 48(2):370--89, 1986.
+[fn:1] Gary W. Cox y Mathew D. McCubbins. "Electoral Politics as a Redistributive Game", /Journal of Politics/ 48(2):370--89, 1986.
 
-[[fn:2]] Vea Gary W. Cox y Jonathan N. Katz. /Elbridge Gerry's Salamander: The Electoral Consequences of the Reapportionment Revolution./ Nueva York: Cambridge University Press, 2002. 
+[fn:2] Vea Gary W. Cox y Jonathan N. Katz. /Elbridge Gerry's Salamander: The Electoral Consequences of the Reapportionment Revolution./ Nueva York: Cambridge University Press, 2002. 
 

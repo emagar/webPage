@@ -1,0 +1,91 @@
+#+STARTUP: showall
+#+OPTIONS: toc:nil
+# # will change captions to Spanish, see https://lists.gnu.org/archive/html/emacs-orgmode/2010-03/msg00879.html
+#+LANGUAGE: es 
+#+begin_src yaml :exports results :results value html
+  ---
+  layout: single
+  title:  La reelección legislativa consecutiva en México ¿qué esperar del comportamiento legislativo?
+  subtitle: 
+  author: iliana.rendon
+  date:   2017-08-29
+  last_modified_at: 2018-04-01
+  tags: 
+   - legislaturas 
+   - reelección
+   - estados
+  ---
+#+end_src
+#+results:
+
+/Este artículo fue publicado con el título "Votos o disciplina" en la revista/ Voz y voto, /número 292, junio 2017. La autora ha dado su autorización para reproducirlo aquí./
+
+Por un largo periodo la reelección en México fue un tabú político. Y como todos los tabúes, la reelección estaba definida por los prejuicios surgidos a partir de experiencias políticas dadas durante los periodos de Porfirio Díaz y de Álvaro Obregón. 
+
+La reelección fue causa de reticencia porque se consideraba que su implementación daría paso a nuevas dictaduras. La no reelección se convirtió así en bandera revolucionaria y en un principio inquebrantable a lo largo del siglo XX. No obstante, "el sufragio efectivo, no reelección" iniciado por Díaz y retomado por Madero durante la Revolución Mexicana, estaba dirigido al Poder Ejecutivo y no al Poder Legislativo. 
+
+En la Carta Magna de 1917, en su artículo 83 se determinó la no reelección para el Poder Ejecutivo expresando con claridad que por ningún motivo los presidentes podían reelegirse. Fue hasta la reforma de los artículos 59 y 115 Constitucionales, en el año de 1933, que se prohibió la reelección legislativa consecutiva. Con esta enmienda, los legisladores que desearan regresar al Congreso deberían dejar pasar una legislatura para ocupar nuevamente un escaño.
+
+La prohibición de la reelección legislativa consecutiva fue una decisión concebida a partir de la "política de apertura" del Partido Nacional Revolucionario (PNR) en la que se buscó incluir a los miembros y dirigentes de partidos políticos locales en virtud de reducir al máximo los cacicazgos locales. EL PNR fue, desde entonces, el principal decisor en el acceso a los cargos de elección en los tres niveles de gobierno[fn:2]. A partir de ello, se desincentivó la creación y permanencia de partidos políticos ajenos al PNR. 
+
+De esta manera, la prohibición de la reelección legislativa consecutiva en 1933 y la exclusividad de la nominación de candidatos otorgada a los partidos políticos, establecida en la ley electoral de 1946, fueron factores centrales para la generación de una férrea disciplina partidaria y para el fortalecimiento de lealtades dentro del régimen priista. 
+
+La nominación de candidatos se centralizó en el partido oficial y se desarrolló un sistema de incentivos donde la cooperación y la lealtad eran premiadas y la desobediencia castigada. Entonces, como bien señaló Cosío Villegas,[fn:3] el destino político de los legisladores no dependía de los ciudadanos sino de la dirigencia del partido oficial y en algunos casos de la voluntad presidencial. Cabe señalar que ese sistema de incentivos pasó a ser modelo para otros partidos representados en el Congreso federal y local.
+
+Las consecuencias de la prohibición de la reelección consecutiva en el Poder Legislativo se reflejaron en la falta de experiencia, en la escasa profesionalización de los legisladores, en la dificultad de la conexión con el electorado y en la subordinación del Poder Legislativo ante el Poder Ejecutivo. 
+
+Por ello, la importancia de la aprobación de la reelección legislativa consecutiva contenida en el paquete de la reforma político-electoral de 2014, estriba en la conexión de los legisladores con el electorado, lo que contribuye a la rendición de cuentas y al fortalecimiento del Poder Legislativo. 
+
+Los primeros legisladores con posibilidades de reelegirse consecutivamente pertenecen a determinados[fn:4] Congresos locales que renovaron legislatura en 2015 y sus miembros tendrán la posibilidad de reelegirse en 2018. Los legisladores de la Cámara de Diputados federal electos en 2018 tendrán la posibilidad de reelegirse en 2021, mientras que los senadores electos en 2018 podrán reelegirse en 2024 ya que su cargo legislativo tiene una duración de seis años. Si bien es cierto que se pone fin a 80 años de prohibición de la reelección legislativa consecutiva en México, la reforma no alcanzó a los Ejecutivos estatales ya que la reelección inmediata de los gobernadores sigue prohibida. 
+
+La implementación escalonada de la reelección legislativa consecutiva tendrá como consecuencia que los legisladores de la Cámara alta sean los últimos en fomentar la conexión electoral y la evaluación retrospectiva ciudadana que se posibilita con la reelección consecutiva debido a que para el momento en que los senadores puedan reelegirse, los congresos locales tendrán ya seis años de experiencia y la Cámara de Diputados tendrá tres años de experiencia con reelección consecutiva. 
+
+Con la posibilidad de reelección consecutiva, se espera que el comportamiento legislativo cambie debido a que dicha reelección constituye un incentivo electoral que reduce la dependencia de los legisladores hacia su partido. Algunos teóricos de la representación[fn:5] señalan que en los sistemas democráticos, los representantes cuentan con dos principales: el electorado y la dirigencia del partido, donde las reglas electorales son las encargadas de determinar en qué medida la carrera del representante depende del electorado o del partido. 
+
+En la reforma electoral del 2014, las dirigencias de los partidos políticos tienen peso en la dirección de las carreras políticas de los representantes debido a la cláusula donde se establece que los legisladores que deseen reelegirse "deben ser postulados por el mismo partido o por cualquiera de los integrantes de la coalición que los hubiesen postulado, salvo que hayan renunciado o perdido su militancia  antes de la mitad de su mandato"[fn:6]. No obstante, las carreras de los legisladores no dependen totalmente de las dirigencias de los partidos políticos como sucedía en antaño con la rotación de cargos, ahora los electores son parte del sistema de incentivos en el que se castigan o se premian conductas y decisiones.
+
+La reelección consecutiva abre paso a la conexión electoral entre representantes y representados, pero esta conexión solo podría ser efectiva si el electorado toma el lugar de primer principal, donde el agente es el legislador. En ese estadio, se espera que los legisladores respondan a las demandas de los votantes debido a que persiguen su reelección, y atiendan en menor medida a las demandas de la dirigencia de su partido. Entonces la conexión electoral se establece cuando los ciudadanos eligen al representante, y por su parte el representante provee políticas públicas para el distrito de los ciudadanos que lo eligieron. En el caso de los Ejecutivos estatales, la conexión electoral queda negada ante la prohibición de la reelección consecutiva. 
+
+Es de importancia señalar que con la posibilidad de reelección consecutiva se espera que el cambio en el comportamiento legislativo sea diferente para cada principio de elección, esto es, la conexión electoral sería más fuerte en el caso de los legisladores de mayoría relativa y más débil en los legisladores de representación proporcional. ¿Por qué sucedería esa variación en el comportamiento legislativo? La respuesta se relaciona con la manera de elegir en cada principio de elección. 
+
+El sistema de elección en México en mixto. En el caso de la Cámara de Diputados, votamos directamente para elegir 300 diputados de mayoría relativa y los 200 restantes se eligen mediante representación proporcional con listas cerradas. Por su parte, en el Senado, 64 legisladores se eligen por el principio de mayoría relativa, 32 por el principio de primera minoría y 32 por el principio de representación proporcional con listas cerradas. 
+
+Para elegir a los legisladores de mayoría relativa, el elector vota por una persona. En el caso del Senado mexicano, los electores votan por una fórmula de dos candidatos; para seleccionar a los legisladores de primera minoría, se elige un candidato que haya obtenido el segundo lugar en mayoría relativa de cada estado en la contienda electoral. En la representación proporcional, se eligen de las listas proporcionadas por los partidos políticos mediante de la fórmula de cociente natural y  resto mayor a los candidatos que ocuparan los escaños. El formato de listas cerradas implica que los electores no pueden decidir o modificar el orden de los candidatos, sino que el orden de la lista está determinado por el partido.
+
+En el voto que el elector emite para elegir a los legisladores del principio de mayoría relativa existe personalización ya que hay reconocimiento del legislador o los legisladores y de sus propuestas de campaña. Sucede lo mismo con los legisladores de primera minoría ya que son candidatos de mayoría relativa que obtuvieron el segundo lugar en la contienda electoral, es decir, en ambos casos el voto por los candidatos es directo; el sufragio es por una persona y por sus propuestas de campaña.  Por lo tanto, en mayoría relativa resulta importante la reputación del legislador que servirá para el análisis retrospectivo que el elector realice ante la propuesta de reelección[fn:7].
+
+Si la reputación del legislador es positiva a los ojos del elector, probablemente tenga éxito y podrá reelegirse; donde la reputación del legislador se nutre de las decisiones tomadas y del comportamiento previo al periodo de reelección. Forjar una buena reputación ante el elector constituye un incentivo para que el legislador atienda las demandas de su distrito, en probable detrimento de las preferencias de la dirigencia del partido. 
+
+Entonces, si una de sus ambiciones políticas es la reelección y las preferencias de sus principales se contraponen, el legislador atenderá las preferencias del principal del cual depende su carrera y en este caso, en última instancia, la carrera política del legislador depende del electorado que lo elige en las urnas. Por ello, se espera que la disciplina partidaria se relaje en los legisladores electos por el principio de mayoría relativa. 
+
+Asimismo, es probable que la conexión electoral se fortalezca en los senadores de primera minoría que pretendan reelegirse por el mismo principio que fueron postulados, ya que dependerá del electorado que en la reelección se posicionen en el primer lugar de la contienda electoral. Se observaría, pues, que la disciplina partidaria de los senadores de primera minoría sea menor en comparación con los senadores de mayoría relativa debido a que los primeros tendrán mayor interés en generar una buena reputación ante el electorado como una forma de garantizar el primer sitio de la contienda electoral correspondiente a la reelección. 
+
+Por su parte, dado que el elector no vota directamente por los legisladores de representación proporcional, y debido a que en México la modalidad de listas es cerrada, no hay personalización del voto y no resulta relevante la reputación del legislador si es que desea reelegirse por el mismo principio de elección. En este caso, la carrera política del legislador depende de la dirigencia del partido ya que ésta decidirá el lugar de la lista que ocupará el candidato. La dependencia del legislador ante la dirigencia de su partido político aumenta si hay ausencia de mecanismos para elecciones internas en las nominaciones de candidatos. Por lo tanto, se espera que en los legisladores plurinominales la disciplina partidaria se fortalezca o presente niveles similares a los registrados con ausencia de reelección consecutiva. 
+
+La reelección legislativa consecutiva es un parteaguas en el sistema político mexicano. Durante 80 años las carreras políticas de los legisladores estuvieron en manos de las dirigencias de los partidos políticos, y ahora con la posibilidad de conexión electoral, los electores pueden ser clave en el sistema de incentivos que permite premiar, castigar  y vigilar el comportamiento de los legisladores que desean reelegirse. No obstante, para que el electorado tome una decisión informada, es necesario transparentar la labor legislativa del Congreso federal y local. La opacidad y la dificultad en el acceso a la información de la labor legislativa merma la conexión entre los legisladores y su electorado: ¿cómo podrían evaluar los electores el comportamiento de los legisladores sin información disponible? Es una tarea pendiente. 
+
+* Bibliografía
+
+Cosío Villegas, Daniel (1975). /El sistema político mexicano/. México: Cuadernos de Joaquín Mortiz.
+
+Carey, John (2006). /Límites a la reelección y representación legislativa/. México: CIDE.
+
+Manin, Bernard (1997). /Los principios del gobierno representativo/. Madrid: Alianza Editorial.
+
+Nacif, Benito (1997). /La no reelección consecutiva y la persistencia del partido hegemónico en la Cámara de Diputados de México/. México: CIDE.
+
+Pitkin, Hanna (1985). /El concepto de representación/. Madrid: Centro de Estudios Constitucionales.
+
+
+[fn:2] Para mayor referencia véase Benito Nacif, /La no reelección consecutiva y la persistencia del partido hegemónico en la Cámara de Diputados/. México, CIDE, 1997.
+
+[fn:3] Véase Daniel Cosío Villegas, /El sistema político mexicano/, México, Joaquín Mortiz, 1975.
+
+[fn:4] En las Constituciones políticas de los estados de Yucatán, Tabasco, San Luis Potosí, Querétaro, Nuevo León, Morelos, Estado de México, Michoacán, Guerrero, Guanajuato, Jalisco, Chiapas, Colima, Baja California Sur y Campeche, se determinó que los legisladores electos en el proceso de 2015 podrán reelegirse en a partir de 2018. En Sonora y en la Ciudad de México también hubo renovación de Congresos locales pero sus respectivas Constituciones políticas determinan que los legisladores habilitados para reelegirse consecutivamente serán los electos en el proceso de 2018, por lo que podrán hacer efectiva la reelección a partir de 2021.
+
+[fn:5] Véase John Carey, /Límites a la reelección y representación legislativa/, México, CIDE, 2006; Bernard Manin, /Los principios del gobierno representativo/, Madrid, Alianza Editorial, 1997; Hanna Pitkin, /El concepto de representación/, Madrid, Centro de Estudios Constitucionales, 1983.
+
+[fn:6] Artículos 59 y 116 Constitucionales.
+
+[fn:7] Véase Carey, 2006, op cit.
+
