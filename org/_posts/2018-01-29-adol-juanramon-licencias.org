@@ -6,7 +6,7 @@
   ---
   layout: single
   title: Requisitos de separación del cargo y reelección consecutiva en 32 estados
-  author: 
+  authors: 
    - adolfo.ramirez
    - jr.moreno
   comments: true

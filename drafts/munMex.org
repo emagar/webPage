@@ -1,0 +1,2256 @@
+#+TITLE: Municipios del Estado de México
+#+AUTHOR: Eric Magar
+#+DATE:  <2018-01-10>
+#+OPTIONS: toc:nil # don't place toc in default location
+# # will change captions to Spanish, see https://lists.gnu.org/archive/html/emacs-orgmode/2010-03/msg00879.html
+#+LANGUAGE: es 
+
+# style sheet
+#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="../css/stylesheet.css" />
+
+# #+BEGIN_CENTER
+# por
+# 
+# *Alonso Lujambio*[fn:1]
+# #+END_CENTER
+
+#+OPTIONS: broken-links:mark
+
+# #+LINK_UP: index.html
+[[./mapDistritos.org][Arriba/up]]
+
+
+#+BEGIN_subtoc
+#+TOC: headlines 1 local  # place toc here
+#+END_subtoc
+
+* Municipio 1, ACAMBAY DE RUIZ CASTAÑEDA    
+
+#+ATTR_HTML: :style float:left;width:70%;margin=1.5%;
+#+BEGIN_section
+[[file:https://github.com/emagar/mxDistritos/raw/master/mapasComparados/mun/maps/mex1-2.png]]
+#+END_section
+
+# #+ATTR_HTML: :style float:right;width:25%;margin=1.5%;
+#+BEGIN_aside
+#+ATTR_HTML: :style float:right;width:25%;margin=1.5%;
+[[file:https://github.com/emagar/mxDistritos/raw/master/mapasComparados/mun/maps/mex1-1.png]]
+#+END_aside
+
+#+html: <br style="clear:both;" />
+
+# #+ATTR_HTML: :style width:25%;
+# [[file:https://github.com/emagar/mxDistritos/raw/master/mapasComparados/mun/maps/mex1-1.png]]
+
+# #+ATTR_HTML: :style width:70%;
+# [[file:https://github.com/emagar/mxDistritos/raw/master/mapasComparados/mun/maps/mex1-2.png]]
+
+[[#top_subtoc][Indice]]
+--------------------------------------------
+
+* Municipio 2, ACOLMAN                     
+
+#+ATTR_HTML: :style float:left;width:70%;margin=1.5%
+#+BEGIN_section
+[[file:https://github.com/emagar/mxDistritos/raw/master/mapasComparados/mun/maps/mex2-2.png]]
+#+END_section
+
+#+BEGIN_aside
+#+ATTR_HTML: :style float:right;width:25%;margin=1.5%;
+[[file:https://github.com/emagar/mxDistritos/raw/master/mapasComparados/mun/maps/mex2-1.png]]
+#+END_aside
+
+#+html: <br style="clear:both;" />
+
+[[#top_subtoc][Indice]]
+--------------------------------------------
+
+* Municipio 3, ACULCO                        
+
+#+ATTR_HTML: :style float:left;width:70%;margin=1.5%;
+#+BEGIN_section
+[[file:https://github.com/emagar/mxDistritos/raw/master/mapasComparados/mun/maps/mex3-2.png]]
+#+END_section
+
+#+BEGIN_aside
+#+ATTR_HTML: :style float:right;width:25%;margin=1.5%;
+[[file:https://github.com/emagar/mxDistritos/raw/master/mapasComparados/mun/maps/mex3-1.png]]
+#+END_aside
+
+#+html: <br style="clear:both;" />
+
+[[#top_subtoc][Indice]]
+--------------------------------------------
+
+* Municipio 4, ALMOLOYA DE ALQUISIRAS      
+
+#+ATTR_HTML: :style float:left;width:70%;margin=1.5%;
+#+BEGIN_section
+[[file:https://github.com/emagar/mxDistritos/raw/master/mapasComparados/mun/maps/mex4-2.png]]
+#+END_section
+
+#+BEGIN_aside
+#+ATTR_HTML: :style float:right;width:25%;margin=1.5%;
+file:https://github.com/emagar/mxDistritos/raw/master/mapasComparados/mun/maps/mex4-1.png 
+#+END_aside
+
+#+html: <br style="clear:both;" />
+
+[[#top_subtoc][Indice]]
+--------------------------------------------
+
+* Municipio 5, ALMOLOYA DE JUAREZ            
+
+#+ATTR_HTML: :style float:left;width:70%;margin=1.5%;
+#+BEGIN_section
+[[file:https://github.com/emagar/mxDistritos/raw/master/mapasComparados/mun/maps/mex5-2.png]]
+#+END_section
+
+#+BEGIN_aside
+#+ATTR_HTML: :style float:right;width:25%;margin=1.5%;
+file:https://github.com/emagar/mxDistritos/raw/master/mapasComparados/mun/maps/mex5-1.png
+#+END_aside
+
+#+html: <br style="clear:both;" />
+
+[[#top_subtoc][Indice]]
+--------------------------------------------
+
+* Municipio 6, ALMOLOYA DEL RIO             
+
+#+ATTR_HTML: :style float:left;width:70%;margin=1.5%;
+#+BEGIN_section
+[[file:https://github.com/emagar/mxDistritos/raw/master/mapasComparados/mun/maps/mex6-2.png]]
+#+END_section
+
+#+BEGIN_aside
+#+ATTR_HTML: :style float:right;width:25%;margin=1.5%;
+file:https://github.com/emagar/mxDistritos/raw/master/mapasComparados/mun/maps/mex6-1.png
+#+END_aside
+
+#+html: <br style="clear:both;" />
+
+[[#top_subtoc][Indice]]
+--------------------------------------------
+
+* Municipio 7, AMECAMECA                     
+
+#+ATTR_HTML: :style float:left;width:70%;margin=1.5%;
+#+BEGIN_section
+[[file:https://github.com/emagar/mxDistritos/raw/master/mapasComparados/mun/maps/mex7-2.png]]
+#+END_section
+
+#+BEGIN_aside
+#+ATTR_HTML: :style float:right;width:25%;margin=1.5%;
+file:https://github.com/emagar/mxDistritos/raw/master/mapasComparados/mun/maps/mex7-1.png
+#+END_aside
+
+#+html: <br style="clear:both;" />
+
+[[#top_subtoc][Indice]]
+--------------------------------------------
+
+* Municipio 8, AMANALCO                     
+
+#+ATTR_HTML: :style float:left;width:70%;margin=1.5%;
+#+BEGIN_section
+[[file:https://github.com/emagar/mxDistritos/raw/master/mapasComparados/mun/maps/mex8-2.png]]
+#+END_section
+
+#+BEGIN_aside
+#+ATTR_HTML: :style float:right;width:25%;margin=1.5%;
+file:https://github.com/emagar/mxDistritos/raw/master/mapasComparados/mun/maps/mex8-1.png
+#+END_aside
+
+#+html: <br style="clear:both;" />
+
+[[#top_subtoc][Indice]]
+--------------------------------------------
+
+* Municipio 9, AMATEPEC                      
+
+#+ATTR_HTML: :style float:left;width:70%;margin=1.5%;
+#+BEGIN_section
+[[file:https://github.com/emagar/mxDistritos/raw/master/mapasComparados/mun/maps/mex9-2.png]]
+#+END_section
+
+#+BEGIN_aside
+#+ATTR_HTML: :style float:right;width:25%;margin=1.5%;
+file:https://github.com/emagar/mxDistritos/raw/master/mapasComparados/mun/maps/mex9-1.png
+#+END_aside
+
+#+html: <br style="clear:both;" />
+
+[[#top_subtoc][Indice]]
+--------------------------------------------
+
+* Municipio 10, APAXCO                      
+
+#+ATTR_HTML: :style float:left;width:70%;margin=1.5%;
+#+BEGIN_section
+[[file:https://github.com/emagar/mxDistritos/raw/master/mapasComparados/mun/maps/mex10-2.png]]
+#+END_section
+
+#+BEGIN_aside
+#+ATTR_HTML: :style float:right;width:25%;margin=1.5%;
+file:https://github.com/emagar/mxDistritos/raw/master/mapasComparados/mun/maps/mex10-1.png
+#+END_aside
+
+#+html: <br style="clear:both;" />
+
+[[#top_subtoc][Indice]]
+--------------------------------------------
+
+* Municipio 11, ATIZAPAN                     
+
+#+ATTR_HTML: :style float:left;width:70%;margin=1.5%;
+#+BEGIN_section
+[[file:https://github.com/emagar/mxDistritos/raw/master/mapasComparados/mun/maps/mex11-2.png]]
+#+END_section
+
+#+BEGIN_aside
+#+ATTR_HTML: :style float:right;width:25%;margin=1.5%;
+file:https://github.com/emagar/mxDistritos/raw/master/mapasComparados/mun/maps/mex11-1.png
+#+END_aside
+
+#+html: <br style="clear:both;" />
+
+[[#top_subtoc][Indice]]
+--------------------------------------------
+
+* Municipio 12, ATIZAPAN DE ZARAGOZA        
+
+#+ATTR_HTML: :style float:left;width:70%;margin=1.5%;
+#+BEGIN_section
+[[file:https://github.com/emagar/mxDistritos/raw/master/mapasComparados/mun/maps/mex12-2.png]]
+#+END_section
+
+#+BEGIN_aside
+#+ATTR_HTML: :style float:right;width:25%;margin=1.5%;
+file:https://github.com/emagar/mxDistritos/raw/master/mapasComparados/mun/maps/mex12-1.png
+#+END_aside
+
+#+html: <br style="clear:both;" />
+
+[[#top_subtoc][Indice]]
+--------------------------------------------
+
+* Municipio 13, AYAPANGO                     
+
+#+ATTR_HTML: :style float:left;width:70%;margin=1.5%;
+#+BEGIN_section
+[[file:https://github.com/emagar/mxDistritos/raw/master/mapasComparados/mun/maps/mex13-2.png]]
+#+END_section
+
+#+BEGIN_aside
+#+ATTR_HTML: :style float:right;width:25%;margin=1.5%;
+file:https://github.com/emagar/mxDistritos/raw/master/mapasComparados/mun/maps/mex13-1.png
+#+END_aside
+
+#+html: <br style="clear:both;" />
+
+[[#top_subtoc][Indice]]
+--------------------------------------------
+
+* Municipio 14, CALIMAYA                    
+
+#+ATTR_HTML: :style float:left;width:70%;margin=1.5%;
+#+BEGIN_section
+[[file:https://github.com/emagar/mxDistritos/raw/master/mapasComparados/mun/maps/mex14-2.png]]
+#+END_section
+
+#+BEGIN_aside
+#+ATTR_HTML: :style float:right;width:25%;margin=1.5%;
+file:https://github.com/emagar/mxDistritos/raw/master/mapasComparados/mun/maps/mex14-1.png
+#+END_aside
+
+#+html: <br style="clear:both;" />
+
+[[#top_subtoc][Indice]]
+--------------------------------------------
+
+* Municipio 15, ATENCO                       
+
+#+ATTR_HTML: :style float:left;width:70%;margin=1.5%;
+#+BEGIN_section
+[[file:https://github.com/emagar/mxDistritos/raw/master/mapasComparados/mun/maps/mex15-2.png]]
+#+END_section
+
+#+BEGIN_aside
+#+ATTR_HTML: :style float:right;width:25%;margin=1.5%;
+file:https://github.com/emagar/mxDistritos/raw/master/mapasComparados/mun/maps/mex15-1.png
+#+END_aside
+
+#+html: <br style="clear:both;" />
+
+[[#top_subtoc][Indice]]
+--------------------------------------------
+
+* Municipio 16, ATLACOMULCO                 
+
+#+ATTR_HTML: :style float:left;width:70%;margin=1.5%;
+#+BEGIN_section
+[[file:https://github.com/emagar/mxDistritos/raw/master/mapasComparados/mun/maps/mex16-2.png]]
+#+END_section
+
+#+BEGIN_aside
+#+ATTR_HTML: :style float:right;width:25%;margin=1.5%;
+file:https://github.com/emagar/mxDistritos/raw/master/mapasComparados/mun/maps/mex16-1.png
+#+END_aside
+
+#+html: <br style="clear:both;" />
+
+[[#top_subtoc][Indice]]
+--------------------------------------------
+
+
+
+* Municipio 17, ATLAUTLA                     
+
+#+ATTR_HTML: :style float:left;width:70%;margin=1.5%;
+#+BEGIN_section
+[[file:https://github.com/emagar/mxDistritos/raw/master/mapasComparados/mun/maps/mex17-2.png]]
+#+END_section
+
+#+BEGIN_aside
+#+ATTR_HTML: :style float:right;width:25%;margin=1.5%;
+file:https://github.com/emagar/mxDistritos/raw/master/mapasComparados/mun/maps/mex17-1.png
+#+END_aside
+
+#+html: <br style="clear:both;" />
+
+[[#top_subtoc][Indice]]
+--------------------------------------------
+
+* Municipio 18, AXAPUSCO                    
+
+#+ATTR_HTML: :style float:left;width:70%;margin=1.5%;
+#+BEGIN_section
+[[file:https://github.com/emagar/mxDistritos/raw/master/mapasComparados/mun/maps/mex18-2.png]]
+#+END_section
+
+#+BEGIN_aside
+#+ATTR_HTML: :style float:right;width:25%;margin=1.5%;
+file:https://github.com/emagar/mxDistritos/raw/master/mapasComparados/mun/maps/mex18-1.png
+#+END_aside
+
+#+html: <br style="clear:both;" />
+
+[[#top_subtoc][Indice]]
+--------------------------------------------
+
+* Municipio 19, CAPULHUAC                    
+
+#+ATTR_HTML: :style float:left;width:70%;margin=1.5%;
+#+BEGIN_section
+[[file:https://github.com/emagar/mxDistritos/raw/master/mapasComparados/mun/maps/mex19-2.png]]
+#+END_section
+
+#+BEGIN_aside
+#+ATTR_HTML: :style float:right;width:25%;margin=1.5%;
+file:https://github.com/emagar/mxDistritos/raw/master/mapasComparados/mun/maps/mex19-1.png
+#+END_aside
+
+#+html: <br style="clear:both;" />
+
+[[#top_subtoc][Indice]]
+--------------------------------------------
+
+* Municipio 20, CHALCO                      
+
+#+ATTR_HTML: :style float:left;width:70%;margin=1.5%;
+#+BEGIN_section
+[[file:https://github.com/emagar/mxDistritos/raw/master/mapasComparados/mun/maps/mex20-2.png]]
+#+END_section
+
+#+BEGIN_aside
+#+ATTR_HTML: :style float:right;width:25%;margin=1.5%;
+file:https://github.com/emagar/mxDistritos/raw/master/mapasComparados/mun/maps/mex20-1.png
+#+END_aside
+
+#+html: <br style="clear:both;" />
+
+[[#top_subtoc][Indice]]
+--------------------------------------------
+
+
+* Municipio 21, CHAPA DE MOTA                
+
+#+ATTR_HTML: :style float:left;width:70%;margin=1.5%;
+#+BEGIN_section
+[[file:https://github.com/emagar/mxDistritos/raw/master/mapasComparados/mun/maps/mex21-2.png]]
+#+END_section
+
+# #+ATTR_HTML: :style float:right;width:25%;margin=1.5%;
+#+BEGIN_aside
+#+ATTR_HTML: :style float:right;width:25%;margin=1.5%;
+[[file:https://github.com/emagar/mxDistritos/raw/master/mapasComparados/mun/maps/mex21-1.png]]
+#+END_aside
+
+#+html: <br style="clear:both;" />
+
+# #+ATTR_HTML: :style width:25%;
+# [[file:https://github.com/emagar/mxDistritos/raw/master/mapasComparados/mun/maps/mex1-1.png]]
+
+# #+ATTR_HTML: :style width:70%;
+# [[file:https://github.com/emagar/mxDistritos/raw/master/mapasComparados/mun/maps/mex1-2.png]]
+
+[[#top_subtoc][Indice]]
+--------------------------------------------
+
+* Municipio 22, CHAPULTEPEC                 
+
+#+ATTR_HTML: :style float:left;width:70%;margin=1.5%
+#+BEGIN_section
+[[file:https://github.com/emagar/mxDistritos/raw/master/mapasComparados/mun/maps/mex22-2.png]]
+#+END_section
+
+#+BEGIN_aside
+#+ATTR_HTML: :style float:right;width:25%;margin=1.5%;
+[[file:https://github.com/emagar/mxDistritos/raw/master/mapasComparados/mun/maps/mex22-1.png]]
+#+END_aside
+
+#+html: <br style="clear:both;" />
+
+[[#top_subtoc][Indice]]
+--------------------------------------------
+
+* Municipio 23, CHIAUTLA                     
+
+#+ATTR_HTML: :style float:left;width:70%;margin=1.5%;
+#+BEGIN_section
+[[file:https://github.com/emagar/mxDistritos/raw/master/mapasComparados/mun/maps/mex23-2.png]]
+#+END_section
+
+#+BEGIN_aside
+#+ATTR_HTML: :style float:right;width:25%;margin=1.5%;
+[[file:https://github.com/emagar/mxDistritos/raw/master/mapasComparados/mun/maps/mex23-1.png]]
+#+END_aside
+
+#+html: <br style="clear:both;" />
+
+[[#top_subtoc][Indice]]
+--------------------------------------------
+
+* Municipio 24, CHICOLOAPAN                 
+
+#+ATTR_HTML: :style float:left;width:70%;margin=1.5%;
+#+BEGIN_section
+[[file:https://github.com/emagar/mxDistritos/raw/master/mapasComparados/mun/maps/mex24-2.png]]
+#+END_section
+
+#+BEGIN_aside
+#+ATTR_HTML: :style float:right;width:25%;margin=1.5%;
+file:https://github.com/emagar/mxDistritos/raw/master/mapasComparados/mun/maps/mex24-1.png 
+#+END_aside
+
+#+html: <br style="clear:both;" />
+
+[[#top_subtoc][Indice]]
+--------------------------------------------
+
+* Municipio 25, JUCHITEPEC                   
+
+#+ATTR_HTML: :style float:left;width:70%;margin=1.5%;
+#+BEGIN_section
+[[file:https://github.com/emagar/mxDistritos/raw/master/mapasComparados/mun/maps/mex25-2.png]]
+#+END_section
+
+#+BEGIN_aside
+#+ATTR_HTML: :style float:right;width:25%;margin=1.5%;
+file:https://github.com/emagar/mxDistritos/raw/master/mapasComparados/mun/maps/mex25-1.png
+#+END_aside
+
+#+html: <br style="clear:both;" />
+
+[[#top_subtoc][Indice]]
+--------------------------------------------
+
+* Municipio 26, CHICONCUAC                  
+
+#+ATTR_HTML: :style float:left;width:70%;margin=1.5%;
+#+BEGIN_section
+[[file:https://github.com/emagar/mxDistritos/raw/master/mapasComparados/mun/maps/mex26-2.png]]
+#+END_section
+
+#+BEGIN_aside
+#+ATTR_HTML: :style float:right;width:25%;margin=1.5%;
+file:https://github.com/emagar/mxDistritos/raw/master/mapasComparados/mun/maps/mex26-1.png
+#+END_aside
+
+#+html: <br style="clear:both;" />
+
+[[#top_subtoc][Indice]]
+--------------------------------------------
+
+* Municipio 27, CHIMALHUACAN                 
+
+#+ATTR_HTML: :style float:left;width:70%;margin=1.5%;
+#+BEGIN_section
+[[file:https://github.com/emagar/mxDistritos/raw/master/mapasComparados/mun/maps/mex27-2.png]]
+#+END_section
+
+#+BEGIN_aside
+#+ATTR_HTML: :style float:right;width:25%;margin=1.5%;
+file:https://github.com/emagar/mxDistritos/raw/master/mapasComparados/mun/maps/mex27-1.png
+#+END_aside
+
+#+html: <br style="clear:both;" />
+
+[[#top_subtoc][Indice]]
+--------------------------------------------
+
+* Municipio 28, COACALCO DE BERRIOZABAL     
+
+#+ATTR_HTML: :style float:left;width:70%;margin=1.5%;
+#+BEGIN_section
+[[file:https://github.com/emagar/mxDistritos/raw/master/mapasComparados/mun/maps/mex28-2.png]]
+#+END_section
+
+#+BEGIN_aside
+#+ATTR_HTML: :style float:right;width:25%;margin=1.5%;
+file:https://github.com/emagar/mxDistritos/raw/master/mapasComparados/mun/maps/mex28-1.png
+#+END_aside
+
+#+html: <br style="clear:both;" />
+
+[[#top_subtoc][Indice]]
+--------------------------------------------
+
+* Municipio 29, COATEPEC HARINAS             
+
+#+ATTR_HTML: :style float:left;width:70%;margin=1.5%;
+#+BEGIN_section
+[[file:https://github.com/emagar/mxDistritos/raw/master/mapasComparados/mun/maps/mex29-2.png]]
+#+END_section
+
+#+BEGIN_aside
+#+ATTR_HTML: :style float:right;width:25%;margin=1.5%;
+file:https://github.com/emagar/mxDistritos/raw/master/mapasComparados/mun/maps/mex29-1.png
+#+END_aside
+
+#+html: <br style="clear:both;" />
+
+[[#top_subtoc][Indice]]
+--------------------------------------------
+
+* Municipio 30, COCOTITLAN                  
+
+#+ATTR_HTML: :style float:left;width:70%;margin=1.5%;
+#+BEGIN_section
+[[file:https://github.com/emagar/mxDistritos/raw/master/mapasComparados/mun/maps/mex30-2.png]]
+#+END_section
+
+#+BEGIN_aside
+#+ATTR_HTML: :style float:right;width:25%;margin=1.5%;
+file:https://github.com/emagar/mxDistritos/raw/master/mapasComparados/mun/maps/mex30-1.png
+#+END_aside
+
+#+html: <br style="clear:both;" />
+
+[[#top_subtoc][Indice]]
+--------------------------------------------
+
+
+* Municipio 31, COYOTEPEC                    
+
+#+ATTR_HTML: :style float:left;width:70%;margin=1.5%;
+#+BEGIN_section
+[[file:https://github.com/emagar/mxDistritos/raw/master/mapasComparados/mun/maps/mex31-2.png]]
+#+END_section
+
+# #+ATTR_HTML: :style float:right;width:25%;margin=1.5%;
+#+BEGIN_aside
+#+ATTR_HTML: :style float:right;width:25%;margin=1.5%;3
+[[file:https://github.com/emagar/mxDistritos/raw/master/mapasComparados/mun/maps/mex1-1.png]]
+#+END_aside
+
+#+html: <br style="clear:both;" />
+
+# #+ATTR_HTML: :style width:25%;
+# [[file:https://github.com/emagar/mxDistritos/raw/master/mapasComparados/mun/maps/mex1-1.png]]
+
+# #+ATTR_HTML: :style width:70%;
+# [[file:https://github.com/emagar/mxDistritos/raw/master/mapasComparados/mun/maps/mex1-2.png]]
+
+[[#top_subtoc][Indice]]
+--------------------------------------------
+
+* Municipio 32, NEXTLALPAN                  
+
+#+ATTR_HTML: :style float:left;width:70%;margin=1.5%
+#+BEGIN_section
+[[file:https://github.com/emagar/mxDistritos/raw/master/mapasComparados/mun/maps/mex32-2.png]]
+#+END_section
+
+#+BEGIN_aside
+#+ATTR_HTML: :style float:right;width:25%;margin=1.5%;
+[[file:https://github.com/emagar/mxDistritos/raw/master/mapasComparados/mun/maps/mex32-1.png]]
+#+END_aside
+
+#+html: <br style="clear:both;" />
+
+[[#top_subtoc][Indice]]
+--------------------------------------------
+
+* Municipio 33, NEZAHUALCOYOTL               
+
+#+ATTR_HTML: :style float:left;width:70%;margin=1.5%;
+#+BEGIN_section
+[[file:https://github.com/emagar/mxDistritos/raw/master/mapasComparados/mun/maps/mex33-2.png]]
+#+END_section
+
+#+BEGIN_aside
+#+ATTR_HTML: :style float:right;width:25%;margin=1.5%;
+[[file:https://github.com/emagar/mxDistritos/raw/master/mapasComparados/mun/maps/mex33-1.png]]
+#+END_aside
+
+#+html: <br style="clear:both;" />
+
+[[#top_subtoc][Indice]]
+--------------------------------------------
+
+* Municipio 34, NICOLAS ROMERO              
+
+#+ATTR_HTML: :style float:left;width:70%;margin=1.5%;
+#+BEGIN_section
+[[file:https://github.com/emagar/mxDistritos/raw/master/mapasComparados/mun/maps/mex34-2.png]]
+#+END_section
+
+#+BEGIN_aside
+#+ATTR_HTML: :style float:right;width:25%;margin=1.5%;
+file:https://github.com/emagar/mxDistritos/raw/master/mapasComparados/mun/maps/mex34-1.png 
+#+END_aside
+
+#+html: <br style="clear:both;" />
+
+[[#top_subtoc][Indice]]
+--------------------------------------------
+
+* Municipio 35, CUAUTITLAN                   
+
+#+ATTR_HTML: :style float:left;width:70%;margin=1.5%;
+#+BEGIN_section
+[[file:https://github.com/emagar/mxDistritos/raw/master/mapasComparados/mun/maps/mex35-2.png]]
+#+END_section
+
+#+BEGIN_aside
+#+ATTR_HTML: :style float:right;width:25%;margin=1.5%;
+file:https://github.com/emagar/mxDistritos/raw/master/mapasComparados/mun/maps/mex35-1.png
+#+END_aside
+
+#+html: <br style="clear:both;" />
+
+[[#top_subtoc][Indice]]
+--------------------------------------------
+
+* Municipio 36, CUAUTITLAN IZCALLI          
+
+#+ATTR_HTML: :style float:left;width:70%;margin=1.5%;
+#+BEGIN_section
+[[file:https://github.com/emagar/mxDistritos/raw/master/mapasComparados/mun/maps/mex36-2.png]]
+#+END_section
+
+#+BEGIN_aside
+#+ATTR_HTML: :style float:right;width:25%;margin=1.5%;
+file:https://github.com/emagar/mxDistritos/raw/master/mapasComparados/mun/maps/mex36-1.png
+#+END_aside
+
+#+html: <br style="clear:both;" />
+
+[[#top_subtoc][Indice]]
+--------------------------------------------
+
+* Municipio 37, DONATO GUERRA                
+
+#+ATTR_HTML: :style float:left;width:70%;margin=1.5%;
+#+BEGIN_section
+[[file:https://github.com/emagar/mxDistritos/raw/master/mapasComparados/mun/maps/mex37-2.png]]
+#+END_section
+
+#+BEGIN_aside
+#+ATTR_HTML: :style float:right;width:25%;margin=1.5%;
+file:https://github.com/emagar/mxDistritos/raw/master/mapasComparados/mun/maps/mex37-1.png
+#+END_aside
+
+#+html: <br style="clear:both;" />
+
+[[#top_subtoc][Indice]]
+--------------------------------------------
+
+* Municipio 38, ECATEPEC DE MORELOS         
+
+#+ATTR_HTML: :style float:left;width:70%;margin=1.5%;
+#+BEGIN_section
+[[file:https://github.com/emagar/mxDistritos/raw/master/mapasComparados/mun/maps/mex38-2.png]]
+#+END_section
+
+#+BEGIN_aside
+#+ATTR_HTML: :style float:right;width:25%;margin=1.5%;
+file:https://github.com/emagar/mxDistritos/raw/master/mapasComparados/mun/maps/mex38-1.png
+#+END_aside
+
+#+html: <br style="clear:both;" />
+
+[[#top_subtoc][Indice]]
+--------------------------------------------
+
+* Municipio 39, ECATZINGO                    
+
+#+ATTR_HTML: :style float:left;width:70%;margin=1.5%;
+#+BEGIN_section
+[[file:https://github.com/emagar/mxDistritos/raw/master/mapasComparados/mun/maps/mex39-2.png]]
+#+END_section
+
+#+BEGIN_aside
+#+ATTR_HTML: :style float:right;width:25%;margin=1.5%;
+file:https://github.com/emagar/mxDistritos/raw/master/mapasComparados/mun/maps/mex39-1.png
+#+END_aside
+
+#+html: <br style="clear:both;" />
+
+[[#top_subtoc][Indice]]
+--------------------------------------------
+
+* Municipio 40, EL ORO                      
+
+#+ATTR_HTML: :style float:left;width:70%;margin=1.5%;
+#+BEGIN_section
+[[file:https://github.com/emagar/mxDistritos/raw/master/mapasComparados/mun/maps/mex40-2.png]]
+#+END_section
+
+#+BEGIN_aside
+#+ATTR_HTML: :style float:right;width:25%;margin=1.5%;
+file:https://github.com/emagar/mxDistritos/raw/master/mapasComparados/mun/maps/mex40-1.png
+#+END_aside
+
+#+html: <br style="clear:both;" />
+
+[[#top_subtoc][Indice]]
+--------------------------------------------
+
+* Municipio 41, RAYON                        
+
+#+ATTR_HTML: :style float:left;width:70%;margin=1.5%;
+#+BEGIN_section
+[[file:https://github.com/emagar/mxDistritos/raw/master/mapasComparados/mun/maps/mex41-2.png]]
+#+END_section
+
+# #+ATTR_HTML: :style float:right;width:25%;margin=1.5%;
+#+BEGIN_aside
+#+ATTR_HTML: :style float:right;width:25%;margin=1.5%;3
+[[file:https://github.com/emagar/mxDistritos/raw/master/mapasComparados/mun/maps/mex1-1.png]]
+#+END_aside
+
+#+html: <br style="clear:both;" />
+
+# #+ATTR_HTML: :style width:25%;
+# [[file:https://github.com/emagar/mxDistritos/raw/master/mapasComparados/mun/maps/mex1-1.png]]
+
+# #+ATTR_HTML: :style width:70%;
+# [[file:https://github.com/emagar/mxDistritos/raw/master/mapasComparados/mun/maps/mex1-2.png]]
+
+[[#top_subtoc][Indice]]
+--------------------------------------------
+
+* Municipio 42, HUEHUETOCA                  
+
+#+ATTR_HTML: :style float:left;width:70%;margin=1.5%
+#+BEGIN_section
+[[file:https://github.com/emagar/mxDistritos/raw/master/mapasComparados/mun/maps/mex42-2.png]]
+#+END_section
+
+#+BEGIN_aside
+#+ATTR_HTML: :style float:right;width:25%;margin=1.5%;
+[[file:https://github.com/emagar/mxDistritos/raw/master/mapasComparados/mun/maps/mex42-1.png]]
+#+END_aside
+
+#+html: <br style="clear:both;" />
+
+[[#top_subtoc][Indice]]
+--------------------------------------------
+
+* Municipio 43, HUEYPOXTLA                   
+
+#+ATTR_HTML: :style float:left;width:70%;margin=1.5%;
+#+BEGIN_section
+[[file:https://github.com/emagar/mxDistritos/raw/master/mapasComparados/mun/maps/mex43-2.png]]
+#+END_section
+
+#+BEGIN_aside
+#+ATTR_HTML: :style float:right;width:25%;margin=1.5%;
+[[file:https://github.com/emagar/mxDistritos/raw/master/mapasComparados/mun/maps/mex43-1.png]]
+#+END_aside
+
+#+html: <br style="clear:both;" />
+
+[[#top_subtoc][Indice]]
+--------------------------------------------
+
+* Municipio 44, HUIXQUILUCAN                
+
+#+ATTR_HTML: :style float:left;width:70%;margin=1.5%;
+#+BEGIN_section
+[[file:https://github.com/emagar/mxDistritos/raw/master/mapasComparados/mun/maps/mex44-2.png]]
+#+END_section
+
+#+BEGIN_aside
+#+ATTR_HTML: :style float:right;width:25%;margin=1.5%;
+file:https://github.com/emagar/mxDistritos/raw/master/mapasComparados/mun/maps/mex44-1.png 
+#+END_aside
+
+#+html: <br style="clear:both;" />
+
+[[#top_subtoc][Indice]]
+--------------------------------------------
+
+* Municipio 45, SAN ANTONIO LA ISLA          
+
+#+ATTR_HTML: :style float:left;width:70%;margin=1.5%;
+#+BEGIN_section
+[[file:https://github.com/emagar/mxDistritos/raw/master/mapasComparados/mun/maps/mex45-2.png]]
+#+END_section
+
+#+BEGIN_aside
+#+ATTR_HTML: :style float:right;width:25%;margin=1.5%;
+file:https://github.com/emagar/mxDistritos/raw/master/mapasComparados/mun/maps/mex45-1.png
+#+END_aside
+
+#+html: <br style="clear:both;" />
+
+[[#top_subtoc][Indice]]
+--------------------------------------------
+
+
+
+
+* Municipio 46, SAN FELIPE DEL PROGRESO     
+
+#+ATTR_HTML: :style float:left;width:70%;margin=1.5%;
+#+BEGIN_section
+[[file:https://github.com/emagar/mxDistritos/raw/master/mapasComparados/mun/maps/mex46-2.png]]
+#+END_section
+
+#+BEGIN_aside
+#+ATTR_HTML: :style float:right;width:25%;margin=1.5%;
+file:https://github.com/emagar/mxDistritos/raw/master/mapasComparados/mun/maps/mex46-1.png
+#+END_aside
+
+#+html: <br style="clear:both;" />
+
+[[#top_subtoc][Indice]]
+--------------------------------------------
+
+* Municipio 47, SAN JOSE DEL RINCON          
+
+#+ATTR_HTML: :style float:left;width:70%;margin=1.5%;
+#+BEGIN_section
+[[file:https://github.com/emagar/mxDistritos/raw/master/mapasComparados/mun/maps/mex47-2.png]]
+#+END_section
+
+#+BEGIN_aside
+#+ATTR_HTML: :style float:right;width:25%;margin=1.5%;
+file:https://github.com/emagar/mxDistritos/raw/master/mapasComparados/mun/maps/mex47-1.png
+#+END_aside
+
+#+html: <br style="clear:both;" />
+
+[[#top_subtoc][Indice]]
+--------------------------------------------
+
+* Municipio 48, ISIDRO FABELA               
+
+#+ATTR_HTML: :style float:left;width:70%;margin=1.5%;
+#+BEGIN_section
+[[file:https://github.com/emagar/mxDistritos/raw/master/mapasComparados/mun/maps/mex48-2.png]]
+#+END_section
+
+#+BEGIN_aside
+#+ATTR_HTML: :style float:right;width:25%;margin=1.5%;
+file:https://github.com/emagar/mxDistritos/raw/master/mapasComparados/mun/maps/mex48-1.png
+#+END_aside
+
+#+html: <br style="clear:both;" />
+
+[[#top_subtoc][Indice]]
+--------------------------------------------
+
+* Municipio 49, IXTAPALUCA                   
+
+#+ATTR_HTML: :style float:left;width:70%;margin=1.5%;
+#+BEGIN_section
+[[file:https://github.com/emagar/mxDistritos/raw/master/mapasComparados/mun/maps/mex49-2.png]]
+#+END_section
+
+#+BEGIN_aside
+#+ATTR_HTML: :style float:right;width:25%;margin=1.5%;
+file:https://github.com/emagar/mxDistritos/raw/master/mapasComparados/mun/maps/mex49-1.png
+#+END_aside
+
+#+html: <br style="clear:both;" />
+
+[[#top_subtoc][Indice]]
+--------------------------------------------
+
+* Municipio 50, IXTAPAN DE LA SAL           
+
+#+ATTR_HTML: :style float:left;width:70%;margin=1.5%;
+#+BEGIN_section
+[[file:https://github.com/emagar/mxDistritos/raw/master/mapasComparados/mun/maps/mex50-2.png]]
+#+END_section
+
+#+BEGIN_aside
+#+ATTR_HTML: :style float:right;width:25%;margin=1.5%;
+file:https://github.com/emagar/mxDistritos/raw/master/mapasComparados/mun/maps/mex50-1.png
+#+END_aside
+
+#+html: <br style="clear:both;" />
+
+[[#top_subtoc][Indice]]
+--------------------------------------------
+
+* Municipio 51, IXTAPAN DEL ORO              
+
+#+ATTR_HTML: :style float:left;width:70%;margin=1.5%;
+#+BEGIN_section
+[[file:https://github.com/emagar/mxDistritos/raw/master/mapasComparados/mun/maps/mex51-2.png]]
+#+END_section
+
+# #+ATTR_HTML: :style float:right;width:25%;margin=1.5%;
+#+BEGIN_aside
+#+ATTR_HTML: :style float:right;width:25%;margin=1.5%;3
+[[file:https://github.com/emagar/mxDistritos/raw/master/mapasComparados/mun/maps/mex1-1.png]]
+#+END_aside
+
+#+html: <br style="clear:both;" />
+
+# #+ATTR_HTML: :style width:25%;
+# [[file:https://github.com/emagar/mxDistritos/raw/master/mapasComparados/mun/maps/mex1-1.png]]
+
+# #+ATTR_HTML: :style width:70%;
+# [[file:https://github.com/emagar/mxDistritos/raw/master/mapasComparados/mun/maps/mex1-2.png]]
+
+[[#top_subtoc][Indice]]
+--------------------------------------------
+
+* Municipio 52, IXTLAHUACA                  
+
+#+ATTR_HTML: :style float:left;width:70%;margin=1.5%
+#+BEGIN_section
+[[file:https://github.com/emagar/mxDistritos/raw/master/mapasComparados/mun/maps/mex52-2.png]]
+#+END_section
+
+#+BEGIN_aside
+#+ATTR_HTML: :style float:right;width:25%;margin=1.5%;
+[[file:https://github.com/emagar/mxDistritos/raw/master/mapasComparados/mun/maps/mex52-1.png]]
+#+END_aside
+
+#+html: <br style="clear:both;" />
+
+[[#top_subtoc][Indice]]
+--------------------------------------------
+
+* Municipio 53, JALTENCO                     
+
+#+ATTR_HTML: :style float:left;width:70%;margin=1.5%;
+#+BEGIN_section
+[[file:https://github.com/emagar/mxDistritos/raw/master/mapasComparados/mun/maps/mex53-2.png]]
+#+END_section
+
+#+BEGIN_aside
+#+ATTR_HTML: :style float:right;width:25%;margin=1.5%;
+[[file:https://github.com/emagar/mxDistritos/raw/master/mapasComparados/mun/maps/mex53-1.png]]
+#+END_aside
+
+#+html: <br style="clear:both;" />
+
+[[#top_subtoc][Indice]]
+--------------------------------------------
+
+* Municipio 54, JILOTEPEC                   
+
+#+ATTR_HTML: :style float:left;width:70%;margin=1.5%;
+#+BEGIN_section
+[[file:https://github.com/emagar/mxDistritos/raw/master/mapasComparados/mun/maps/mex54-2.png]]
+#+END_section
+
+#+BEGIN_aside
+#+ATTR_HTML: :style float:right;width:25%;margin=1.5%;
+file:https://github.com/emagar/mxDistritos/raw/master/mapasComparados/mun/maps/mex54-1.png 
+#+END_aside
+
+#+html: <br style="clear:both;" />
+
+[[#top_subtoc][Indice]]
+--------------------------------------------
+
+* Municipio 55, JILOTZINGO                   
+
+#+ATTR_HTML: :style float:left;width:70%;margin=1.5%;
+#+BEGIN_section
+[[file:https://github.com/emagar/mxDistritos/raw/master/mapasComparados/mun/maps/mex55-2.png]]
+#+END_section
+
+#+BEGIN_aside
+#+ATTR_HTML: :style float:right;width:25%;margin=1.5%;
+file:https://github.com/emagar/mxDistritos/raw/master/mapasComparados/mun/maps/mex55-1.png
+#+END_aside
+
+#+html: <br style="clear:both;" />
+
+[[#top_subtoc][Indice]]
+--------------------------------------------
+
+
+
+* Municipio 56, JIQUIPILCO                  
+
+#+ATTR_HTML: :style float:left;width:70%;margin=1.5%;
+#+BEGIN_section
+[[file:https://github.com/emagar/mxDistritos/raw/master/mapasComparados/mun/maps/mex56-2.png]]
+#+END_section
+
+#+BEGIN_aside
+#+ATTR_HTML: :style float:right;width:25%;margin=1.5%;
+file:https://github.com/emagar/mxDistritos/raw/master/mapasComparados/mun/maps/mex56-1.png
+#+END_aside
+
+#+html: <br style="clear:both;" />
+
+[[#top_subtoc][Indice]]
+--------------------------------------------
+
+* Municipio 57, JOCOTITLAN                   
+
+#+ATTR_HTML: :style float:left;width:70%;margin=1.5%;
+#+BEGIN_section
+[[file:https://github.com/emagar/mxDistritos/raw/master/mapasComparados/mun/maps/mex57-2.png]]
+#+END_section
+
+#+BEGIN_aside
+#+ATTR_HTML: :style float:right;width:25%;margin=1.5%;
+file:https://github.com/emagar/mxDistritos/raw/master/mapasComparados/mun/maps/mex57-1.png
+#+END_aside
+
+#+html: <br style="clear:both;" />
+
+[[#top_subtoc][Indice]]
+--------------------------------------------
+
+* Municipio 58, JOQUICINGO                  
+
+#+ATTR_HTML: :style float:left;width:70%;margin=1.5%;
+#+BEGIN_section
+[[file:https://github.com/emagar/mxDistritos/raw/master/mapasComparados/mun/maps/mex58-2.png]]
+#+END_section
+
+#+BEGIN_aside
+#+ATTR_HTML: :style float:right;width:25%;margin=1.5%;
+file:https://github.com/emagar/mxDistritos/raw/master/mapasComparados/mun/maps/mex58-1.png
+#+END_aside
+
+#+html: <br style="clear:both;" />
+
+[[#top_subtoc][Indice]]
+--------------------------------------------
+
+* Municipio 59, LA PAZ                       
+
+#+ATTR_HTML: :style float:left;width:70%;margin=1.5%;
+#+BEGIN_section
+[[file:https://github.com/emagar/mxDistritos/raw/master/mapasComparados/mun/maps/mex59-2.png]]
+#+END_section
+
+#+BEGIN_aside
+#+ATTR_HTML: :style float:right;width:25%;margin=1.5%;
+file:https://github.com/emagar/mxDistritos/raw/master/mapasComparados/mun/maps/mex59-1.png
+#+END_aside
+
+#+html: <br style="clear:both;" />
+
+[[#top_subtoc][Indice]]
+--------------------------------------------
+
+
+
+* Municipio 60, SAN MATEO ATENCO            
+
+#+ATTR_HTML: :style float:left;width:70%;margin=1.5%;
+#+BEGIN_section
+[[file:https://github.com/emagar/mxDistritos/raw/master/mapasComparados/mun/maps/mex60-2.png]]
+#+END_section
+
+#+BEGIN_aside
+#+ATTR_HTML: :style float:right;width:25%;margin=1.5%;
+file:https://github.com/emagar/mxDistritos/raw/master/mapasComparados/mun/maps/mex60-1.png
+#+END_aside
+
+#+html: <br style="clear:both;" />
+
+[[#top_subtoc][Indice]]
+--------------------------------------------
+
+* Municipio 61, LERMA                        
+
+#+ATTR_HTML: :style float:left;width:70%;margin=1.5%;
+#+BEGIN_section
+[[file:https://github.com/emagar/mxDistritos/raw/master/mapasComparados/mun/maps/mex61-2.png]]
+#+END_section
+
+# #+ATTR_HTML: :style float:right;width:25%;margin=1.5%;
+#+BEGIN_aside
+#+ATTR_HTML: :style float:right;width:25%;margin=1.5%;3
+[[file:https://github.com/emagar/mxDistritos/raw/master/mapasComparados/mun/maps/mex1-1.png]]
+#+END_aside
+
+#+html: <br style="clear:both;" />
+
+# #+ATTR_HTML: :style width:25%;
+# [[file:https://github.com/emagar/mxDistritos/raw/master/mapasComparados/mun/maps/mex1-1.png]]
+
+# #+ATTR_HTML: :style width:70%;
+# [[file:https://github.com/emagar/mxDistritos/raw/master/mapasComparados/mun/maps/mex1-2.png]]
+
+[[#top_subtoc][Indice]]
+--------------------------------------------
+
+* Municipio 62, LUVIANOS                    
+
+#+ATTR_HTML: :style float:left;width:70%;margin=1.5%
+#+BEGIN_section
+[[file:https://github.com/emagar/mxDistritos/raw/master/mapasComparados/mun/maps/mex62-2.png]]
+#+END_section
+
+#+BEGIN_aside
+#+ATTR_HTML: :style float:right;width:25%;margin=1.5%;
+[[file:https://github.com/emagar/mxDistritos/raw/master/mapasComparados/mun/maps/mex62-1.png]]
+#+END_aside
+
+#+html: <br style="clear:both;" />
+
+[[#top_subtoc][Indice]]
+--------------------------------------------
+
+* Municipio 63, MALINALCO                    
+
+#+ATTR_HTML: :style float:left;width:70%;margin=1.5%;
+#+BEGIN_section
+[[file:https://github.com/emagar/mxDistritos/raw/master/mapasComparados/mun/maps/mex63-2.png]]
+#+END_section
+
+#+BEGIN_aside
+#+ATTR_HTML: :style float:right;width:25%;margin=1.5%;
+[[file:https://github.com/emagar/mxDistritos/raw/master/mapasComparados/mun/maps/mex63-1.png]]
+#+END_aside
+
+#+html: <br style="clear:both;" />
+
+[[#top_subtoc][Indice]]
+--------------------------------------------
+
+* Municipio 64, MELCHOR OCAMPO              
+
+#+ATTR_HTML: :style float:left;width:70%;margin=1.5%;
+#+BEGIN_section
+[[file:https://github.com/emagar/mxDistritos/raw/master/mapasComparados/mun/maps/mex64-2.png]]
+#+END_section
+
+#+BEGIN_aside
+#+ATTR_HTML: :style float:right;width:25%;margin=1.5%;
+file:https://github.com/emagar/mxDistritos/raw/master/mapasComparados/mun/maps/mex64-1.png 
+#+END_aside
+
+#+html: <br style="clear:both;" />
+
+[[#top_subtoc][Indice]]
+--------------------------------------------
+
+* Municipio 65, TEMAMATLA                    
+
+#+ATTR_HTML: :style float:left;width:70%;margin=1.5%;
+#+BEGIN_section
+[[file:https://github.com/emagar/mxDistritos/raw/master/mapasComparados/mun/maps/mex65-2.png]]
+#+END_section
+
+#+BEGIN_aside
+#+ATTR_HTML: :style float:right;width:25%;margin=1.5%;
+file:https://github.com/emagar/mxDistritos/raw/master/mapasComparados/mun/maps/mex65-1.png
+#+END_aside
+
+#+html: <br style="clear:both;" />
+
+[[#top_subtoc][Indice]]
+--------------------------------------------
+
+
+* Municipio 66, METEPEC                     
+
+#+ATTR_HTML: :style float:left;width:70%;margin=1.5%;
+#+BEGIN_section
+[[file:https://github.com/emagar/mxDistritos/raw/master/mapasComparados/mun/maps/mex66-2.png]]
+#+END_section
+
+#+BEGIN_aside
+#+ATTR_HTML: :style float:right;width:25%;margin=1.5%;
+file:https://github.com/emagar/mxDistritos/raw/master/mapasComparados/mun/maps/mex66-1.png
+#+END_aside
+
+#+html: <br style="clear:both;" />
+
+[[#top_subtoc][Indice]]
+--------------------------------------------
+
+* Municipio 67, MEXICALTZINGO                
+
+#+ATTR_HTML: :style float:left;width:70%;margin=1.5%;
+#+BEGIN_section
+[[file:https://github.com/emagar/mxDistritos/raw/master/mapasComparados/mun/maps/mex67-2.png]]
+#+END_section
+
+#+BEGIN_aside
+#+ATTR_HTML: :style float:right;width:25%;margin=1.5%;
+file:https://github.com/emagar/mxDistritos/raw/master/mapasComparados/mun/maps/mex67-1.png
+#+END_aside
+
+#+html: <br style="clear:both;" />
+
+[[#top_subtoc][Indice]]
+--------------------------------------------
+
+* Municipio 68, MORELOS                     
+
+#+ATTR_HTML: :style float:left;width:70%;margin=1.5%;
+#+BEGIN_section
+[[file:https://github.com/emagar/mxDistritos/raw/master/mapasComparados/mun/maps/mex68-2.png]]
+#+END_section
+
+#+BEGIN_aside
+#+ATTR_HTML: :style float:right;width:25%;margin=1.5%;
+file:https://github.com/emagar/mxDistritos/raw/master/mapasComparados/mun/maps/mex68-1.png
+#+END_aside
+
+#+html: <br style="clear:both;" />
+
+[[#top_subtoc][Indice]]
+--------------------------------------------
+
+* Municipio 69, NAUCALPAN DE JUAREZ          
+
+#+ATTR_HTML: :style float:left;width:70%;margin=1.5%;
+#+BEGIN_section
+[[file:https://github.com/emagar/mxDistritos/raw/master/mapasComparados/mun/maps/mex69-2.png]]
+#+END_section
+
+#+BEGIN_aside
+#+ATTR_HTML: :style float:right;width:25%;margin=1.5%;
+file:https://github.com/emagar/mxDistritos/raw/master/mapasComparados/mun/maps/mex69-1.png
+#+END_aside
+
+#+html: <br style="clear:both;" />
+
+[[#top_subtoc][Indice]]
+--------------------------------------------
+
+
+
+
+
+
+* Municipio 70, NOPALTEPEC                  
+
+#+ATTR_HTML: :style float:left;width:70%;margin=1.5%;
+#+BEGIN_section
+[[file:https://github.com/emagar/mxDistritos/raw/master/mapasComparados/mun/maps/mex70-2.png]]
+#+END_section
+
+#+BEGIN_aside
+#+ATTR_HTML: :style float:right;width:25%;margin=1.5%;
+file:https://github.com/emagar/mxDistritos/raw/master/mapasComparados/mun/maps/mex70-1.png
+#+END_aside
+
+#+html: <br style="clear:both;" />
+
+[[#top_subtoc][Indice]]
+--------------------------------------------
+
+* Municipio 71, OCOYOACAC                    
+
+#+ATTR_HTML: :style float:left;width:70%;margin=1.5%;
+#+BEGIN_section
+[[file:https://github.com/emagar/mxDistritos/raw/master/mapasComparados/mun/maps/mex71-2.png]]
+#+END_section
+
+# #+ATTR_HTML: :style float:right;width:25%;margin=1.5%;
+#+BEGIN_aside
+#+ATTR_HTML: :style float:right;width:25%;margin=1.5%;3
+[[file:https://github.com/emagar/mxDistritos/raw/master/mapasComparados/mun/maps/mex1-1.png]]
+#+END_aside
+
+#+html: <br style="clear:both;" />
+
+# #+ATTR_HTML: :style width:25%;
+# [[file:https://github.com/emagar/mxDistritos/raw/master/mapasComparados/mun/maps/mex1-1.png]]
+
+# #+ATTR_HTML: :style width:70%;
+# [[file:https://github.com/emagar/mxDistritos/raw/master/mapasComparados/mun/maps/mex1-2.png]]
+
+[[#top_subtoc][Indice]]
+--------------------------------------------
+
+* Municipio 72, OCUILAN                     
+
+#+ATTR_HTML: :style float:left;width:70%;margin=1.5%
+#+BEGIN_section
+[[file:https://github.com/emagar/mxDistritos/raw/master/mapasComparados/mun/maps/mex72-2.png]]
+#+END_section
+
+#+BEGIN_aside
+#+ATTR_HTML: :style float:right;width:25%;margin=1.5%;
+[[file:https://github.com/emagar/mxDistritos/raw/master/mapasComparados/mun/maps/mex72-1.png]]
+#+END_aside
+
+#+html: <br style="clear:both;" />
+
+[[#top_subtoc][Indice]]
+--------------------------------------------
+
+* Municipio 73, OTUMBA                       
+
+#+ATTR_HTML: :style float:left;width:70%;margin=1.5%;
+#+BEGIN_section
+[[file:https://github.com/emagar/mxDistritos/raw/master/mapasComparados/mun/maps/mex73-2.png]]
+#+END_section
+
+#+BEGIN_aside
+#+ATTR_HTML: :style float:right;width:25%;margin=1.5%;
+[[file:https://github.com/emagar/mxDistritos/raw/master/mapasComparados/mun/maps/mex73-1.png]]
+#+END_aside
+
+#+html: <br style="clear:both;" />
+
+[[#top_subtoc][Indice]]
+--------------------------------------------
+
+* Municipio 74, OTZOLOAPAN                  
+
+#+ATTR_HTML: :style float:left;width:70%;margin=1.5%;
+#+BEGIN_section
+[[file:https://github.com/emagar/mxDistritos/raw/master/mapasComparados/mun/maps/mex74-2.png]]
+#+END_section
+
+#+BEGIN_aside
+#+ATTR_HTML: :style float:right;width:25%;margin=1.5%;
+file:https://github.com/emagar/mxDistritos/raw/master/mapasComparados/mun/maps/mex74-1.png 
+#+END_aside
+
+#+html: <br style="clear:both;" />
+
+[[#top_subtoc][Indice]]
+--------------------------------------------
+
+* Municipio 75, OTZOLOTEPEC                  
+
+#+ATTR_HTML: :style float:left;width:70%;margin=1.5%;
+#+BEGIN_section
+[[file:https://github.com/emagar/mxDistritos/raw/master/mapasComparados/mun/maps/mex75-2.png]]
+#+END_section
+
+#+BEGIN_aside
+#+ATTR_HTML: :style float:right;width:25%;margin=1.5%;
+file:https://github.com/emagar/mxDistritos/raw/master/mapasComparados/mun/maps/mex75-1.png
+#+END_aside
+
+#+html: <br style="clear:both;" />
+
+[[#top_subtoc][Indice]]
+--------------------------------------------
+
+
+* Municipio 76, OZUMBA                      
+
+#+ATTR_HTML: :style float:left;width:70%;margin=1.5%;
+#+BEGIN_section
+[[file:https://github.com/emagar/mxDistritos/raw/master/mapasComparados/mun/maps/mex76-2.png]]
+#+END_section
+
+#+BEGIN_aside
+#+ATTR_HTML: :style float:right;width:25%;margin=1.5%;
+file:https://github.com/emagar/mxDistritos/raw/master/mapasComparados/mun/maps/mex76-1.png
+#+END_aside
+
+#+html: <br style="clear:both;" />
+
+[[#top_subtoc][Indice]]
+--------------------------------------------
+
+* Municipio 77, PAPALOTLA                    
+
+#+ATTR_HTML: :style float:left;width:70%;margin=1.5%;
+#+BEGIN_section
+[[file:https://github.com/emagar/mxDistritos/raw/master/mapasComparados/mun/maps/mex77-2.png]]
+#+END_section
+
+#+BEGIN_aside
+#+ATTR_HTML: :style float:right;width:25%;margin=1.5%;
+file:https://github.com/emagar/mxDistritos/raw/master/mapasComparados/mun/maps/mex77-1.png
+#+END_aside
+
+#+html: <br style="clear:both;" />
+
+[[#top_subtoc][Indice]]
+--------------------------------------------
+
+* Municipio 78, POLOTITLAN                  
+
+#+ATTR_HTML: :style float:left;width:70%;margin=1.5%;
+#+BEGIN_section
+[[file:https://github.com/emagar/mxDistritos/raw/master/mapasComparados/mun/maps/mex78-2.png]]
+#+END_section
+
+#+BEGIN_aside
+#+ATTR_HTML: :style float:right;width:25%;margin=1.5%;
+file:https://github.com/emagar/mxDistritos/raw/master/mapasComparados/mun/maps/mex78-1.png
+#+END_aside
+
+#+html: <br style="clear:both;" />
+
+[[#top_subtoc][Indice]]
+--------------------------------------------
+
+* Municipio 79, SAN MARTIN DE LAS PIRAMIDES  
+
+#+ATTR_HTML: :style float:left;width:70%;margin=1.5%;
+#+BEGIN_section
+[[file:https://github.com/emagar/mxDistritos/raw/master/mapasComparados/mun/maps/mex79-2.png]]
+#+END_section
+
+#+BEGIN_aside
+#+ATTR_HTML: :style float:right;width:25%;margin=1.5%;
+file:https://github.com/emagar/mxDistritos/raw/master/mapasComparados/mun/maps/mex79-1.png
+#+END_aside
+
+#+html: <br style="clear:both;" />
+
+[[#top_subtoc][Indice]]
+--------------------------------------------
+
+
+
+
+
+
+* Municipio 80, SAN SIMON DE GUERRERO       
+
+#+ATTR_HTML: :style float:left;width:70%;margin=1.5%;
+#+BEGIN_section
+[[file:https://github.com/emagar/mxDistritos/raw/master/mapasComparados/mun/maps/mex80-2.png]]
+#+END_section
+
+#+BEGIN_aside
+#+ATTR_HTML: :style float:right;width:25%;margin=1.5%;
+file:https://github.com/emagar/mxDistritos/raw/master/mapasComparados/mun/maps/mex80-1.png
+#+END_aside
+
+#+html: <br style="clear:both;" />
+
+[[#top_subtoc][Indice]]
+--------------------------------------------
+
+* Municipio 81, SANTO TOMAS                  
+
+#+ATTR_HTML: :style float:left;width:70%;margin=1.5%;
+#+BEGIN_section
+[[file:https://github.com/emagar/mxDistritos/raw/master/mapasComparados/mun/maps/mex81-2.png]]
+#+END_section
+
+# #+ATTR_HTML: :style float:right;width:25%;margin=1.5%;
+#+BEGIN_aside
+#+ATTR_HTML: :style float:right;width:25%;margin=1.5%;3
+[[file:https://github.com/emagar/mxDistritos/raw/master/mapasComparados/mun/maps/mex1-1.png]]
+#+END_aside
+
+#+html: <br style="clear:both;" />
+
+# #+ATTR_HTML: :style width:25%;
+# [[file:https://github.com/emagar/mxDistritos/raw/master/mapasComparados/mun/maps/mex1-1.png]]
+
+# #+ATTR_HTML: :style width:70%;
+# [[file:https://github.com/emagar/mxDistritos/raw/master/mapasComparados/mun/maps/mex1-2.png]]
+
+[[#top_subtoc][Indice]]
+--------------------------------------------
+
+* Municipio 82, SOYANIQUILPAN DE JUAREZ     
+
+#+ATTR_HTML: :style float:left;width:70%;margin=1.5%
+#+BEGIN_section
+[[file:https://github.com/emagar/mxDistritos/raw/master/mapasComparados/mun/maps/mex82-2.png]]
+#+END_section
+
+#+BEGIN_aside
+#+ATTR_HTML: :style float:right;width:25%;margin=1.5%;
+[[file:https://github.com/emagar/mxDistritos/raw/master/mapasComparados/mun/maps/mex82-1.png]]
+#+END_aside
+
+#+html: <br style="clear:both;" />
+
+[[#top_subtoc][Indice]]
+--------------------------------------------
+
+* Municipio 83, SULTEPEC                     
+
+#+ATTR_HTML: :style float:left;width:70%;margin=1.5%;
+#+BEGIN_section
+[[file:https://github.com/emagar/mxDistritos/raw/master/mapasComparados/mun/maps/mex83-2.png]]
+#+END_section
+
+#+BEGIN_aside
+#+ATTR_HTML: :style float:right;width:25%;margin=1.5%;
+[[file:https://github.com/emagar/mxDistritos/raw/master/mapasComparados/mun/maps/mex83-1.png]]
+#+END_aside
+
+#+html: <br style="clear:both;" />
+
+[[#top_subtoc][Indice]]
+--------------------------------------------
+
+* Municipio 84, TECAMAC                     
+
+#+ATTR_HTML: :style float:left;width:70%;margin=1.5%;
+#+BEGIN_section
+[[file:https://github.com/emagar/mxDistritos/raw/master/mapasComparados/mun/maps/mex84-2.png]]
+#+END_section
+
+#+BEGIN_aside
+#+ATTR_HTML: :style float:right;width:25%;margin=1.5%;
+file:https://github.com/emagar/mxDistritos/raw/master/mapasComparados/mun/maps/mex84-1.png 
+#+END_aside
+
+#+html: <br style="clear:both;" />
+
+[[#top_subtoc][Indice]]
+--------------------------------------------
+
+* Municipio 85, TEJUPILCO                    
+
+#+ATTR_HTML: :style float:left;width:70%;margin=1.5%;
+#+BEGIN_section
+[[file:https://github.com/emagar/mxDistritos/raw/master/mapasComparados/mun/maps/mex85-2.png]]
+#+END_section
+
+#+BEGIN_aside
+#+ATTR_HTML: :style float:right;width:25%;margin=1.5%;
+file:https://github.com/emagar/mxDistritos/raw/master/mapasComparados/mun/maps/mex85-1.png
+#+END_aside
+
+#+html: <br style="clear:both;" />
+
+[[#top_subtoc][Indice]]
+--------------------------------------------
+
+* Municipio 86, TEMASCALAPA                 
+
+#+ATTR_HTML: :style float:left;width:70%;margin=1.5%;
+#+BEGIN_section
+[[file:https://github.com/emagar/mxDistritos/raw/master/mapasComparados/mun/maps/mex86-2.png]]
+#+END_section
+
+#+BEGIN_aside
+#+ATTR_HTML: :style float:right;width:25%;margin=1.5%;
+file:https://github.com/emagar/mxDistritos/raw/master/mapasComparados/mun/maps/mex86-1.png
+#+END_aside
+
+#+html: <br style="clear:both;" />
+
+[[#top_subtoc][Indice]]
+--------------------------------------------
+
+* Municipio 87, TEMASCALCINGO                
+
+#+ATTR_HTML: :style float:left;width:70%;margin=1.5%;
+#+BEGIN_section
+[[file:https://github.com/emagar/mxDistritos/raw/master/mapasComparados/mun/maps/mex87-2.png]]
+#+END_section
+
+#+BEGIN_aside
+#+ATTR_HTML: :style float:right;width:25%;margin=1.5%;
+file:https://github.com/emagar/mxDistritos/raw/master/mapasComparados/mun/maps/mex87-1.png
+#+END_aside
+
+#+html: <br style="clear:both;" />
+
+[[#top_subtoc][Indice]]
+--------------------------------------------
+
+* Municipio 88, TEMASCALTEPEC               
+
+#+ATTR_HTML: :style float:left;width:70%;margin=1.5%;
+#+BEGIN_section
+[[file:https://github.com/emagar/mxDistritos/raw/master/mapasComparados/mun/maps/mex88-2.png]]
+#+END_section
+
+#+BEGIN_aside
+#+ATTR_HTML: :style float:right;width:25%;margin=1.5%;
+file:https://github.com/emagar/mxDistritos/raw/master/mapasComparados/mun/maps/mex88-1.png
+#+END_aside
+
+#+html: <br style="clear:both;" />
+
+[[#top_subtoc][Indice]]
+--------------------------------------------
+
+* Municipio 89, TEMOAYA                      
+
+#+ATTR_HTML: :style float:left;width:70%;margin=1.5%;
+#+BEGIN_section
+[[file:https://github.com/emagar/mxDistritos/raw/master/mapasComparados/mun/maps/mex89-2.png]]
+#+END_section
+
+#+BEGIN_aside
+#+ATTR_HTML: :style float:right;width:25%;margin=1.5%;
+file:https://github.com/emagar/mxDistritos/raw/master/mapasComparados/mun/maps/mex89-1.png
+#+END_aside
+
+#+html: <br style="clear:both;" />
+
+[[#top_subtoc][Indice]]
+--------------------------------------------
+
+
+
+
+
+
+
+
+
+* Municipio 90, TENANCINGO                  
+
+#+ATTR_HTML: :style float:left;width:70%;margin=1.5%;
+#+BEGIN_section
+[[file:https://github.com/emagar/mxDistritos/raw/master/mapasComparados/mun/maps/mex90-2.png]]
+#+END_section
+
+#+BEGIN_aside
+#+ATTR_HTML: :style float:right;width:25%;margin=1.5%;
+file:https://github.com/emagar/mxDistritos/raw/master/mapasComparados/mun/maps/mex90-1.png
+#+END_aside
+
+#+html: <br style="clear:both;" />
+
+[[#top_subtoc][Indice]]
+--------------------------------------------
+
+* Municipio 91, TENANGO DEL AIRE             
+
+#+ATTR_HTML: :style float:left;width:70%;margin=1.5%;
+#+BEGIN_section
+[[file:https://github.com/emagar/mxDistritos/raw/master/mapasComparados/mun/maps/mex91-2.png]]
+#+END_section
+
+# #+ATTR_HTML: :style float:right;width:25%;margin=1.5%;
+#+BEGIN_aside
+#+ATTR_HTML: :style float:right;width:25%;margin=1.5%;3
+[[file:https://github.com/emagar/mxDistritos/raw/master/mapasComparados/mun/maps/mex1-1.png]]
+#+END_aside
+
+#+html: <br style="clear:both;" />
+
+# #+ATTR_HTML: :style width:25%;
+# [[file:https://github.com/emagar/mxDistritos/raw/master/mapasComparados/mun/maps/mex1-1.png]]
+
+# #+ATTR_HTML: :style width:70%;
+# [[file:https://github.com/emagar/mxDistritos/raw/master/mapasComparados/mun/maps/mex1-2.png]]
+
+[[#top_subtoc][Indice]]
+--------------------------------------------
+
+* Municipio 92, TENANGO DEL VALLE           
+
+#+ATTR_HTML: :style float:left;width:70%;margin=1.5%
+#+BEGIN_section
+[[file:https://github.com/emagar/mxDistritos/raw/master/mapasComparados/mun/maps/mex92-2.png]]
+#+END_section
+
+#+BEGIN_aside
+#+ATTR_HTML: :style float:right;width:25%;margin=1.5%;
+[[file:https://github.com/emagar/mxDistritos/raw/master/mapasComparados/mun/maps/mex92-1.png]]
+#+END_aside
+
+#+html: <br style="clear:both;" />
+
+[[#top_subtoc][Indice]]
+--------------------------------------------
+
+* Municipio 93, TEPETLIXPA                   
+
+#+ATTR_HTML: :style float:left;width:70%;margin=1.5%;
+#+BEGIN_section
+[[file:https://github.com/emagar/mxDistritos/raw/master/mapasComparados/mun/maps/mex93-2.png]]
+#+END_section
+
+#+BEGIN_aside
+#+ATTR_HTML: :style float:right;width:25%;margin=1.5%;
+[[file:https://github.com/emagar/mxDistritos/raw/master/mapasComparados/mun/maps/mex93-1.png]]
+#+END_aside
+
+#+html: <br style="clear:both;" />
+
+[[#top_subtoc][Indice]]
+--------------------------------------------
+
+* Municipio 94, TEPOTZOTLAN                 
+
+#+ATTR_HTML: :style float:left;width:70%;margin=1.5%;
+#+BEGIN_section
+[[file:https://github.com/emagar/mxDistritos/raw/master/mapasComparados/mun/maps/mex94-2.png]]
+#+END_section
+
+#+BEGIN_aside
+#+ATTR_HTML: :style float:right;width:25%;margin=1.5%;
+file:https://github.com/emagar/mxDistritos/raw/master/mapasComparados/mun/maps/mex94-1.png 
+#+END_aside
+
+#+html: <br style="clear:both;" />
+
+[[#top_subtoc][Indice]]
+--------------------------------------------
+
+* Municipio 95, TEOLOYUCAN                   
+
+#+ATTR_HTML: :style float:left;width:70%;margin=1.5%;
+#+BEGIN_section
+[[file:https://github.com/emagar/mxDistritos/raw/master/mapasComparados/mun/maps/mex95-2.png]]
+#+END_section
+
+#+BEGIN_aside
+#+ATTR_HTML: :style float:right;width:25%;margin=1.5%;
+file:https://github.com/emagar/mxDistritos/raw/master/mapasComparados/mun/maps/mex95-1.png
+#+END_aside
+
+#+html: <br style="clear:both;" />
+
+[[#top_subtoc][Indice]]
+--------------------------------------------
+
+* Municipio 96, TEOTIHUACAN                 
+
+#+ATTR_HTML: :style float:left;width:70%;margin=1.5%;
+#+BEGIN_section
+[[file:https://github.com/emagar/mxDistritos/raw/master/mapasComparados/mun/maps/mex96-2.png]]
+#+END_section
+
+#+BEGIN_aside
+#+ATTR_HTML: :style float:right;width:25%;margin=1.5%;
+file:https://github.com/emagar/mxDistritos/raw/master/mapasComparados/mun/maps/mex96-1.png
+#+END_aside
+
+#+html: <br style="clear:both;" />
+
+[[#top_subtoc][Indice]]
+--------------------------------------------
+
+* Municipio 97, TEPETLAOXTOC                 
+
+#+ATTR_HTML: :style float:left;width:70%;margin=1.5%;
+#+BEGIN_section
+[[file:https://github.com/emagar/mxDistritos/raw/master/mapasComparados/mun/maps/mex97-2.png]]
+#+END_section
+
+#+BEGIN_aside
+#+ATTR_HTML: :style float:right;width:25%;margin=1.5%;
+file:https://github.com/emagar/mxDistritos/raw/master/mapasComparados/mun/maps/mex97-1.png
+#+END_aside
+
+#+html: <br style="clear:both;" />
+
+[[#top_subtoc][Indice]]
+--------------------------------------------
+
+* Municipio 98, TEQUIXQUIAC                 
+
+#+ATTR_HTML: :style float:left;width:70%;margin=1.5%;
+#+BEGIN_section
+[[file:https://github.com/emagar/mxDistritos/raw/master/mapasComparados/mun/maps/mex98-2.png]]
+#+END_section
+
+#+BEGIN_aside
+#+ATTR_HTML: :style float:right;width:25%;margin=1.5%;
+file:https://github.com/emagar/mxDistritos/raw/master/mapasComparados/mun/maps/mex98-1.png
+#+END_aside
+
+#+html: <br style="clear:both;" />
+
+[[#top_subtoc][Indice]]
+--------------------------------------------
+
+* Municipio 99, TEXCALTITLAN                 
+* Municipio 100, TEXCALYACAC                 
+#+ATTR_HTML: :style float:left;width:70%;margin=1.5%;
+#+BEGIN_section
+[[file:https://github.com/emagar/mxDistritos/raw/master/mapasComparados/mun/maps/mex100-2.png]]
+#+END_section
+
+#+BEGIN_aside
+#+ATTR_HTML: :style float:right;width:25%;margin=1.5%;
+file:https://github.com/emagar/mxDistritos/raw/master/mapasComparados/mun/maps/mex100-1.png
+#+END_aside
+
+#+html: <br style="clear:both;" />
+
+[[#top_subtoc][Indice]]
+--------------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+* Municipio 101, TEXCOCO                         
+
+#+ATTR_HTML: :style float:left;width:70%;margin=1.5%;
+#+BEGIN_section
+[[file:https://github.com/emagar/mxDistritos/raw/master/mapasComparados/mun/maps/mex101-2.png]]
+#+END_section
+
+# #+ATTR_HTML: :style float:right;width:25%;margin=1.5%;
+#+BEGIN_aside
+#+ATTR_HTML: :style float:right;width:25%;margin=1.5%;
+[[file:https://github.com/emagar/mxDistritos/raw/master/mapasComparados/mun/maps/mex101-1.png]]
+#+END_aside
+
+#+html: <br style="clear:both;" />
+
+# #+ATTR_HTML: :style width:25%;
+# [[file:https://github.com/emagar/mxDistritos/raw/master/mapasComparados/mun/maps/mex101-1.png]]
+
+# #+ATTR_HTML: :style width:70%;
+# [[file:https://github.com/emagar/mxDistritos/raw/master/mapasComparados/mun/maps/mex101-2.png]]
+
+[[#top_subtoc][Indice]]
+--------------------------------------------
+
+* Municipio 102, TEZOYUCA                                        
+
+#+ATTR_HTML: :style float:left;width:70%;margin=1.5%
+#+BEGIN_section
+[[file:https://github.com/emagar/mxDistritos/raw/master/mapasComparados/mun/maps/mex102-2.png]]
+#+END_section
+
+#+BEGIN_aside
+#+ATTR_HTML: :style float:right;width:25%;margin=1.5%;
+[[file:https://github.com/emagar/mxDistritos/raw/master/mapasComparados/mun/maps/mex102-1.png]]
+#+END_aside
+
+#+html: <br style="clear:both;" />
+
+[[#top_subtoc][Indice]]
+--------------------------------------------
+
+* Municipio 103, TIANGUISTENCO                                       
+
+#+ATTR_HTML: :style float:left;width:70%;margin=1.5%;
+#+BEGIN_section
+[[file:https://github.com/emagar/mxDistritos/raw/master/mapasComparados/mun/maps/mex103-2.png]]
+#+END_section
+
+#+BEGIN_aside
+#+ATTR_HTML: :style float:right;width:25%;margin=1.5%;
+[[file:https://github.com/emagar/mxDistritos/raw/master/mapasComparados/mun/maps/mex103-1.png]]
+#+END_aside
+
+#+html: <br style="clear:both;" />
+
+[[#top_subtoc][Indice]]
+--------------------------------------------
+
+* Municipio 104, TIMILPAN                         
+
+#+ATTR_HTML: :style float:left;width:70%;margin=1.5%;
+#+BEGIN_section
+[[file:https://github.com/emagar/mxDistritos/raw/master/mapasComparados/mun/maps/mex104-2.png]]
+#+END_section
+
+#+BEGIN_aside
+#+ATTR_HTML: :style float:right;width:25%;margin=1.5%;
+file:https://github.com/emagar/mxDistritos/raw/master/mapasComparados/mun/maps/mex104-1.png 
+#+END_aside
+
+#+html: <br style="clear:both;" />
+
+[[#top_subtoc][Indice]]
+--------------------------------------------
+
+* Municipio 105, TLALMANALCO                             
+
+#+ATTR_HTML: :style float:left;width:70%;margin=1.5%;
+#+BEGIN_section
+[[file:https://github.com/emagar/mxDistritos/raw/master/mapasComparados/mun/maps/mex105-2.png]]
+#+END_section
+
+#+BEGIN_aside
+#+ATTR_HTML: :style float:right;width:25%;margin=1.5%;
+file:https://github.com/emagar/mxDistritos/raw/master/mapasComparados/mun/maps/mex105-1.png
+#+END_aside
+
+#+html: <br style="clear:both;" />
+
+[[#top_subtoc][Indice]]
+--------------------------------------------
+
+* Municipio 106, TLALNEPANTLA DE BAZ                     
+
+#+ATTR_HTML: :style float:left;width:70%;margin=1.5%;
+#+BEGIN_section
+[[file:https://github.com/emagar/mxDistritos/raw/master/mapasComparados/mun/maps/mex106-2.png]]
+#+END_section
+
+#+BEGIN_aside
+#+ATTR_HTML: :style float:right;width:25%;margin=1.5%;
+file:https://github.com/emagar/mxDistritos/raw/master/mapasComparados/mun/maps/mex106-1.png
+#+END_aside
+
+#+html: <br style="clear:both;" />
+
+[[#top_subtoc][Indice]]
+--------------------------------------------
+
+* Municipio 107, TLATLAYA                                         
+
+#+ATTR_HTML: :style float:left;width:70%;margin=1.5%;
+#+BEGIN_section
+[[file:https://github.com/emagar/mxDistritos/raw/master/mapasComparados/mun/maps/mex107-2.png]]
+#+END_section
+
+#+BEGIN_aside
+#+ATTR_HTML: :style float:right;width:25%;margin=1.5%;
+file:https://github.com/emagar/mxDistritos/raw/master/mapasComparados/mun/maps/mex107-1.png
+#+END_aside
+
+#+html: <br style="clear:both;" />
+
+[[#top_subtoc][Indice]]
+--------------------------------------------
+
+* Municipio 108, TOLUCA                                          
+
+#+ATTR_HTML: :style float:left;width:70%;margin=1.5%;
+#+BEGIN_section
+[[file:https://github.com/emagar/mxDistritos/raw/master/mapasComparados/mun/maps/mex108-2.png]]
+#+END_section
+
+#+BEGIN_aside
+#+ATTR_HTML: :style float:right;width:25%;margin=1.5%;
+file:https://github.com/emagar/mxDistritos/raw/master/mapasComparados/mun/maps/mex108-1.png
+#+END_aside
+
+#+html: <br style="clear:both;" />
+
+[[#top_subtoc][Indice]]
+--------------------------------------------
+
+* Municipio 109, TONANITLA                                         
+
+#+ATTR_HTML: :style float:left;width:70%;margin=1.5%;
+#+BEGIN_section
+[[file:https://github.com/emagar/mxDistritos/raw/master/mapasComparados/mun/maps/mex109-2.png]]
+#+END_section
+
+#+BEGIN_aside
+#+ATTR_HTML: :style float:right;width:25%;margin=1.5%;
+file:https://github.com/emagar/mxDistritos/raw/master/mapasComparados/mun/maps/mex109-1.png
+#+END_aside
+
+#+html: <br style="clear:both;" />
+
+[[#top_subtoc][Indice]]
+--------------------------------------------
+
+* Municipio 110, TONATICO                                         
+
+#+ATTR_HTML: :style float:left;width:70%;margin=1.5%;
+#+BEGIN_section
+[[file:https://github.com/emagar/mxDistritos/raw/master/mapasComparados/mun/maps/mex110-2.png]]
+#+END_section
+
+#+BEGIN_aside
+#+ATTR_HTML: :style float:right;width:25%;margin=1.5%;
+file:https://github.com/emagar/mxDistritos/raw/master/mapasComparados/mun/maps/mex110-1.png
+#+END_aside
+
+#+html: <br style="clear:both;" />
+
+[[#top_subtoc][Indice]]
+--------------------------------------------
+
+* Municipio 111, TULTEPEC                                         
+
+#+ATTR_HTML: :style float:left;width:70%;margin=1.5%;
+#+BEGIN_section
+[[file:https://github.com/emagar/mxDistritos/raw/master/mapasComparados/mun/maps/mex111-2.png]]
+#+END_section
+
+#+BEGIN_aside
+#+ATTR_HTML: :style float:right;width:25%;margin=1.5%;
+file:https://github.com/emagar/mxDistritos/raw/master/mapasComparados/mun/maps/mex111-1.png
+#+END_aside
+
+#+html: <br style="clear:both;" />
+
+[[#top_subtoc][Indice]]
+--------------------------------------------
+
+* Municipio 112, TULTITLAN                          
+
+#+ATTR_HTML: :style float:left;width:70%;margin=1.5%;
+#+BEGIN_section
+[[file:https://github.com/emagar/mxDistritos/raw/master/mapasComparados/mun/maps/mex112-2.png]]
+#+END_section
+
+#+BEGIN_aside
+#+ATTR_HTML: :style float:right;width:25%;margin=1.5%;
+file:https://github.com/emagar/mxDistritos/raw/master/mapasComparados/mun/maps/mex112-1.png
+#+END_aside
+
+#+html: <br style="clear:both;" />
+
+[[#top_subtoc][Indice]]
+--------------------------------------------
+
+* Municipio 113, VALLE DE BRAVO                                   
+
+#+ATTR_HTML: :style float:left;width:70%;margin=1.5%;
+#+BEGIN_section
+[[file:https://github.com/emagar/mxDistritos/raw/master/mapasComparados/mun/maps/mex113-2.png]]
+#+END_section
+
+#+BEGIN_aside
+#+ATTR_HTML: :style float:right;width:25%;margin=1.5%;
+file:https://github.com/emagar/mxDistritos/raw/master/mapasComparados/mun/maps/mex113-1.png
+#+END_aside
+
+#+html: <br style="clear:both;" />
+
+[[#top_subtoc][Indice]]
+--------------------------------------------
+
+* Municipio 114, VALLE DE CHALCO SOLIDARIDAD                    
+
+#+ATTR_HTML: :style float:left;width:70%;margin=1.5%;
+#+BEGIN_section
+[[file:https://github.com/emagar/mxDistritos/raw/master/mapasComparados/mun/maps/mex114-2.png]]
+#+END_section
+
+#+BEGIN_aside
+#+ATTR_HTML: :style float:right;width:25%;margin=1.5%;
+file:https://github.com/emagar/mxDistritos/raw/master/mapasComparados/mun/maps/mex114-1.png
+#+END_aside
+
+#+html: <br style="clear:both;" />
+
+[[#top_subtoc][Indice]]
+--------------------------------------------
+
+* Municipio 115, VILLA DE ALLENDE                                   
+
+#+ATTR_HTML: :style float:left;width:70%;margin=1.5%;
+#+BEGIN_section
+[[file:https://github.com/emagar/mxDistritos/raw/master/mapasComparados/mun/maps/mex115-2.png]]
+#+END_section
+
+#+BEGIN_aside
+#+ATTR_HTML: :style float:right;width:25%;margin=1.5%;
+file:https://github.com/emagar/mxDistritos/raw/master/mapasComparados/mun/maps/mex115-1.png
+#+END_aside
+
+#+html: <br style="clear:both;" />
+
+[[#top_subtoc][Indice]]
+--------------------------------------------
+
+* Municipio 116, VILLA DEL CARBON                            
+
+#+ATTR_HTML: :style float:left;width:70%;margin=1.5%;
+#+BEGIN_section
+[[file:https://github.com/emagar/mxDistritos/raw/master/mapasComparados/mun/maps/mex116-2.png]]
+#+END_section
+
+#+BEGIN_aside
+#+ATTR_HTML: :style float:right;width:25%;margin=1.5%;
+file:https://github.com/emagar/mxDistritos/raw/master/mapasComparados/mun/maps/mex116-1.png
+#+END_aside
+
+#+html: <br style="clear:both;" />
+
+[[#top_subtoc][Indice]]
+--------------------------------------------
+
+
+* Municipio 117, VILLA GUERRERO                                   
+
+#+ATTR_HTML: :style float:left;width:70%;margin=1.5%;
+#+BEGIN_section
+[[file:https://github.com/emagar/mxDistritos/raw/master/mapasComparados/mun/maps/mex117-2.png]]
+#+END_section
+
+#+BEGIN_aside
+#+ATTR_HTML: :style float:right;width:25%;margin=1.5%;
+file:https://github.com/emagar/mxDistritos/raw/master/mapasComparados/mun/maps/mex117-1.png
+#+END_aside
+
+#+html: <br style="clear:both;" />
+
+[[#top_subtoc][Indice]]
+--------------------------------------------
+
+* Municipio 118, VILLA VICTORIA                                 
+
+#+ATTR_HTML: :style float:left;width:70%;margin=1.5%;
+#+BEGIN_section
+[[file:https://github.com/emagar/mxDistritos/raw/master/mapasComparados/mun/maps/mex118-2.png]]
+#+END_section
+
+#+BEGIN_aside
+#+ATTR_HTML: :style float:right;width:25%;margin=1.5%;
+file:https://github.com/emagar/mxDistritos/raw/master/mapasComparados/mun/maps/mex118-1.png
+#+END_aside
+
+#+html: <br style="clear:both;" />
+
+[[#top_subtoc][Indice]]
+--------------------------------------------
+
+* Municipio 119, XALATLACO                                       
+
+#+ATTR_HTML: :style float:left;width:70%;margin=1.5%;
+#+BEGIN_section
+[[file:https://github.com/emagar/mxDistritos/raw/master/mapasComparados/mun/maps/mex119-2.png]]
+#+END_section
+
+#+BEGIN_aside
+#+ATTR_HTML: :style float:right;width:25%;margin=1.5%;
+file:https://github.com/emagar/mxDistritos/raw/master/mapasComparados/mun/maps/mex119-1.png
+#+END_aside
+
+#+html: <br style="clear:both;" />
+
+[[#top_subtoc][Indice]]
+--------------------------------------------
+
+* Municipio 120, XONACATLAN                                       
+
+#+ATTR_HTML: :style float:left;width:70%;margin=1.5%;
+#+BEGIN_section
+[[file:https://github.com/emagar/mxDistritos/raw/master/mapasComparados/mun/maps/mex120-2.png]]
+#+END_section
+
+#+BEGIN_aside
+#+ATTR_HTML: :style float:right;width:25%;margin=1.5%;
+file:https://github.com/emagar/mxDistritos/raw/master/mapasComparados/mun/maps/mex120-1.png
+#+END_aside
+
+#+html: <br style="clear:both;" />
+
+[[#top_subtoc][Indice]]
+--------------------------------------------
+
+* Municipio 121, ZACAZONAPAN                                 
+
+#+ATTR_HTML: :style float:left;width:70%;margin=1.5%;
+#+BEGIN_section
+[[file:https://github.com/emagar/mxDistritos/raw/master/mapasComparados/mun/maps/mex121-2.png]]
+#+END_section
+
+# #+ATTR_HTML: :style float:right;width:25%;margin=1.5%;
+#+BEGIN_aside
+#+ATTR_HTML: :style float:right;width:25%;margin=1.5%;
+[[file:https://github.com/emagar/mxDistritos/raw/master/mapasComparados/mun/maps/mex121-1.png]]
+#+END_aside
+
+#+html: <br style="clear:both;" />
+
+# #+ATTR_HTML: :style width:25%;
+# [[file:https://github.com/emagar/mxDistritos/raw/master/mapasComparados/mun/maps/mex11-1.png]]
+
+# #+ATTR_HTML: :style width:70%;
+# [[file:https://github.com/emagar/mxDistritos/raw/master/mapasComparados/mun/maps/mex11-2.png]]
+
+[[#top_subtoc][Indice]]
+--------------------------------------------
+
+* Municipio 122, ZACUALPAN                                   
+
+#+ATTR_HTML: :style float:left;width:70%;margin=1.5%
+#+BEGIN_section
+[[file:https://github.com/emagar/mxDistritos/raw/master/mapasComparados/mun/maps/mex122-2.png]]
+#+END_section
+
+#+BEGIN_aside
+#+ATTR_HTML: :style float:right;width:25%;margin=1.5%;
+[[file:https://github.com/emagar/mxDistritos/raw/master/mapasComparados/mun/maps/mex122-1.png]]
+#+END_aside
+
+#+html: <br style="clear:both;" />
+
+[[#top_subtoc][Indice]]
+--------------------------------------------
+
+* Municipio 123, ZINACANTEPEC                                     
+
+#+ATTR_HTML: :style float:left;width:70%;margin=1.5%;
+#+BEGIN_section
+[[file:https://github.com/emagar/mxDistritos/raw/master/mapasComparados/mun/maps/mex123-2.png]]
+#+END_section
+
+#+BEGIN_aside
+#+ATTR_HTML: :style float:right;width:25%;margin=1.5%;
+[[file:https://github.com/emagar/mxDistritos/raw/master/mapasComparados/mun/maps/mex123-1.png]]
+#+END_aside
+
+#+html: <br style="clear:both;" />
+
+[[#top_subtoc][Indice]]
+--------------------------------------------
+
+* Municipio 124, ZUMPAHUACAN                                 
+
+#+ATTR_HTML: :style float:left;width:70%;margin=1.5%;
+#+BEGIN_section
+[[file:https://github.com/emagar/mxDistritos/raw/master/mapasComparados/mun/maps/mex124-2.png]]
+#+END_section
+
+#+BEGIN_aside
+#+ATTR_HTML: :style float:right;width:25%;margin=1.5%;
+file:https://github.com/emagar/mxDistritos/raw/master/mapasComparados/mun/maps/mex124-1.png 
+#+END_aside
+
+#+html: <br style="clear:both;" />
+
+[[#top_subtoc][Indice]]
+--------------------------------------------
+
+* Municipio 125, ZUMPANGO                                      
+
+#+ATTR_HTML: :style float:left;width:70%;margin=1.5%;
+#+BEGIN_section
+[[file:https://github.com/emagar/mxDistritos/raw/master/mapasComparados/mun/maps/mex125-2.png]]
+#+END_section
+
+#+BEGIN_aside
+#+ATTR_HTML: :style float:right;width:25%;margin=1.5%;
+file:https://github.com/emagar/mxDistritos/raw/master/mapasComparados/mun/maps/mex125-1.png
+#+END_aside
+
+#+html: <br style="clear:both;" />
+
+[[#top_subtoc][Indice]]
+--------------------------------------------
+
+
+
+

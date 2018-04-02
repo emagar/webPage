@@ -1,0 +1,54 @@
+#+STARTUP: showall
+#+OPTIONS: toc:nil
+# # will change captions to Spanish, see https://lists.gnu.org/archive/html/emacs-orgmode/2010-03/msg00879.html
+#+LANGUAGE: es 
+#+begin_src yaml :exports results :results value html
+  ---
+  layout: single
+  title:  La reelección en Nayarit
+  subtitle: 
+  author: sofia.delamora
+  date:   2017-06-24
+  last_modified_at: 2018-04-01
+  tags: 
+   - legislaturas
+   - alcaldes
+   - reelección
+  ---
+#+end_src
+#+results:
+
+2017 será el año en que México abandone, en la práctica, más de ocho décadas de prohibición de reelección consecutiva. Tres legisladores de Coahuila aspiran a repetir consecutivamente en el cargo (vea [[./2017-06-22-resenha-coahuila.org][esto]] al respecto). En cambio, Nayarit, que también celebra elecciones estatales este año, esperará hasta 2021 para permitir que se reelijan sus legisladores estatales, y 2024 para alcaldes, regidores y síndicos de los Ayuntamientos.  
+
+* Ambigüedad constitucional
+La constitución de Nayarit no aclara cuál será el primer año en que diputados y ayuntamientos podrán postularse y hacer campaña para reelegirse en el cargo. Un artículo transitorio de la reforma de 2016 menciona que los alcaldes y diputados electos en el año 2017 ejercerán el cargo, por única ocasión y en aras de lograr concurrencia a partir de 2021 con el calendario federal, por cuatro años. Pero guarda silencio acerca de la entrada en vigor de la reelección consecutiva. 
+
+El transitorio es relevante para interpretar el caso de la reelección municipal.  Y es que el artículo 115 de la constitución federal prescribe que los ayuntamientos cuyos periodos duren más de tres años no podrán reelegirse consecutivamente. Esto permite suponer que, en Nayarit, los alcaldes, regidores y síndicos sólo podrán aspirar a reelegirse a partir del proceso de 2024, cuando de reanudan los Ayuntamientos electos por un trienio. 
+
+* Deducción del calendario
+Las disposiciones federales en materia de reelección consecutiva y una dosis de lógica permiten concluir que los diputados estatales nayaritas sí podrán postularse para la reelección consecutiva en la próxima elección estatal, en 2021, pero los alcaldes lo harán hasta 2024. El argumento tiene tres partes. Primero, los diputados y alcaldes electos el 6 de junio del 2014 se encontraban en el cargo cuando se publicó la reforma de los artículos 26° y 107° de la constitución de Nayarit, que regulan la reelección. Segundo, el transitorio décimo tercero de la constitución federal indica que la "reforma al artículo 116 de esta Constitución en materia de reelección de diputados locales ... no será aplicable a los legisladores que hayan protestado el cargo en la legislatura que se encuentre en funciones a la entrada en vigor del presente Decreto”. Mientras que el transitorio décimo cuarto menciona "la reforma al artículo 115 de esta Constitución en materia de reelección de presidentes municipales, regidores y síndicos no será aplicable a los integrantes que hayan protestado el cargo en el Ayuntamiento que se encuentre en funciones a la entrada en vigor del presente Decreto". 
+
+Tercero, en cumplimiento con esta disposición, el Consejero Presidente del Instituto Electoral del Estado de Nayarit (IEEN), Celso Valderrama Delgado, acordó lo que a continuación transcribo literalmente:  
+
+#+BEGIN_EXAMPLE
+Los ciudadanos que actualmente están en funciones como integrantes de los Ayuntamientos, que tomaron protesta 
+el 17 de septiembre de 2014, no están en posibilidad legal de acceder a la elección consecutiva por un periodo 
+adicional, por virtud de que el ejercicio constitucional de los ayuntamientos a elegir en 2017, será por única 
+ocasión por el periodo de cuatro años (Cancio 2017). 
+#+END_EXAMPLE
+
+Cabe mencionar que el acuerdo omitió el tema de la reelección de legisladores y puede que la razón sea que la constitución es más clara en este tema. Es interesante notar también que el acuerdo no hace mención explícita del transitorio décimo cuarto recién citado, sólo aduce la prohibición de que ayuntamientos de cuatro años se reelijan. Esto quizás ayude a dar sentido a una peculiar sentencia del Tribunal Electoral del Poder Judicial de la Federación (TEPJF) que veremos a continuación. 
+
+* Un inconforme y una sentencia
+José de Jesús Bernal Lamas, el presidente municipal saliente de Ahuacatlán, Nayarit, junto con el Partido de la Revolución Democrática (PRD) se ampararon ante el TEPJF contra el acuerdo del IEEN. Esto dio lugar a los juicios para la protección de los derechos político-electorales del ciudadano SUP-JDC-101/2017 y de revisión constitucional electoral SUP-JRC-63/2017 acumulados. En ellos, los magistrados determinaron que los alcaldes nayaritas salientes se podrán reelegir por un periodo más (2017-2021), no obstante los cuatro años de duración.
+
+La sentencia en favor del alcalde está en contradicción con el transitorio décimo cuarto. Como el acuerdo del IEEN, hace caso omiso del mismo, a pesar de ser directamente relevante. Ya nadie planteó la contradicción de la sentencia con la propia constitución porque el alcalde Bernal Lamas prefirió dar por terminada la licencia que le había otorgado el Cabildo para contender por la reelección. En su página de Facebook dio a conocer su decisión de reincorporarse al cargo de presidente municipal con el siguiente mensaje: 
+
+    "A todos ustedes mis amigos, habitantes de Ahuacatlán, hago de su conocimiento que de acuerdo a lo dispuesto en los artículos 83 y 87 de la Ley Municipal del Estado de Nayarit, he presentado mi solicitud de reincorporación al cargo como Presidente Municipal mediante Sesión del H. Cabildo, reintegrándome a partir del día de hoy a mis funciones y atribuciones que me permiten seguir brindando beneficios para nuestro municipio" (14 de marzo del 2017). 
+
+Se desconocen las causas de la decisión del alcalde. Sin embargo, acrecienta las dudas, pues se pensaría que al ganar el amparo se presentaría como candidato para la reelección e hizo lo contrario. Tanto el presidente municipal de Ahuacatlán como el Tribunal Electoral crean incertidumbre acerca del tema de reelección en Nayarit.
+
+* Conclusión
+No existe la información necesaria para concluir por qué tanto el TEPJF como el alcalde Bernal Lamas tomaron las decisiones que tomaron. Sin embargo, se podría discurrir que el transitorio décimo cuarto no fue tomado en cuenta por confusión o por dictamen; es decir, que el TEPJF se haya pronunciado solamente sobre las razones explícitas que presentó el IEEN como impedimento para la reelección de alcaldes en 2017, dejando de lado la opción de invocar al transitorio décimo cuarto que, a diferencia del art. 115 constitucional, no tiene ni un gramo de ambigüedad: el alcalde Bernal Lamas, como todos los que se eligieron cuando él, estaban en funciones el 10 de junio del 2016 cuando se publicó la reforma en la Gaceta Oficial del estado de Nayarit. 
+
+Tendremos que esperar a que algún constitucionalista nos aclare esta paradoja de la justicia electoral mexicana. Sea como sea, el presente año no hubo en Nayarit candidatos que aspiraran a la reelección. Para ello habrá que esperar el 2021 para legisladores y el 2024para alcaldes.

@@ -3,18 +3,21 @@
 # # will change captions to Spanish, see https://lists.gnu.org/archive/html/emacs-orgmode/2010-03/msg00879.html
 #+LANGUAGE: es 
 #+begin_src yaml :exports results :results value html
-    ---
-    layout: single
-    title: "La redistritación: ¿qué tanto cambió los mapas?"
-    subtitle: El impacto de un actor nacional en la política local
-    authors:
-      - daniel.saavedra
-      - eric.magar
-      - humberto.trejo
-    comments: true
-    date:   2018-03-12
-    tags: redistritación, representación, mapas
-    ---
+  ---
+  layout: single
+  title: "La redistritación ¿cuánto cambió los mapas?"
+  subtitle: El impacto de un actor nacional en la política local
+  authors:
+    - daniel.saavedra
+    - eric.magar
+    - humberto.trejo
+  comments: true
+  date:   2018-03-12
+  tags: 
+    - redistritación
+    - representación
+    - mapas
+  ---
 #+end_src
 #+results:
 

@@ -5,12 +5,15 @@
 #+begin_src yaml :exports results :results value html
   ---
   layout: single
-  title:  Cherán, Mich., municipio de usos y costumbres
+  title:  Cherán Mich. municipio de usos y costumbres
   subtitle: La acción de inconstitucionalidad 50/2017 y el nuevo paradigma para el reconocimiento de la autodeterminación indígena
   author: samuel.glez
   comments: true
   date:   2018-02-21
-  tags: SCJN, indígenas, autodeterminación
+  tags: 
+    - SCJN
+    - indígenas
+    - usos y costrumbres
   ---
 #+end_src
 #+results:

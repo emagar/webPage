@@ -1,0 +1,309 @@
+#+STARTUP: showall
+#+OPTIONS: toc:nil
+# # will change captions to Spanish, see https://lists.gnu.org/archive/html/emacs-orgmode/2010-03/msg00879.html
+#+LANGUAGE: es 
+#+begin_src yaml :exports results :results value html
+  ---
+  layout: single
+  title:  Congresos Locales, precaria institucionalidad
+  subtitle: 
+  author: alonso.lujambio
+  date:   2004-03-07
+  last_modified_at: 2017-08-29
+  tags: 
+   - legislaturas 
+   - reelección
+   - estados
+  ---
+#+end_src
+#+results:
+
+/El Dilema de la Reelección. En los últimos años, la agenda de investigación sobre el Poder Legislativo en México se ha enfocado, principalmente, en la evaluación del desempeño de los diputados federales y los senadores de la República. Uno de los primeros estudios comparados sobre los congresos locales del país está a disposición en "El Poder Legislativo estatal en México: Análisis y Diagnóstico", un banco de datos que comparten el CIDE, el ITAM, la Universidad Anáhuac del Sur y la Universidad Estatal de Nueva York. Para presentar el compendio estadístico de esa obra sus editores solicitaron al ex consejero electoral que escribiera el ensayo que enseguida se reproduce con su autorización./
+
+El banco de datos contenido en "El Poder Legislativo estatal en México: Análisis y Diagnóstico" ([[http://derecho.itam.mx][derecho.itam.mx]]) contiene un importante volumen de información, especialmente normativa. Con todo, los editores del libro han decidido incluir un Compendio Estadístico que contiene cuadros comparativos de algunas de las variables incluidas en el banco de datos, con el fin de divulgar desde ahora un subconjunto de la información empírica contenida en él. A solicitud de los editores, escribo este breve ensayo. Téngase presente que la información contenida en la base de datos fue proporcionada por los propios congresos locales, entre febrero y mayo de 2003, cerca de la conclusión de las legislaturas que iniciaron sus actividades en 2000.
+
+Los calendarios trianuales de las legislaturas son muy heterogéneos. Por ejemplo, en 2000 fueron 11 las que dieron inicio; 12 comenzaron en 2001; ocho en 2002 y una en 2003 (Coahuila, el 1o. de enero). Pero también hay dispersión de calendarios al interior de cada año en particular, aun donde hubo concurrencia electoral. Por ello, en algunos casos, los congresos locales proporcionaron hacia diciembre de 2003 diversa información actualizada sobre legislaturas que recientemente iniciaron sus trabajos.
+
+#+CAPTION: Composición política de los congresos locales en méxico (diciembre de 2003). Diputados locales por Partido Político
+#+NAME:   tab:1
+| Entidad federativa  |  MR |  RP | Total | PRI | PAN | PRD | PVEM | CDPPN | PT | MP | PAS | UDC | PBS | PRS | PD | ADC | PCP | Ind |
+|---------------------+-----+-----+-------+-----+-----+-----+------+-------+----+----+-----+-----+-----+-----+----+-----+-----+-----|
+| Aguascalientes      |  18 |   9 |    27 |  12 |  10 |   1 |    2 | -     |  2 | -  | -   | -   | -   | -   | -  | -   | -   | 0   |
+| Baja California     |  16 |   9 |    25 |  10 |  11 |   2 |    1 | -     |  - | -  | -   | -   | -   | -   | -  | -   | -   | 1   |
+| Baja California Sur |  15 |   6 |    21 |   6 |   2 |   8 |    - | -     |  3 | -  | 1   | -   | -   | -   | -  | -   | -   | 1   |
+| Campeche            |  21 |  14 |    35 |  18 |  13 |   1 |    - | 3     |  - | -  | -   | -   | -   | -   | -  | -   | -   | -   |
+| Chiapas             |  24 |  16 |    40 |  24 |   5 |   7 |    1 | -     |  2 | -  | 1   | -   | -   | -   | -  | -   | -   | -   |
+| Chihuahua           |  22 |  11 |    33 |  18 |  11 |   2 |    - | -     |  2 | -  | -   | -   | -   | -   | -  | -   | -   | -   |
+| Coahuila            |  20 |  15 |    35 |  20 |   8 |   3 |    - | -     |  2 | -  | -   | 2   | -   | -   | -  | -   | -   | -   |
+| Colima              |  16 |   9 |    25 |  14 |   8 |   2 |    - | -     |  - | -  | -   | -   | -   | -   | -  | 1   | -   | -   |
+| Distrito Federal    |  40 |  26 |    66 |   7 |  16 |  37 |    5 | -     |  - | 1  | -   | -   | -   | -   | -  | -   | -   | -   |
+| Durango             |  15 |  10 |    25 |  13 |   8 |   1 |    - | -     |  2 | -  | -   | -   | -   | -   | 1  | -   | -   | -   |
+| Estado de México    |  45 |  30 |    75 |  24 |  23 |  19 |    4 | 2     |  3 | -  | -   | -   | -   | -   | -  | -   | -   | -   |
+| Guanajuato          |  22 |  14 |    36 |   9 |  19 |   4 |    3 | -     |  1 | -  | -   | -   | -   | -   | -  | -   | -   | -   |
+| Guerrero            |  28 |  18 |    46 |  20 |   4 |  17 |    1 | 2     |  1 | -  | -   | -   | -   | 1   | -  | -   | -   | -   |
+| Hidalgo             |  18 |  11 |    29 |  18 |   4 |   7 |    - | -     |  - | -  | -   | -   | -   | -   | -  | -   | -   | -   |
+| Jalisco             |  20 |  20 |    40 |  19 |  17 |   2 |    2 | -     |  - | -  | -   | -   | -   | -   | -  | -   | -   | -   |
+| Michoacán           |  24 |  16 |    40 |  17 |   5 |  17 |    - | -     |  1 | -  | -   | -   | -   | -   | -  | -   | -   | -   |
+| Morelos             |  18 |  12 |    30 |   8 |   9 |   8 |    3 | 2     |  - | -  | -   | -   | -   | -   | -  | -   | -   | -   |
+| Nayarit             |  18 |  12 |    30 |  18 |   6 |   2 |    - | 2     |  2 | -  | -   | -   | -   | -   | -  | -   | -   | -   |
+| Nuevo León          |  26 |  16 |    42 |  24 |  11 |   1 |    2 | 1     |  3 | -  | -   | -   | -   | -   | -  | -   | -   | -   |
+| Oaxaca              |  25 |  17 |    42 |  25 |   7 |   8 |    - | 1     |  1 | -  | -   | -   | -   | -   | -  | -   | -   | -   |
+| Puebla              |  26 |  15 |    41 |  25 |  10 |   2 |    1 | 1     |  1 | -  | -   | -   | -   | -   | -  | -   | -   | 1   |
+| Querétaro           |  15 |  10 |    25 |  10 |  12 |   2 |    - | 1     |  - | -  | -   | -   | -   | -   | -  | -   | -   | -   |
+| Quintana Roo        |  15 |  10 |    25 |  15 |   3 |   3 |    2 | 2     |  - | -  | -   | -   | -   | -   | -  | -   | -   | -   |
+| San Luis Potosí     |  15 |  12 |    27 |  12 |  11 |   2 |    1 | -     |  - | -  | -   | -   | -   | -   | -  | -   | 1   | -   |
+| Sinaloa             |  24 |  16 |    40 |  21 |  12 |   3 |    - | -     |  3 | -  | -   | -   | 1   | -   | -  | -   | -   | -   |
+| Sonora              |  21 |  10 |    31 |  17 |  12 |   2 |    - | -     |  - | -  | -   | -   | -   | -   | -  | -   | -   | -   |
+| Tabasco             |  21 |  14 |    35 |  14 |   3 |  17 |    1 | -     |  - | -  | -   | -   | -   | -   | -  | -   | -   | -   |
+| Tamaulipas          |  19 |  13 |    32 |  19 |   7 |   3 |    - | -     |  3 | -  | -   | -   | -   | -   | -  | -   | -   | -   |
+| Tlaxcala            |  19 |  13 |    32 |  14 |   3 |  11 |    1 | 1     |  2 | -  | -   | -   | -   | -   | -  | -   | -   | -   |
+| Veracruz            |  24 |  21 |    45 |  27 |  11 |   4 |    1 | 1     |  1 | -  | -   | -   | -   | -   | -  | -   | -   | -   |
+| Yucatán             |  15 |  10 |    25 |  11 |  12 |   1 |    - | -     |  - | -  | -   | -   | -   | -   | -  | -   | -   | 1   |
+| Zacatecas           |  18 |  12 |    30 |  10 |   4 |  13 |    - | 1     |  2 | -  | -   | -   | -   | -   | -  | -   | -   | -   |
+| Totales             | 683 | 447 |  1130 | 519 | 297 | 212 |   31 | 20    | 37 | 1  | 2   | 2   | 1   | 1   | 1  | 1   | 1   | 4   |
+|---------------------+-----+-----+-------+-----+-----+-----+------+-------+----+----+-----+-----+-----+-----+----+-----+-----+-----|
+
+MR=Mayoría relativa, RP=Representación proporcional.
+
+PRI= Partido Revolucionario Institucional, PAN= Partido Acción Nacional, PRD= Partido de la Revolución Democrática, PVEM= Partido Verde Ecologista de México, PAS= Partido Alianza Social, PT= Partido del Trabajo, CDPPN= Convergencia por la Democracia Partido Político Nacional, MP= México Posible, PBS= Partido Barzonista Sinaloense, PRS= Partido de la Revolución del Sur, PD= Partido Duranguense, UDC= Unidad Democrática de Coahuila, ADC= Asociación por la Democracia Colimense, PCP= Partido Conciencia Popular, Ind= Diputado independiente.
+
+Nota: diputado independiente: aquél que decide dejar de representar al partido que lo postuló y no cambia a otro grupo parlamentario.
+
+Fuente: información aportada por cada uno de los congresos de las entidades federativas, por la Dirección General de Apoyo Parlamentario de la Cámara de Diputados del H. Congreso de la Unión y por las páginas oficiales.
+
+ 
+La Tabla [[tab:1]] incluye una fotografía de los 32 sistemas electorales mixtos para elegir diputados a las legislaturas locales, así como de la composición partidaria de los 32 congresos hacia diciembre de 2003.
+
+Ambas variables expresan las dos grandes transformaciones de los congresos locales mexicanos en los últimos 30 años: en 1974, el total de curules en todos los congresos sumaba 369; hacia mayo de 1999, después de un aumento casi lineal del número de escaños en todo el sistema, el número se triplicaba: había mil 108 diputados locales en el país. Desde entonces, el número total de escaños prácticamente se ha estabilizado. Hacia diciembre de 2003 había en total mil 130 escaños. Pero también cambiaron los sistemas electorales, de totalmente mayoritarios en 1973,[fn:2] hacia sistemas mixtos con un periodo de crecimiento constante del componente proporcional, de modo que hacia 1988, 70 por ciento del conjunto de los escaños era resultado de elecciones mayoritarias en distritos uninominales y 30 por ciento de listas de representación proporcional, y hacia 1998 y desde entonces, 60 por ciento de los diputados proviene de distritos y 40 por ciento de listas de representación proporcional.[fn:3]
+
+La otra transformación, de mayor calado, ligada a la modificación de los sistemas electorales pero también producto de una creciente competitividad electoral, se dio en la composición partidaria de los congresos locales de México. Al Partido Revolucionario Institucional (PRI) pertenecían 97.8 por ciento de todos los diputados locales del país en 1974. Era un partido hegemónico. Hacia mayo de 1999, el PRI tenía 49.64 por ciento de los diputados locales. Es decir, en un espacio de 25 años, el PRI perdió 48.16 puntos porcentuales de su peso en el sistema representativo en su conjunto. Ya no era un partido hegemónico.[fn:4] Hacia diciembre de 2003 el PRI contaba con el 46 por ciento del conjunto de los diputados locales del país.
+
+* La vía del consenso
+
+Durante las décadas de los ochenta y los noventa del siglo XX, la creciente pluralidad política de los congresos locales mexicanos llevó a que el PRI, que contaba hacia 1987 con la mayoría calificada (dos tercios de los escaños, o más) de todos los congresos locales, contara hacia mayo de 1999 con mayoría calificada en solamente dos congresos locales (Nayarit y Puebla).
+
+Hacia diciembre de 2003, ningún partido cuenta con mayoría calificada de dos tercios en Congreso local alguno del país. En consecuencia, todas las decisiones congresionales que requieren del voto aprobatorio de dos tercios de los miembros de los Congresos tienen que tomarse por la vía del consenso multipartidista.
+
+La creciente dosis de pluralismo legislativo que introdujo la democratización mexicana también condujo a la creciente desaparición no sólo de mayorías calificadas (66 por ciento) de un solo partido, sino también de las mayorías absolutas (50 por ciento más uno) monopartidarias. En 1989 se produjo el primer caso en el que en un Congreso local mexicano en la era posrevolucionaria ningún partido tiene mayoría: fue el de Baja California. Hacia diciembre de 2003, ningún partido cuenta con mayoría absoluta en 14 congresos locales, mientras que en los 18 restantes sí hay algún partido con mayoría absoluta (en un caso del PAN, en uno del PRD y en 16 del PRI).
+
+En todos los casos en donde ningún partido tiene mayoría hay "gobierno dividido" (situación en la que el partido del gobernador no cuenta con mayoría absoluta de los escaños en el Congreso local). Pero hay otro formato de pluralismo, no al interior de un Poder (el Legislativo), sino entre poderes (cuando sí hay mayoría de un partido en el Congreso local, pero el gobernador pertenece a otro partido), que también produce "gobierno dividido" (pues tampoco en ese escenario el partido del gobernador cuenta con mayoría absoluta): hacia diciembre de 2003, dos estados se encontraban bajo esa circunstancia (Chiapas y Nayarit, con mayorías absolutas priistas en el Legislativo y gobernadores no priistas en el Ejecutivo). En consecuencia, si sumamos ambos escenarios de "gobierno dividido", hacia diciembre de 2003 son 16 los congresos locales mexicanos que viven bajo el formato en el que el partido del gobernador no tiene mayoría absoluta: son la mitad del sistema legislativo mexicano.[fn:5]
+
+Por otro lado, y como es bien sabido, en todo el sexenio del presidente Vicente Fox (2000-2006) se vive bajo "gobierno dividido", fenómeno que a nivel nacional se inició en el segundo trienio del gobierno del presidente Ernesto Zedillo (1994-2000). Estamos pues ante un fenómeno político que ya tiene dimensiones nacionales. En el marco de la competitividad y del sistema de partidos actuales, vivimos entre "gobiernos divididos", y todo indica que lo seguiremos haciendo en el futuro: Ya están entre nosotros: irán y vendrán "gobiernos divididos".
+
+#+CAPTION: Gobiernos divididos en los estados de la república mexicana (diciembre del 2003)^a Mayorías en el Congreso
+#+NAME:   tab:2
+| Entidad federativa  | Partido del gobernador^b | Mayoría absoluta^c | Mayoría relativa^d | Gobierno dividido^e |
+|---------------------+--------------------------+--------------------+--------------------+---------------------|
+| Aguascalientes      | PAN                      | -                  | PRI                | Sí                  |
+| Baja California     | PAN                      | -                  | PAN                | Sí                  |
+| Baja California Sur | PRD, PT                  | -                  | PRD                | Sí                  |
+| Campeche            | PRI                      | PRI                | -                  | No                  |
+| Chiapas             | PRD, PAN, PT, PVEM       | PRI                | -                  | Sí                  |
+| Chihuahua           | PRI                      | PRI                | -                  | No                  |
+| Coahuila            | PRI                      | PRI                | -                  | No                  |
+| Colima              | PRI                      | PRI                | -                  | No                  |
+| Distrito Federal    | PRD                      | PRD                | -                  | No                  |
+| Durango             | PRI                      | PRI                | -                  | No                  |
+| Estado de México    | PRI                      | -                  | PRI                | Sí                  |
+| Guanajuato          | PAN                      | PAN                | -                  | No                  |
+| Guerrero            | PRI                      | -                  | PRI                | Sí                  |
+| Hidalgo             | PRI                      | PRI                | -                  | No                  |
+| Jalisco             | PAN                      | -                  | PRI                | Sí                  |
+| Michoacán           | PRD                      | -                  | PRI-PRD6           | Sí                  |
+| Morelos             | PAN                      | -                  | PAN                | Sí                  |
+| Nayarit             | PRD, PAN                 | PRI                | -                  | Sí                  |
+| Nuevo León          | PRI                      | PRI                | -                  | No                  |
+| Oaxaca              | PRI                      | PRI                | -                  | No                  |
+| Puebla              | PRI                      | PRI                | -                  | No                  |
+| Querétaro           | PAN                      | -                  | PAN                | Sí                  |
+| Quintana Roo        | PRI                      | PRI                | -                  | No                  |
+| San Luis Potosí     | PAN                      | -                  | PRI                | Sí                  |
+| Sinaloa             | PRI                      | PRI                | -                  | No                  |
+| Sonora              | PRI                      | PRI                | -                  | No                  |
+| Tabasco             | PRI                      | -                  | PRD                | Sí                  |
+| Tamaulipas          | PRI                      | PRI                | -                  | No                  |
+| Tlaxcala            | PRD, PT                  | -                  | PRI                | Sí                  |
+| Veracruz            | PRI                      | PRI                | -                  | No                  |
+| Yucatán             | PAN                      | -                  | PAN                | Sí                  |
+| Zacatecas           | PRD                      | -                  | PRD                | Sí                  |
+|                     |                          | Total:             | 16                 |                     |
+
+a Esta conformación toma en cuenta los resultados electorales del 2003 en los estados de Campeche, Colima, Distrito Federal, Estado de México, Guanajuato, Jalisco, Morelos, Nuevo León, Querétaro, San Luis Potosí, Sonora y Tabasco. \\
+b En Baja California Sur, Chiapas, Nayarit y Tlaxcala, quienes ocupan el cargo de gobernador fueron en su momento postulados por coaliciones. \\
+c Un partido tiene mayoría absoluta si tiene entre el 50 por ciento más uno y el 66 por ciento de los escaños. \\
+d Un partido cuenta con mayoría relativa cuando, pese a no tener el 50 por ciento más uno de los escaños, es el de la bancada más numerosa. \\
+e Gobierno dividido: cuando el partido del gobernador no cuenta con la mayoría absoluta de los diputados locales. \\
+f PRI y PRD tienen 17 diputados cada uno. \\
+Fuente: información aportada por cada uno de los congresos estatales y páginas oficiales de los poderes legislativos y ejecutivos locales.
+
+Nótese en la Tabla [[tab:2]] algo de especial relevancia para la política mexicana contemporánea. Hacia diciembre de 2003 (y aun ahora, en marzo de 2004), existen 17 gobernadores pertenecientes al PRI: en 14 casos, el PRI cuenta con mayoría absoluta en el Congreso local, y sólo en tres tenemos "gobierno dividido" una vez concluida la elección correspondiente. Por el contrario, de las 15 entidades en donde hay un gobernador no priista, en 13 de ellas tenemos "gobierno dividido". En otras palabras, 81 por ciento de los "gobiernos divididos" locales acotan actualmente a gobernadores no priistas.
+
+Antes de continuar el análisis conviene subrayar un elemento adicional que se desprende de la Tabla [[tab:1]]: se trata del dominio casi absoluto de la representación política en los congresos locales por parte de los partidos políticos nacionales. Hacia diciembre de 2003, sólo seis congresos contaban con la presencia de algún partido local: el de Sinaloa, a través del Partido Barzonista Sinaloense; el de Guerrero, con el Partido de la Revolución del Sur; el de Durango, con el Partido Duranguense; el de Coahuila, con la Unidad Democrática de Coahuila; el de Colima, con la Democracia Colimense, y el de San Luis Potosí, con el Partido Conciencia Popular.
+
+Desde la Reforma Política de 1977 sólo 13 congresos locales han contado con la presencia de uno -o varios- partidos locales y en general no ha sido copiosa.[fn:6]
+
+
+* Legisladores 'amateurs'
+
+La Tabla [[tab:3]] contiene información inédita sobre la experiencia legislativa previa de los diputados locales de México. Esta es la variable clave para explicar la naturaleza y características de los Poderes Legislativos del país: desde 1933, el artículo 116, fracción II, párrafo segundo, de la Constitución prohíbe la reelección inmediata de los diputados locales. Ciertamente, la reforma constitucional de 1933 respondió a una lógica de centralización del poder y permitió que hubiese cierta circulación de élites en un sistema hegemónico. Si hubiera sido posible la "reelección" de los diputados locales (en elecciones no competitivas), sin duda se hubiese producido un anquilosamiento de la clase política, como de hecho sucedió en el Porfiriato.
+
+#+CAPTION: Experiencia legislativa de los diputados locales
+#+NAME:   tab:3
+|                     |           |     Sin |        |       |       |       Como |       |      En |       |
+|                     |           |   expe- |        |  Como |       | legislador |       |   ambos |       |
+| Estado              | Diputados | riencia |        | local |       |    federal |       | ámbitos |       |
+|---------------------+-----------+---------+--------+-------+-------+------------+-------+---------+-------|
+| Aguascalientes      |        27 |      26 | 96.30% |     1 | 3.70% |          0 | 0.00% |       0 | 0.00% |
+| Baja California     |        25 |      24 |  96.00 |     0 |  0.00 |          1 |  4.00 |       0 |  0.00 |
+| Baja California Sur |        21 |      19 |  90.48 |     0 |  0.00 |          1 |  4.76 |       1 |  4.76 |
+| Campeche            |        35 |      31 |  88.57 |     3 |  8.57 |          1 |  2.86 |       0 |  0.00 |
+| Colima              |        25 |      24 |  96.00 |     1 |  4.00 |          0 |  0.00 |       0 |  0.00 |
+| Distrito Federal    |        66 |      54 |  81.82 |     2 |  3.03 |          8 | 12.10 |       2 |  3.03 |
+| Durango             |        25 |      22 |  88.00 |     2 |  8.00 |          1 |  4.00 |       0 |  0.00 |
+| Estado de México    |        75 |      54 |  72.00 |     9 | 12.00 |          0 |  0.00 |      12 | 16.00 |
+| Guanajuato          |        36 |      31 |  86.11 |     3 |  8.33 |          2 |  5.56 |       0 |  0.00 |
+| Guerrero            |        46 |      42 |  91.30 |     3 |  6.52 |          1 |  2.17 |       0 |  0.00 |
+| Hidalgo             |        29 |      24 |  82.76 |     5 | 17.24 |          0 |  0.00 |       0 |  0.00 |
+| Morelos             |        30 |      28 |  93.33 |     0 |  0.00 |          2 |  6.67 |       0 |  0.00 |
+| Nayarit             |        30 |      27 |  90.00 |     1 |  3.33 |          1 |  3.33 |       1 |  3.33 |
+| Nuevo León          |        42 |      32 |  76.19 |     4 |  9.52 |          2 |  4.76 |       4 |  9.52 |
+| Oaxaca              |        42 |      38 |  90.48 |     2 |  4.76 |          2 |  4.76 |       0 |  0.00 |
+| Querétaro           |        25 |      23 |  92.00 |     2 |  8.00 |          0 |  0.00 |       0 |  0.00 |
+| San Luis Potosí     |        27 |      23 |  85.19 |     1 |  3.70 |          2 |  7.41 |       1 |  3.70 |
+| Sonora              |        31 |      28 |  90.32 |     1 |  3.23 |          2 |  6.45 |       0 |  0.00 |
+| Tamaulipas          |        32 |      26 |  81.25 |     5 | 15.63 |          1 |  3.13 |       0 |  0.00 |
+| Tlaxcala            |        32 |      31 |  96.88 |     1 |  3.13 |          0 |  0.00 |       0 |  0.00 |
+| Veracruz            |        45 |      32 |  71.11 |     7 | 15.56 |          6 | 13.33 |       0 |  0.00 |
+| Yucatán             |        25 |      19 |  76.00 |     4 | 16.00 |          2 |  8.00 |       0 |  0.00 |
+| Zacatecas           |        30 |      20 |  66.67 |     6 | 20.00 |          4 | 13.33 |       0 |  0.00 |
+| Totales             |       801 |     678 | 84.64% |    63 | 7.87% |         39 | 4.87% |      21 | 2.62% |
+|---------------------+-----------+---------+--------+-------+-------+------------+-------+---------+-------|
+
+Nota: solamente 23 congresos locales tuvieron disponible la información sobre la experiencia legislativa previa de sus diputados.
+
+
+Hoy, sin embargo, la permanencia de la prohibición milita agresivamente en contra de la institucionalidad de los congresos locales, de la profesionalización de sus miembros, de la calidad de las leyes, de la posibilidad de darle continuidad a los trabajos -urgentes- de control evaluatorio de las políticas públicas, de la responsabilidad política de los legisladores ante el electorado (especialmente de los uninominales) y del poder ciudadano para controlar a sus representantes, castigándolos con el retiro del apoyo electoral si su trabajo resultó insatisfactorio o premiándolos con la reelección si rinden buenas cuentas.
+
+La regla constitucional vigente también milita en contra de la difusión masiva de información sobre la conducta individual de los diputados, pues al no poder éstos someterse nuevamente al juicio ciudadano en las urnas una vez concluidos sus mandatos, no existen "retadores" en la oposición (enfatizo aquí, otra vez, en el ámbito uninominal) interesados en divulgar el sentido del voto y la conducta que se juzga reprobable por parte de quienes ya ocupan los escaños, ni éstos tienen el incentivo de promover el conocimiento del sentido de sus votos y de su conducta como alegato de defensa ante el ataque de los "retadores". ¿Puede acaso imaginarse un escenario peor?
+
+En la Tabla [[tab:3]] se despliega información únicamente de 23 congresos locales, pues nueve de ellos no tuvieron disponible la información sobre la experiencia legislativa previa de sus diputados. Tenemos, en consecuencia, información sobre 678 diputados, que suman 71 por ciento, lo cual representa una muestra bastante representativa del universo bajo estudio.
+
+Nótese la patética situación en que se encuentran los congresos locales de México: 84.64 por ciento de los diputados locales no tiene experiencia previa como legislador, ya sea local o federal, es decir, la mayoría aplastante de los diputados locales son amateurs, están en la situación más lejana a la del profesional del Parlamento. La situación es particularmente crítica en congresos locales como los de Aguascalientes, Baja California, Colima y Tlaxcala, en donde solamente... un diputado o ninguno de ellos en el Congreso local tiene experiencia previa como legislador. En el otro extremo se encuentra Zacatecas, en donde "solamente" (pero subráyese el entrecomillado) 66 por ciento de los diputados al Congreso local es primerizo, totalmente inexperto en el ejercicio de la función parlamentaria.
+
+Pero nótese otro elemento importante: entre los pocos diputados que sí tienen experiencia previa, sólo 39 (¡de 678!) la ha tenido en el ámbito federal (como diputado o como senador), y 21 han tenido previamente ambas experiencias (la local y la federal). Eso rompe el mito, que se repite ad nauseam, de que en realidad los legisladores mexicanos andan brincando constantemente del ámbito local al federal y viceversa, y que ello posibilita la construcción de una "carrera parlamentaria".
+
+Amén de que el expertise parlamentario, en relación con la agenda permanente de un Parlamento, no se obtiene brincando de un Parlamento a otro, y de que de cualquier modo el electorado no puede calificar su actuación, lo cierto es que en los hechos es un puñado de personas el que realiza esos "brincos" de una Cámara a otra. Veamos la evidencia y reconozcamos un hecho: la prohibición de la reelección inmediata opera en los hechos casi como una prohibición absoluta.[fn:7] Total: la creciente pluralidad de los congresos locales ha incrementado la centralidad política de dichas instituciones, pero su institucionalidad, su profesionalismo, su capacidad para darle seguimiento a la agenda legislativa local y para evaluar con profundidad el efecto real de las leyes vigentes, su responsabilidad ante el electorado, se mantienen en una situación verdaderamente precaria.
+
+#+CAPTION: Edad de los diputados locales
+#+NAME:   tab:4
+| Estado              | 18 a 30 | 31 a 40 | 40 en adelante |
+|---------------------+---------+---------+----------------|
+| Aguascalientes      |       0 |       8 |             19 |
+| Baja California     |       0 |       8 |             17 |
+| Baja California Sur |       0 |       4 |             17 |
+| Campeche            |       1 |       6 |             28 |
+| Colima              |       0 |      18 |              7 |
+| Distrito Federal    |      10 |      25 |             31 |
+| Durango             |       2 |       6 |             17 |
+| Estado de México    |       3 |      20 |             52 |
+| Guanajuato          |       2 |      13 |             21 |
+| Guerrero^a          |       4 |       6 |             28 |
+| Hidalgo             |       1 |       6 |             22 |
+| Jalisco             |       4 |      15 |             21 |
+| Morelos             |       1 |       6 |             23 |
+| Nayarit^b           |       0 |       5 |             21 |
+| Nuevo León          |       6 |      11 |             25 |
+| Oaxaca              |       3 |       6 |             33 |
+| Querétaro           |       1 |      13 |             11 |
+| Quintana Roo        |       0 |       9 |             16 |
+| San Luis Potosí     |       1 |       5 |             21 |
+| Sinaloa             |       0 |       8 |             32 |
+| Sonora              |       3 |       6 |             24 |
+| Tlaxcala            |       1 |      27 |              4 |
+| Veracruz            |       0 |      15 |             30 |
+| Yucatán             |       0 |      15 |             10 |
+| Zacatecas           |       0 |       9 |             21 |
+| Total               |      43 |     270 |            551 |
+|---------------------+---------+---------+----------------|
+
+Nota: solamente 25 congresos locales tuvieron información disponible. \\ 
+a Guerrero tiene 46 diputados; el Congreso sólo tuvo disponible la edad de 38 de ellos. \\ 
+b Nayarit tiene 30 diputados; el Congreso sólo tuvo disponible la edad de 26 de ellos.
+
+La Tabla [[tab:4]] ofrece información muy valiosa, y por demás novedosa, de la edad de los diputados locales mexicanos. Este punto se vincula estrechamente con el anterior: los defensores del statu quo constitucional en relación con la no reelección legislativa suelen argumentar que si se permitiese la reelección habría menos movilidad de la clase política y se obstaculizaría la entrada de los jóvenes a los congresos del país. Esto equivale a pensar el presente democrático en código porfiriano: el que se permita al elector decidir (especialmente en el ámbito electoral uninominal) no significa que habrá reelección, sino simplemente que puede haber reelección. Que puedan reelegirse los diputados no significa en modo alguno que serán reelectos. Eso dependerá de los electores, y no de un Gran Elector, como lo fue en su momento Porfirio Díaz en un ambiente electoral no competitivo. Salvo Costa Rica y México, ningún país del mundo, ninguno, prohíbe la reelección inmediata de sus parlamentarios, pero en ningún lugar del planeta vemos parlamentos democráticos gerontocráticos. La Tabla también demuestra, por si fuera poco, que en realidad los congresos locales -en donde se prohíbe la reelección inmediata- no están precisamente integrados por "jóvenes": de los 25 congresos que enviaron información sobre la edad de sus diputados,[fn:8] tenemos que solamente 5 por ciento de los mismos tiene entre 18 y 30 años; 32 por ciento tiene entre 31 y 40 años, y la mayoría, es decir, 64 por ciento, tiene 41 años o más.
+
+En los extremos nos encontramos con congresos locales que no tienen algún diputado de entre 18 y 30 años (Aguascalientes, Baja California, Baja California Sur, Colima, Nayarit, Quintana Roo, Sinaloa, Veracruz, Yucatán y Zacatecas) y, por otro lado, la Asamblea Legislativa del Distrito Federal, que cuenta con 10 diputados de entre 18 y 31 años. No creo que si existiera la posibilidad de la reelección estos números variarían significativamente.
+
+Los jóvenes con ambición política, capacidad y talento tendrían tantas oportunidades como los políticos de edad madura, si se toma en cuenta además que los métodos de selección en los ámbitos uninominales son cada vez más abiertos en el conjunto del sistema de partidos.
+
+
+* Argumentos de peso
+
+En la Tabla [[tab:5]] encontramos evidencia empírica de la escolaridad de los diputados locales. Nuevamente, esta variable se relaciona con el debate sobre una posible reforma al artículo 116, párrafo II, de la Constitución, para posibilitar la profesionalización y responsabilidad de los legisladores locales. Suele argumentarse que para promover la profesionalización y especialización de los diputados es necesario que cuenten con niveles más altos de escolaridad. Hay quien llega al extremo, ya elitista, de proponer que determinado nivel sea requisito para acceder a las Cámaras.
+
+#+CAPTION: Escolaridad de los diputados locales
+#+NAME:   tab:5
+| Estado              | Diputados | Básica |       | Media |        | Superior |        | Posgrado |        | Ninguna |       |
+|---------------------+-----------+--------+-------+-------+--------+----------+--------+----------+--------+---------+-------|
+| Aguascalientes      |        27 |      1 | 3.70% |     4 | 14.81% |       17 | 62.96% |        5 | 18.52% |       0 | 0.00% |
+| Baja California     |        25 |      0 |  0.00 |     2 |   8.00 |       19 |  76.00 |        4 |  16.00 |       0 |  0.00 |
+| Baja California Sur |        21 |     nd |    nd |    nd |     nd |       12 |  57.14 |        0 |   0.00 |      nd |    nd |
+| Colima              |        25 |      8 | 32.00 |     0 |   0.00 |       17 |  68.00 |        0 |   0.00 |       0 |  0.00 |
+| Distrito Federal    |        66 |      0 |  0.00 |    11 |  16.67 |       41 |  62.12 |       14 |  21.21 |       0 |  0.00 |
+| Estado de México    |        75 |      2 |  2.67 |    10 |  13.33 |       59 |  78.67 |        3 |   4.00 |       1 |  1.33 |
+| Guanajuato          |        36 |      4 | 11.11 |     3 |   8.33 |       28 |  77.78 |        1 |   2.78 |       0 |  0.00 |
+| Guerrero            |        46 |     nd |    nd |     4 |   8.70 |       30 |  65.22 |        3 |   6.52 |      nd |    nd |
+| Hidalgo             |        29 |      5 | 17.24 |    14 |  48.28 |       10 |  34.48 |        0 |   0.00 |       0 |  0.00 |
+| Jalisco             |        40 |      2 |  5.00 |     5 |  12.50 |       22 |  55.00 |       11 |  27.50 |       0 |  0.00 |
+| Morelos             |        30 |      3 | 10.00 |     2 |   6.67 |       22 |  73.33 |        3 |  10.00 |       0 |  0.00 |
+| Nayarit             |        30 |      0 |  0.00 |     6 |  20.00 |       21 |  70.00 |        3 |  10.00 |       0 |  0.00 |
+| Nuevo León          |        42 |      0 |  0.00 |     8 |  19.05 |       23 |  54.76 |       11 |  26.19 |       0 |  0.00 |
+| Oaxaca              |        42 |      0 |  0.00 |     4 |   9.52 |       32 |  76.19 |        6 |  14.29 |       0 |  0.00 |
+| Querétaro           |        25 |      0 |  0.00 |     4 |  16.00 |       19 |  76.00 |        2 |   8.00 |       0 |  0.00 |
+| Quintana Roo        |        25 |      2 |  8.00 |     6 |  24.00 |       14 |  56.00 |        3 |  12.00 |       0 |  0.00 |
+| San Luis Potosí     |        27 |      1 |  3.70 |     4 |  14.81 |       18 |  66.67 |        4 |  14.81 |       0 |  0.00 |
+| Sinaloa             |        40 |      3 |  7.50 |     5 |  12.50 |       24 |  60.00 |        8 |  20.00 |       0 |  0.00 |
+| Tamaulipas          |        32 |     nd |    nd |     4 |  12.50 |       15 |  46.88 |       nd |     nd |      nd |    nd |
+| Tlaxcala            |        32 |      0 |  0.00 |     2 |   6.25 |       26 |  81.25 |        4 |  12.50 |       0 |  0.00 |
+| Yucatán             |        25 |      0 |  0.00 |     4 |  16.00 |       21 |  84.00 |        0 |   0.00 |       0 |  0.00 |
+| Zacatecas           |        30 |      5 | 16.67 |     8 |  26.67 |       17 |  56.67 |        0 |   0.00 |       0 |  0.00 |
+| Totales             |       770 |     36 | 4.68% |   110 | 14.29% |      507 | 65.84% |       85 | 11.04% |       1 | 0.13% |
+
+Nota: solamente 22 congresos locales tuvieron disponible información, parcial o total, sobre la escolaridad de sus diputados. \\
+nd= No disponible
+
+En mi opinión, el problema de la profesionalización y especialización de los legisladores mexicanos no es asunto de escolaridad. Por desgracia, sólo 19 congresos locales enviaron información completa sobre la escolaridad de sus diputados; 3 congresos enviaron información parcial, y 10 congresos no tuvieron disponible esa información. Contamos, en consecuencia, con información sobre 739 diputados locales, que equivalen al 65 por ciento del total. Nótese cómo el nivel de escolaridad de nuestros diputados locales no es bajo: 66 por ciento cursó la educación superior y 11 por ciento tiene estudios de posgrado.
+
+Quienes pugnamos por la reforma constitucional que posibilite, que permita, la reelección legislativa nunca hemos argumentado que los diputados sean ignorantes; tampoco hemos dicho que no pueden llevar a los congresos locales experiencias útiles de su vida profesional previa. El problema no está en los diputados como personas, sino en el arreglo constitucional que les impide conocer con profundidad la agenda de sus congresos locales. Y ese conocimiento lo da la experiencia parlamentaria, no los grados académicos. Es increíble que algunos quieran médicos experimentados para curar nuestras enfermedades, o ingenieros experimentados para levantar nuestros puentes, pero no legisladores experimentados para representarnos políticamente.
+
+Llama la atención, por otro lado, que sean sólo unos cuantos congresos locales los que, a través de la Ley Orgánica del Congreso o de su Reglamento Interior, le den explícitamente a sus comisiones --a algunas de modo específico, o a todas-- la facultad de realizar tareas de control evaluatorio de las políticas públicas. A nivel federal, concretamente en la Cámara de Diputados, la reforma a la Ley Orgánica del Congreso de 1999 desarrolló ampliamente, en sus artículos 39 y 45, el modo en que se ha de desarrollar esta importante tarea parlamentaria. Sin embargo, la no reelección ha hecho de las suyas: todo indica que los informes que las comisiones permanentes han de rendir periódicamente sobre la utilización del presupuesto por parte de las dependencias del Ejecutivo simplemente no se están elaborando.
+
+No aparecen en La Gaceta Parlamentaria. Yo en lo personal he formulado consultas verbales a varios diputados, quienes la mayoría de las veces desconocen respecto de qué informes les estoy formulando la pregunta.
+
+Y sí: una cosa es que la norma faculte a las comisiones a realizar tareas de control evaluatorio de las políticas públicas y otra es que efectivamente esas tareas se realicen. De cualquier modo, llama la atención que sólo las leyes orgánicas o reglamentos interiores de ocho congresos locales desarrollen alguna norma al respecto (Aguascalientes, Guerrero, Nayarit, Oaxaca, Sinaloa, Tabasco, Tlaxcala y Veracruz). Pareciera desde la norma que los congresos locales de Tabasco y Veracruz plantean las tareas más ambiciosas de control evaluatorio: en Tabasco las comisiones deben producir un dictamen sobre los programas implementados por el gobierno, mientras que en Veracruz los programas incluidos en el Plan Veracruzano de Desarrollo son objeto de evaluación periódica por parte de las comisiones ordinarias. Aquí se concentra, a mi juicio, una de las más importantes tareas pendientes de los congresos locales de México, máxime si se pretenden aumentar las potestades tributarias de los estados de la Federación.
+
+El banco de datos contenido en El Poder Legislativo estatal en México. Análisis y Diagnóstico incluye información sobre un importante conjunto de variables adicionales: el presupuesto asignado a los congresos locales, la organización de los servicios administrativos y parlamentarios en perspectiva comparada, la duración -muy heterogénea- de los periodos ordinarios de sesiones, etcétera. Destaco del resto de la información un último punto de especial relevancia. Llama la atención que solamente 15 congresos locales tengan regulada en su normatividad la existencia de un servicio civil de carrera para sus funcionarios, pero que, a su vez, únicamente cuatro congresos locales tengan ya en operación el sistema correspondiente (Guerrero, Jalisco, Sinaloa y Sonora). Aquí quizá se encuentre otro de los efectos nocivos de la no reelección parlamentaria, que conforma un círculo vicioso: si no hay servicio civil de carrera, ni siquiera por el lado del funcionariado, que va y viene, puede acumularse experiencia y memoria institucional; sin embargo, quizá debido a que los diputados no pueden prolongar su presencia institucional más allá de tres años, no se ha podido acometer con el debido cuidado la compleja tarea de echar a andar el servicio civil de carrera parlamentaria. Otra mala noticia para los congresos, para sus funcionarios y para los ciudadanos.
+
+Vale una breve reflexión final. Nos encontramos sin duda en un punto de inflexión histórica en la vida de los congresos locales de México. Después de varias décadas de monopartidismo que concluyen en los setenta, los congresos locales mexicanos han crecido en tamaño, sus sistemas electorales se han vuelto mixtos, con un creciente componente proporcional, y han sido actores institucionales privilegiados en la construcción del pluralismo político en México. Los congresos locales han cumplido un papel sin duda constructivo en ese proceso de pluralización y democratización. Con todo, quedan por acometer tareas fundamentales para el futuro de la democracia mexicana: su profesionalización, la rendición de cuentas de sus integrantes ante el electorado, su responsabilidad en el mejoramiento de la calidad de los servicios públicos y, en general, de las políticas públicas que se implementan en beneficio de la ciudadanía. Está a discusión en México, en los días que corren, el eventual aumento en las potestades tributarias de las entidades federativas del país. Debiera discutirse también el modo en que ha de evolucionar la institucionalidad de nuestros congresos locales, protagonistas de primera línea en la vida política, económica y social de México. Ojalá la base de datos contenida en El Poder Legislativo estatal en México. Análisis y Diagnóstico, sirva a ese importante propósito.
+
+
+/El autor es doctor en ciencia política por la Universidad de Yale. Fue consejero propietario en el Instituto Federal Electoral. Actualmente es director de la carrera de ciencia política en el Instituto Tecnológico Autónomo de México (ITAM)./
+
+
+[fn:1] Texto publicado en el suplemento Enfoque del periódico /Reforma/, 7 de marzo 2004 [[http://busquedas.gruporeforma.com/reforma/Libre/VisorNota.aspx?id=1420578%7CInfodexTextos&md5=e6ba732c94e213d5a2f84fce9bdabd5e]]. 
+
+[fn:2] En 1974 se introdujo el primer sistema electoral mixto del país a nivel local en el Estado de México. Después del Estado de México y antes de la Reforma Política de 1977, otros 16 estados introdujeron el sistema mixto en las elecciones al Congreso local. Con la Reforma Política de 1977 se introdujeron sistemas mixtos en todos los congresos locales del país.
+
+[fn:3] Alonso Lujambio, /El poder compartido. Un ensayo sobre la democratización mexicana/ (México: Océano, 2000), pp. 43-72.
+
+[fn:4] /Ibid/.
+
+[fn:5] Desde 1989 son 22 los estados de la Federación mexicana los que han vivido bajo gobiernos divididos. A los 16 casos actuales habría que sumar otros seis estados que ya vivieron bajo gobiernos divididos pero que hoy en día viven bajo gobiernos unificados: Chihuahua, Colima, Coahuila, Distrito Federal, Guanajuato y Sonora. Los estados que aún no han vivido la experiencia de gobierno dividido son 10: Campeche, Durango, Hidalgo, Nuevo León, Oaxaca, Puebla, Quintana Roo, Sinaloa, Tamaulipas y Veracruz.
+
+[fn:6] /El poder compartido/, op. cit., p. 163.
+
+[fn:7] En el ámbito federal el principio de la no reelección de los diputados genera efectos muy similares en relación con la experiencia previa: entre 1934 y 1997, es decir, durante 63 años, el 86 por ciento de los diputados mexicanos no tuvo experiencia previa como diputado. Ver Emma Campos, "Un congreso sin congresistas. La no reelección consecutiva en el Poder Legislativo mexicano, 1934-1997"; en Fernando Dworak, coordinador, /El legislador a examen. El debate sobre la reelección legislativa en México/ (México: Fondo de Cultura Económica, 2003), p. 113 y /passim/.
+
+[fn:8] Se obtuvieron datos de 864 diputados locales, es decir, del 76 por ciento del total.
+
+

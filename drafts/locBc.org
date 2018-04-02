@@ -1,0 +1,333 @@
+#+TITLE: Mapa local de Baja California
+#+AUTHOR: Eric Magar
+#+DATE:  <2018-01-08>
+#+OPTIONS: toc:nil # don't place toc in default location
+# # will change captions to Spanish, see https://lists.gnu.org/archive/html/emacs-orgmode/2010-03/msg00879.html
+#+LANGUAGE: es 
+
+# style sheet
+#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="../css/stylesheet.css" />
+
+# #+BEGIN_CENTER
+# por
+# 
+# *Alonso Lujambio*[fn:1]
+# #+END_CENTER
+
+#+OPTIONS: broken-links:mark
+
+# #+LINK_UP: index.html
+[[./mapDistritos.org][Arriba/up]]
+
+
+* El mapa
+# Dibujado en 2016, el mapa local que será inaugurado en la elección de 2018 remplaza al mapa 2015. El de 2015, de hecho, fue de los últimos  (quizás el último) cuyo proceso de redistritación estuvo a cargo de la autoridad local. 
+
+* Los diecisiete distritos
+:PROPERTIES:
+:CUSTOM_ID: top_subtoc
+:END:
+
+#+BEGIN_subtoc
+#+TOC: headlines 1 local  # place toc here
+#+END_subtoc
+
+** Distrito 1, cabecera Mexicali
+
+#+ATTR_HTML: :style float:left;width:70%;margin=1.5%;
+#+BEGIN_section
+[[file:https://github.com/emagar/mxDistritos/raw/master/mapasComparados/loc/maps/bc1-2.png]]
+#+END_section
+
+# #+ATTR_HTML: :style float:right;width:25%;margin=1.5%;
+#+BEGIN_aside
+#+ATTR_HTML: :style float:right;width:25%;margin=1.5%;
+[[file:https://github.com/emagar/mxDistritos/raw/master/mapasComparados/loc/maps/bc1-1.png]]
+#+END_aside
+
+#+html: <br style="clear:both;" />
+
+# #+ATTR_HTML: :style width:25%;
+# [[file:https://github.com/emagar/mxDistritos/raw/master/mapasComparados/loc/maps/bc1-1.png]]
+
+# #+ATTR_HTML: :style width:70%;
+# [[file:https://github.com/emagar/mxDistritos/raw/master/mapasComparados/loc/maps/bc1-2.png]]
+
+[[#top_subtoc][Indice]]
+--------------------------------------------
+
+** Distrito 2, cabecera Mexicali
+
+#+ATTR_HTML: :style float:left;width:70%;margin=1.5%
+#+BEGIN_section
+[[file:https://github.com/emagar/mxDistritos/raw/master/mapasComparados/loc/maps/bc2-2.png]]
+#+END_section
+
+#+BEGIN_aside
+#+ATTR_HTML: :style float:right;width:25%;margin=1.5%;
+[[file:https://github.com/emagar/mxDistritos/raw/master/mapasComparados/loc/maps/bc2-1.png]]
+#+END_aside
+
+#+html: <br style="clear:both;" />
+
+[[#top_subtoc][Indice]]
+--------------------------------------------
+
+** Distrito 3, cabecera Mexicali
+
+#+ATTR_HTML: :style float:left;width:70%;margin=1.5%;
+#+BEGIN_section
+[[file:https://github.com/emagar/mxDistritos/raw/master/mapasComparados/loc/maps/bc3-2.png]]
+#+END_section
+
+#+BEGIN_aside
+#+ATTR_HTML: :style float:right;width:25%;margin=1.5%;
+[[file:https://github.com/emagar/mxDistritos/raw/master/mapasComparados/loc/maps/bc3-1.png]]
+#+END_aside
+
+#+html: <br style="clear:both;" />
+
+[[#top_subtoc][Indice]]
+--------------------------------------------
+
+** Distrito 4, cabecera Mexicali
+
+#+ATTR_HTML: :style float:left;width:70%;margin=1.5%;
+#+BEGIN_section
+[[file:https://github.com/emagar/mxDistritos/raw/master/mapasComparados/loc/maps/bc4-2.png]]
+#+END_section
+
+#+BEGIN_aside
+#+ATTR_HTML: :style float:right;width:25%;margin=1.5%;
+file:https://github.com/emagar/mxDistritos/raw/master/mapasComparados/loc/maps/bc4-1.png 
+#+END_aside
+
+#+html: <br style="clear:both;" />
+
+[[#top_subtoc][Indice]]
+--------------------------------------------
+
+** Distrito 5, cabecera Mexicali
+
+#+ATTR_HTML: :style float:left;width:70%;margin=1.5%;
+#+BEGIN_section
+[[file:https://github.com/emagar/mxDistritos/raw/master/mapasComparados/loc/maps/bc5-2.png]]
+#+END_section
+
+#+BEGIN_aside
+#+ATTR_HTML: :style float:right;width:25%;margin=1.5%;
+file:https://github.com/emagar/mxDistritos/raw/master/mapasComparados/loc/maps/bc5-1.png
+#+END_aside
+
+#+html: <br style="clear:both;" />
+
+[[#top_subtoc][Indice]]
+--------------------------------------------
+
+** Distrito 6, cabecera Tecate
+
+#+ATTR_HTML: :style float:left;width:70%;margin=1.5%;
+#+BEGIN_section
+[[file:https://github.com/emagar/mxDistritos/raw/master/mapasComparados/loc/maps/bc6-2.png]]
+#+END_section
+
+#+BEGIN_aside
+#+ATTR_HTML: :style float:right;width:25%;margin=1.5%;
+file:https://github.com/emagar/mxDistritos/raw/master/mapasComparados/loc/maps/bc6-1.png
+#+END_aside
+
+#+html: <br style="clear:both;" />
+
+[[#top_subtoc][Indice]]
+--------------------------------------------
+
+** Distrito 7, cabecera Tijuana
+
+#+ATTR_HTML: :style float:left;width:70%;margin=1.5%;
+#+BEGIN_section
+[[file:https://github.com/emagar/mxDistritos/raw/master/mapasComparados/loc/maps/bc7-2.png]]
+#+END_section
+
+#+BEGIN_aside
+#+ATTR_HTML: :style float:right;width:25%;margin=1.5%;
+file:https://github.com/emagar/mxDistritos/raw/master/mapasComparados/loc/maps/bc7-1.png
+#+END_aside
+
+#+html: <br style="clear:both;" />
+
+[[#top_subtoc][Indice]]
+--------------------------------------------
+
+** Distrito 8, cabecera Tijuana
+
+#+ATTR_HTML: :style float:left;width:70%;margin=1.5%;
+#+BEGIN_section
+[[file:https://github.com/emagar/mxDistritos/raw/master/mapasComparados/loc/maps/bc8-2.png]]
+#+END_section
+
+#+BEGIN_aside
+#+ATTR_HTML: :style float:right;width:25%;margin=1.5%;
+file:https://github.com/emagar/mxDistritos/raw/master/mapasComparados/loc/maps/bc8-1.png
+#+END_aside
+
+#+html: <br style="clear:both;" />
+
+[[#top_subtoc][Indice]]
+--------------------------------------------
+
+** Distrito 9, cabecera Tijuana
+
+#+ATTR_HTML: :style float:left;width:70%;margin=1.5%;
+#+BEGIN_section
+[[file:https://github.com/emagar/mxDistritos/raw/master/mapasComparados/loc/maps/bc9-2.png]]
+#+END_section
+
+#+BEGIN_aside
+#+ATTR_HTML: :style float:right;width:25%;margin=1.5%;
+file:https://github.com/emagar/mxDistritos/raw/master/mapasComparados/loc/maps/bc9-1.png
+#+END_aside
+
+#+html: <br style="clear:both;" />
+
+[[#top_subtoc][Indice]]
+--------------------------------------------
+
+** Distrito 10, cabecera Tijuana
+
+#+ATTR_HTML: :style float:left;width:70%;margin=1.5%;
+#+BEGIN_section
+[[file:https://github.com/emagar/mxDistritos/raw/master/mapasComparados/loc/maps/bc10-2.png]]
+#+END_section
+
+#+BEGIN_aside
+#+ATTR_HTML: :style float:right;width:25%;margin=1.5%;
+file:https://github.com/emagar/mxDistritos/raw/master/mapasComparados/loc/maps/bc10-1.png
+#+END_aside
+
+#+html: <br style="clear:both;" />
+
+[[#top_subtoc][Indice]]
+--------------------------------------------
+
+** Distrito 11, cabecera Tijuana
+
+#+ATTR_HTML: :style float:left;width:70%;margin=1.5%;
+#+BEGIN_section
+[[file:https://github.com/emagar/mxDistritos/raw/master/mapasComparados/loc/maps/bc11-2.png]]
+#+END_section
+
+#+BEGIN_aside
+#+ATTR_HTML: :style float:right;width:25%;margin=1.5%;
+file:https://github.com/emagar/mxDistritos/raw/master/mapasComparados/loc/maps/bc11-1.png
+#+END_aside
+
+#+html: <br style="clear:both;" />
+
+[[#top_subtoc][Indice]]
+--------------------------------------------
+
+** Distrito 12, cabecera Tijuana
+
+#+ATTR_HTML: :style float:left;width:70%;margin=1.5%;
+#+BEGIN_section
+[[file:https://github.com/emagar/mxDistritos/raw/master/mapasComparados/loc/maps/bc12-2.png]]
+#+END_section
+
+#+BEGIN_aside
+#+ATTR_HTML: :style float:right;width:25%;margin=1.5%;
+file:https://github.com/emagar/mxDistritos/raw/master/mapasComparados/loc/maps/bc12-1.png
+#+END_aside
+
+#+html: <br style="clear:both;" />
+
+[[#top_subtoc][Indice]]
+--------------------------------------------
+
+** Distrito 13, cabecera Tijuana
+
+#+ATTR_HTML: :style float:left;width:70%;margin=1.5%;
+#+BEGIN_section
+[[file:https://github.com/emagar/mxDistritos/raw/master/mapasComparados/loc/maps/bc13-2.png]]
+#+END_section
+
+#+BEGIN_aside
+#+ATTR_HTML: :style float:right;width:25%;margin=1.5%;
+file:https://github.com/emagar/mxDistritos/raw/master/mapasComparados/loc/maps/bc13-1.png
+#+END_aside
+
+#+html: <br style="clear:both;" />
+
+[[#top_subtoc][Indice]]
+--------------------------------------------
+
+** Distrito 14, cabecera Tijuana
+
+#+ATTR_HTML: :style float:left;width:70%;margin=1.5%;
+#+BEGIN_section
+[[file:https://github.com/emagar/mxDistritos/raw/master/mapasComparados/loc/maps/bc14-2.png]]
+#+END_section
+
+#+BEGIN_aside
+#+ATTR_HTML: :style float:right;width:25%;margin=1.5%;
+file:https://github.com/emagar/mxDistritos/raw/master/mapasComparados/loc/maps/bc14-1.png
+#+END_aside
+
+#+html: <br style="clear:both;" />
+
+[[#top_subtoc][Indice]]
+--------------------------------------------
+
+** Distrito 15, cabecera Playas de Rosarito
+
+#+ATTR_HTML: :style float:left;width:70%;margin=1.5%;
+#+BEGIN_section
+[[file:https://github.com/emagar/mxDistritos/raw/master/mapasComparados/loc/maps/bc15-2.png]]
+#+END_section
+
+#+BEGIN_aside
+#+ATTR_HTML: :style float:right;width:25%;margin=1.5%;
+file:https://github.com/emagar/mxDistritos/raw/master/mapasComparados/loc/maps/bc15-1.png
+#+END_aside
+
+#+html: <br style="clear:both;" />
+
+[[#top_subtoc][Indice]]
+--------------------------------------------
+
+** Distrito 16, cabecera Ensenada
+
+#+ATTR_HTML: :style float:left;width:70%;margin=1.5%;
+#+BEGIN_section
+[[file:https://github.com/emagar/mxDistritos/raw/master/mapasComparados/loc/maps/bc16-2.png]]
+#+END_section
+
+#+BEGIN_aside
+#+ATTR_HTML: :style float:right;width:25%;margin=1.5%;
+file:https://github.com/emagar/mxDistritos/raw/master/mapasComparados/loc/maps/bc16-1.png
+#+END_aside
+
+#+html: <br style="clear:both;" />
+
+[[#top_subtoc][Indice]]
+--------------------------------------------
+
+
+
+** Distrito 17, cabecera Ensenada
+
+#+ATTR_HTML: :style float:left;width:70%;margin=1.5%;
+#+BEGIN_section
+[[file:https://github.com/emagar/mxDistritos/raw/master/mapasComparados/loc/maps/bc17-2.png]]
+#+END_section
+
+#+BEGIN_aside
+#+ATTR_HTML: :style float:right;width:25%;margin=1.5%;
+file:https://github.com/emagar/mxDistritos/raw/master/mapasComparados/loc/maps/bc17-1.png
+#+END_aside
+
+#+html: <br style="clear:both;" />
+
+[[#top_subtoc][Indice]]
+--------------------------------------------
+
+

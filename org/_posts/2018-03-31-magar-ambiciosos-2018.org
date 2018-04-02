@@ -8,12 +8,13 @@
   title:  Alcaldes y ambición estática en 2018
   subtitle: 
   author: eric.magar
-  date:   2018-03-28
-  last_modified_at: 2018-03-30
+  date:   2018-03-31
+  last_modified_at: 2018-04-01
   tags: 
    - elecciones 
    - reelección
    - alcaldes
+   - municipios
   ---
 #+end_src
 #+results:
@@ -74,7 +75,7 @@ Grupo D. *Renovarán ayuntamientos y congreso sin permitir la reelección consec
 
 El grueso del electorado podría tener ocupantes en una, en otra o en ambas boletas electorales locales del 1 de julio. Y el grupo A (en ambas), que incluye 19 estados, es visiblemente el más nutrido de los cuatro. De hecho cinco estados solamente (los tres del grupo D junto con Baja California y Nayarit, que no renuevan poderes locales este año) postergarán la posibilidad de reeleción consecutiva ([[file:./2017-05-20-magar-instituciones.org][aquí]] las instituciones). 
 
-Hago notar el uso del condicional en el párrafo anterior, que no es casual: podría haber un ocupante en la boleta. Y es que la reelección consecutiva enfrenta dos obstáculos que no pueden soslayarse: el desinterés y el llamado candado partidista (para más detalles, vea Magar y Moreno). El desinterés en cuestion afectaría a los políticos, que bien podrían tener escasa /ambición estática/ (Schelsinger). Si asi fuera, serían pocos quienes desearían hacer carrera política representano a los mismos ciudadanos consecutivamente, como ocurre a menudo en varias naciones del continente (Micozzi). 
+Hago notar el uso del condicional en el párrafo anterior, que no es casual: podría haber un ocupante en la boleta. Y es que la reelección consecutiva enfrenta dos obstáculos que no pueden soslayarse: el desinterés y el llamado candado partidista. El desinterés en cuestion afectaría a los políticos, que bien podrían tener escasa /ambición estática/ (Schelsinger 1966). Si asi fuera, los deseosos de hacer carrera política representando a los mismos ciudadanos consecutivamente serían pocos, como ocurre a menudo en las naciones del continente (Micozzi 2014). 
 
 El otro obstáculo es una restricción constitucional. El candado partidista impide que un ocupante se presente para la reelección a menos que sea el partido que lo eligió quien vuelva a postularlo. Al parecer los reformadores se reservaron la opción de cortarle las alas al representante que cultive el apoyo del municipio o distrito sin atender la férrea disciplina partidista. 
 
@@ -320,8 +321,13 @@ Downs, Anthony. 1973. /Teoría económica de la democracia/. Madrid: Aguilar.
 
 Fiorina, Morris P. 1981. /Retrospective Voting in American National Elections/. New Haven: Yale University Press.
 
+Micozzi, Juan Pablo. 2014. From House to Home: Strategic Bill Drafting in Multilevel Systems with Non-Static Ambition, /Journal of Legislative Studies/ vol. 20 núm. 3.
+
 Popkin, Samuel L. 1991. /The Reasoning Voter: Communication and Persuation in Presidential Campaigns/. Chicago: University of Chicago Press.
 
-[fn:1] Agradezco la asistencia de Camila Blanes, estudiante de ciencia política, para recopilar nombres de los ocupantes de los ayuntamientos de Mexico.
+Schlesinger, Joseph A. 1966. /Ambition and Politics: Political Careers in the United States/. Chicago: Rand McNally. 
+
+
+[fn:1] Agradezco la asistencia de Camila Blanes, estudiante de ciencia política, quien pacientemente recopiló los nombres de los ocupantes de los ayuntamientos de México.
 
 

@@ -1,0 +1,245 @@
+#+TITLE: Mapa local de Morelos 2018
+#+AUTHOR: Eric Magar
+#+DATE:  <2018-01-09>
+#+OPTIONS: toc:nil # don't place toc in default location
+# # will change captions to Spanish, see https://lists.gnu.org/archive/html/emacs-orgmode/2010-03/msg00879.html
+#+LANGUAGE: es 
+
+# style sheet
+#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="../css/stylesheet.css" />
+
+# #+BEGIN_CENTER
+# por
+# 
+# *Alonso Lujambio*[fn:1]
+# #+END_CENTER
+
+#+OPTIONS: broken-links:mark
+
+# #+LINK_UP: index.html
+[[./mapDistritos.org][Arriba/up]]
+
+
+* El mapa
+# Dibujado en 2016, el mapa local que fue inaugurado en la elección de 2017 remplaza al mapa 2014. Su inauguración coincidió con la entrada en vigor de la reelección legislativa consecutiva. La de Coahuila en 2017 fue, de hecho, la primera con ocupantes en la boleta desde los años 1930. 
+
+* Los doce distritos
+:PROPERTIES:
+:CUSTOM_ID: top_subtoc
+:END:
+
+#+BEGIN_subtoc
+#+TOC: headlines 1 local  # place toc here
+#+END_subtoc
+
+** Distrito 1, cabecera Cuernavaca 
+
+#+ATTR_HTML: :style float:left;width:70%;margin=1.5%;
+#+BEGIN_section
+[[file:https://github.com/emagar/mxDistritos/raw/master/mapasComparados/loc/maps/mor1-2.png]]
+#+END_section
+
+# #+ATTR_HTML: :style float:right;width:25%;margin=1.5%;
+#+BEGIN_aside
+#+ATTR_HTML: :style float:right;width:25%;margin=1.5%;
+[[file:https://github.com/emagar/mxDistritos/raw/master/mapasComparados/loc/maps/mor1-1.png]]
+#+END_aside
+
+#+html: <br style="clear:both;" />
+
+# #+ATTR_HTML: :style width:25%;
+# [[file:https://github.com/emagar/mxDistritos/raw/master/mapasComparados/loc/maps/mor1-1.png]]
+
+# #+ATTR_HTML: :style width:70%;
+# [[file:https://github.com/emagar/mxDistritos/raw/master/mapasComparados/loc/maps/mor1-2.png]]
+
+[[#top_subtoc][Indice]]
+--------------------------------------------
+
+** Distrito 2, cabecera Cuernavaca 
+
+#+ATTR_HTML: :style float:left;width:70%;margin=1.5%
+#+BEGIN_section
+[[file:https://github.com/emagar/mxDistritos/raw/master/mapasComparados/loc/maps/mor2-2.png]]
+#+END_section
+
+#+BEGIN_aside
+#+ATTR_HTML: :style float:right;width:25%;margin=1.5%;
+[[file:https://github.com/emagar/mxDistritos/raw/master/mapasComparados/loc/maps/mor2-1.png]]
+#+END_aside
+
+#+html: <br style="clear:both;" />
+
+[[#top_subtoc][Indice]]
+--------------------------------------------
+
+** Distrito 3, cabecera Tepoztlán 
+
+#+ATTR_HTML: :style float:left;width:70%;margin=1.5%;
+#+BEGIN_section
+[[file:https://github.com/emagar/mxDistritos/raw/master/mapasComparados/loc/maps/mor3-2.png]]
+#+END_section
+
+#+BEGIN_aside
+#+ATTR_HTML: :style float:right;width:25%;margin=1.5%;
+[[file:https://github.com/emagar/mxDistritos/raw/master/mapasComparados/loc/maps/mor3-1.png]]
+#+END_aside
+
+#+html: <br style="clear:both;" />
+
+[[#top_subtoc][Indice]]
+--------------------------------------------
+
+** Distrito 4, cabecera Yecapixtla 
+
+#+ATTR_HTML: :style float:left;width:70%;margin=1.5%;
+#+BEGIN_section
+[[file:https://github.com/emagar/mxDistritos/raw/master/mapasComparados/loc/maps/mor4-2.png]]
+#+END_section
+
+#+BEGIN_aside
+#+ATTR_HTML: :style float:right;width:25%;margin=1.5%;
+file:https://github.com/emagar/mxDistritos/raw/master/mapasComparados/loc/maps/mor4-1.png 
+#+END_aside
+
+#+html: <br style="clear:both;" />
+
+[[#top_subtoc][Indice]]
+--------------------------------------------
+
+** Distrito 5, cabecera Temixco 
+
+#+ATTR_HTML: :style float:left;width:70%;margin=1.5%;
+#+BEGIN_section
+[[file:https://github.com/emagar/mxDistritos/raw/master/mapasComparados/loc/maps/mor5-2.png]]
+#+END_section
+
+#+BEGIN_aside
+#+ATTR_HTML: :style float:right;width:25%;margin=1.5%;
+file:https://github.com/emagar/mxDistritos/raw/master/mapasComparados/loc/maps/mor5-1.png
+#+END_aside
+
+#+html: <br style="clear:both;" />
+
+[[#top_subtoc][Indice]]
+--------------------------------------------
+
+** Distrito 6, cabecera Jiutepec 
+
+#+ATTR_HTML: :style float:left;width:70%;margin=1.5%;
+#+BEGIN_section
+[[file:https://github.com/emagar/mxDistritos/raw/master/mapasComparados/loc/maps/mor6-2.png]]
+#+END_section
+
+#+BEGIN_aside
+#+ATTR_HTML: :style float:right;width:25%;margin=1.5%;
+file:https://github.com/emagar/mxDistritos/raw/master/mapasComparados/loc/maps/mor6-1.png
+#+END_aside
+
+#+html: <br style="clear:both;" />
+
+[[#top_subtoc][Indice]]
+--------------------------------------------
+
+** Distrito 7, cabecera Cuautla 
+
+#+ATTR_HTML: :style float:left;width:70%;margin=1.5%;
+#+BEGIN_section
+[[file:https://github.com/emagar/mxDistritos/raw/master/mapasComparados/loc/maps/mor7-2.png]]
+#+END_section
+
+#+BEGIN_aside
+#+ATTR_HTML: :style float:right;width:25%;margin=1.5%;
+file:https://github.com/emagar/mxDistritos/raw/master/mapasComparados/loc/maps/mor7-1.png
+#+END_aside
+
+#+html: <br style="clear:both;" />
+
+[[#top_subtoc][Indice]]
+--------------------------------------------
+
+** Distrito 8, cabecera Xochitepec 
+
+#+ATTR_HTML: :style float:left;width:70%;margin=1.5%;
+#+BEGIN_section
+[[file:https://github.com/emagar/mxDistritos/raw/master/mapasComparados/loc/maps/mor8-2.png]]
+#+END_section
+
+#+BEGIN_aside
+#+ATTR_HTML: :style float:right;width:25%;margin=1.5%;
+file:https://github.com/emagar/mxDistritos/raw/master/mapasComparados/loc/maps/mor8-1.png
+#+END_aside
+
+#+html: <br style="clear:both;" />
+
+[[#top_subtoc][Indice]]
+--------------------------------------------
+
+** Distrito 9, cabecera Puente de Ixtla 
+
+#+ATTR_HTML: :style float:left;width:70%;margin=1.5%;
+#+BEGIN_section
+[[file:https://github.com/emagar/mxDistritos/raw/master/mapasComparados/loc/maps/mor9-2.png]]
+#+END_section
+
+#+BEGIN_aside
+#+ATTR_HTML: :style float:right;width:25%;margin=1.5%;
+file:https://github.com/emagar/mxDistritos/raw/master/mapasComparados/loc/maps/mor9-1.png
+#+END_aside
+
+#+html: <br style="clear:both;" />
+
+[[#top_subtoc][Indice]]
+--------------------------------------------
+
+** Distrito 10, cabecera Ayala 
+
+#+ATTR_HTML: :style float:left;width:70%;margin=1.5%;
+#+BEGIN_section
+[[file:https://github.com/emagar/mxDistritos/raw/master/mapasComparados/loc/maps/mor10-2.png]]
+#+END_section
+
+#+BEGIN_aside
+#+ATTR_HTML: :style float:right;width:25%;margin=1.5%;
+file:https://github.com/emagar/mxDistritos/raw/master/mapasComparados/loc/maps/mor10-1.png
+#+END_aside
+
+#+html: <br style="clear:both;" />
+
+[[#top_subtoc][Indice]]
+--------------------------------------------
+
+** Distrito 11, cabecera Jojutla 
+
+#+ATTR_HTML: :style float:left;width:70%;margin=1.5%;
+#+BEGIN_section
+[[file:https://github.com/emagar/mxDistritos/raw/master/mapasComparados/loc/maps/mor11-2.png]]
+#+END_section
+
+#+BEGIN_aside
+#+ATTR_HTML: :style float:right;width:25%;margin=1.5%;
+file:https://github.com/emagar/mxDistritos/raw/master/mapasComparados/loc/maps/mor11-1.png
+#+END_aside
+
+#+html: <br style="clear:both;" />
+
+[[#top_subtoc][Indice]]
+--------------------------------------------
+
+** Distrito 12, cabecera Yautepec 
+
+#+ATTR_HTML: :style float:left;width:70%;margin=1.5%;
+#+BEGIN_section
+[[file:https://github.com/emagar/mxDistritos/raw/master/mapasComparados/loc/maps/mor12-2.png]]
+#+END_section
+
+#+BEGIN_aside
+#+ATTR_HTML: :style float:right;width:25%;margin=1.5%;
+file:https://github.com/emagar/mxDistritos/raw/master/mapasComparados/loc/maps/mor12-1.png
+#+END_aside
+
+#+html: <br style="clear:both;" />
+
+[[#top_subtoc][Indice]]
+--------------------------------------------
+
