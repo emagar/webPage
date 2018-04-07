@@ -11,7 +11,12 @@
   author: eric.magar
   comments: true
   date:   2017-05-20
-  tags: elecciones, reelección
+  tags:
+    - elecciones
+    - reelección
+    - estados
+  categories:
+    - reeleccion
   ---
 #+end_src
 #+results:
