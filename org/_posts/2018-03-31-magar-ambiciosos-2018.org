@@ -15,6 +15,7 @@
    - reelección
    - alcaldes
    - municipios
+  teaser: /assets/img/reelectMayor2.jpg
   ---
 #+end_src
 #+results:

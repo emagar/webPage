@@ -57,24 +57,24 @@ En construcción.
 El INE preparó mapas para elegir a los diputados de mayoría de los congresos de los estados entre 2015 y 2017. El tiempo dependió del calendario electoral de cada estado. Y, en algunos casos, de sentencias del TEPJF. 
 
 ** Baja California
-[[file:./locBc.org][Mapas]]
+   [[file:./locBc.org][Mapas]]
 
 ** Coahuila
-[[file:./locCoa.org][Mapas]]
+   [[file:./locCoa.org][Mapas]]
 
 ** Colima
-[[file:./locCol.org][Mapas]]
+   [[file:./locCol.org][Mapas]]
 
 [[#top_subtoc][Inicio distritos estatales]]
 --------------------------------------------
 ** Ciudad de México
-[[file:./locDf.org][Mapas]]
+   [[file:./locDf.org][Mapas]]
 
 ** México
-[[file:./locMex.org][Mapas]]
+   [[file:./locMex.org][Mapas]]
 
 ** Morelos
-[[file:./locMor.org][Mapas]]
+   [[file:./locMor.org][Mapas]]
 
 ** Nayarit
 Elige 18 diputados de mayoría. El mapa actual se inauguró en la elección legistativa de 2017. Note como el mapa anterior (en uso desde 2005 por lo menos) tenía distritos no contiguos, apreciables vía el padre de los distritos (p.ej. en el mapa del distrito 13).
@@ -511,9 +511,9 @@ Elige 18 diputados de mayoría. El mapa actual se inauguró en la elección legi
 
 * Municipios
 ** Chiapas
-[[file:./munCps.org][Mapas]]
+   [[file:./munCps.org][Mapas]]
 ** Estado de México
-[[file:./munMex.org][Mapas]]
+   [[file:./munMex.org][Mapas]]
 
 
 # ** Veracruz
