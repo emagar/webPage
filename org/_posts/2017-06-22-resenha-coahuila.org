@@ -14,6 +14,7 @@
    - legislaturas 
    - reelección
    - estados
+  categories: reeleccion
   ---
 #+end_src
 #+results:

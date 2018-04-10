@@ -5,7 +5,7 @@
 #+begin_src yaml :exports results :results value html
   ---
   layout: single
-  title:  Alcaldes y ambición estática en 2018
+  title:  Alcaldes que ambicionan reelegirse en 2018
   subtitle: 
   author: eric.magar
   date:   2018-03-31
@@ -73,7 +73,7 @@ Grupo D. *Renovarán ayuntamientos y congreso sin permitir la reelección consec
    - Puebla
    - Sonora
 
-El grueso del electorado podría tener ocupantes en una, en otra o en ambas boletas electorales locales del 1 de julio (en las federales empezará en 2021). Y el grupo A (en ambas), que incluye 19 estados, es visiblemente el más nutrido de los cuatro. De hecho cinco estados solamente (los tres del grupo D junto con Baja California y Nayarit, que no renuevan poderes locales este año) postergarán la posibilidad de reeleción consecutiva ([[file:./2017-05-20-magar-instituciones.org][aquí]] las instituciones). 
+El grueso del electorado podría tener ocupantes en una, en otra o en ambas boletas electorales locales del 1 de julio (en las federales empezará en 2021). Y el grupo A (en ambas), que incluye 19 estados, es visiblemente el más nutrido de los cuatro. De hecho cinco estados solamente (los tres del grupo D junto con Baja California y Nayarit, que no renuevan poderes locales este año) postergarán la posibilidad de reeleción consecutiva ([[jekyll-post:2017-05-20-magar-instituciones.org][aquí]] las instituciones). 
 
 Hago notar el uso del condicional en el párrafo anterior, que no es casualidad: que se pueda no garantiza que habrá un ocupante en la boleta. Y es que la reelección consecutiva enfrenta dos obstáculos que no pueden soslayarse: el desinterés y el llamado candado partidista. El desinterés en cuestion afectaría a los políticos, que bien podrían tener escasa /ambición estática/ (Schlesinger 1966). Si asi fuera, los deseosos de hacer carrera política representando a los mismos ciudadanos consecutivamente serían pocos, como ocurre a menudo en las naciones del continente (Micozzi 2014). 
 
@@ -83,7 +83,7 @@ Juntos, los obstáculos abren la posibilidad de que las boletas queden desiertas
 
 * Alcaldes con ambición estática
 
-El resto del texto rastrea evidencia de ambición estática entre alcaldes. Por esto tomaré en cuenta solamente estados con reelección municipal consecutiva este año (los grupos A y B). De los 22 estados en estos dos grupos he podido investigar quince hasta el momento. Una búsqueda rápida en google arrojó los nombres de 176 alcaldes que han manifestado interés por repetir consecutivamente en el cargo. No se trata sólo de quienes dijeron quererlo (el número sería mayor), sino de quieres han registrado su candidatura ante la autoridad electoral del estado y del partido (no todos han solicitado licencia del cargo porque ese requisito no es universal, vea [[file:./2018-01-29-adol-juanramon-licencias.org][esto]]). En tanto los partidos estatales no decidan sus listas definitivas aspirantes no habrá seguridad de cuántos alcaldes con ambición estática habrán superado el filtro partidista. Pero el inminente arranque de las campañas electorales sugiere que conoceremos las listas en la primera quincena de abril. 
+El resto del texto rastrea evidencia de ambición estática entre alcaldes. Por esto tomaré en cuenta solamente estados con reelección municipal consecutiva este año (los grupos A y B). De los 22 estados en estos dos grupos he podido investigar quince hasta el momento. Una búsqueda rápida en google arrojó los nombres de 176 alcaldes que han manifestado interés por repetir consecutivamente en el cargo. No se trata sólo de quienes dijeron quererlo (el número sería mayor), sino de quieres han registrado su candidatura ante la autoridad electoral del estado y del partido (no todos han solicitado licencia del cargo porque ese requisito no es universal, vea [[jekyll-post:2018-01-29-adol-juanramon-licencias.org][esto]]). En tanto los partidos estatales no decidan sus listas definitivas aspirantes no habrá seguridad de cuántos alcaldes con ambición estática habrán superado el filtro partidista. Pero el inminente arranque de las campañas electorales sugiere que conoceremos las listas en la primera quincena de abril. 
 
 #+CAPTION: Alcaldes de 15 estados que se registraron para contender por la reelección (hasta el 27 de marzo 2018). /Fuentes/: preparado por el autor con información de [[http://www.alcaldesdemexico.com]] y páginas de internet de diversos diarios locales.
 #+NAME:   tab:1

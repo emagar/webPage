@@ -13,6 +13,7 @@
   tags: 
    - reelección
    - libros
+  categories: reeleccion
   classes: wide
   ---
 #+end_src

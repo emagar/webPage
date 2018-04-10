@@ -8,15 +8,16 @@
   layout: single
   title:  La redistritación de 1928
   subtitle: Pieza faltante de la construcción del Estado moderno mexicano
-  author: Verónica Navarrete Morales, Zabel Revuelta Pineda
+  authors:
+    - vero.navarrete
+    - zabel
   date:   2018-01-23
   comments: true
   tags: redistritación, reapportionment
+  categories: redistritacion
   ---
 #+end_src
 #+results:
-
-* Introducción
 
 Una tierra poco explorada por los historiadores es la de la representación política en la era posrevolucionaria. El proceso electoral y parlamentario de la época permanecen tras una cortina de humo. Sabemos que la acción y el debate parlamentario fueron muy ricos en los años veinte y marcaron pautas importantes en la construcción del Estado moderno Mexicano. Sin embargo, es hasta recientemente cuando han aparecido trabajos que estudian este pedazo olvidado de la historia, y aún así, nuestro conocimiento empírico de estos procesos sigue siendo, en palabras de Molinar y Weldon, "parco y limitado". 
 
@@ -211,6 +212,6 @@ Reavivar el debate de la redistritación y la reelección en nuestro país, podr
 - Godoy, L. F. (2014). Reelección en la Cámara de Diputados, 1917-1933. Federalismo y Ambición Política. Ciudad de México: Instituto Tecnológico Autónomo de México.
 - Marván, I., Puente, K., & Casar, M. A. (2010). La rendición de cuentas y el poder legislativo. Ciudad de México: Centro de Investigación y Docencia Económicas, División de Administración Pública.
 - Young, P. H. (2004). Fairness in Aportionment. Census Bureau Symposium. Johns Hopkins University & The Brookings Institution.
-- Weldon, Jeffrey A. (2003) El Congreso, las maquinarias políticas locales y el "Maximato": las reformas no-reeleccionista de 1933. El Legislador a examen. FCE - Cámara de Diputados. 
+- Weldon, J. A. (2003) El Congreso, las maquinarias políticas locales y el "Maximato": las reformas no-reeleccionista de 1933. El Legislador a examen. FCE y Cámara de Diputados. 
 
-[fn:1] /Diario de Debates/, Legislatura XXVII-Año I-Periodo Ordinario, Fecha 19181216, Número de Diario 99.
+[fn:1] /Diario de Debates/, Legislatura XXVII-Año I-Periodo Ordinario, Fecha 1918-12-16, Número de Diario 99.

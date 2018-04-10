@@ -17,15 +17,16 @@
     - mapas
   categories:
     - mapas
+  categories: mapas
   ---
 #+end_src
 #+results:
 
+/Todos los estados del país estrenan mapa para elegir sus diputados de distrito. Retratamos algunos de ellos./
+
 #+BEGIN_subtoc
 #+TOC: headlines 1  # place toc here
 #+END_subtoc
-
-/Todos los estados del país estrenan mapa para elegir sus diputados de distrito. Retratamos algunos de ellos./
 
 * Presentación
 
@@ -59,24 +60,24 @@ En construcción.
 El INE preparó mapas para elegir a los diputados de mayoría de los congresos de los estados entre 2015 y 2017. El tiempo dependió del calendario electoral de cada estado. Y, en algunos casos, de sentencias del TEPJF. 
 
 ** Baja California
-   [[file:./2018-01-10-locBc.org][Mapas]]
+   [[jekyll-post:2018-01-10-locBc.org][Mapas]]
 
 ** Coahuila
-   [[file:./2018-01-10-locCoa.org][Mapas]]
+   [[jekyll-post:2018-01-10-locCoa.org][Mapas]]
 
 ** Colima
-   [[file:./2018-01-10-locCol.org][Mapas]]
+   [[jekyll-post:2018-01-10-locCol.org][Mapas]]
 
 [[#top_subtoc][Inicio distritos estatales]]
 --------------------------------------------
 ** Ciudad de México
-   [[file:./2018-01-10-locDf.org][Mapas]]
+   [[jekyll-post:2018-01-10-locDf.org][Mapas]]
 
 ** México
-   [[file:./2018-01-10-locMex.org][Mapas]]
+   [[jekyll-post:2018-01-10-locMex.org][Mapas]]
 
 ** Morelos
-   [[file:./2018-01-10-locMor.org][Mapas]]
+   [[jekyll-post:2018-01-10-locMor.org][Mapas]]
 
 ** Nayarit
 Elige 18 diputados de mayoría. El mapa actual se inauguró en la elección legistativa de 2017. Note como el mapa anterior (en uso desde 2005 por lo menos) tenía distritos no contiguos, apreciables vía el padre de los distritos (p.ej. en el mapa del distrito 13).
@@ -513,9 +514,9 @@ Elige 18 diputados de mayoría. El mapa actual se inauguró en la elección legi
 
 * Municipios
 ** Chiapas
-   [[file:./2018-01-10-munCps.org][Mapas]]
+   [[jekyll-post:2018-01-10-munCps.org][Mapas]]
 ** Estado de México
-   [[file:./2018-01-10-munMex.org][Mapas]]
+   [[jekyll-post:2018-01-10-munMex.org][Mapas]]
 
 # ** Veracruz
 # De Templo Mayor 10-1-2018

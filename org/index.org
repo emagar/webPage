@@ -3,14 +3,13 @@
 #+begin_src yaml :exports results :results value html
   ---
   layout: home
+  excerpt: "Lo bueno, lo malo y lo feo de la democracia en México" # "Votos y vetos"
   header: 
     #image: /assets/img/mexico-screen.jpg
     overlay_image: /assets/img/roman-election-wide.png
     overlay_filter: rgba(128, 128, 128, 0.6)
-    excerpt: "Votos y vetos"
     show_overlay_excerpt: true
-    image_description: "Un romano vota en una de las asambleas, 63 AC"
-    caption: "Foto: [*CNG, Inc.*](http://www.cngcoins.com/Coin.aspx?CoinID=96939# CNG coins) via Wikimedia Commons"
+    caption: "Un romano vota en una asamblea, 63 a.C. Foto: [*CNG, Inc.*](http://www.cngcoins.com/Coin.aspx?CoinID=96939# CNG coins) via Wikimedia Commons"
   ---
 #+end_src
 #+results:

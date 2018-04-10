@@ -15,6 +15,7 @@
   tags:
     - reelección
     - opinión pública
+  categories: encuestas
   ---
 #+end_src
 #+results:

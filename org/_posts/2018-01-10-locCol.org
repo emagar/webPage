@@ -16,6 +16,8 @@
    - redistritación
    - elecciones
    - mapas
+  categories: mapas
+  hidden: true
   ---
 #+end_src
 #+results:

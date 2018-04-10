@@ -11,9 +11,10 @@
   date:   2017-06-24
   last_modified_at: 2018-04-01
   tags: 
-   - legislaturas
-   - alcaldes
-   - reelección
+    - legislaturas
+    - alcaldes
+    - reelección
+  categories: reeleccion
   ---
 #+end_src
 #+results:

@@ -9,13 +9,16 @@
   subtitle: 
   author-profile: false
   date:   2017-08-29
-  last_modified_at: 2018-04-01
+  last_modified_at: 2018-04-10
   tags: 
    - reelección
    - tesis
+  categories: reeleccion
   ---
 #+end_src
 #+results:
+
+Algunas tesis de interés para estudiar la reelección consecutiva y su prohibición en México.
 
 * Doctorales
 

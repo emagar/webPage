@@ -11,6 +11,7 @@
   comments: true
   date:   2017-11-22
   tags: reelección, licencias, SCJN
+  categories: jueces
   ---
 #+end_src
 #+results:
@@ -74,7 +75,7 @@ Como puede observarse los Ministros hicieron un estudio a profundidad sobre la p
 
 La decisión sobre la Acción de Inconstitucionalidad 50/2017 significó la primera en su tipo para normatividad electoral local, por lo que sienta un precedente claro para otras legislaturas que también consideran las licencias obligatorias (p.e. Aguascalientes) (insertar link al trabajo de José Ramón). 
 
-Como analiza en el texto (link al texto EN CONSTRUCCION de Adolfo y José Ramón) existen una serie de distintas provisiones sobre las licencias en casos de reelección para distintos Estados de la República. Desde la exigencia en todos sus niveles, pasando por la exigencia a algunos funcionarios, la opción voluntaria de pedir licencia y terminando con la no exigencia en lo absoluto. La AI estudiada, aunque no es un criterio obligatorio para decidir futuros litigios similares por parte de la SCJN, sí es indicativa del razonamiento del Máximo Tribunal al respecto y tendrían que forjar nuevos razonamientos e informaciones para revertir el sentido de la decisión. Además que aunque la jurisprudencia no es del todo claro, los más recientes criterios parecen apuntar a que la jurisprudencia derivada de Acciones de Inconstitucionalidad si es vinculante para casos similares que pudieran presentarse mediante un JPPDPE ante el TEPJF; por ejemplo, un diputado en un Estado x con una legislación similar a la del Estado de Yucatán.
+Como analiza [[jekyll-post:2018-01-29-adol-juanramon-licencias.org][este]] texto, existen una serie de distintas provisiones sobre las licencias en casos de reelección para distintos Estados de la República. Desde la exigencia en todos sus niveles, pasando por la exigencia a algunos funcionarios, la opción voluntaria de pedir licencia y terminando con la no exigencia en lo absoluto. La AI estudiada, aunque no es un criterio obligatorio para decidir futuros litigios similares por parte de la SCJN, sí es indicativa del razonamiento del Máximo Tribunal al respecto y tendrían que forjar nuevos razonamientos e informaciones para revertir el sentido de la decisión. Además que aunque la jurisprudencia no es del todo claro, los más recientes criterios parecen apuntar a que la jurisprudencia derivada de Acciones de Inconstitucionalidad si es vinculante para casos similares que pudieran presentarse mediante un JPPDPE ante el TEPJF; por ejemplo, un diputado en un Estado x con una legislación similar a la del Estado de Yucatán.
 
 La AI estudiada deja clara la postura de la Corte para funcionarios que persiguen la reelección para el mismo puesto, sin embargo, falta por conocer el criterio que guarde para funcionarios que busquen saltar de un puesto a otro. Aunque es fácil intuir, por ejemplo, de las intervenciones de las Ministra Margarita Luna Ramos y Norma Lucía Piña, que este tipo de reelección indirecta no es tan bien vista y respaldada por los mismos principios.
 

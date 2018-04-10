@@ -15,6 +15,7 @@
     - cuotas de género
     - ambición
     - reelección consecutiva
+  categories: reeleccion
   ---
 #+end_src
 #+results:

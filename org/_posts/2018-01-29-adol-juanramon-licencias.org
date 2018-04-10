@@ -12,15 +12,18 @@
   comments: true
   date:   2018-01-29
   tags: reelección, licencias, estados
+  categories: reeleccion
   ---
 #+end_src
 #+results:
+
+Algunos alcaldes y legisladores no deberán separarse del cargo para aspirar a reelegirse. Otros sí.
 
 |---------------+----------------------------------------------------------------+--------------|
 | $\rightarrow$ | [[file:../_data/instLics.xlsx][Obtén *aquí* la base de datos de este artículo (formato excel)]] | $\leftarrow$ |
 |---------------+----------------------------------------------------------------+--------------|
 
-Pensemos en las elecciones de 2024. Ese año, todos los ocupantes de ayuntamientos (excepto en Hidalgo y Veracruz, vea [[file:./instituciones.org][esto]]) y diputaciones locales cuyos periodos concluyan, así como los diputados federales y senadores, estarán legalmente habilitados para competir por la reelección consecutiva. Aunque se trata de algo común en las democracias del mundo, será la primera vez en casi un siglo que esto ocurra en México. Sin embargo, hay una particularidad en esta institución que promete crear fricciones y tensiones en el proceso: la licencia. Contra la lógica y la práctica en el resto del mundo, más de la mitad de los ocupantes estarán obligados a pedir licencia de su cargo para$\ldots$ reelegirse en ese puesto. Exploramos en este texto la separación del cargo y la reelección consecutiva a nivel subnacional. Describimos su estructura legal, sus posibles efectos y sus áreas de oportunidad.
+Pensemos en las elecciones de 2024. Ese año, todos los ocupantes de ayuntamientos (excepto en Hidalgo y Veracruz, vea [[jekyll-post:2017-05-20-magar-instituciones.org][esto)]] y diputaciones locales cuyos periodos concluyan, así como los diputados federales y senadores, estarán legalmente habilitados para competir por la reelección consecutiva. Aunque se trata de algo común en las democracias del mundo, será la primera vez en casi un siglo que esto ocurra en México. Sin embargo, hay una particularidad en esta institución que promete crear fricciones y tensiones en el proceso: la licencia. Contra la lógica y la práctica en el resto del mundo, más de la mitad de los ocupantes estarán obligados a pedir licencia de su cargo para$\ldots$ reelegirse en ese puesto. Exploramos en este texto la separación del cargo y la reelección consecutiva a nivel subnacional. Describimos su estructura legal, sus posibles efectos y sus áreas de oportunidad.
 
 * Para muestra, un botón
 
@@ -37,7 +40,7 @@ El caso de Guanajuato, con inconsistencias lógicas y lagunas legales, se replic
 
 En general, la reelección puede mejorar de manera importante el sistema político en el que se implementa. Se le da al político la posibilidad de alargar indefinidamente sus expectativas de permanencia en el puesto siempre que logre mantener el beneplácito de su electorado, con lo cual se le otorga al votante un grado importantísimo de poder sobre la carrera de su representante. Esto, en consecuencia, acaba aumentando las probabilidades de rendición de cuentas y de cercanía del gobernante hacia los gobernados.
 
-En el caso mexicano, la reelección fue pensada con varios "candados". El más comentado hasta ahora ha sido el llamado candado partidista: en general, un ocupante puede contender por permanecer en su puesto sólo si es postulado por el mismo partido que lo apoyó la primera vez. También está el límite en el número de periodos que un individuo puede permanecer en su puesto. Sin embargo, igual de preocupante es el requisito de pedir licencia para participar en la carrera electoral, obstáculo que no ha recibido la misma cobertura de analistas y comentaristas que los dos anteriores. Pero incluso ha llegado a la Suprema Corte (vea [[./catanhoLicenciasYuc.org][esto]]).
+En el caso mexicano, la reelección fue pensada con varios "candados". El más comentado hasta ahora ha sido el llamado candado partidista: en general, un ocupante puede contender por permanecer en su puesto sólo si es postulado por el mismo partido que lo apoyó la primera vez. También está el límite en el número de periodos que un individuo puede permanecer en su puesto. Sin embargo, igual de preocupante es el requisito de pedir licencia para participar en la carrera electoral, obstáculo que no ha recibido la misma cobertura de analistas y comentaristas que los dos anteriores. Pero incluso ha llegado a la Suprema Corte (vea [[jekyll-post:2017-11-22-catanho-licencias-yuc.org][esto]]).
 
 * Variación institucional
 

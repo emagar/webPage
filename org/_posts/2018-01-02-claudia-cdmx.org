@@ -1,5 +1,4 @@
 #+STARTUP: showall
-# #+TITLE: La redistritación de 1928, pieza faltante de la construcción del Estado moderno mexicano
 #+OPTIONS: toc:nil
 # # will change captions to Spanish, see https://lists.gnu.org/archive/html/emacs-orgmode/2010-03/msg00879.html
 #+LANGUAGE: es 
@@ -11,6 +10,7 @@
   date:   2018-01-02
   comments: true
   tags: redistritación, reapportionment
+  categories: redistritacion
   ---
 #+end_src
 #+results:
@@ -158,6 +158,6 @@ Contrario a lo discutido en diversos medios de comunicación, el proceso de redi
 
 [fn:5] Instituto Electoral de la Ciudad de México. 2017. "Consulta del Marco Geográfico Electoral 2017-2018". Consultado el 12 de Diciembre de 2017 http://portal.iedf.org.mx/MGE2017-2018/index.php.
 
-[fn:6] Todos los mapas gráficos aquí presentados fueron elaborados por Eric Magar Meurs (otros pueden consultarse [[./mapaDistritos.org][aquí]]). 
+[fn:6] Todos los mapas gráficos aquí presentados fueron elaborados por Eric Magar Meurs (otros pueden consultarse [[jekyll-post:2017-12-20-map-distritos.org][aquí]]). 
 
 

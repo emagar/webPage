@@ -17,6 +17,9 @@
     - estados
   categories:
     - reeleccion
+  categories: 
+    - jueces
+    - indigenas
   ---
 #+end_src
 #+results:

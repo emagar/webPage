@@ -14,6 +14,7 @@
     - SCJN
     - indígenas
     - usos y costrumbres
+  categories: jueces
   ---
 #+end_src
 #+results:
