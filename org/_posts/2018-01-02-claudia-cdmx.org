@@ -15,7 +15,7 @@
 #+end_src
 #+results:
 
-El 31 de Enero de 2017, el entonces Distrito Federal obtuvo un triunfo más en su batalla milenaria de independencia: la aprobación de una constitución propia, con la cual oficialmente se convirtió en la Ciudad de México. Promulgada en el centenario de la federal de 1917, la nueva constitución incluyó múltiples modificaciones y atribuciones, algunas de las cuales resultaron ser bastante controversiales. Entre ellas se puede incluir a la resolución para reducir 40 a 33 el número de distritos legislativos. Aunque la nueva Asamblea Legislativa de la Ciudad de México contará con el mismo número de representantes que la del Distrito Federal---sesenta y seis---la proporción de representantes elegidos por el principio de mayoría relativa será ahora igual a la de los elegidos por representación proporcional. 
+El 31 de enero de 2017, el entonces Distrito Federal obtuvo un triunfo más en su batalla milenaria de independencia: la aprobación de una constitución propia, con la cual oficialmente se convirtió en la Ciudad de México. Promulgada en el centenario de la federal de 1917, la nueva constitución incluyó múltiples modificaciones y atribuciones. Algunas resultaron ser bastante controversiales. Entre ellas se puede incluir a la resolución para reducir 40 a 33 el número de distritos legislativos. Aunque la nueva Asamblea Legislativa de la Ciudad de México contará con el mismo número de representantes que la del Distrito Federal---sesenta y seis---la proporción de representantes elegidos por el principio de mayoría relativa será ahora igual a la de los elegidos por representación proporcional. 
 
 Al interior de la ALDF, la medida dejó inconforme a no pocos diputados locales. Quienes mostraron su disgusto con mayor intensidad fueron los miembros de la bancada de Morena, que incluso iniciaron una acción de inconstitucionalidad frente a la Suprema Corte de Justicia de la Nación en contra de la medida de redistritación. Muchas fueron las razones aducidas detrás de las inconformidades pero, ¿Cuál es la verdadera historia detrás de los distritos? ¿Quiénes desaparecieron? ¿Qué consecuencias tuvieron? 
 
@@ -85,27 +85,27 @@ La interpretación de los resultados resulta muy intuitiva. Si se obtiene un RRI
 
 #+CAPTION: Sobre- y sub-representación en el mapa 2018
 #+NAME:   tab:4
-| RRI        | N. de distritos | Población distrital media |
-|------------+-----------------+---------------------------|
-| $<1$       |              12 | 295,408                   |
+| RRI         | N. de distritos | Población distrital media |
+|-------------+-----------------+---------------------------|
+| $<1$        |              12 | 295,408                   |
 | $\approx 1$ |               5 | 268,487                   |
-| $>1$       |              16 | 255,869                   |
+| $>1$        |              16 | 255,869                   |
 
 Tal y como lo describe la Tabla [[tab:4]], hay un importante grado de malapportionment entre los 33 nuevos distritos de la CMDX. Sólo 5 distritos cuentan con una distribución óptima entre representantes y representados, mientras que paradójicamente, 12 no cuentan con el número suficiente de representantes y 16 cuentan con demasiados representados.
 
 #+CAPTION: Sobre- y sub-representación en el mapa 2015
 #+NAME:   tab:5
-| RRI        | N. de distritos | Población distrital media |
-|------------+-----------------+---------------------------|
-| $<1$       |              20 | 295,408                   |
+| RRI         | N. de distritos | Población distrital media |
+|-------------+-----------------+---------------------------|
+| $<1$        |              20 | 295,408                   |
 | $\approx 1$ |               2 | 268,487                   |
-| $>1$       |              18 | 255,869                   |
+| $>1$        |              18 | 255,869                   |
 
 Sin embargo, esta nueva realidad no resulta tan grave si se compara el grado previo de malapportionment que existía entre los 40 distritos del Distrito Federal, replflejado en la Tabla [[tab:5]]. Los resultados son alarmantes y dan crédito a las quejas de los habitantes del Distrito Federal sobre la calidad de la representación. Solo 2 distritos cuentan con la distribución ideal de representados y representantes, mientras que 20 se encuentran subrepresentados y 18 sobrerrepresentados.
 
 #+CAPTION: El índice de representación relativa (RRI) de tres mapas de la CdMx
 #+NAME:   fig:1
-[[file:../img/RRIs2018CdMx.png]]
+[[file:../assets/img/RRIs2018CdMx.png]]
 
 El cálculo del índice de representación relativa, tanto para el nuevo escenario de 33 distritos como para el escenario previo de 40 distritos en 2015, permite observar que en lugar de empeorar el problema de /malapportionment/, la reducción distrital lo mejoró relativamente, algo que se puede observar en la Figura [[fig:1]], la cual muestra cómo es que para el escenario de 33 distritos, comparado con los otros dos de 40 distritos, el RRI se mantiene entre 1 y 1.1
 
@@ -118,7 +118,7 @@ Resulta interesante también, discutir ciertos casos particulares, especialmente
 #+CAPTION: Mapa
 #+NAME:   fig:2
 #+ATTR_HTML: style="float:center;"
-#+ATTR_HTML: :width 50%
+#+ATTR_HTML: :width 100%
 [[file:https://github.com/emagar/mxDistritos/raw/master/mapasComparados/loc/maps/df26-2.png]]
 
 Es bien conocido que Coyoacán tradicionalmente ha sido una delegación de izquierda, ya sea del PRD o de Morena, mientras que Benito Juárez lo ha sido del PAN. Resulta interesante entonces, utilizando las simulaciones, conocer cuál podría ser el posible desenlace de victoria en el nuevo distrito XXVI, es decir, si la fraccionalización del viejo distrito terminó por beneficiar a la izquierda o al PAN. Efectivamente, se puede observar a través de las simulaciones que en 2018, en el nuevo distrito XXVI el PAN obtiene la victoria. Esto no resulta tan sorpresivo si se considera que el PAN ya había logrado una victoria sobre este distrito en 2015, aun cuando no era compartido con la delegación Benito Juárez, sin embargo, sí resulta interesante notar que mientras que en 2015 el PAN triunfó sobre Morena con un margen del 1% de los votos, mientras que después de la redistritación, la simulación arroja un margen del 8%.
@@ -126,7 +126,7 @@ Es bien conocido que Coyoacán tradicionalmente ha sido una delegación de izqui
 #+CAPTION: Mapa
 #+NAME:   fig:3
 #+ATTR_HTML: style="float:center;"
-#+ATTR_HTML: :width 50%
+#+ATTR_HTML: :width 100%
 [[file:https://github.com/emagar/mxDistritos/raw/master/mapasComparados/loc/maps/df13-2.png]]
 
 Otro caso notable es el del antiguo distrito VIII, perteneciente a una parte de la delegación Miguel Hidalgo y que desapareció en el proceso de redistritación para unirse al nuevo distrito XIII que ahora abarca casi por completo a la delegación Miguel Hidalgo, dicha modificación se puede observar gráficamente en la Figura [[fig:3]].
@@ -138,7 +138,7 @@ Un último caso notable es también el del antiguo distrito XXV de la delegació
 #+CAPTION: Mapa
 #+NAME:   fig:4
 #+ATTR_HTML: style="float:center;"
-#+ATTR_HTML: :width 50%
+#+ATTR_HTML: :width 100%
 [[file:https://github.com/emagar/mxDistritos/raw/master/mapasComparados/loc/maps/df20-2.png]]
 
 Esta modificación parece traer consigo beneficios para el principal contrincante del PRD en dicho distrito, Morena. Ya en 2015, Morena había logrado la candidatura a la ALDF por el distrito XXV pero por un margen de votos cerrado, 0.06%. Después de la modificación, se logra eliminar votantes pro PRD de la demarcación que ahora serán parte de un distrito, el XX donde el PRI triunfa por márgenes del casi 10%. En efecto, las simulaciones para 2018 indican que el PRI triunfará en el nuevo distrito XX y que los dos distritos restantes para la delegación Álvaro Obregón, el XVIII y el XXIII, estarán fuertemente disputados por Morena.
@@ -158,6 +158,6 @@ Contrario a lo discutido en diversos medios de comunicación, el proceso de redi
 
 [fn:5] Instituto Electoral de la Ciudad de México. 2017. "Consulta del Marco Geográfico Electoral 2017-2018". Consultado el 12 de Diciembre de 2017 http://portal.iedf.org.mx/MGE2017-2018/index.php.
 
-[fn:6] Todos los mapas gráficos aquí presentados fueron elaborados por Eric Magar Meurs (otros pueden consultarse [[jekyll-post:2017-12-20-map-distritos.org][aquí]]). 
+[fn:6] Todos los mapas gráficos aquí presentados fueron elaborados por Eric Magar Meurs (otros pueden consultarse [[jekyll-post:2017-12-20-map-distritos.org][aquí]]. 
 
 
