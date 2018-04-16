@@ -11,6 +11,7 @@
     - gretel
   comments: true
   date:   2017-07-06
+  last_modified_at: 2018-04-16
   tags: 
     - cuotas de género
     - ambición
@@ -19,9 +20,6 @@
   ---
 #+end_src
 #+results:
-
-
-* Introducción 
 
 Dos instituciones con finalidades completamente distintas ahora existen en el sistema político mexicano: las cuotas de género y la reelección. Por una parte, las cuotas de género fueron establecidas de manera obligatoria por primera vez en el año 2002 con la finalidad de promover y garantizar una mayor participación de las mujeres en la vida política del país.[fn:1] Por otra parte, la reelección para legisladores y alcaldes se introdujo a partir de una reforma constitucional en el año 2014 con la finalidad de profesionalizar la actividad legislativa.[fn:2] Ambas figuras fueron creadas por razones necesarias e imprescindibles en un régimen democrático; sin embargo, a partir de un análisis de las mismas, es posible observar que su coexistencia puede ser conflictiva. Si triunfan más candidatos o candidatas de un sólo género, el partido se enfrentará al siguiente dilema: frustrar la renominación de ciertos candidatos o candidatas de un género para cumplir con el principio de paridad. 
 
@@ -105,26 +103,25 @@ Este ensayo es una pequeña muestra de que en materia electoral, las reglas bás
 
 ** Libros y artículos 
 
-- EGUZKI URTEAGA. 2009. “Las políticas de discriminación positiva”, Revista de Estudios Políticos, Universidad del País Vasco, , https://www.definicionabc.com/social/discriminacion-positiva.php 
+- EGUZKI URTEAGA. 2009. “Las políticas de discriminación positiva”, /Revista de Estudios Políticos/, Universidad del País Vasco, , https://www.definicionabc.com/social/discriminacion-positiva.php 
 
 - FERNÁNDEZ PONCELA, ANNA MARÍA. 2011. "Las cuotas de género y la representación política femenina en México y América Latina”, Scientific Electronic Library Online (SciELO México), http://www.scielo.org.mx/scielo.php?script=sci_arttext&pid=S0187-57952011000200010.
-
 
 - JONI LOVENDUSKI, 2001. "Cambio en la representación política de las mujeres”, Madrid: Políticas de género en la Unión Europea.
 
 - LINE BARREIRO Y CLYDE SOTO. 2000. "Cuota de género", Instituto Interamericano de Derechos Humanos (IIDH), http://iidh.ed.cr10/11/09.
 
-- MARTÍN RODRIGUEZ, EMILIO GERARDO ARRIAGA, MARTHA ISABEL ÁNGELES. 2013 “Cultura democrática de género: discriminación, cuotas de género y simulación”, Espacios Públicos, Universidad Autónoma del Estado de México, http://www.redalyc.org/pdf/676/67629717004.pdf.
+- MARTÍN RODRIGUEZ, EMILIO GERARDO ARRIAGA, MARTHA ISABEL ÁNGELES. 2013 “Cultura democrática de género: discriminación, cuotas de género y simulación”, /Espacios Públicos/, Universidad Autónoma del Estado de México, http://www.redalyc.org/pdf/676/67629717004.pdf.
 
-- MEDINA, A.E. 2014. Reforma político-electoral en México. Apuntes sobre la paridad de género y las reformas político electorales. Ciudad de México. http://www.diputados.gob.mx/sedia/sia/redipal/CRV-VII-25_14.pdf.
+- MEDINA, A.E. 2014. /Reforma político-electoral en México: apuntes sobre la paridad de género y las reformas político electorales/. Ciudad de México. http://www.diputados.gob.mx/sedia/sia/redipal/CRV-VII-25_14.pdf.
 
 - MEDINA ESPINO, ADRIANA. 2010. “La participación política de las mujeres. De las cuotas género a la paridad”, Centro de Estudios para el Adelanto de las Mujeres y la Equidad de Género, , http://www.diputados.gob.mx/documentos/Comite_CEAMEG/Libro_Part_Pol.pdf
 
-- NOLAN, DIETER. 2007. “Reelección”. En Tratado de derecho electoral comparado de América Latina. Compilación por Dieter Nohlen, Dainel Zovatto, Jesús Orozco y José Thompson, México: Fondo de Cultura Económica, p. 287.
+- NOLAN, DIETER. 2007. “Reelección”. En /Tratado de derecho electoral comparado de América Latina/. Compilación por Dieter Nohlen, Dainel Zovatto, Jesús Orozco y José Thompson, México: Fondo de Cultura Económica, p. 287.
 
-- SALAZAR, PEDRO. 2016. Democracia y (cultura de la) legalidad. México: Instituto Nacional Electoral.
+- SALAZAR, PEDRO. 2016. /Democracia y (cultura de la) legalidad/. México: Instituto Nacional Electoral.
 
-- VÁSQUEZ, LUIS DANIEL Y SERRANO, SANDRA. 2013. “Principios y obligaciones de derechos humanos: los derechos humanos en acción”. En Metodología para la enseñanza de la reforma constitucional en materia de derechos humanos. México: Suprema Corte de Justicia de la Nación (SCJN), Oficina en México del Alto Comisionado de las Naciones Unidas para los Derechos Humanos (OACNUDH) y Comisión de Derechos Humanos del Distrito Federal (CDHDF)
+- VÁSQUEZ, LUIS DANIEL Y SERRANO, SANDRA. 2013. “Principios y obligaciones de derechos humanos: los derechos humanos en acción”. En /Metodología para la enseñanza de la reforma constitucional en materia de derechos humanos/. México: Suprema Corte de Justicia de la Nación (SCJN), Oficina en México del Alto Comisionado de las Naciones Unidas para los Derechos Humanos (OACNUDH) y Comisión de Derechos Humanos del Distrito Federal (CDHDF).
 
 ** Bases de datos
 
@@ -132,12 +129,12 @@ Este ensayo es una pequeña muestra de que en materia electoral, las reglas bás
 
 ** Entrevistas
 
-- [[./entrevSilis.org][Arturo Espinosa Silis]]
-- [[./entrevHdzCruz.org][Armando Hernández Cruz]]
-- [[./entrevMicozzi.org][Juan Pablo Micozzi]]
-- [[./entrevNavarro.org][Fabiola Navarro]]
-- [[./entrevRaigosa.org][Luis Raigosa]]
-- [[./entrevVives.org][Horacio Vives]]
+- [[jekyll-post:2017-06-26-entrevSilis.org][Arturo Espinosa Silis]]
+- [[jekyll-post:2017-06-26-entrevHdzCruz.org][Armando Hernández Cruz]]
+- [[jekyll-post:2017-06-26-entrevMicozzi.org][Juan Pablo Micozzi]]
+- [[jekyll-post:2017-06-26-entrevNavarro.org][Fabiola Navarro]]
+- [[jekyll-post:2017-06-26-entrevRaigosa.org][Luis Raigosa]]
+- [[jekyll-post:2017-06-26-entrevVives.org][Horacio Vives]]
 
 ** Tratados, leyes y decretos
 
