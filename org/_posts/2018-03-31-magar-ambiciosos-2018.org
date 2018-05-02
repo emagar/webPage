@@ -221,7 +221,6 @@ De modo que la alcaldesa Arce Peralta enfrenta un posible veto absoluto --- si e
 | jal | Tlaquepaque            | MARIA ELENA LIMON GARCIA         | mc                        | sí    |
 | jal | Tuxcueca               | CUAUHTEMOC SOSA CARDENAS         | mc                        | no    |
 | jal | Zapopan                | JESUS PABLO LEMUS NAVARRO        | mc                        | no    |
-| jal | Zapopan                | JESUS PABLO LEMUS NAVARRO        | mc                        | no    |
 | jal | Zapotlanejo            | HECTOR ALVAREZ CONTRERAS         | mc                        | no    |
 |-----+------------------------+----------------------------------+---------------------------+-------|
 | mex | Amatepec               | JOSE FELIX GALLEGOS HERNANDEZ    | prd                       | no    |

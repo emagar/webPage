@@ -1,0 +1,46 @@
+#+STARTUP: showall
+#+OPTIONS: toc:nil
+# # will change captions to Spanish, see https://lists.gnu.org/archive/html/emacs-orgmode/2010-03/msg00879.html
+#+LANGUAGE: es 
+#+begin_src yaml :exports results :results value html
+  ---
+  layout: single
+  title:  Doce libros políticos memorables
+  subtitle: 
+  author: eric.magar
+  date:   2018-04-26
+  last_modified_at: 2018-04-27
+  tags: 
+    - libros de política
+    - novela política
+  teaser: /assets/img/Cesar.jpg
+  ---
+#+end_src
+#+results:
+
+Como trabajo final, mis alumnos de política comparada deberán leer un libro de su elección y reseñarlo. El objetivo es que, en su análisis, elaboren qué puede aportar la política comparada para entender la trama del libro o el argumento del autor, y qué puede enseñarle la obra a un comparativista. 
+
+Aunque los alumnos podrán seleccionar el libro de su preferencia---aceptaré obras de cualquier género---les he dicho que circularé esta lista de libros recomendados. *Las críticas y comentarios son bienvenidos para identificar más y mejores obras.* 
+
+* Política comparada
+- Elinor Ostrom, [[http://wtf.tw/ref/ostrom_1990.pdf][/Governing the Commons/]]. Con trabajo de corte antropológico, la premio Nobel reconstruye docenas de soluciones a los dilemas colectivos que plagan a sociedades de todo el mundo. Contrario a las soluciones jerárquicas que suele estudiar la ciencia política, el trabajo hace hincapié en las versiones más descentralizadas y creativas. 
+- Hendryk Spruyt, [[https://www.goodreads.com/book/show/256816.The_Sovereign_State_and_Its_Competitors][/The Sovereign State and Its Competitors/]]. El estado nación desde la óptica del mecanismo de la selección natural. No fue la única forma de organización política que se contempló para suceder al pacto feudal en Europa. Pero sus ventajas condujeron a la extinción de las alternativas. 
+- James C. Scott, [[https://www.amazon.com/Seeing-like-State-Certain-Condition/dp/0300078153][/Seeing like a State/]]. El estudio de grandiosos planes para mejorar las vidas que fracasaron con estrépito permite al autor identificar los rasgos que comparten.
+
+* Ficción
+- Robert P. Warren, [[https://www.amazon.com.mx/All-Kings-Robert-Penn-Warren/dp/0156012952/ref=sr_1_1?ie=UTF8&qid=1524866821&sr=8-1&keywords=all+the+kings+men][All the King's Men]]. Willie Stark, abogado que defendía las causas de los  (inspirado en Huey Long, gobernador de Luisiana) se alzó contra la élite sureña. El libro narra el ascenso y la consolidación de una exitosa maquinaria populista basada en el clientelismo y la intimidación.
+- Anthony Trollope, [[http://www.gutenberg.org/ebooks/18000][/Phineas Finn/]]. El Parlamento británico visto por un representante irlandés en plena era victoriana. 
+- Elena Garro, [[https://www.amazon.com/Matarazo-No-Llamo-Elena-Garro/dp/9700507246][/Y Matarazo no llamó/]]. En plena crisis de la edad adulta, el personaje se involucra, sin proponérselo, con una huelga obrera y entra al escalofriante mundo de la represión del sindicalismo en México. 
+- Séneca, [[http://www.gutenberg.org/files/10001/10001-h/10001-h.htm][/Apocolocintosis del divino Claudio/]]. Sátira del argumento del Emperador por conseguir status divino tras su muerte. Fracasa cuando los dioses exponen su larga lista de crímenes y múltiples debilidades. 
+
+* Biografía
+- Robert Caro, [[https://sites.google.com/site/kariusbook02/pdf-download-the-power-broker-robert-moses-and-the-fall-of-new-york-urban-studies-biography-by---robert-a-caro-full-books][/The Power Broker/]]. Robert Moses, planificador urbano, dominó la política de Nueva York durante décadas. Su biografía es un magnífico estudio del poder: cómo se construye un imperio, el efecto que tiene en millones de vidas, y la inevitable corrupción humana que todo esto conlleva.
+
+* Clásico
+- Julio César, [[https://latam.casadellibro.com/libro-comentarios-de-la-guerra-de-las-galias/9788467026887/1166984][/La Guerra de las Galias/]]. Magistral recuento de las campañas de mediados del siglo I AC. Entre loas a sus generales, el futuro dictador justifica tamaña licencia que se tomó (el mandato que dio el Senado al Gobernador provincial era aplacar revueltas bárbaras, no establecer el Imperio). Con su estilo escueto demuestró que, además de un olfato político único, Julio César tenía una pluma extraordinaria. 
+
+* Historia
+- James McPherson, [[http://ouleft.org/wp-content/uploads/Battle-Cry-of-Freedom_The-Civil-War-Era.pdf][/The Battlecry of Freedom/]]. Rastrea cómo algunas de las tensiones no resueltas por la constitución de Filadelfia se combinaron con la Guerra México-Americana para desembocar en el conflicto bélico más sanguinario hasta la Primera Guerra Mundial. Con una prosa que atrapa al lector, analiza las pugnas políticas que condujeron a la secesión, las que amenazaron con minar a los gobiernos federal y confederado desde su interior, y las batallas que marcaron el desarrollo de Guerra Civil Americana. 
+- Orlando Figes, [[https://www.amazon.com/Whisperers-Private-Life-Stalins-Russia/dp/0713997028][/The Whisperers/]]. Una historia de la vida en familia en los años del terror de Stalin. Es un proyecto aparentemente imposible porque el régimen quiso extinguir la institución familiar y las fuentes primarias fueron borradas o intencionalmente tergiversadas por la policía secreta (y por la gente común, para reducir la oportunidad de represión). La reconstrucción, a partir de cientos de entrevistas, diarios personales, álbumes fotográficos, y otros mementos familiares ofrece un retrato de la falibilidad humana ante un sistema totalitario.
+- Inga Clendinnen, [[https://www.amazon.com/Aztecs-Interpretation-Inga-Clendinnen/dp/0521485851][/Aztecs, an Interpretation/]]. Una reconstrucción etno-histórica de la estructura social y política mexica a partir del códice florentino.  
+

@@ -21,7 +21,7 @@
 #+end_src
 #+results:
 
-Dos instituciones con finalidades completamente distintas ahora existen en el sistema político mexicano: las cuotas de género y la reelección. Por una parte, las cuotas de género fueron establecidas de manera obligatoria por primera vez en el año 2002 con la finalidad de promover y garantizar una mayor participación de las mujeres en la vida política del país.[fn:1] Por otra parte, la reelección para legisladores y alcaldes se introdujo a partir de una reforma constitucional en el año 2014 con la finalidad de profesionalizar la actividad legislativa.[fn:2] Ambas figuras fueron creadas por razones necesarias e imprescindibles en un régimen democrático; sin embargo, a partir de un análisis de las mismas, es posible observar que su coexistencia puede ser conflictiva. Si triunfan más candidatos o candidatas de un sólo género, el partido se enfrentará al siguiente dilema: frustrar la renominación de ciertos candidatos o candidatas de un género para cumplir con el principio de paridad. 
+Dos instituciones con finalidades completamente distintas ahora existen en el sistema político mexicano: las cuotas de género y la reelección consecutiva. Las cuotas fueron establecidas de manera obligatoria por primera vez en el año 2002 con la finalidad de promover y garantizar una mayor participación de las mujeres en la vida política del país.[fn:1] La reelección para legisladores y alcaldes se introdujo a partir de una reforma constitucional en el año 2014 con la finalidad de profesionalizar la actividad legislativa.[fn:2] Ambas figuras fueron creadas por razones necesarias e imprescindibles en un régimen democrático; sin embargo, a partir de un análisis de las mismas, es posible observar que su coexistencia puede ser conflictiva. Si triunfan más candidatos o candidatas de un sólo género, el partido se enfrentará al siguiente dilema: frustrar la renominación de ciertos candidatos o candidatas de un género para cumplir con el principio de paridad. 
 
 ¿Cómo se debe ponderar entre la de reelección y la paridad de género? Tanto la figura de reelección y el principio de no discriminación encuentran previstos en la Constitución Federal (CPEUM),[fn:3] las constituciones locales[fn:4] y en la Ley General de Instituciones y Procedimientos Electorales (LGIPE);[fn:5] por lo que esta contradicción no se puede resolver a través de la aplicación de los principios de jerarquía normativa.  
 
@@ -129,12 +129,12 @@ Este ensayo es una pequeña muestra de que en materia electoral, las reglas bás
 
 ** Entrevistas
 
-- [[jekyll-post:2017-06-26-entrevSilis.org][Arturo Espinosa Silis]]
-- [[jekyll-post:2017-06-26-entrevHdzCruz.org][Armando Hernández Cruz]]
-- [[jekyll-post:2017-06-26-entrevMicozzi.org][Juan Pablo Micozzi]]
-- [[jekyll-post:2017-06-26-entrevNavarro.org][Fabiola Navarro]]
-- [[jekyll-post:2017-06-26-entrevRaigosa.org][Luis Raigosa]]
-- [[jekyll-post:2017-06-26-entrevVives.org][Horacio Vives]]
+- [[jekyll-post:2017-06-26-entrev-silis.org][Arturo Espinosa Silis]]
+- [[jekyll-post:2017-06-26-entrev-hdz-cruz.org][Armando Hernández Cruz]]
+- [[jekyll-post:2017-06-26-entrev-micozzi.org][Juan Pablo Micozzi]]
+- [[jekyll-post:2017-06-26-entrev-navarro.org][Fabiola Navarro]]
+- [[jekyll-post:2017-06-26-entrev-raigosa.org][Luis Raigosa]]
+- [[jekyll-post:2017-06-26-entrev-vives.org][Horacio Vives]]
 
 ** Tratados, leyes y decretos
 
@@ -158,11 +158,11 @@ Este ensayo es una pequeña muestra de que en materia electoral, las reglas bás
 
 - Corte Interamericana de Derechos Humanos. Caso Atala Riffo y niñas Vs. Chile. Fondo, Reparaciones y Costas. Sentencia de 24 de febrero de 2012. Serie C No. 239
 
-- Corte Interamericana de Derechos Humanos. Caso de los “Niños de la Calle” (Villagrán Morales y otros) Vs. Guatemala. Fondo. Sentencia de 19 de noviembre de 1999. Serie C No. 63.
+- Corte Interamericana de Derechos Humanos. Caso de los “Niños de la Calle” (Villagrán Morales y otros) Vs. Guatemala. Fondo. Sentencia de 19 de noviembre de 1999. Serie C No. 63
 
 - Comité de Derechos Humanos. Observación General 25. Derecho a participar en los asuntos públicos, derecho a votar y derecho al acceso, en condiciones de igualdad a las funciones públicas (art. 25), 57 período de sesiones, U.N. Doc. HRI/GEN/1/Rev.7
 
-- Corte Interamericana. Caso Castañeda Gutman Vs. México. Excepciones Preliminares, Fondo, Reparaciones y Costas. Sentencia de 6 de agosto de 2008. Serie C No. 184.
+- Corte Interamericana. Caso Castañeda Gutman Vs. México. Excepciones Preliminares, Fondo, Reparaciones y Costas. Sentencia de 6 de agosto de 2008. Serie C No. 184
 
 
 
