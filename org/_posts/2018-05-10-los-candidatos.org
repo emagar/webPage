@@ -1,0 +1,29 @@
+#+STARTUP: showall
+#+OPTIONS: toc:nil
+# # will change captions to Spanish, see https://lists.gnu.org/archive/html/emacs-orgmode/2010-03/msg00879.html
+#+LANGUAGE: es 
+#+begin_src yaml :exports results :results value html
+  ---
+  layout: single
+  title:  Los candidatos al Congreso mexicano
+  subtitle: 
+  author: eric.magar
+  date:   2018-05-10
+  last_modified_at: 2018-05-10
+  tags: 
+    - elecciones
+    - congreso
+    - candidatos
+  ---
+#+end_src
+#+results:
+
+/Archivos descargables con el nombre de todos los candidatos a diputado federal y senador./
+
+El INE ofrece un motor para buscar tus candidatos al Congreso federal [[http://candidaturas.ine.mx/][aquí]]. Pero no resulta sencillo obtener un listado comprehensivo de los candidatos para llenar las 500 diputaciones y 128 senadurías. 
+
+Hemos sistematizado la información en archivos descargables (csv separados por comas). Gracias a Camila Blanes. 
+
+- [[https://github.com/emagar/elecRetrns/blob/master/data/dfdfcandidates2015-on.csv][Candidatos a diputado federal 2015 y 2018]]
+- [[https://github.com/emagar/elecRetrns/blob/master/data/seedcandidates2018.csv][Candidatos a senador 2018]]
+
