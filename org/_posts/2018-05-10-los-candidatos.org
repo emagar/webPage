@@ -31,6 +31,8 @@ Hemos sistematizado la información en archivos descargables (csv separados por 
 * Diputados federales 2018
 Esta sección reporta los candidatos propietarios de los 300 distritos y los primeros lugares de las listas plurinominales. 
 
+La *regla de votación* es más o menos como sigue. El elector tiene un solo voto, que le otorga a un partido o coalición de su distrito. El candidato más votado resulta electo. Los votos de cada partido después se suman en toda la circunscripción plurinominal a la que pertenece su estado (hay cinco: 1-noroeste, 2-noreste, 3-sureste, 4-centro-sur y 5-occidente) y éstos se usan para distribuir diputados de representación proporcional (siguiendo el orden de las listas de RP) de modo que la bancada de cada uno se acerque al porcentaje de votos que obtuvo.
+
 ** Aguascalientes
 | distrito | cabecera       | propietario                        | partido       |
 |----------+----------------+------------------------------------+---------------|
@@ -2421,6 +2423,8 @@ Esta sección reporta los candidatos propietarios de los 300 distritos y los pri
 
 Esta sección reporta los candidatos propietarios de los 32 estados y las listas plurinominales. 
 
+La *regla de votación* es más o menos como sigue. El elector tiene un solo voto, que le otorga a un partido o coalición de su estado. El partido/coalición con más votos elige a los dos senadores de su lista; el partido/coalición en segundo lugar de votación elige al candidato número 1 de su lista. Los votos de cada partido después se suman para todo el país y éstos se usan para distribuir senadores de representación proporcional (siguiendo el orden de las listas de RP) de modo que la bancada de cada uno se acerque al porcentaje de votos que obtuvo.
+
 ** Aguascalientes     
 | lista | propietario                                              | partido/coal. |    
 |-------+----------------------------------------------------------+-------------------+
@@ -2814,7 +2818,7 @@ Esta sección reporta los candidatos propietarios de los 32 estados y las listas
 |     2 | VERONICA NOEMI CAMINO FARJAT                             | PRI-PVEM-PANAL    |
 |     1 | HILDA MARIANA CRUZ POOL                                  | MORENA-PT-PES     |
 |     2 | ROGERIO CASTRO VAZQUEZ                                   | MORENA-PT-PES     |
-                                                                                        
+
 ** Zacatecas                                                                            
 | lista | propietario                                              | partido/coal. |    
 |-------+----------------------------------------------------------+-------------------+
@@ -2826,7 +2830,6 @@ Esta sección reporta los candidatos propietarios de los 32 estados y las listas
 |     2 | JOSE NARRO CESPEDES                                      | MORENA-PT-PES     |
 
 ** Listas de representación proporcional
-
 *** PAN
 | lista | propietario                                              |
 |-------+----------------------------------------------------------+
