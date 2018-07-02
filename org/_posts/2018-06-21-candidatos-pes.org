@@ -1,0 +1,380 @@
+#+STARTUP: showall
+#+OPTIONS: toc:nil
+# # will change captions to Spanish, see https://lists.gnu.org/archive/html/emacs-orgmode/2010-03/msg00879.html
+#+LANGUAGE: es 
+#+begin_src yaml :exports results :results value html
+  ---
+  layout: single
+  title:  Los candidatos al Congreso de AMLO
+  subtitle: Consecuencias de las coaliciones electorales 
+  author: eric.magar
+  date:   2018-06-21
+  last_modified_at: 2018-06-21
+  toc: true
+  tags: 
+    - elecciones
+    - congreso
+    - candidatos
+  ---
+#+end_src
+#+results:
+
+/Que no le den gato por liebre: en una cuarta parte de los casos, si vota por la coalición y gana, obtendrá un legislador del PES/
+
+El [[http://repositoriodocumental.ine.mx/xmlui/handle/123456789/95612][acuerdo]] de la coalición /Juntos Haremos Historia/ estableció un reparto que promete ser muy favorable para los socios menores. En 75 distritos federales el candidato a diputado lo postuló el Partido Encuentro Social, en 75 el Partido del Trabajo, y en los 142 restantes lo postuló Morena (en ocho distritos los tres partidos van por separado, no en coalición). En once estados sólo uno de los dos candidatos al Senado es de Morena. 
+
+Si usted simpatiza con AMLO y tiene pensado también votar por sus candidatos al Congreso el 1 de julio, consulte las siguientes listas---y sabrá qué le están ofreciendo. (Puede ubicar su distrito federal [[http://cartografia.ife.org.mx/sige7/?cartografia=mapas][aquí]] y consultar los nombres de los candidatos [[jekyll-post:2018-05-10-los-candidatos.org][aquí]].)
+
+* Diputados federales
+
+** Distritos que postuló el PES 
+
+| Estado           | Distrito | Cabecera                   |
+|------------------+----------+----------------------------|
+| Aguascalientes   |        2 | Aguascalientes             |
+| Baja California  |        6 | Tijuana                    |
+| Baja California  |        8 | Tijuana                    |
+| Coahuila         |        1 | Piedras Negras             |
+| Coahuila         |        2 | San Pedro                  |
+| Coahuila         |        6 | Torreón                    |
+| Coahuila         |        7 | Saltillo                   |
+| Chiapas          |        5 | San Cristóbal de las Casas |
+| Chiapas          |        6 | Tuxtla Gutiérrez           |
+| Chiapas          |        9 | Tuxtla Gutiérrez           |
+| Chiapas          |       11 | Las Margaritas             |
+| Chiapas          |       13 | Huehuetán                  |
+| Chihuahua        |        4 | Juárez                     |
+| Chihuahua        |        8 | Chihuahua                  |
+| Ciudad de México |        1 | Gustavo A. Madero          |
+| Ciudad de México |        4 | Iztapalapa                 |
+| Ciudad de México |        7 | Gustavo A. Madero          |
+| Ciudad de México |        8 | Cuauhtémoc                 |
+| Ciudad de México |       15 | Benito Juárez              |
+| Ciudad de México |       22 | Iztapalapa                 |
+| Durango          |        2 | Gómez Palacio              |
+| Guanajuato       |        3 | León                       |
+| Guanajuato       |        4 | Guanajuato                 |
+| Guanajuato       |        9 | Irapuato                   |
+| Guerrero         |        2 | Iguala                     |
+| Jalisco          |        4 | Zapopan                    |
+| Jalisco          |        6 | Zapopan                    |
+| Jalisco          |       10 | Zapopan                    |
+| Jalisco          |       13 | Tlaquepaque                |
+| Jalisco          |       14 | Guadalajara                |
+| Jalisco          |       15 | La Barca                   |
+| México           |        6 | Coacalco de Berriozábal    |
+| México           |        7 | Cuautitlán Izcalli         |
+| México           |       10 | Ecatepec de Morelos        |
+| México           |       15 | Ciudad Adolfo López Mateos |
+| México           |       21 | Amecameca de Juárez        |
+| México           |       33 | Chalco de Díaz Covarrubias |
+| Michoacán        |        3 | Zitácuaro                  |
+| Michoacán        |        8 | Morelia                    |
+| Morelos          |        1 | Cuernavaca                 |
+| Morelos          |        4 | Jojutla                    |
+| Nayarit          |        2 | Tepic                      |
+| Nuevo León       |        2 | Apodaca                    |
+| Nuevo León       |        4 | San Nicolás de los Garza   |
+| Nuevo León       |        8 | Guadalupe                  |
+| Nuevo León       |       12 | Benito Juárez              |
+| Oaxaca           |        1 | San Juan Bautista Tuxtepec |
+| Oaxaca           |        7 | Ciudad Ixtepec             |
+| Oaxaca           |        8 | Oaxaca                     |
+| Puebla           |        1 | Huauchinango               |
+| Puebla           |        9 | Puebla                     |
+| Puebla           |       10 | Cholula                    |
+| Puebla           |       12 | Puebla                     |
+| Querétaro        |        2 | San Juan del Río           |
+| Querétaro        |        3 | Santiago de Querétaro      |
+| Quintana Roo     |        3 | Cancún                     |
+| San Luis Potosí  |        7 | Tamazunchale               |
+| Sonora           |        1 | San Luis Río Colorado      |
+| Sonora           |        3 | Hermosillo                 |
+| Tabasco          |        1 | Macuspana                  |
+| Tabasco          |        6 | Villahermosa               |
+| Tamaulipas       |        2 | Reynosa                    |
+| Tamaulipas       |        3 | Rio Bravo                  |
+| Tamaulipas       |        4 | Matamoros                  |
+| Tamaulipas       |        5 | Ciudad Victoria            |
+| Tamaulipas       |        8 | Tampico                    |
+| Tlaxcala         |        3 | Zacatelco                  |
+| Veracruz         |        1 | Pánuco                     |
+| Veracruz         |        3 | Tuxpan                     |
+| Veracruz         |        8 | Xalapa                     |
+| Veracruz         |        9 | Coatepec                   |
+| Veracruz         |       18 | Zongolica                  |
+| Veracruz         |       19 | San Andrés Tuxtla          |
+| Yucatán          |        1 | Valladolid                 |
+| Zacatecas        |        1 | Fresnillo                  |
+ 
+** Distritos que postuló el PT
+
+| Estado              | Distrito | Cabecera                            |
+|---------------------+----------+-------------------------------------|
+| Aguascalientes      |        1 | Jesús María                         |
+| Baja California     |        3 | Ensenada                            |
+| Baja California Sur |        2 | San José del Cabo                   |
+| Coahuila            |        3 | Monclova                            |
+| Coahuila            |        4 | Saltillo                            |
+| Colima              |        2 | Manzanillo                          |
+| Chiapas             |        4 | Pichucalco                          |
+| Chiapas             |        7 | Tonalá                              |
+| Chiapas             |        8 | Comitán de Domínguez                |
+| Chiapas             |       10 | Villaflores                         |
+| Chihuahua           |        1 | Juárez                              |
+| Ciudad de México    |        3 | Azcapotzalco                        |
+| Ciudad de México    |        6 | La Magdalena Contreras              |
+| Ciudad de México    |        9 | Tláhuac                             |
+| Ciudad de México    |       13 | Iztacalco                           |
+| Ciudad de México    |       17 | Cuajimalpa de Morelos               |
+| Ciudad de México    |       21 | Xochimilco                          |
+| Ciudad de México    |       23 | Coyoacán                            |
+| Durango             |        1 | Victoria de Durango                 |
+| Durango             |        4 | Victoria de Durango                 |
+| Guanajuato          |       11 | León                                |
+| Guanajuato          |       15 | Irapuato                            |
+| Guerrero            |        1 | Cd. Altamirano                      |
+| Guerrero            |        6 | Chilapa                             |
+| Guerrero            |        7 | Chilpancingo                        |
+| Guerrero            |        9 | Acapulco                            |
+| Jalisco             |        1 | Tequila                             |
+| Jalisco             |        3 | Tepatitlán de Morelos               |
+| Jalisco             |        5 | Puerto Vallarta                     |
+| Jalisco             |       16 | Tlaquepaque                         |
+| México              |        1 | Jilotepec de Andrés Molina Enríquez |
+| México              |        3 | Atlacomulco de Fabela               |
+| México              |        5 | Teotihuacán de Arista               |
+| México              |        9 | San Felipe del Progreso             |
+| México              |       17 | Ecatepec de Morelos                 |
+| México              |       22 | Naucalpan de Juárez                 |
+| México              |       28 | Zumpango de Ocampo                  |
+| México              |       35 | Tenancingo de Degollado             |
+| México              |       39 | Los Reyes Acaquilpan                |
+| México              |       40 | San Miguel Zinacantepec             |
+| Michoacán           |        1 | Lázaro Cárdenas                     |
+| Michoacán           |        2 | Puruándiro                          |
+| Michoacán           |        4 | Jiquilpan de Juárez                 |
+| Michoacán           |        7 | Zacapu                              |
+| Morelos             |        3 | Cuautla                             |
+| Nayarit             |        1 | Santiago Ixcuintla                  |
+| Nuevo León          |        5 | Monterrey                           |
+| Nuevo León          |        6 | Monterrey                           |
+| Nuevo León          |        7 | García                              |
+| Nuevo León          |        9 | Linares                             |
+| Nuevo León          |       11 | Guadalupe                           |
+| Oaxaca              |        3 | Heroica Ciudad de Huajuapan de León |
+| Oaxaca              |        4 | Tlacolula de Matamoros              |
+| Oaxaca              |       10 | Miahuatlán de Porfirio Díaz         |
+| Puebla              |        3 | Teziutlán                           |
+| Puebla              |        5 | San Martín Texmelucan               |
+| Puebla              |        6 | Puebla                              |
+| Puebla              |        7 | Tepeaca                             |
+| Puebla              |       15 | Tehuacán                            |
+| Querétaro           |        5 | El Pueblito                         |
+| Quintana Roo        |        4 | Cancún                              |
+| San Luis Potosí     |        2 | Soledad de Graciano Sánchez         |
+| San Luis Potosí     |        4 | Ciudad Valles                       |
+| Sinaloa             |        1 | Mazatlán                            |
+| Sinaloa             |        3 | Guamuchil                           |
+| Sinaloa             |        4 | Guasave                             |
+| Sonora              |        7 | Navojoa                             |
+| Tamaulipas          |        9 | Reynosa                             |
+| Veracruz            |        7 | Martínez de la Torre                |
+| Veracruz            |       12 | Veracruz                            |
+| Veracruz            |       15 | Orizaba                             |
+| Veracruz            |       20 | Cosoleacaque                        |
+| Yucatán             |        5 | Ticul                               |
+| Zacatecas           |        3 | Zacatecas                           |
+| Zacatecas           |        4 | Guadalupe                           |
+
+** Distritos que postuló Morena
+
+| Estado              | Distrito | Cabecera                      |
+|---------------------+----------+-------------------------------|
+| Aguascalientes      |        3 | Aguascalientes                |
+| Baja California     |        1 | Mexicali                      |
+| Baja California     |        2 | Mexicali                      |
+| Baja California     |        4 | Tijuana                       |
+| Baja California     |        5 | Tijuana                       |
+| Baja California     |        7 | Mexicali                      |
+| Baja California Sur |        1 | La Paz                        |
+| Campeche            |        1 | San Francisco de Campeche     |
+| Campeche            |        2 | Ciudad del Carmen             |
+| Coahuila            |        5 | Torreón                       |
+| Colima              |        1 | Colima                        |
+| Chiapas             |        1 | Palenque                      |
+| Chiapas             |        2 | Bochil                        |
+| Chiapas             |        3 | Ocosingo                      |
+| Chiapas             |       12 | Tapachula                     |
+| Chihuahua           |        2 | Juárez                        |
+| Chihuahua           |        3 | Juárez                        |
+| Chihuahua           |        5 | Delicias                      |
+| Chihuahua           |        6 | Chihuahua                     |
+| Chihuahua           |        7 | Cuauhtémoc                    |
+| Chihuahua           |        9 | Hidalgo del Parral            |
+| Ciudad de México    |        2 | Gustavo A. Madero             |
+| Ciudad de México    |        5 | Tlalpan                       |
+| Ciudad de México    |       10 | Miguel Hidalgo                |
+| Ciudad de México    |       11 | Venustiano Carranza           |
+| Ciudad de México    |       12 | Cuauhtémoc                    |
+| Ciudad de México    |       14 | Tlalpan                       |
+| Ciudad de México    |       16 | Alvaro Obregon                |
+| Ciudad de México    |       18 | Iztapalapa                    |
+| Ciudad de México    |       19 | Iztapalapa                    |
+| Ciudad de México    |       20 | Iztapalapa                    |
+| Ciudad de México    |       24 | Coyoacán                      |
+| Durango             |        3 | Guadalupe Victoria            |
+| Guanajuato          |        1 | San Luis de la Paz            |
+| Guanajuato          |        2 | San Miguel de Allende         |
+| Guanajuato          |        5 | León                          |
+| Guanajuato          |        6 | León                          |
+| Guanajuato          |        7 | San Francisco del Rincón      |
+| Guanajuato          |        8 | Salamanca                     |
+| Guanajuato          |       10 | Uriangato                     |
+| Guanajuato          |       12 | Celaya                        |
+| Guanajuato          |       13 | Valle de Santiago             |
+| Guanajuato          |       14 | Acámbaro                      |
+| Guerrero            |        3 | Zihuatanejo                   |
+| Guerrero            |        4 | Acapulco                      |
+| Guerrero            |        5 | Tlapa                         |
+| Guerrero            |        8 | Ayutla de los Libres          |
+| Jalisco             |        2 | Lagos de Moreno               |
+| Jalisco             |        7 | Tonalá                        |
+| Jalisco             |        8 | Guadalajara                   |
+| Jalisco             |        9 | Guadalajara                   |
+| Jalisco             |       11 | Guadalajara                   |
+| Jalisco             |       12 | Santa Cruz de las Flores      |
+| Jalisco             |       17 | Jocotepec                     |
+| Jalisco             |       18 | Autlán de Navarro             |
+| Jalisco             |       19 | Ciudad Guzmán                 |
+| Jalisco             |       20 | Tonalá                        |
+| México              |        2 | Santa María Tultepec          |
+| México              |        4 | Nicolás Romero                |
+| México              |        8 | Tultitlán de Mariano Escobedo |
+| México              |       11 | Ecatepec de Morelos           |
+| México              |       12 | Ixtapaluca                    |
+| México              |       13 | Ecatepec de Morelos           |
+| México              |       14 | Ciudad Adolfo López Mateos    |
+| México              |       16 | Ecatepec de Morelos           |
+| México              |       18 | Huixquilucan de Degollado     |
+| México              |       19 | Tlalnepantla de Baz           |
+| México              |       20 | Cd. Nezahualcóyotl            |
+| México              |       23 | Lerma de Villada              |
+| México              |       24 | Naucalpan de Juárez           |
+| México              |       25 | Chimalhuacán                  |
+| México              |       26 | Toluca de Lerdo               |
+| México              |       27 | Metepec                       |
+| México              |       29 | Cd. Nezahualcóyotl            |
+| México              |       30 | Chimalhuacán                  |
+| México              |       31 | Cd. Nezahualcóyotl            |
+| México              |       32 | Valle de Chalco Solidaridad   |
+| México              |       34 | Toluca de Lerdo               |
+| México              |       36 | Tejupilco de Hidalgo          |
+| México              |       37 | Cuautitlán                    |
+| México              |       38 | Texcoco de Mora               |
+| México              |       41 | Ojo de Agua                   |
+| Michoacán           |        5 | Zamora de Hidalgo             |
+| Michoacán           |        6 | Ciudad Hidalgo                |
+| Michoacán           |        9 | Uruapan                       |
+| Michoacán           |       10 | Morelia                       |
+| Michoacán           |       11 | Pátzcuaro                     |
+| Michoacán           |       12 | Apatzingán                    |
+| Morelos             |        2 | Jiutepec                      |
+| Morelos             |        5 | Yautepec                      |
+| Nuevo León          |        1 | Santa Catarina                |
+| Nuevo León          |        3 | Gral. Escobedo                |
+| Nuevo León          |       10 | Monterrey                     |
+| Oaxaca              |        2 | Teotitlán de Flores Magon     |
+| Oaxaca              |        5 | Salina Cruz                   |
+| Oaxaca              |        6 | Tlaxiaco                      |
+| Oaxaca              |        9 | Puerto Escondido              |
+| Puebla              |        2 | Cuautilulco Barrio            |
+| Puebla              |        4 | Ajalpan                       |
+| Puebla              |        8 | Ciudad Serdán                 |
+| Puebla              |       11 | Puebla                        |
+| Puebla              |       13 | Atlixco                       |
+| Puebla              |       14 | Acatlán                       |
+| Querétaro           |        1 | Cadereyta                     |
+| Querétaro           |        4 | Santiago de Querétaro         |
+| Quintana Roo        |        1 | Playa del Carmen              |
+| Quintana Roo        |        2 | Chetumal                      |
+| San Luis Potosí     |        1 | Matehuala                     |
+| San Luis Potosí     |        3 | Rioverde                      |
+| San Luis Potosí     |        5 | San Luis Potosí               |
+| San Luis Potosí     |        6 | San Luis Potosí               |
+| Sinaloa             |        2 | Los Mochis                    |
+| Sinaloa             |        5 | Culiacán                      |
+| Sinaloa             |        6 | Mazatlán                      |
+| Sinaloa             |        7 | Culiacán                      |
+| Sonora              |        2 | Nogales                       |
+| Sonora              |        4 | Guaymas                       |
+| Sonora              |        5 | Hermosillo                    |
+| Sonora              |        6 | Cd. Obregón                   |
+| Tabasco             |        2 | Cárdenas                      |
+| Tabasco             |        3 | Comalcalco                    |
+| Tabasco             |        4 | Villahermosa                  |
+| Tabasco             |        5 | Paraíso                       |
+| Tamaulipas          |        1 | Nuevo Laredo                  |
+| Tamaulipas          |        6 | Ciudad Mante                  |
+| Tamaulipas          |        7 | Ciudad Madero                 |
+| Tlaxcala            |        1 | Apizaco                       |
+| Tlaxcala            |        2 | Tlaxcala                      |
+| Veracruz            |        2 | Tantoyuca                     |
+| Veracruz            |        4 | Veracruz                      |
+| Veracruz            |        5 | Poza Rica                     |
+| Veracruz            |        6 | Papantla                      |
+| Veracruz            |       10 | Xalapa                        |
+| Veracruz            |       11 | Coatzacoalcos                 |
+| Veracruz            |       13 | Huatusco                      |
+| Veracruz            |       14 | Minatitlán                    |
+| Veracruz            |       16 | Córdoba                       |
+| Veracruz            |       17 | Cosamaloapan                  |
+| Yucatán             |        2 | Progreso                      |
+| Yucatán             |        3 | Mérida                        |
+| Yucatán             |        4 | Mérida                        |
+| Zacatecas           |        2 | Jerez                         |
+
+** Distritos sin coalición Juntos Haremos Historia
+
+| Estado  | Distrito | Cabecera            |
+|---------+----------+---------------------|
+| Hidalgo |        1 | Huejutla de Reyes   |
+| Hidalgo |        2 | Ixmiquilpan         |
+| Hidalgo |        3 | Actopan             |
+| Hidalgo |        4 | Tulancingo de Bravo |
+| Hidalgo |        5 | Tula de Allende     |
+| Hidalgo |        6 | Pachuca de Soto     |
+| Hidalgo |        7 | Tepeapulco          |
+| Nayarit |        3 | Compostela          |
+
+* Senadores
+
+En diecinueve estados Morena postuló ambos candidatos al Senado de la coalición (en Hidalgo no hicieron coalición). En once estados sólo uno de los candidatos es de Morena, y en Durango ambos son del PT. 
+
+Los estados donde ambos candidatos son de Morena son Aguascalientes, Baja California Sur, Coahuila, Chihuahua, Ciudad de México, Guanajuato, Hidalgo, México, Michoacán, Nuevo León, Oaxaca, Querétaro, San Luis Potosí, Sinaloa, Sonora, Tabasco, Tlaxcala, Veracruz, Yucatán y Zacatecas
+
+Los demás aparecen listados en el cuadro siguiente.
+
+| 1er cand.    | 2do cand.       | 1er cand. | 2do cand. | Ambos   |
+| del PES      | del PES         | del PT    | del PT    | del PT  |
+|--------------+-----------------+-----------+-----------+---------|
+| Campeche     | Baja California | Colima    | Puebla    | Durango |
+| Jalisco      | Chiapas         | Nayarit   |           |         |
+| Quintana Roo | Guerrero        |           |           |         |
+|              | Morelos         |           |           |         |
+|              | Tamaulipas      |           |           |         |
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+ 

@@ -1,0 +1,64 @@
+#+STARTUP: showall
+#+OPTIONS: toc:nil
+# # will change captions to Spanish, see https://lists.gnu.org/archive/html/emacs-orgmode/2010-03/msg00879.html
+#+LANGUAGE: es 
+#+begin_src yaml :exports results :results value html
+  ---
+  layout: single
+  title:  Las invasiones bárbaras
+  subtitle: El colapso del sistema de partidos mexicano en 2018
+  author: eric.magar
+  date:   2018-07-02
+  last_modified_at: 2018-07-02
+  toc: true
+  tags: 
+    - elecciones
+    - congreso
+    - partidos
+  ---
+#+end_src
+#+results:
+
+/Ni en Venezuela ni en el Brasil de Lula: el 2 de julio amanecimos en Ecuador/
+
+Los partidos son fundamentales para el buen funcionamiento de las democracias. Estos actores amalgaman intereses sociales (Lipset y Rokkan). En su interior, estructuran el intercambio entre facciones, formando coaliciones duraderas (Cox y McCubbins, Aldrich). Hacia afuera, hacen coaliciones más efímeras para la competencia electoral y la factura de política pública (Laver y Shepsle, Bawn y Rosenblueth). 
+
+Un sistema de partidos robustos dota al proceso político de una buena dosis de estabilidad y predecibilidad. Los partidos del continente americano varían mucho en robustez. Los países andinos, por ejemplo, han sido célebres por la maleabilidad endémica de sus partidos. En su monografía sobre los sistemas de partidos de Latinoamérica, Mainwaring y Scully se refieren a ellos como sistemas  "rudimentarios", caracterizados por el multipartidismo, la audencia de vínculos con el electorado y su permanente mutabilidad. En contraste, los autores ubicaron al mexicano entre los sistemas de partidos más "institucionalizados". 
+
+Elección tras elección, los partidos que formaron el triumvirato medular de dicho sistema --- el PAN, el PRI y el PRD --- captaron el grueso del voto y ganaron la parte sustancial de cargos de elección en disputa. El predominio fue tal que incluso les permitió definir y modificar las reglas fundamentales del sistema en aras de perpeturar su control del mismo. Su voracidad incluso les valió el mote de "partidocracia". 
+
+#+CAPTION: Votos ganados por los tres principales partidos en elecciones federales de diputados 1997--2018
+#+NAME:   fig:1
+#+ATTR_HTML: style="float:center;"
+#+ATTR_HTML: :width 100%
+[[file:/home/eric/Desktop/MXelsCalendGovt/presentations/wilsonCenter2018/graph/votesMajors.png]]
+
+Pero nada dura por siempre. Quizás por apostarle tanto a las barreras de entrada artificiales como estrategia de subsistencia, los tres partidos fueron perdiendo su conexión con el electorado mexicano. Como se aprecia en el diagrama [[fig:1]], que reporta el porcentaje de votos para la cámara baja que ganaron conjuntamente el PAN, el PRI y el PRD en elecciones federales, el cambio fue paulatino pero constante. Con la excepción de 2006, siempre consiguieron una porción relativa del voto inferior que la obtenida el ciclo anterior. Conjuntamente captaron nueve de cada diez votos en 1997. Para 2015 no superaron los dos tercios. Y en 2018 a penas superaron juntos el tercio del total de votos para la cámara. 
+
+Entre las víctimas del extraordinario arrastre que operó AMLO en todas las pistas electorales del 1 de julio está el sistema de partidos tal cual lo conocemos desde 1988. El domingo pasado terminaron los cambios incrementales y presenciamos un salto discreto y mayúsculo. Esto lo retrata con elocuencia el diagrama [[fig:2]], que reporta el porcentaje de diputaciones federales ocupadas por lo tres principales. Todavía en 2009 obtuvieron nueve de diez. En 2018 no alcanzaron ni tres de cada diez. 
+
+#+CAPTION: Escaños de los tres principales partidos en la Cámara de Diputados 1997--2018
+#+NAME:   fig:2
+#+ATTR_HTML: style="float:center;"
+#+ATTR_HTML: :width 100%
+[[file:/home/eric/Desktop/MXelsCalendGovt/presentations/wilsonCenter2018/graph/seatsMajors.png]]
+
+# [[file:https://github.com/emagar/mxDistritos/raw/master/mapasComparados/loc/maps/df20-2.png]]
+
+Sistemas de partidos históricamente robustos, como el británico o el estadunidense, han sufrido en el pasado cambios tan drásticos como el que estamos atestiguando. Tras la crisis, nuevos sistemas de partidos terminaron cristalizándose. Pero la experiencia latinoamericana está repleta de fracasos democráticos que, en parte por lo menos, pueden eplicarse por la ausencia de partidos estables y funcionales. Ya veremos en dónde termina el episodio que se acaba d abrir en nuestra joven democracia.  
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+ 
