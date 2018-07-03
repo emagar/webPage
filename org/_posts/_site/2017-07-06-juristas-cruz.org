@@ -1,0 +1,224 @@
+#+STARTUP: showall
+#+OPTIONS: toc:nil
+# will change captions to Spanish, see https://lists.gnu.org/archive/html/emacs-orgmode/2010-03/msg00879.html
+#+LANGUAGE: es 
+#+begin_src yaml :exports results :results value html
+  ---
+  layout: single
+  title: La tensión entre la paridad de género y la reelección
+  authors:
+    - patricia.cruz
+    - gretel
+  comments: true
+  date:   2017-07-06
+  last_modified_at: 2018-04-16
+  tags: 
+    - cuotas de género
+    - ambición
+    - reelección consecutiva
+  categories: reeleccion
+  ---
+#+end_src
+#+results:
+
+Dos instituciones con finalidades completamente distintas ahora existen en el sistema político mexicano: las cuotas de género y la reelección consecutiva. Las cuotas fueron establecidas de manera obligatoria por primera vez en el año 2002 con la finalidad de promover y garantizar una mayor participación de las mujeres en la vida política del país.[fn:1] La reelección para legisladores y alcaldes se introdujo a partir de una reforma constitucional en el año 2014 con la finalidad de profesionalizar la actividad legislativa.[fn:2] Ambas figuras fueron creadas por razones necesarias e imprescindibles en un régimen democrático; sin embargo, a partir de un análisis de las mismas, es posible observar que su coexistencia puede ser conflictiva. Si triunfan más candidatos o candidatas de un sólo género, el partido se enfrentará al siguiente dilema: frustrar la renominación de ciertos candidatos o candidatas de un género para cumplir con el principio de paridad. 
+
+¿Cómo se debe ponderar entre la de reelección y la paridad de género? Tanto la figura de reelección y el principio de no discriminación encuentran previstos en la Constitución Federal (CPEUM),[fn:3] las constituciones locales[fn:4] y en la Ley General de Instituciones y Procedimientos Electorales (LGIPE);[fn:5] por lo que esta contradicción no se puede resolver a través de la aplicación de los principios de jerarquía normativa.  
+
+Existen cuatro posibilidades para resolver el dilema:
+
+1. Si la reelección es un derecho y la paridad de género no, se debe decidir a favor de la reelección.
+2. Si la paridad de género es un derecho y la reelección no lo es, se debe decidir a favor de la paridad de género.
+3. Si ambos son derechos o principios constitucionalmente protegidos, debe de realizarse una ponderación en cada caso para determinar cuál debe de predominar.
+4. Si ninguno de ellos es un derecho, simplemente son reglas que deben de aplicarse sin buscar el predominio de una sobre la otra.
+
+El objeto del presente ensayo es desarrollar los argumentos que existen para las distintas posibilidades de contradicción entre ambas figuras electorales a partir de entrevistas realizadas a expertos en la materia junto con los elementos doctrinales existentes al respecto hasta la fecha.
+
+* ¿La reelección es o no un derecho del candidato?
+
+** Reelección como una opción política
+
+Existen múltiples argumentos históricos y jurídicos para argumentar que la reelección no es un derecho. Históricamente, la reelección tiene una tradición muy específica en la experiencia política de América Latina. Tanto el presidencialismo latinoamericano como la tentación de los presidentes de perpetuarse en el poder explican el surgimiento de la no reelección como un símbolo político del constitucionalismo democrático (Nohlen 2007: 287).[fn:6] Por otra parte, jurídicamente la reelección no está reconocida como un derecho en ningún tratado internacional en materia de Derechos Humanos. Si bien los derechos políticos se encuentran en múltiples tratados,[fn:7] no existe uno sólo de ellos que mencione a la reelección como parte de los derechos políticos de los ciudadanos. Por lo tanto, se puede afirmar que sólo existe una obligación internacional de respetar y garantizar el derecho a votar y ser votado, mientras que no existe un derecho a ser reelecto para un puesto público. 
+
+Agregado a lo anterior, no hay un consenso en América Latina respecto a permitir o no la reelección en los puestos de elección popular. De hecho, existe una gran diversidad entre la prohibición o no de la reelección inmediata del Presidente, la reelección del Presidente tras un periodo, la reelección inmediata de senadores y la reelección inmediata de diputados (Nohlen 2007: 289).[fn:8] Es difícil justificar que la reelección es un derecho ante la heterogeneidad que hay en el mundo y específicamente en América Latina sobre cómo regular la figura.
+
+** Reelección como un derecho
+
+La reelección se define teóricamente como “un derecho de un ciudadano (y no de un partido) que ha sido elegido y ha ejercido una función pública con renovación periódica de postular y de ser elegido una segunda vez o indefinidamente para el mismo cargo (ejecutivo) o mandato (parlamentario).”[fn:9] La definición es bastante clara y directa sobre el punto de controversia; sin embargo, para evitar aclarar el argumento, es importante analizar un poco más las razones que pueden explicar y justificar una definición que califique a la reelección como un derecho. Esta postura propone que la reelección se ha convertido en un derecho político a partir del principio de progresividad de los derechos.
+
+El principio de progresividad de los derechos está plenamente reconocido en la Constitución Política de los Estados Unidos Mexicanos, así como en distintos tratados internacionales en materia de Derechos Humanos de los cuales el Estado mexicano es parte.[fn:10] Luis Daniel Vásquez y Sandra Serrano nos señalan que “los derechos humanos codificados en tratados internacionales son un mínimo cuya progresión está en manos del Estado”.[fn:11] En ese sentido, la Corte Interamericana ha señalado múltiples veces que los tratados son “instrumentos vivos, cuya interpretación tiene que acompañar la evolución de los tiempos y las condiciones de vida actuales”.[fn:12] A partir del principio de progresividad se han logrado avances importantes que han ampliado el contenido literal y tradicional de los Derechos Humanos. Por lo tanto, es posible argumentar que la reelección se ha convertido en un derecho político a la luz de los tiempos y las condiciones actuales, bajo ciertas circunstancias.
+
+Al respecto, el derecho internacional no impone un sistema electoral determinado ni una modalidad determinada de ejercer los derechos a votar y a ser elegido.[fn:13] Por lo tanto, cada Estado puede decidir si incorporar o no la figura de reelección en su normativa interna. Sin embargo, una vez que la figura es incorporada dentro del derecho interno, ésta debe de ser respetada y comprendida dentro de los derechos políticos del candidato de conformidad al principio de legalidad. En el caso de México, ante la decisión de legislar y permitir la figura de la reelección consecutiva, se convirtió en un derecho que debe de ser protegido y sólo puede ser limitado excepcionalmente ante la contraposición a otro derecho. 
+
+* ¿Las cuotas son un derecho?
+
+El Código Federal de Instituciones y Procedimientos Electorales (COFIPE) ha tenido diversas modificaciones en los últimos años en la materia. La reforma de 1993 promovía una mayor participación políticas de las mujeres. Posteriormente, en 1996 el COFIPE incluyó la recomendación a los partidos de que consideraran en sus estatutos que las candidaturas no excedieran el 70% para un mismo sexo, tanto en mayoría relativa como en representación proporcional.  En el 2002 se estableció la obligatoriedad del sistema de cuotas de género, la cual exigía a los partidos políticos a respetar la ecuación 70/30 de candidaturas para ambos sexos. En la reforma más reciente, del 2007, se hicieron algunas modificaciones importantes respecto al aumento en el porcentaje de las cuotas de género, así como la obligación de destinar un porcentaje del financiamiento público en el desarrollo del liderazgo de las mujeres en el ámbito de la participación política.[fn:14]
+
+Algunos de los argumentos a favor de las cuotas son: evitan la discriminación, fomentan la igualdad de oportunidades y otorgan experiencia a las mujeres en la vida pública. Por lo tanto, se considera que las cuotas amplían y profundizan el proceso de democratización. Por otra parte, el principal argumento en contra de las cuotas género es la falta de valoración de méritos y preparación de las personas.[fn:15]
+
+A pesar de las múltiples modificaciones que se han hecho a esta figura en México, así como de los múltiples argumentos a favor y en contra de su existencia, falta definir con más claridad su naturaleza como un derecho o como un instrumento.
+ 
+** Cuotas como un derecho
+
+En ningún tratado en materia de Derechos Humanos podemos encontrar de forma específica la obligación de tener cuotas. Sin embargo, todo tratado tiene un artículo que se pronuncia en contra de la discriminación,[fn:16] y es posible argumentar que las cuotas de género forman parte de las medidas necesarias para garantizar el derecho a la no discriminación de la mujer. Las cuotas imponen la obligatoriedad en la incorporación de un número de mujeres en las listas de candidaturas a cargos electivos de decisión de los partidos políticos y del país. Su existencia se justifica en la necesidad de crear una igualdad formal de derecho como requisito fundamental para superar la inequidad de género entre hombres y mujeres. Aunque en términos jurídicos las mujeres gozan de igualdad de derechos, ésto no es sinónimo de participación igualitaria en los espacios de representación política y ejercicio del poder.[fn:17]
+
+** Cuotas como una herramienta
+
+Las cuotas de género también pueden comprenderse como una herramienta que apunta a lograr reducir las desigualdades entre hombres y mujeres. Este instrumento desaparece cuando los grupos superan sus deficiencias y recuperan su retraso con respecto al resto de la sociedad.[fn:18] El uso de las cuotas busca dar una creciente presencia de las mujeres en la política y cambios sustanciales en las instituciones, sus prioridades y en la cultura política.[fn:19] Por lo tanto, las cuotas de género actúan como un instrumento temporal para promover la participación equitativa entre hombres y mujeres. Su carácter temporal las distingue completamente del carácter permanente de un derecho. 
+Line Barreiro y Clyde Soto definen las cuotas de género de la siguiente manera:  
+
+Las cuotas de género, o mejor conocidas como cuotas de participación por sexo o cuotas de participación de mujeres, son una forma de acción positiva que tienen como objetivo garantizar la efectiva integración de mujeres en cargos de elección en los partidos políticos y del Estado. Es una medida que obliga la incorporación de las mujeres en las listas de candidaturas o en las listas de resultados electorales, donde se busca superar los obstáculos que impidan una adecuada representación de las mujeres en los espacios de poder y representación Las cuotas se pueden aplicar como una medida temporal, hasta que las barreras que impidan el acceso de las mujeres a la política sean eliminadas (Barreiro y Soto).[fn:20] 
+
+* ¿Cuál debe prevalecer?
+
+Una primera conclusión que podemos obtener es que la reelección no es un derecho, por lo que podemos afirmar que no existe una tensión con el principio de paridad de cuotas. Esta postura es resumida con claridad por el Magistrado Presidente del Tribunal Electoral del Distrito Federal en la entrevista que se le realizó, en la cual menciona:
+
+La reelección no es un derecho del candidato, es una posibilidad. (…) Entonces, como no es un derecho, en mi opinión, no genera una tensión de esa naturaleza como la que se plantea. Siendo la reelección una simple posibilidad, también existe la posibilidad de que un partido político no vuelva a postular a sus mismos candidatos en un proceso de elección. Creo que la dificultad más grave que hay en principio de paridad de género es la paridad en la integración de los órganos bajo el modelo de elección de mayoría relativa y de representación proporcional. Eso sí es un problema. Entonces ahí es donde los partidos tendrán que hacer los equilibrios necesarios para que se integre el órgano legislativo con tantos hombres como mujeres. Y la figura de la reelección es un componente más, para estos equilibrios internos de los partidos, pero no es un componente determinante por razón de que (como les decía) no son derechos adquiridos (Magistrado Armando Hernández Cruz 2017).[fn:21]
+
+Una segunda conclusión opuesta a la anterior podemos encontrarla en la entrevista de Fabiola Navarro, quien afirman que la reelección es un derecho del candidato. Ella concluyó en la entrevista de manera tajante:
+
+Creo que hay que considerar estas dos cosas por separado. No se trata de dos derechos que se encuentran en un mismo plano y que en ese sentido entren en un conflicto de colisión. La reelección sí esta planteada como un derecho político y por lo tanto, como derecho humano. En cambio, con la paridad de género no es así. No es un derecho de las personas el tener opciones paritarias al votar o tener integraciones paritarias en los congresos. Hay muchas más interpretaciones que ésta, derivadas de la ausencia de un marco legal que complemente la reforma constitucional. Me parece que por eso hay que ir pasos atrás para poder conceptualizar y caracterizar para saber de qué hablamos cuando hablamos de reelección de qué hablamos cuando se trata de la paridad de género (Fabiola Navarro 2017).[fn:22] 
+
+La tercera postura es aquella que considera que tanto la reelección como las cuotas de género son derechos, por lo que en cada caso se tendría que realizar una ponderación entre ambos para determinar cuál debe de predominar. Al respecto, Luis Raigosa señala que la regla de paridad no debe de dejar de aplicarse ante la figura de reelección y lo que se debe de hacer es que “el partido político debe de sopesar en cada caso la posibilidad de reelección” (Luis Raigosa 2017).[fn:23] En ese sentido, Arturo Silis destacó la falta de regulación en la materia que podría permitir a los partidos evitar las tensiones entre cuotas de género y reelección.
+
+En resumidas cuentas, para mí el tema de paridad lo que se tiene que hacer es atender a la regulación interna y esta parte le toca los partidos políticos; tomar las medidas en sus estatutos y así poder establecerlo, pero el paso previo es cómo van a regular ellos mismos la reelección (Espinosa Silis 2017).[fn:24] 
+
+Una medida propuesta por Juan Pablo Micozzi para solucionar el conflicto y evitar la afectación al derecho del candidato sería un sistema alternativo en el que durante cierto periodo en cierto lugar sólo se elijan hombres y durante otro periodo en ese mismo lugar sólo se elijan mujeres: 
+
+El único modo que yo contemplo que esto podría funcionar sería si dividimos la cantidad de distritos entre 150. La mitad en el tiempo t elegimos hombres, la otra mitad elegimos mujeres. En t + 1 "flipeamos", entonces cada distrito va a elegir un hombre y una mujer cada 3 años, entonces tenemos que hacer los mandatos de 6, tenemos que hacer renovación parcial para que esto funcione de modo razonable. Entonces quiere un hombre y una mujer de cada distrito con lo cual solo competirían hombres contra hombres y mujeres contra mujeres cada 3 años. 150 distritos. Se eligen 75 hombres y 75 mujeres que duren 6 años de mandato. A los 3 años sorteamos qué distritos como 38 y 37 renovamos el distrito de hombres y el distrito de mujer. En donde se eligió hombre, ahora se va a elegir mujer. Tenemos que elegir 2 en el tiempo t. Y después cada 3 años cada distrito elige hombre contra hombre, mujer contra mujer. Ahí vamos a tener la paridad perfecta en los uninominales. Con plurinominales seguiría todo igual y habría que reducir la magnitud del distrito a la mitad. Así el incumbency no estaría violando la capacidad de volver a reelegirse (Juan Pablo Micozzi 2017).[fn:25]
+
+Finalmente, no hubo entrevistados que consideraran que ninguna de las dos figuras involucra derechos o que la tensión se pudiera resolver sencillamente con la aplicación de las reglas existentes. De hecho, hubo múltiples pronunciamientos en las entrevistas solicitando una mayor regulación en la materia de reelección. Resulta de particular importancia la respuesta que dio el Magistrado Presidente del Tribunal Electoral del Distrito Federal Armando Hernández Cruz. Ante la pregunta, ¿qué tanto es necesario regular más la figura de reelección o someter las controversias a los tribunales?, su respuesta fue la siguiente:
+
+Bueno, por la experiencia que tenemos en este tribunal, pero también incluso por mi propia formación teórica como académico, yo estoy convencido de que el órgano que tiene la legitimidad democrática para tomar decisiones, es el órgano legislativo. Si se traslada a los órganos jurisdiccionales la toma de decisiones últimas sobre la distribución del poder, genera desconfianza. Los órganos  judiciales son designados y no tienen la legitimidad  democrática que tienen los órganos legislativos. Por eso es mejor que las reglas estén lo más claras posibles en la ley, y que no se traslade a la cancha, al terreno judicial, la toma de decisiones. Yo no soy partidario del activismo judicial, la discrecionalidad con la que el juez actúa, y sobre todo en los temas de distribución del poder político, siempre da lugar a falta de legitimidad, a problemas de apreciación de los actores políticos, o sea siempre habrá la posibilidad de no estar conforme con la decisión del órgano jurisdiccional si las reglas no están claras. Entonces, en mi opinión, es en la ley donde deben establecerse con claridad las reglas, con la mayor claridad posible, dejando el menor margen de interpretación y apreciación en el órgano jurisdiccional (Magistrado Armando Hernández Cruz 2017).[fn:26]
+
+* Conclusión
+
+Finalmente, ¿cómo ponderar entre la reelección y la paridad de género? 
+
+La democracia muchas veces se explica a partir de la metáfora de las “reglas del juego”. Una señal de que las reglas funcionan es que no sabemos el resultado del juego, pero siempre sabemos cuáles son las reglas a seguir. Para la existencia de un Estado de Derecho, las reglas tienen que estar claras. Un Estado sin leyes sería regresar a lo que pensadores como Hobbes, Locke  Rousseau y Kant no dudaron en llamara un “estado de naturaleza”, un Estado anárquico, un no- Estado.[fn:27] 
+
+Este ensayo es una pequeña muestra de que en materia electoral, las reglas básicas para el juego democrático siguen sin estar claras. De hecho, es posible argumentar cuatro opciones distintas, todas válidas y legales, para ponderar entre la figura de reelección y la figura de cuotas de género. Los argumentos no son sólo hipotéticos, las entrevistas muestran que la falta de consenso es real y la posibilidad de choque entre ambas figuras es cuestión de tiempo. Evidenciar estas contradicciones es un primer paso en el mejoramiento de nuestro sistema de reglas que tal vez a la larga nos permitan finalmente consolidar un pleno andamiaje institucional de legalidad y democracia. 
+
+* Fuentes consultadas
+
+** Libros y artículos 
+
+- EGUZKI URTEAGA. 2009. “Las políticas de discriminación positiva”, /Revista de Estudios Políticos/, Universidad del País Vasco, , https://www.definicionabc.com/social/discriminacion-positiva.php 
+
+- FERNÁNDEZ PONCELA, ANNA MARÍA. 2011. "Las cuotas de género y la representación política femenina en México y América Latina”, Scientific Electronic Library Online (SciELO México), http://www.scielo.org.mx/scielo.php?script=sci_arttext&pid=S0187-57952011000200010.
+
+- JONI LOVENDUSKI, 2001. "Cambio en la representación política de las mujeres”, Madrid: Políticas de género en la Unión Europea.
+
+- LINE BARREIRO Y CLYDE SOTO. 2000. "Cuota de género", Instituto Interamericano de Derechos Humanos (IIDH), http://iidh.ed.cr10/11/09.
+
+- MARTÍN RODRIGUEZ, EMILIO GERARDO ARRIAGA, MARTHA ISABEL ÁNGELES. 2013 “Cultura democrática de género: discriminación, cuotas de género y simulación”, /Espacios Públicos/, Universidad Autónoma del Estado de México, http://www.redalyc.org/pdf/676/67629717004.pdf.
+
+- MEDINA, A.E. 2014. /Reforma político-electoral en México: apuntes sobre la paridad de género y las reformas político electorales/. Ciudad de México. http://www.diputados.gob.mx/sedia/sia/redipal/CRV-VII-25_14.pdf.
+
+- MEDINA ESPINO, ADRIANA. 2010. “La participación política de las mujeres. De las cuotas género a la paridad”, Centro de Estudios para el Adelanto de las Mujeres y la Equidad de Género, , http://www.diputados.gob.mx/documentos/Comite_CEAMEG/Libro_Part_Pol.pdf
+
+- NOLAN, DIETER. 2007. “Reelección”. En /Tratado de derecho electoral comparado de América Latina/. Compilación por Dieter Nohlen, Dainel Zovatto, Jesús Orozco y José Thompson, México: Fondo de Cultura Económica, p. 287.
+
+- SALAZAR, PEDRO. 2016. /Democracia y (cultura de la) legalidad/. México: Instituto Nacional Electoral.
+
+- VÁSQUEZ, LUIS DANIEL Y SERRANO, SANDRA. 2013. “Principios y obligaciones de derechos humanos: los derechos humanos en acción”. En /Metodología para la enseñanza de la reforma constitucional en materia de derechos humanos/. México: Suprema Corte de Justicia de la Nación (SCJN), Oficina en México del Alto Comisionado de las Naciones Unidas para los Derechos Humanos (OACNUDH) y Comisión de Derechos Humanos del Distrito Federal (CDHDF).
+
+** Bases de datos
+
+- Magar, Eric. 2017. Instituciones de reelección consecutiva y calendarios electorales desde 1994 en México V2.0. http://dx.doi.org/10.7910/DVN/X2IDWS, Harvard Dataverse [distribuidor].
+
+** Entrevistas
+
+- [[jekyll-post:2017-06-26-entrev-silis.org][Arturo Espinosa Silis]]
+- [[jekyll-post:2017-06-26-entrev-hdz-cruz.org][Armando Hernández Cruz]]
+- [[jekyll-post:2017-06-26-entrev-micozzi.org][Juan Pablo Micozzi]]
+- [[jekyll-post:2017-06-26-entrev-navarro.org][Fabiola Navarro]]
+- [[jekyll-post:2017-06-26-entrev-raigosa.org][Luis Raigosa]]
+- [[jekyll-post:2017-06-26-entrev-vives.org][Horacio Vives]]
+
+** Tratados, leyes y decretos
+
+- Constitución Política de la Ciudad de México
+
+- Ley General de Instituciones y Procedimientos Electorales
+
+- Diario Oficial de la Federación. 2014. Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia política-electoral. 10 de febrero de 2014.
+
+- Declaración Universal de Derechos Humanos (1948)
+
+- Pacto Internacional de Derechos Civiles y Políticos (1966)
+
+- Pacto Internacional de Derechos Económicos, Sociales y Culturales (1966)
+
+- Convención Americana sobre Derechos Humanos (1969)
+
+- Convención sobre la Eliminación de todas las Formas de Discriminación contra la Mujer (1979)
+
+- Casos de tribunales internacionales y observaciones generales
+
+- Corte Interamericana de Derechos Humanos. Caso Atala Riffo y niñas Vs. Chile. Fondo, Reparaciones y Costas. Sentencia de 24 de febrero de 2012. Serie C No. 239
+
+- Corte Interamericana de Derechos Humanos. Caso de los “Niños de la Calle” (Villagrán Morales y otros) Vs. Guatemala. Fondo. Sentencia de 19 de noviembre de 1999. Serie C No. 63
+
+- Comité de Derechos Humanos. Observación General 25. Derecho a participar en los asuntos públicos, derecho a votar y derecho al acceso, en condiciones de igualdad a las funciones públicas (art. 25), 57 período de sesiones, U.N. Doc. HRI/GEN/1/Rev.7
+
+- Corte Interamericana. Caso Castañeda Gutman Vs. México. Excepciones Preliminares, Fondo, Reparaciones y Costas. Sentencia de 6 de agosto de 2008. Serie C No. 184
+
+
+
+
+[fn:1] Medina, A. E. 2014. [[http://www.diputados.gob.mx/sedia/sia/redipal/CRV-VII-25_14.pdf][Reforma político-electoral en México. Apuntes sobre la paridad de género y las reformas político electorales]]. Ciudad de México.
+
+[fn:2] Diario Oficial de la Federación. 2014. Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia política-electoral. 10 de febrero de 2014.
+
+[fn:3] Cfr. Artículos 41, 59, 116-II y 122-II de la Constitución Política de la Ciudad de México.
+
+[fn:4] Magar, Eric. 2017. Instituciones de reelección consecutiva y calendarios electorales desde 1994 en México V2.0. http://dx.doi.org/10.7910/DVN/X2IDWS, Harvard Dataverse [distribuidor].
+
+[fn:5] Cfr. Artículos 7, 232, 233 y 234 de la Ley General de Instituciones y Procedimientos Electorales.
+
+[fn:6] Nolan, D. 2007. "Reelección". En Tratado de derecho electoral comparado de América Latina. Compilación por Dieter Nohlen, Dainel Zovatto, Jesús Orozco y José Thompson, México: Fondo de Cultura Económica, p. 287.
+
+[fn:7] Cfr. Artículo 21 de la Declaración Universal de Derechos Humanos (1948), artículo 25 del Pacto Internacional de Derechos Civiles y Políticos (1966), artículo 23 de la Convención Americana sobre Derechos Humanos (1969).
+
+[fn:8] Op. cit. nota 6, p. 289.
+
+[fn:9] Op. cit. nota 6, p. 287.
+
+[fn:10] Cfr. Artículo 1 Constitución Política de los Estados Unidos Mexicanos, artículo 2 del Pacto Internacional de Derechos Económicos, Sociales y Culturales (1966) y artículo 26 de la Convención Americana de Derechos Humanos (1969).
+
+[fn:11] Vásquez, Luis Daniel y Serrano, Sandra. 2013. "Principios y obligaciones de derechos humanos: los derechos humanos en acción". En Metodología para la enseñanza de la reforma constitucional en materia de derechos humanos. México: Suprema Corte de Justicia de la Nación (SCJN), Oficina en México del Alto Comisionado de las Naciones Unidas para los Derechos Humanos (OACNUDH) y Comisión de Derechos Humanos del Distrito Federal (CDHDF), p. 160.
+
+[fn:12] Corte Interamericana de Derechos Humanos. Caso Atala Riffo y niñas Vs. Chile. Fondo, Reparaciones y Costas. Sentencia de 24 de febrero de 2012. Serie C No. 239, párr. 83 y  Caso de los “Niños de la Calle” (Villagrán Morales y otros) Vs. Guatemala. Fondo. Sentencia de 19 de noviembre de 1999. Serie C No. 63, párr. 192.
+
+[fn:13] Comité de Derechos Humanos. Observación General 25. Derecho a participar en los asuntos públicos, derecho a Votar y derecho al acceso, en condiciones de igualdad a las funciones públicas (art. 25), 57 período de sesiones, U.N. Doc. HRI/GEN/1/Rev.7, y Corte Interamericana. Caso Castañeda Gutman Vs. México. Excepciones Preliminares, Fondo, Reparaciones y Costas. Sentencia de 6 de agosto de 2008. Serie C No. 184, párr. 162.
+
+[fn:14] Medina Espino, A. 2010. [[http://www.diputados.gob.mx/documentos/Comite_CEAMEG/Libro_Part_Pol.pdf]["La participación política de las mujeres. De las cuotas género a la paridad"]], Centro de Estudios para el Adelanto de las Mujeres y la Equidad de Género, febrero del 2010.
+
+[fn:15] Fernández Poncela, Ana María. 2011. [[http://www.scielo.org.mx/scielo.php?script=sci_arttext&pid=S0187-57952011000200010]["Las cuotas de género y la representación política femenina en México y América Latina"]], Scientific Electronic Library Online (SciELO México), .
+
+[fn:16] Cfr. Artículo 1 de la Declaración Universal de Derechos Humanos (1948), artículo 2 del Pacto Internacional de Derechos Civiles y Políticos (1966), artículo 2 del Pacto Internacional de Derechos Económicos, Sociales y Culturales (1966), artículo 1 de la Convención Americana sobre Derechos Humanos y artículo 1 de la Convención sobre la Eliminación de todas las Formas de Discriminación contra la Mujer (1979). 
+
+[fn:17] Rodríguez, Martín, Emilio Gerardo Arriaga, et. al. 2013. [[http://www.redalyc.org/pdf/676/67629717004.pdf]["Cultura democrática de género: discriminación, cuotas de género y simulación"]], México: Espacios Públicos, Universidad Autónoma del Estado de México.
+
+[fn:18] Eguzki Urteaga. 2009. [[https://www.definicionabc.com/social/discriminacion-positiva.php]["Las políticas de discriminación positiva"]], Revista de Estudios Políticos, Universidad del País Vasco.
+
+[fn:19] Joni Lovenduski, "Cambio en la representación política de las mujeres", Madrid: Políticas de género en la Unión Europea, 2001, p. 120.
+
+[fn:20] Barreiro, Line y Clyde Soto. 2000. [[http://iidh.ed.cr10/11/09]["Cuota de género"]], Instituto Interamericano de Derechos Humanos (IIDH).
+
+[fn:21] [[./entrevHdzCruz.org][Entrevista]] al Magistrado Presidente del Tribunal Electoral del Distrito Federal Armando Hernández Cruz, realizada el 11 de mayo del año 2017 en el Tribunal Electoral del Distrito Federal por José Alejandro Palma, Patricia Cruz Marín, Gretel Esmeralda Calleros Arellano y Rodrigo Corona Galindo.
+
+[fn:22] [[./entrevNavarro.org][Entrevista]] a Fabiola Navarro, especialista en temas electorales y maestra en administración pública. Realizada el 21 de marzo del 2017 en Miguel Ángel de Quevedo en la Ciudad de México por Patricia Cruz Marín, Rodrigo Corona Galindo y Valentina Fix Martínez.
+
+[fn:23] [[./entrevRaigosa.org][Entrevista]] a Luis Raigosa, profesor del Instituto Tecnológico Autónomo de México especialista en derecho constitucional e historia del derecho. Realizada el 3 de mayo del 2017 en el Instituto Tecnológico Autónomo de México por Valentina Fix Martínez y Alejandro Palma López.
+
+[fn:24] [[./entrevSilis.org][Entrevista]] a Arturo Espinosa Silis, abogado especialista en temas electorales y maestro en derecho. Realizada el 13 de marzo del 2017  en la Universidad Nacional Autónoma de México (UNAM) por Patricia Cruz Marín y Gretel Esmeralda Calleros Arellano.
+
+[fn:25] [[./entrevMicozzi.org][Entrevista]] a Juan Pablo Micozzi, profesor de tiempo completo del Instituto Tecnológico Autónomo de México (ITAM)  especialista en instituciones políticas. Realizada el 4 de mayo en el Instituto Tecnológico Autónomo de México (ITAM) por José Alejandro Palma, Valentina Fix Martínez y Gretel Esmeralda Calleros Arellano.
+
+[fn:26] [[./entrevHdzCruz.org][Entrevista]] al Magistrado Presidente del Tribunal Electoral del Distrito Federal Armando Hernández Cruz, realizada el 11 de mayo del año 2017 en el Tribunal Electoral del Distrito Federal por José Alejandro Palma, Patricia Cruz Marín, Gretel Esmeralda Calleros Arellano y Rodrigo Corona Galindo.
+
+[fn:27] Salazar, Pedro. 2016. Democracia y (cultura de la) legalidad. México: Instituto Nacional Electoral. 
+
+

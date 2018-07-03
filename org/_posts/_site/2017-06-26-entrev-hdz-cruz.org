@@ -1,0 +1,65 @@
+#+STARTUP: showall
+#+OPTIONS: toc:nil
+# will change captions to Spanish, see https://lists.gnu.org/archive/html/emacs-orgmode/2010-03/msg00879.html
+#+LANGUAGE: es 
+#+begin_src yaml :exports results :results value html
+  ---
+  layout: single
+  title:  Entrevista a Armando Hernández Cruz
+  authors:
+    - alejandro.palma
+    - patricia.cruz
+    - gretel
+  comments: true
+  date:   2017-06-26
+  tags: 
+    - reelección
+    - entrevistas
+  categories: reeleccion
+  ---
+#+end_src
+#+results:
+
+/Entrevista a *Armando Hernández Cruz*, Magistrado Presidente del Tribunal Electoral del Distrito Federal. Realizada el 11 de mayo de 2017 en la sede del TEDF./
+
+El entrevistado dio su autorización para transcribirla.
+
+------------------------------------
+
+*Alejandro Palma*: ¿Nos podría indicar su perspectiva en general sobre la introducción de la figura de reelección en México? ¿Considera que resultará positiva para el acercamiento de la ciudadanía con sus candidatos o realmente no tendrá efecto? ¿Qué sucede con los candidatos plurinominales?
+
+*Magistrado Presidente*: Ya no es oportuno discutir la introducción de la figura porque ya está en el marco constitucional y lo importante es analizar su operatividad. Sin embargo, mi opinión no es favorable a la figura porque no se van a cumplir los objetivos que se decía que buscaba la reelecicón en el sistema jurídico mexicano. Tiene desventajas entre las que destacan:
+
+-La restricción de los espacios de participación política. Si de por sí en lo partidos políticos la posibilidad de participar tiene una vía muy corta, la figura de reelección va a dificultar aún más el acceso a los cargos de reelección.
+
+-La ventaja que se le atribuye es que el ciudadano evalúe con su voto el trabajo de un funcionario, requeriría mayor contacto del ciudadano. Además, el ciudadano no tiene parámetros de comparación que no sean subjetivos, por lo que no es un método de evaluación del candidato. En todo caso, se evalúa la permanencia o no de partidos políticos y eso ya estaba. No es necesario que sea la misma persona. Me pronuncié en el momento oportuno y lo puedo seguir haciendo, pero ahora hay que atender su operatividad.
+
+*Gretel Calleros*: Si las candidatas del partido ganaron más distritos que sus candidatos hombres en la última elección, el partido enfrentará en ésta un dilema: frustrar la renominación de alguna(s) diputada(s) para meter hombres. ¿Cómo se debe de ponderar entre la figura de reelección y la paridad de género?
+
+*Magistrado Presidente*: Bueno, aquí hay dos cosas que hay que tener en cuenta. Primero, la reelección no es un derecho del candidato, es una posibilidad. Es decir, el partido político no está obligado a postular al mismo candidato a un cargo público. Entonces, como no es un derecho, en mi opinión, no genera una tensión de esa naturaleza como la que se plantea. Si fuera  obligación del partido político postular al candidato o candidata, entonces podríamos encontrar una colisión que resolver. Pero como no es una obligación, el partido puede resolver su propuesta de participación a través de distintos mecanismos. Siendo la reelección una simple posibilidad, también existe la posibilidad de que un partido político no vuelva a postular a sus mismos candidatos en un proceso de elección. Creo que la dificultad más grave que hay en principio de paridad de género es la paridad en la integración de los órganos bajo el modelo de elección de mayoría relativa y de representación proporcional. Eso sí es un problema. Entonces ahí es donde los partidos tendrán que hacer los equilibrios necesarios para que se integre el órgano legislativo con tantos hombres como mujeres. Y la figura de la reelección es un componente más, para estos equilibrios internos de los partidos, pero no es un componente determinante por razón de que (como les decía) no son derechos adquiridos
+
+*Palma*: ¿Mantiene sentido la obligación de pedir licencia para poder volver a contender en un mundo con reelección consecutiva? Corolario del anterior, ¿por qué un suplente habría de sacrificar su elegibilidad para sustituir al ocupante que pide licencia para reelegirse? 
+
+*Magistrado Presidente*: Uno de los principios constitucionales en materia de procesos políticos es el principio de equidad en  la contienda. Un principio fundamental en el proceso electoral.  En mi opinión, el hecho de que una persona que ya está ejerciendo un cargo público, para ser, primero pre candidato y luego candidato, solicite la licencia, favorece el principio de la equidad de la contienda porque si no, siendo servidor público se encuentra en condición de ventaja frente al resto de los contendientes. Entonces,  en mi opinión, es conveniente que el servidor público que pretende la reelección solicite licencia para participar desde el proceso de selección interna de candidatos de su partido político. En segundo lugar, el caso del suplente, hay que tomar en cuenta que el suplente tiene la posibilidad de optar por ejercer o no el cargo en el período restante. Ya sea de mayoría relativa o de representación proporcional, tienen los legisladores, no en el caso de la figura de presidentes municipales etcétera; pero, en el caso de los diputados y, hablando de las suplencias, o legisladores, el suplente puede optar por no asumir el cargo, y entonces no sacrifica su elegibilidad. Pero si decide sacrificar, digo, si decide aceptar el cargo, lo haría conscientemente perdiendo la elegibilidad. Es un asunto de ponderación personal. 
+
+Yo, cuando discutíamos esta pregunta, decía: bueno si fuera yo, y sé que no tengo posibilidades de ser candidato, pues la agarro para currículum aunque sean los últimos quince días como muchos le hacen ¿no? Al final del periodo, pues te dejan los últimos quince días para que los dejaras, y lo metes en el currículum, ya fui diputado a la legislatura tal, si sabes que no tienes una opción de participación política. Entonces ese sacrificio de elegibilidad es una decisión, no es una obligación. O sea, la ley no te pone en una condición donde te perjudica, sino que es una decisión personal del suplente asumir o no el cargo por el tiempo restante.
+
+*Calleros*: Si consideramos a la figura de reelección en funcionamiento, ¿de qué manera debemos de adaptar la figura de actos anticipados de campaña? 
+
+*Magistrado Presidente*: No ubico una necesidad de adaptar la figura de actos anticipados de campaña. Es decir, eso ya existe, no encuentro como la reelección implique tener que modificar una serie de reglas que ya existen para evitar actos anticipados de campaña. Lo que sí es que, lo he visto en proyectos de la reforma electoral que habrá en la Ciudad de México, una propuesta, un planteamiento en el sentido de que los servidores públicos, no sólo los candidatos, sino los servidores públicos,  de una determinada administración pública, por ejemplo, incluido inclusive el alcalde, que pretenda su reelección, deberían evitar hacer campaña o realizar actos de campaña durante horarios de trabajo. Eso me parece que aunque es evidente, vale la pena que el marco normativo lo considere. Pero fuera de eso, pues la figura de actos anticipados de campaña, que ya existe, pues seguirá siendo igual y seguirá regulando, evitando que cualquier aspirante o candidato lleve a cabo cualquier acto que se pueda encuadrar como acto anticipado.
+
+*Palma*: La centralización del dinero en el liderazgo partidista. ¿Se le permitirá ocupante buscarse fondos para su campaña o se le garantizará una porción del financiamiento público del partido? ¿Cómo distinguir gasto para la representación del distrito de los fondos de campaña del diputado ocupante? 
+
+*Magistrado Presidente*: No está muy clara la pregunta, pero igualmente creo que eso ya está regulado, eso ya existe. Es decir, el Instituto Electoral asigna recursos para gastos de campaña para los partidos. Los partidos tienen un esquema donde centralizan una parte de los recursos y prorratean o distribuyen otra parte. Son decisiones de la libre configuración de los partidos y en cada campaña toman sus definiciones. Eso en mi opinión no se altera por la figura de la reelección, seguirá funcionando como funciona actualmente. O sea, en eso no veo un impacto de la reelección. Ahorita precisamente la Asamblea Legislativa de la Ciudad de México está haciendo una armonización de la ley local con estas nuevas figuras entre las cuales destacan la necesidad de regular el impacto que tiene la figura de la reelección en los procesos electorales. Entonces hay temas en los que si impacta y otros temas que siguen siendo pues como está.
+
+*Calleros*: La CPEUM establece quien no haya renunciado al partido antes de medio mandato debe contender por el mismo. ¿Qué debe esperarse de quien haya renunciado antes? 
+
+*Magistrado Presidente*: ¿Qué debe esperarse? Ahí creo que no está muy claramente formulada la pregunta. No puedo especular que se pueda esperar. Lo que sí creo que importante es señalar que esa regla es un candado que los mismos partidos políticos decidieron poner a la figura del transfugio político. Hay países como Bolivia donde el transfugio político es un delito. O sea, pasarse de un partido a otro está penado con cárcel. Aquí, los partidos tratan de poner candados para evitar algo que sucede con mucha frecuencia: que un militante de un partido, abandone el partido y se pase a otro para obtener la nominación a una candidatura. Esa figura, conocida como transfugio político, bueno, aquí se le puso un candado, y ese candado tiene que ver con la temporalidad con la que se debe renunciar al cargo, antes de ser propuesto para una posible reelección. Entonces eso va a restringir una libertad que tienen actualmente los aspirantes de formar parte o no del partido político antes de una nominación. 
+
+En mi opinión personal, ese candado puede llegar a vulnerar el derecho político de libertad de asociación con fines políticos contenido en el artículo 35 constitucional fracción tercera. Yo creo que se puede llegar a vulnerar ese derecho. Si yo fuera el aspirante, pediría mediante un juicio, que se revise si no hay una afectación a mi derecho político electoral de libre asociación a los partidos políticos porque ahí se está estableciendo esa restricción. Es un tema que habrá que estudiar, no puedo dar una opinión preliminar, pero creo que es un tema que hay que revisar, si ese candado no viola ese derecho. Y ese candado tiene una llavecita digamos, de escape, que es el caso de las coaliciones cuando un candidato es propuesto por una coalición, puede optar por ser propuesto para una posible reelección, por cualquiera de los partidos que lo hayan presentado en coalición o candidatura común, lo cual si el candidato es militante de un  partido político, le permite pasar, se pasa a otro partido del cual no tiene militancia por el solo hecho de haber sido postulado para la elección, entonces, ahí se abre un poquito ese tema.
+
+Pero si la pregunta concreta es "¿si se puede presentar como independiente?", no se puede, las reglas lo prohíben, o sea eso está en la ley, pues, ahí no hay nada que especular, la ley establece las reglas. No se puede presentar por otro partido político salvo que sea uno de los que lo haya postulado en coalición o candidatura común.
+
+*Palma*: En relación al tema de reelección, ¿qué tanto es necesario regular más la figura o someter las controversias a los tribunales?
+
+*Magistrado Presidente*: Bueno, por la experiencia que tenemos en este tribunal, pero también incluso por mi propia formación teórica como académico, yo estoy convencido de que el órgano que tiene la legitimidad democrática para tomar decisiones, es el órgano legislativo. Si se traslada a los órganos jurisdiccionales la toma de decisiones últimas sobre la distribución del poder, genera desconfianza. Los órganos  judiciales son designados y no tienen la legitimidad  democrática que tienen los órganos legislativos. Por eso es mejor que las reglas estén lo más claras posibles en la ley, y que no se traslade a la cancha, al terreno judicial, la toma de decisiones. Yo no soy partidario del activismo judicial, la discrecionalidad con la que el juez actúa, y sobre todo en los temas de distribución del poder político, siempre da lugar a falta de legitimidad, a problemas de apreciación de los actores políticos, o sea siempre habrá la posibilidad de no estar conforme con la decisión del órgano jurisdiccional si las reglas no están claras. Entonces, en mi opinión, es en la ley donde deben establecerse con claridad las reglas, con la mayor claridad posible, dejando el menor margen de interpretación y apreciación en el órgano jurisdiccional.

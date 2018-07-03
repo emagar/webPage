@@ -1,0 +1,93 @@
+#+STARTUP: showall
+#+OPTIONS: toc:nil
+# will change captions to Spanish, see https://lists.gnu.org/archive/html/emacs-orgmode/2010-03/msg00879.html
+#+LANGUAGE: es 
+#+begin_src yaml :exports results :results value html
+  ---
+  layout: single
+  title:  Reelección consecutiva y equidad en la competencia
+  authors:
+    - valentina.fix
+    - rodrigo.corona
+    - alejandro.palma
+  comments: true
+  date:   2017-06-28
+  tags: 
+    - reelección
+    - licencias
+    - campañas
+  categories: reeleccion
+  ---
+#+end_src
+#+results:
+
+La reelección consecutiva legislativa y de ayuntamientos, aprobada a partir de la Reforma electoral de 2014 y que entrará en vigor de manera escalonada en la federación y los estados, será aplicable a los legisladores electos en el 2018.[fn:1] Este ensayo conforma un análisis del tema con base en seis entrevistas hacia especialistas en el ámbito jurídico y político, con el propósito de esclarecer probables ambigüedades dentro de las normas que rigen dicho fenómeno. Para una mayor comprensión del tema, dividimos las respuestas de los expertos en tres enfoques relacionados entre sí: la solicitud de licencia de los funcionarios que aspiran a reelegirse; la regulación y disección de los actos anticipados de campaña; y la fiscalización de las campañas por reelección. A pesar de encontrar similitudes y diferencias en las respuestas, es importante destacar la exigencia por parte de todos los entrevistados de buscar mayor seguridad jurídica y evitar que los tribunales sean los que terminen resolviendo controversias que pudieron haber sido aclaradas por la ley misma.
+
+* Antecedentes
+
+En su artículo 41, la Constitución establece que es a través de las elecciones que el pueblo mexicano elige a los Poderes de la Unión y los Estados por medio de los cuales ejercerá su soberanía. De modo que cuando escuchamos hablar de "elecciones" y "reformas electorales", dicho tema se encuentra en primer plano. Así, en México ha habido ya varias reformas de carácter político-electoral con el objetivo de avanzar en la consolidación y perfeccionamiento de la democracia.[fn:2] La reforma publicada en febrero de 2014 es la más reciente. Entre otros cambios, esta reforma transformó al IFE en Instituto Nacional Electoral (INE); creó una Fiscalía General de la República autónoma; estableció la posibilidad de gobiernos de coalición; y previó la reelección consecutiva de los legisladores federales y locales, así como de los integrantes de los ayuntamientos, con el propósito de avanzar hacia una “democracia de resultados”.[fn:3] 
+
+Sin embargo, no por el simple hecho de modificar la Constitución y las leyes se lograrán los objetivos que nos proponen los Diputados y Senadores. Pensemos por ejemplo en la reforma de 2007, cuyos efectos ya se han observado y estudiado en la literatura. Dicha reforma tuvo por objeto principal establecer nuevas reglas sobre el acceso de los partidos políticos y los candidatos a los medios de comunicación, así como sobre la transparencia, la fiscalización y el funcionamiento del Instituto Federal Electoral. No obstante, en los ensayos publicados en el libro /Democracia sin garantes. Las autoridades vs. la reforma electoral/, coordinado por Pedro Salazar y Lorenzo Córdova, los autores argumentan que dichos objetivos no se cumplieron de manera plena. Ello se debió, en buena parte, a que una legislación ambigua y deficiente desencadenó importantes conflictos que tuvieron que ser resueltos en última instancia por el Tribunal Electoral y la Suprema Corte de Justicia. Dicho en otras palabras: la reforma y su aplicación se judicializó. En el prefacio al volumen citado, Ana Laura Magaloni señala que "los autores coinciden en un punto central: las sentencias no son convincentes en términos jurídicos ni adecuados en términos pragmáticos" (p. XVII). No parece que "tales decisiones sean coherentes con el sistema normativo ni fieles al sentido o espíritu de la reforma electoral de 2007; tampoco parecen adecuadas para prevenir o pacificar conflictos similares a futuro" (p. XIX). Un ejemplo representativo es la crítica que Jesús Cantú hace a la interpretación que realizó el Tribunal Electoral de las expresiones lícitas que los partidos pueden utilizar en sus campañas, ya que restringía excesivamente este derecho y, en última instancia, resultaba contraproducente en una democracia en la que se supone que existen libertades (pp. 107-124). Aunque no pasa desapercibido que en la obra coordinada por Benítez y Roldán Xopa, titulada /Reforma Constitucional en materia electoral/, Estévez sostiene un punto de vista diferente y enfatiza que la ambigüedad en la legislación de esta reforma política de 2007 no es el verdadero problema, sino el intento formal de abolir el mercado de comunicación política.[fn:4] 
+
+Los efectos de la reforma más reciente (la de 2014) no son aun suficientemente claros. Pero de nuevo parece ser que nos encontramos ante a una legislación defectuosa y, sobre todo, incompleta. Es por ello que advertimos un riesgo: que se repita la historia de la reforma de 2007. En particular, hemos analizado la cuestión de la equidad en la competencia para la posible reelección consecutiva de los legisladores a nivel federal, pues el año 2018 se acerca y será entonces que entren en funciones los legisladores que se podrán reelegir en forma consecutiva, de acuerdo a lo establecido en el artículo 59 de nuestra Constitución. Y aunque no pasa desapercibida la discusión en torno a la pregunta de si la reelección logrará o no los objetivos que sus simpatizantes argumentan, lo cierto es que la reforma ya fue aprobada, por lo que lo importante ahora es analizar su operatividad.[fn:5]
+
+* Las licencias
+
+El principio de equidad en la competencia se encuentra implícito en toda la legislación del sistema electoral, con la intención de que nadie se aproveche indebidamente de su cargo y de las ventajas que éste pueda suponer para avanzar en su carrera política. Un ejemplo de ello son las diversas disposiciones constitucionales en las que se establece que una persona que está ocupando un cargo elevado no se puede postular para otra función importante si no se separa de ésta con anterioridad, ya sea a través de renuncia o de licencia. Para los diputados y senadores este requisito está establecido en el artículo 55 constitucional. En este sentido, podría quedar abierto a interpretación que el principio de equidad en la competencia conllevara la necesidad de que un legislador pida licencia para poder buscar la reelección. Sobre este punto se plantearon dos posturas contrapuestas en las entrevistas realizadas. Por un lado, se sustenta la opinión de que sí debería existir la obligación de pedir licencia, ya que un servidor público, mientras ejerza su cargo, se encuentra en una situación de ventaja frente a los demás contendientes, ya que puede aprovecharse de su visibilidad y de los recursos públicos para lograr una ventaja en la campaña. No obstante, la opinión mayoritaria rechaza esta postura.
+
+En primer lugar, persiste la preocupación de lo que sucedería con el Congreso en caso de que un gran número de representantes se quisiese reelegir y tuviese que pedir licencia. Podría generarse un problema de /quorum/ si también los suplentes, por similares razones, no entraran en funciones o no completaran el período. En segundo lugar, algunos argumentan que la figura de la reelección justamente lo que pretende es dar al legislador la oportunidad de hacer méritos en su cargo y que sea en base a su trabajo que los ciudadanos lo premien o castiguen, por lo que la obligación de pedir licencia "conceptualmente entra en choque con el espíritu de la figura de reelección", como señaló uno de los entrevistados. En ello puede visualizarse una contraposición entre el principio de equidad en la competencia y el modelo de democracia liberal que queremos rija en nuestro país. En más de un caso se sugiere que esto en gran medida tiene que ver con la concepción que tienen los ciudadanos mexicanos de sus representantes, pues aquéllos se muestran desconfiados hacia los legisladores, dudando que ejercerán su cargo con responsabilidad y el cuidado debido, hecho que también contribuye a la legislación electoral tan restrictiva en México.
+
+* Los actos anticipados de campaña
+
+Otro tema íntimamente relacionado con la equidad en la competencia y que ha recibido mucha atención, no solamente por la opinión pública, sino sobre todo por la legislación y la jurisprudencia, son los así llamados "actos anticipados de campaña", por lo que es de imaginar que también este tema podría surgir en relación con la reelección. En este sentido, por un lado se manifestó la postura de acatar lo establecido por la legislación. Los actos anticipados de campaña son una figura regulada por nuestro orden jurídico y la introducción de la figura de reelección no debería implicar un cambio en dicha regulación. Además, en caso de duda, el Tribunal Electoral decidirá cuándo se debe sancionar a un partido o candidato por conductas indebidas en la materia. Sin embargo, esta figura no está desprovista de problemas e incluso se cuestionó su existencia mismo, no solamente en razón de que "es muy difícil cuantificar y sancionar la anticipación política" de un representante, sino que también hay que resaltar una cuestión vital: en una democracia en la que existe /libertad de expresión/, las restricciones vigentes podrían resultar absurdas al aplicarse a los candidatos a la reelección. Hay que preguntarse entonces por qué los representantes y los políticos no pueden hablar públicamente de sus aspiraciones, objetivos y en general de su trabajo, cuando en ello justamente consiste el hacer política. Más aún, una entrevistada destaca que los servidores públicos son ciudadanos con derechos y no los pierden por ejercer un cargo público. 
+
+Dicho lo anterior, no solamente es posible relacionar preocupaciones ya existentes con la reelección, sino que es posible indagar en una interesante discusión que deriva directamente del artículo que regula esta figura. La Constitución no solamente posibilita la reelección consecutiva de los legisladores, sino que además establece una restricción: "la postulación sólo podrá́ ser realizada por el mismo partido o por cualquiera de los partidos integrantes de la coalición que los hubieren postulado, salvo que hayan renunciado o perdido su militancia antes de la mitad de su mandato". Ello parece justificarse por la preocupación que causa el "transfuguismo político" y la conveniencia de asegurar una mayor lealtad partidista. En efecto, aunque una parte importante del electorado vota por un partido antes que por un candidato, lo cierto es que la fragmentación política es elevada y escasa la lealtad de muchos políticos hacia los partidos de los que son miembros. Sin embargo, aquí también podemos encontrar un espacio para la confusión. Se entiende, por ejemplo, que quienes hayan perdido su militancia después de la mitad de su mandato no podrán postularse si no lo son por el mismo partido o la misma coalición. Pero, ¿qué sucede con los candidatos independientes? Uno de nuestros entrevistados considera que esta disposición puede llegar a interpretarse como una restricción para que los candidatos independientes se postulen de nuevo. Y, de nuevo, se presenta un conflicto mucho más profundo: ¿esta restricción vulnera la libertad de asociación con fines políticos? Sin duda alguna es una posibilidad. 
+
+Con respecto a esto último, también surge la pregunta de si esta disposición atenta contra el principio de equidad, en razón de que los representantes que se postulan por coaliciones tendrían más opciones para contender en la siguiente elección. Es esa la cuestión que parece menos clara, pues aunque lógicamente podría decirse que sí, se ha resaltado que el tema de las coaliciones en realidad es bastante complejo. No hay que olvidar que son producto de una negociación política entre partidos que en realidad surge de manera /natural/ y en la que además influyen muchos factores. Puede ser una coalición parcial o total, estable o efímera, etc. La coalición podría resultar beneficiosa para los candidatos y partidos, pero también dañina y complicada a causa de la fragmentación. 
+
+* La fiscalización del gasto de las campañas
+
+Por último, se presenta el conflicto en torno a la fiscalización de los recursos económicos, cuya relevancia en el tema de la equidad es indiscutible. Sabemos que los partidos se financian en gran parte por recursos que obtienen del gobierno, pero con la introducción de la reelección podría argumentarse que los representantes podrían utilizar los recursos que les corresponden por tal función para poder permanecer en el cargo para el periodo inmediato siguiente. El problema es entonces el de distinguir los gastos de representación del distrito del diputado en funciones, de los fondos de campaña del diputado o la diputada que pretende reelegirse. De nuevo, algunos argumentan que en realidad esto no representa un inconveniente mayor, que la Ley General de Instituciones y Procedimientos Electorales y la Ley de Partidos ya regulan este tema y que la reelección no orilla a la necesidad de establecer una nueva reglamentación: "Hay mecanismos que están expresamente prohibidos por la ley y sabes que tienes derecho a cierta aportación de tus recursos para la campaña, cierta aportación que te dará el partido, y creo que, en ese sentido, sí está reglamentado". Sin embargo, en este caso parece ser que una estricta reglamentación sí es algo deseable. Se considera la necesidad de fortalecer la separación entre ambos fondos en este nuevo contexto, de auditorías para cualquier vía en la que un candidato reciba fondos,  así como de una "fiscalización mucho más rigurosa".
+
+Aunado a lo anterior se advierten dos aspectos fundamentales. Lo primero es que no conviene eliminar el financiamiento público, porque "es lo que hace una democracia igualitaria". El financiamiento público permite dar representación a los grupos minoritarios a través de los partidos. En segundo lugar, lo que la legislación no puede permitir, es que alguien se beneficie de los recursos públicos para satisfacer intereses personales. Y si esto se garantiza, "no debería asustarnos el uso de recursos privados" en campañas electorales. De cualquier manera, no se trata de un problema menor, y la incapacidad de distinguir entre gastos de representación y fondos de campaña, aunado a la introducción de la reelección legislativa, pone en claro el riesgo para la equidad en las condiciones de la competencia electoral. No hay que olvidar que la democracia sólo funciona si se ejerce en igualdad de circunstancias.
+
+* A modo de conclusión
+
+Así, pues, hay que resaltar que, no sin razón, la mayoría de los expertos entrevistados ve la necesidad de establecer reglas claras, así como de proveer a la figura de la reelección de un diseño o marco normativo que logre una mayor seguridad jurídica, lo que, por su parte, debe contribuir a que esta figura alcance los objetivos para los que fue introducida en nuestro sistema político. Los expertos advierten también de los riesgos que se corren si estas cuestiones no resueltas se someten a los tribunales.
+
+En síntesis, las cuestiones operativas suscitadas por la posibilidad de la reelección consecutiva tienen un alcance mucho mayor, pues en el fondo nos interrogan sobre el tipo de democracia que deseamos lograr en nuestro país. Ello implica la necesidad imperiosa de revertir la desconfianza sobre la cual se ha erigido todo el sistema electoral, pues ha topado con sus límites. La reglamentación de la reelección consecutiva es una oportunidad inmejorable para iniciar esta nueva transformación.
+
+Finalmente, hemos podido observar en la investigación una serie de contraposiciones por parte de los expertos entrevistados. Si bien existieron diferentes posturas referentes a los efectos que se tendrán en el proceso de reelección en el país, es importante reconocer que el punto de convergencia radica en que los resultados de cada entrevistado suponen un choque entre los principios básicos de la democracia liberal. 
+
+* Transcripción de las entrevistas realizadas
+
+- [[./2017-06-26-entrev-silis.org][Arturo Espinosa Silis]]
+- [[./2017-06-26-entrev-hdz-cruz.org][Armando Hernández Cruz]]
+- [[./2017-06-26-entrev-micozzi.org][Juan Pablo Micozzi]]
+- [[./2017-06-26-entrev-navarro.org][Fabiola Navarro]]
+- [[./2017-06-26-entrev-raigosa.org][Luis Raigosa]]
+- [[./2017-06-26-entrev-vives.org][Horacio Vives]]
+
+* Otras referencias
+
+Cervantes Andrade, Raúl (Senador). Iniciativa con Aval de Grupo por la que se expide la Ley General de Instituciones y Procedimientos Electorales, marzo de 2014. http://sitios.te.gob.mx/normativa_fiscalizacion/media/files/cce051f391b43a5.pdf (último acceso: junio de 2017).
+
+Constitución Política de los Estados Unidos Mexicanos. s.f.
+
+Estévez, Federico. 2007. "Ulises Criollo y el canto de las sirenas". en Benítez A. y Roldán Xopa (coords). /Reforma constitucional en materia electoral/, 2007: p. 74.
+
+Salazar, Pedro y Lorenzo Córdova. 2009. /Democracia sin garantes. Las autoridades vs. la reforma electoral/, p. 151.
+
+
+
+
+[fn:1] De acuerdo a lo dispuesto en el artículo décimo primero transitorio del “DECRETO por el que se reforman, adicionan y derogan diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia política-electoral”, http://www.dof.gob.mx/nota_detalle.php?codigo=5332025&fecha=10/02/2014.
+
+[fn:2] Exposición de motivos, http://sitios.te.gob.mx/normativa_fiscalizacion/media/files/cce051f391b43a5.pdf.
+
+[fn:3] Explicación ampliada de la reforma electoral, https://www.gob.mx/cms/uploads/attachment/file/3080/EXPLICACION_AMPLIADA_REFORMA_POLITICA_ELECTORAL.pdf. 
+
+[fn:4] Estévez en Benítez y Roldán Xopa (2007).
+
+[fn:5] Como lo ha referido el Magistrado Armando Hernández en su [[./entrevHdzCruz.org][entrevista]].
+

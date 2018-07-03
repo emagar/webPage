@@ -1,0 +1,163 @@
+#+STARTUP: showall
+#+OPTIONS: toc:nil
+# # will change captions to Spanish, see https://lists.gnu.org/archive/html/emacs-orgmode/2010-03/msg00879.html
+#+LANGUAGE: es 
+#+begin_src yaml :exports results :results value html
+  ---
+  layout: single
+  title:  Efectos políticos de borrar 7 distritos de la CdMx
+  author: claudia.cervantes
+  date:   2018-01-02
+  comments: true
+  tags: redistritación, reapportionment
+  categories: redistritacion
+  ---
+#+end_src
+#+results:
+
+El 31 de enero de 2017, el entonces Distrito Federal obtuvo un triunfo más en su batalla milenaria de independencia: la aprobación de una constitución propia, con la cual oficialmente se convirtió en la Ciudad de México. Promulgada en el centenario de la federal de 1917, la nueva constitución incluyó múltiples modificaciones y atribuciones. Algunas resultaron ser bastante controversiales. Entre ellas se puede incluir a la resolución para reducir 40 a 33 el número de distritos legislativos. Aunque la nueva Asamblea Legislativa de la Ciudad de México contará con el mismo número de representantes que la del Distrito Federal---sesenta y seis---la proporción de representantes elegidos por el principio de mayoría relativa será ahora igual a la de los elegidos por representación proporcional. 
+
+Al interior de la ALDF, la medida dejó inconforme a no pocos diputados locales. Quienes mostraron su disgusto con mayor intensidad fueron los miembros de la bancada de Morena, que incluso iniciaron una acción de inconstitucionalidad frente a la Suprema Corte de Justicia de la Nación en contra de la medida de redistritación. Muchas fueron las razones aducidas detrás de las inconformidades pero, ¿Cuál es la verdadera historia detrás de los distritos? ¿Quiénes desaparecieron? ¿Qué consecuencias tuvieron? 
+
+El presente artículo pretende contestar estas y algunas otras preguntas más a través de explorar los efectos, positivos y negativos, que este proceso de redistritación ha tenido. Con esto en mente, se utilizaron los resultados de los últimos comicios locales en la CDMX en 2015,[fn:1] para modelar el posible efecto que la reforma podría tener sobre la próxima elección legislativa de 2018. 
+
+El análisis se divide en tres partes: rastreo del efecto de la redistritación sobre los márgenes de votación de los partidos, posteriormente, del efecto sobre la relación entre representados y sus representates, para cerrar con la discusión de los efectos de la reforma sobre algunos casos específicos.
+
+* Márgenes de votación
+
+#+CAPTION: La elección de diputados a la ALDF en 2015
+#+NAME:   tab:1
+| Margen  |     N. de | Media votos  | Ganó |   Ganó | Ganó | Ganó |
+| ganador | distritos | del ganador  |  PRD | Morena |  PAN |  PRI |
+|---------+-----------+--------------+------+--------+------+------|
+| < 1%    |         4 | 19,008 (25%) |    2 |      2 |   -- |   -- |
+| 1-5%    |        15 | 19,938 (27%) |    5 |      9 |    1 |   -- |
+| 5-10%   |        15 | 22,586 (28%) |    4 |      7 |    2 |    2 |
+| > 10%   |         6 | 23,265 (31%) |    1 |      3 |    2 |   -- |
+|---------+-----------+--------------+------+--------+------+------|
+| Total   |        40 | 21,337 (28%) |   12 |     21 |    5 |    2 |
+
+Resulta interesante notar que en las elecciones de 2015, que aún contaron con 40 distritos, 4 de ellos (XV-Iztacalco, XXIII-Álvaro Obregón, XXXI-Iztapalapa y XXXIII-Magdalena Contreras) presentaron márgenes de victoria menores a 1% de los votos. En todos estos casos la disputa fue entre el PRD y Morena. Y en 15 distritos más, los márgenes fueron menores o iguales al 5%. Esto se puede observar claramente en la Tabla [[tab:1]], la cual describe 4 intervalos de márgenes de victoria, y para cada intervalo el número total de distritos y el número de distritos ganados por partido, así como el promedio de votos del ganador. La competencia se concentra entre Morena y el PRD en todos los intervalos de márgenes de victoria, pero especialmente en los más disputados, en donde ni el PAN ni el PRI son serios competidores frente a Morena y el PRD. El PAN únicamente obtiene triunfos en los distritos incluidos en los intervalos de márgenes amplios de victoria, lo cual sugiere que dichos distritos son bastiones tradicionales panistas, por lo que el PAN triunfa confortablemente. 
+
+Dado que son 19 los distritos fuertemente disputados, se puede afirmar que en 2015 existió un grado importante de competencia. Esta competencia parece deseable para el ciudadano, cuyo voto resulta pivotal para inclinar el triunfo. Pero no puede afirmarse lo mismo desde la óptica de los partidos, ya que un segundo lugar literalmente "pisándole los talones" pulveriza la seguridad electoral de la próxima elección. Considerando además que se trata de dos partidos que cotidianamente se disputan el control de la CDMX, cabe preguntar si estos cerrados resultados han tenido efecto alguno sobre el desempeño de los representantes. En cualquier caso, resulta interesante también, cuestionar si la reforma llegaría a modificar estos patrones de márgenes estrechos.
+
+#+CAPTION: Simulación de la elección de 2015 con el mapa 2018
+#+NAME:   tab:2
+| Margen  |     N. de | Media votos  | Ganó |   Ganó | Ganó | Ganó |
+| ganador | distritos | del ganador  |  PRD | Morena |  PAN | PRI  |
+|---------+-----------+--------------+------+--------+------+------|
+| < 1%    |         3 | 21,171 (23%) |    1 |      1 |    1 |   -- |
+| 1-5%    |        14 | 25,234 (25%) |    7 |      4 |    2 |    1 |
+| 5-10%   |        13 | 26,006 (27%) |    2 |      9 |    1 |    1 |
+| > 10%   |         3 | 27,364 (31%) |   -- |      1 |    2 |   -- |
+|---------+-----------+--------------+------+--------+------+------|
+| Total   |        33 | 25,362 (26%) |   10 |     15 |    6 |    2 |
+
+Con tal propósito utilizo una aproximación contrafactual. Ésta consiste en tomar los votos de la elección de 2015 a nivel seccional y agregarlos usando el mapa de 33 distritos que se estrenará en 2018. Esta aproximación permite apreciar el efecto del cambio de mapa manteniendo la votación constante. La Tabla [[tab:2]] resume estas simulaciones. Se puede observar que una CDMX con 33 distritos habría presentado resultados, en términos de márgenes de victoria, relativamente similares a los anteriores. Se observan 14 distritos con márgenes de victoria menores al 5% y 3 distritos con márgenes menores al 1%. En cuanto al número de distritos por intervalo de margen de victoria, los resultados no parecen ser muy diferentes; en general, el nivel de competencia es relativamente similar al de 2015. Sin embargo, algo que es interesante notar es que en este caso, tanto el PAN como el PRI comienzan a ser competidores más importantes frente al PRD y Morena pues ya disputan con estos partidos algunos de los distritos incluidos en los intervalos de márgenes cerrados de victoria. Esto sugiere que si bien la reforma podría no haber reducido el nivel de competencia, sí mejoró las condiciones de la misma, haciéndola más abierta y equitativa a favor de dos partidos que tradicionalmente no compiten de manera importante en la CDMX.
+
+#+CAPTION: Simulación de la elección de 2015 con un mapa 2018 de 40 distritos
+#+NAME:   tab:3
+| Margen  |     N. de | Media votos  | Ganó |   Ganó | Ganó | Ganó |
+| ganador | distritos | del ganador  |  PRD | Morena |  PAN |  PRI |
+|---------+-----------+--------------+------+--------+------+------|
+| < 1%    |         4 | 20.530 (28%) |    1 |      3 |   -- |   -- |
+| 1-5%    |        19 | 21,369 (27%) |    8 |      9 |    1 |    1 |
+| 5-10%   |        10 | 22,380 (27%) |    2 |      5 |    2 |    1 |
+| > 10%   |         7 | 23,556 (31%) |    1 |      4 |    2 |   -- |
+|---------+-----------+--------------+------+--------+------+------|
+| Total   |        40 | 21,921 (28%) |   12 |     21 |    5 |    2 |
+
+Un problema con este ejercicio de simulación es que, si bien mantiene constantes los votos, presenta cambios en dos frentes simultáneos: la delimitación de nuevos distritos para equilibrar sus poblaciones /y/ la reducción de 40 a 33 distritos. Esto puede paliarse con otro ejercicio de simulación usando un mapa 2018 con 40 distrito para agregar los votos de las secciones electorales.[fn:2] El resultado aparece en la Tabla [[tab:3]]. Se presenta una competencia un poco más cerrada entre el PRD y Morena con 19 distritos con márgenes menores al 5% y 4 distritos con márgenes menores al 1%, resultados que se pueden observar en la Tabla 3. Sin embargo en términos generales, el nivel de competencia es prácticamente idéntico en los tres casos, pero una diferencia relevante es que tanto en este, como en el mapa de 2015, se excluyen tanto al PAN como al PRI como competidores importantes frente a los tradicionales PRD y Morena. Sus triunfos aparecen confinados en intervalos con márgenes de victoria amplios, lo cual sugiere que dichos partidos están triunfando únicamente en sus distritos bastión.
+
+Si bien parece ser que la reforma no modificó sustantivamente los patrones de competencia, sí parece ser que hizo de la competencia electoral un proceso más abierto y justo, permitiéndole a partidos de la minoría de centro-derecha y derecha, participar como contrincantes serios en algunos distritos frente a la cotidiana mayoría de izquierda de la CDMX. Consecuencia intencional o no, fue una que definitivamente terminó por beneficiar a las minorías electorales de la CDMX.
+
+* Malapportionment
+
+Otro elemento que resulta interesante de este proceso de reducción tiene que ver con la calidad de la representación. En no pocas ocasiones los votantes de la CDMX, y del mundo entero, se han quejado de que sus representantes nunca poseen el tiempo, los recursos o incluso el interés suficiente como para informarse y atender los problemas que aquejan a aquellos que representan. Si este era ya un problema cuando se contaba con los 8 millones de habitantes de la CDMX distribuidos en 40 distritos, no es difícil imaginar que este podría ser un problema aún mayor cuando dichos distritos se reduzcan a 33. Por lo tanto, utilizando las simulaciones basadas en votos totales para 2015, se comparó el número de individuos representados por distrito antes y después de la reducción. Lo que se pudo identificar es que si bien múltiples distritos permanecieron intactos, también es cierto que en un importante número de estos aumentó considerablemente la cantidad de individuos a ser representados. En la literatura de Ciencia Política en Estados Unidos, este problema de inequidad en la distribución del radio de votantes a representantes se conoce como "malapportionment".
+
+¿Cuáles son los casos más notables de malapportionment después de la reducción distrital en la CDMX? Con el propósito de responder a esta pregunta se calculó, para los distritos de los tres mapas discutidos hasta ahora, el índice de representación relativa de Ansolabehere, Gerber y Snyder (RRI por sus siglas en inglés).[fn:3] El RRI por distrito se calcula dividiendo la población del estado entre el número de distritos y posteriormente este resultado entre la población del distrito en cuestión. Para el caso presente:
+
+\begin{equation}
+  RRI_i = \frac{\frac{\text{Pob. del estado}}{\text{N. distritos}}}{\text{Pob. del distrito}_i}
+\end{equation}
+
+La interpretación de los resultados resulta muy intuitiva. Si se obtiene un RRI = 1, el distrito en cuestión posee la relación ideal de población. Si, en cambio, se obtiene un RRI > 1, dicho distrito está sobre-representado, es decir cuenta con una población menor a la ideal. Finalmente, si se obtiene un RRI < 1, dicho distritos está sub-representado, es decir, cuenta con una población mayor a la ideal. Y el RRI también indica la magnitud de la desproporción poblacional: 1.15 y 0.85 indicarían, respectivamente, 15 por ciento de sobre- y de sub-representación.
+
+#+CAPTION: Sobre- y sub-representación en el mapa 2018
+#+NAME:   tab:4
+| RRI         | N. de distritos | Población distrital media |
+|-------------+-----------------+---------------------------|
+| $<1$        |              12 | 295,408                   |
+| $\approx 1$ |               5 | 268,487                   |
+| $>1$        |              16 | 255,869                   |
+
+Tal y como lo describe la Tabla [[tab:4]], hay un importante grado de malapportionment entre los 33 nuevos distritos de la CMDX. Sólo 5 distritos cuentan con una distribución óptima entre representantes y representados, mientras que paradójicamente, 12 no cuentan con el número suficiente de representantes y 16 cuentan con demasiados representados.
+
+#+CAPTION: Sobre- y sub-representación en el mapa 2015
+#+NAME:   tab:5
+| RRI         | N. de distritos | Población distrital media |
+|-------------+-----------------+---------------------------|
+| $<1$        |              20 | 295,408                   |
+| $\approx 1$ |               2 | 268,487                   |
+| $>1$        |              18 | 255,869                   |
+
+Sin embargo, esta nueva realidad no resulta tan grave si se compara el grado previo de malapportionment que existía entre los 40 distritos del Distrito Federal, replflejado en la Tabla [[tab:5]]. Los resultados son alarmantes y dan crédito a las quejas de los habitantes del Distrito Federal sobre la calidad de la representación. Solo 2 distritos cuentan con la distribución ideal de representados y representantes, mientras que 20 se encuentran subrepresentados y 18 sobrerrepresentados.
+
+#+CAPTION: El índice de representación relativa (RRI) de tres mapas de la CdMx
+#+NAME:   fig:1
+[[file:../assets/img/RRIs2018CdMx.png]]
+
+El cálculo del índice de representación relativa, tanto para el nuevo escenario de 33 distritos como para el escenario previo de 40 distritos en 2015, permite observar que en lugar de empeorar el problema de /malapportionment/, la reducción distrital lo mejoró relativamente, algo que se puede observar en la Figura [[fig:1]], la cual muestra cómo es que para el escenario de 33 distritos, comparado con los otros dos de 40 distritos, el RRI se mantiene entre 1 y 1.1
+
+Lo anterior es importante ya que el nuevo mapa de 33 distritos fue diseñado por el INE bajo la dirección mayoritaria de los partidos y sus representantes. Parece ser entonces, que contrario a lo que se comenta cotidianamente, los representantes sí conocen sus demarcaciones y son capaces de lograr una distribución más eficiente entre representados y representantes. 
+
+* Discusión de algunos casos particulares
+
+Resulta interesante también, discutir ciertos casos particulares, especialmente aquellos que tienen que ver con viejos distritos modificados que solían estar dominados por partidos diferentes al PRD o Morena. Tal es el caso por ejemplo, del antiguo distrito XXVI,[fn:4] perteneciente únicamente a la delegación Coyoacán. A través del proceso de redistritación, dicho distrito desapareció y se reintegró como el nuevo[fn:5] distrito XXVI ahora compartido entre la delegación Coyoacán y Benito Juárez. Esta modificación se puede observar gráficamente en la Figura [[fig:2]], donde el antiguo distrito XXVI se encuentra delineado con rojo, mientras que el nuevo distrito se encuentra delineado con negro.[fn:6]
+
+#+CAPTION: Mapa
+#+NAME:   fig:2
+#+ATTR_HTML: style="float:center;"
+#+ATTR_HTML: :width 100%
+[[file:https://github.com/emagar/mxDistritos/raw/master/mapasComparados/loc/maps/df26-2.png]]
+
+Es bien conocido que Coyoacán tradicionalmente ha sido una delegación de izquierda, ya sea del PRD o de Morena, mientras que Benito Juárez lo ha sido del PAN. Resulta interesante entonces, utilizando las simulaciones, conocer cuál podría ser el posible desenlace de victoria en el nuevo distrito XXVI, es decir, si la fraccionalización del viejo distrito terminó por beneficiar a la izquierda o al PAN. Efectivamente, se puede observar a través de las simulaciones que en 2018, en el nuevo distrito XXVI el PAN obtiene la victoria. Esto no resulta tan sorpresivo si se considera que el PAN ya había logrado una victoria sobre este distrito en 2015, aun cuando no era compartido con la delegación Benito Juárez, sin embargo, sí resulta interesante notar que mientras que en 2015 el PAN triunfó sobre Morena con un margen del 1% de los votos, mientras que después de la redistritación, la simulación arroja un margen del 8%.
+
+#+CAPTION: Mapa
+#+NAME:   fig:3
+#+ATTR_HTML: style="float:center;"
+#+ATTR_HTML: :width 100%
+[[file:https://github.com/emagar/mxDistritos/raw/master/mapasComparados/loc/maps/df13-2.png]]
+
+Otro caso notable es el del antiguo distrito VIII, perteneciente a una parte de la delegación Miguel Hidalgo y que desapareció en el proceso de redistritación para unirse al nuevo distrito XIII que ahora abarca casi por completo a la delegación Miguel Hidalgo, dicha modificación se puede observar gráficamente en la Figura [[fig:3]].
+
+Como es bien sabido, desde 2015 la delegación Miguel Hidalgo es controlada por el PAN y resulta difícil no imaginar a esta maniobra como un esfuerzo de lo que en la literatura de Ciencia Política se conoce como "gerrymandering", y que se define como la manipulación arbitraria de los límites de un distrito electoral para favorecer a un partido. En este caso particular parece ser que la intención es encerrar en un solo distrito el voto a favor del PAN con el propósito de reducir su representación al interior de la ALDF, pues en 2015, el PRD controlaba el distrito VIII, mientras que el PAN el XIII. Utilizando las simulaciones, se puede observar que en 2018 el PAN domina por completo el distrito XIII con un margen de victoria con respecto al segundo lugar, Morena, de 11% de los votos.
+
+Un último caso notable es también el del antiguo distrito XXV de la delegación Álvaro Obregón. Esta delegación, tradicionalmente controlada por el PRD perdió el distrito XXV a manos del nuevo distrito XX que ahora será compartido con la delegación Cuajimalpa, una de las delegaciones más notoriamente priístas de la ciudad. Dicho cambio se puede observar en la Figura [[fig:4]].
+
+#+CAPTION: Mapa
+#+NAME:   fig:4
+#+ATTR_HTML: style="float:center;"
+#+ATTR_HTML: :width 100%
+[[file:https://github.com/emagar/mxDistritos/raw/master/mapasComparados/loc/maps/df20-2.png]]
+
+Esta modificación parece traer consigo beneficios para el principal contrincante del PRD en dicho distrito, Morena. Ya en 2015, Morena había logrado la candidatura a la ALDF por el distrito XXV pero por un margen de votos cerrado, 0.06%. Después de la modificación, se logra eliminar votantes pro PRD de la demarcación que ahora serán parte de un distrito, el XX donde el PRI triunfa por márgenes del casi 10%. En efecto, las simulaciones para 2018 indican que el PRI triunfará en el nuevo distrito XX y que los dos distritos restantes para la delegación Álvaro Obregón, el XVIII y el XXIII, estarán fuertemente disputados por Morena.
+
+* Conclusión
+
+Contrario a lo discutido en diversos medios de comunicación, el proceso de redistritación indicado en la Constitución de la CDMX fue realizado con claros propósitos políticos en mente. Es cierto que no en todos los casos el mismo partido se ve beneficiado, pero también es cierto que en la mayoría de los casos existe al menos un actor favorecido. El presente ha tratado de mostrar a algunos de estos actores beneficiados, así como algunas ventajas y desventajas generales de la reforma. En general, se han tratado de discutir algunas de las implicaciones políticas de este proceso de redistritación, especialmente con miras a lo que ya se vislumbra será una reñida competencia entre el PRD y Morena por la CDMX en el 2018. 
+
+
+[fn:1] Instituto Electoral del Distrito Federal. 2015. "Sistema de Consulta. Proceso Electoral Local Ordinario 2014-2015", http://portal.iedf.org.mx/resultados2015/ (consultado el 11 de Noviembre de 2017).
+
+[fn:2] El INE de hecho elaboró dicho mapa antes de conocerse la decisión del constituyente de eliminar 7 distritos y ante lo cual se tuvo que repetir el mapa. Esta simulación por lo tanto, utiliza el mapa de 40 distritos que se habría estrenado en 2018.
+
+[fn:3] Ansolabehere S., Gerber, A., y Snyder J. "Equal votes, equal money: Court-ordered redistricting and public expenditures in the American states" /American Political Science Review/ 96(4):767-77, 2002. El dato poblacional de los distritos es una proyección lineal de la tasa de crecimiento 2005-2010 realizadas por Eric Magar, vea Magar E., Trelles A., Altman M. y McDonald MP. "Components of partisan bias originating from single-member districts in multi-party systems: An application to Mexico" /Political Geography/ 57(1):1-12, 2016.
+
+[fn:4] Instituto Electoral del Distrito Federal. 2015. "Sistema de Consulta del Marco Geográfico Electoral Local 2015". Consultado del 12 de Diciembre de 2017 http://portal.iedf.org.mx/mge2014-2015/Dis_08.php.
+
+[fn:5] Instituto Electoral de la Ciudad de México. 2017. "Consulta del Marco Geográfico Electoral 2017-2018". Consultado el 12 de Diciembre de 2017 http://portal.iedf.org.mx/MGE2017-2018/index.php.
+
+[fn:6] Todos los mapas gráficos aquí presentados fueron elaborados por Eric Magar Meurs (otros pueden consultarse [[jekyll-post:2017-12-20-map-distritos.org][aquí]]. 
+
+

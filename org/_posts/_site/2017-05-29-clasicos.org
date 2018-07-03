@@ -1,0 +1,39 @@
+#+STARTUP: showall
+#+OPTIONS: toc:nil
+# # will change captions to Spanish, see https://lists.gnu.org/archive/html/emacs-orgmode/2010-03/msg00879.html
+#+LANGUAGE: es 
+#+begin_src yaml :exports results :results value html
+  ---
+  layout: single
+  title:  Clásicos sobre la reelección consecutiva
+  subtitle: 
+  author_profile: false
+  date:   2017-05-29
+  last_modified_at: 2018-04-01
+  tags: 
+   - reelección
+   - libros
+  categories: reeleccion
+  classes: wide
+  ---
+#+end_src
+#+results:
+
+* Algunos libros clásicos
+#+ATTR_HTML: style="float:right;"
+#+ATTR_HTML: :width 15%
+[[https://www.amazon.com/Congress-Electoral-Connection-David-Mayhew/dp/0300105878/ref=sr_1_1?s=books&ie=UTF8&qid=1495009601&sr=1-1&keywords=mayhew+electoral+connection][file:../assets/img/0elConn.jpg]]
+#+ATTR_HTML: style="float:right;"
+#+ATTR_HTML: :width 15%
+[[https://www.amazon.com/Ambition-Politics-Political-Careers-United/dp/B001RAVF7Y/ref=sr_1_1?ie=UTF8&qid=1495009566&sr=8-1&keywords=ambition+and+politics+schlesinger][file:../assets/img/0schles.jpg]]
+#+ATTR_HTML: style="float:right;"
+#+ATTR_HTML: :width 15%
+[[https://www.amazon.com/Personal-Vote-Constituency-Independence-1990-03-01/dp/B01FJ1E6QS/ref=sr_1_1?s=books&ie=UTF8&qid=1495010547&sr=1-1&keywords=cain+ferejohn+fiorina][file:../assets/img/0cff.jpg]]
+#+ATTR_HTML: style="float:right;"
+#+ATTR_HTML: :width 15%
+[[https://www.amazon.com/Term-Limits-Legislative-Representation-Carey/dp/0521646014/ref=sr_1_10?s=books&ie=UTF8&qid=1495008817&sr=1-10&keywords=john+carey][file:../assets/img/0carey.jpg]]
+#+ATTR_HTML: style="float:right;"
+#+ATTR_HTML: :width 15%
+[[https://www.amazon.com/legislador-examen-reeleci%C3%B3n-legislativa-Politica/dp/9681669843/ref=sr_1_2?s=books&ie=UTF8&qid=1495009990&sr=8-2&keywords=fernando+dworak][file:../assets/img/0dworak.jpg]]
+
+--------------------------------------

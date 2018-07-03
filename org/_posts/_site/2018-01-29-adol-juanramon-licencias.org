@@ -1,0 +1,111 @@
+#+STARTUP: showall
+#+OPTIONS: toc:nil
+# # will change captions to Spanish, see https://lists.gnu.org/archive/html/emacs-orgmode/2010-03/msg00879.html
+#+LANGUAGE: es 
+#+begin_src yaml :exports results :results value html
+  ---
+  layout: single
+  title: Requisitos de separación del cargo y reelección consecutiva en 32 estados
+  authors: 
+   - adolfo.ramirez
+   - jr.moreno
+  comments: true
+  date:   2018-01-29
+  tags: reelección, licencias, estados
+  categories: reeleccion
+  ---
+#+end_src
+#+results:
+
+Algunos alcaldes y legisladores no deberán separarse del cargo para aspirar a reelegirse. Otros sí.
+
+|---------------+----------------------------------------------------------------+--------------|
+| $\rightarrow$ | [[file:../_data/instLics.xlsx][Obtén *aquí* la base de datos de este artículo (formato excel)]] | $\leftarrow$ |
+|---------------+----------------------------------------------------------------+--------------|
+
+Pensemos en las elecciones de 2024. Ese año, todos los ocupantes de ayuntamientos (excepto en Hidalgo y Veracruz, vea [[jekyll-post:2017-05-20-magar-instituciones.org][esto)]] y diputaciones locales cuyos periodos concluyan, así como los diputados federales y senadores, estarán legalmente habilitados para competir por la reelección consecutiva. Aunque se trata de algo común en las democracias del mundo, será la primera vez en casi un siglo que esto ocurra en México. Sin embargo, hay una particularidad en esta institución que promete crear fricciones y tensiones en el proceso: la licencia. Contra la lógica y la práctica en el resto del mundo, más de la mitad de los ocupantes estarán obligados a pedir licencia de su cargo para$\ldots$ reelegirse en ese puesto. Exploramos en este texto la separación del cargo y la reelección consecutiva a nivel subnacional. Describimos su estructura legal, sus posibles efectos y sus áreas de oportunidad.
+
+* Para muestra, un botón
+
+Veamos el caso de Guanajuato. En 2018 los alcaldes, regidores y síndicos de sus cuarenta y seis municipios, así como los veintidós diputados de mayoría y los catorce de representación proporcional del Congreso del estado podrán contender para reelegirse si así lo desean (puede consultar aquí la [[file:../assets/pdfs/constEdos/guaConst.pdf][Constitución local]] y la [[http://www.ieeg.org.mx/pdf/Normatividad/LIPEEG2017_05.pdf][Ley de Instituciones y Procedimientos Electorales]]). Pero el artículo 11 de la Ley de Instituciones y Procedimientos Electorales del estado obliga explícitamente a que los ocupantes se separen de su cargo en cuanto dé inicio la campaña. Señala la ley lo siguiente:
+
+- Los diputados y presidentes municipales, que se encuentren en ejercicio de sus funciones y pretendan su elección consecutiva, deberán solicitar licencia a más tardar un día antes del inicio de la campaña electoral respectiva, de conformidad con las leyes orgánicas del Poder Legislativo y Municipal respectivamente. (Párrafo adicionado, P.O. 26 de mayo del 2017) 
+- Para efectos de la reelección consecutiva, los síndicos y regidores, no requerirán separarse de su cargo. (Párrafo adicionado, P.O. 26 de mayo del 2017).
+
+¿Qué pasaría si los treinta y seis diputados del Congreso y los cuarenta y seis presidentes municipales del estado quisieran competir por la reelección? El escenario es improbable, pero posible. En primer lugar, el Congreso del estado quedaría enteramente ocupado con suplentes que sólo estarían en el puesto alrededor de un trimestre. Como casi todos serían novatos, es difícil imaginar que hicieran un buen trabajo legislativo. Es de suponer que, además, algunos de los suplentes se negarán a rendir protesta por también querer competir en la campaña. Sus representados se quedarían sin representante. 
+
+El caso de los municipios es aún más complicado. Cuando el alcalde pide licencia, el cargo pasa al síndico, quien quedaría en calidad de alcalde interino. Pero entonces éste no podría aspirar a reelegirse como síndico sin pedir licencia (beneficio que la ley le otorga explícitamente), pues ya no ocupa ese cargo sino el de presidente municipal. Y tampoco puede simplemente rechazar el cargo y permanecer como síndico. Siguiendo esta lógica, si toda la planilla acabara pidiendo licencia para buscar la reelección, ¿quién quedaría a cargo del ayuntamiento del municipio? Eso es algo que no acaba de quedar claro.
+
+El caso de Guanajuato, con inconsistencias lógicas y lagunas legales, se replica de manera particular en cada estado del país. Esto resulta grave porque la manera en la que la figura político-electoral de la reelección consecutiva quedó plasmada en la legislación mexicana atenúa los potenciales beneficios que ofrece.
+
+En general, la reelección puede mejorar de manera importante el sistema político en el que se implementa. Se le da al político la posibilidad de alargar indefinidamente sus expectativas de permanencia en el puesto siempre que logre mantener el beneplácito de su electorado, con lo cual se le otorga al votante un grado importantísimo de poder sobre la carrera de su representante. Esto, en consecuencia, acaba aumentando las probabilidades de rendición de cuentas y de cercanía del gobernante hacia los gobernados.
+
+En el caso mexicano, la reelección fue pensada con varios "candados". El más comentado hasta ahora ha sido el llamado candado partidista: en general, un ocupante puede contender por permanecer en su puesto sólo si es postulado por el mismo partido que lo apoyó la primera vez. También está el límite en el número de periodos que un individuo puede permanecer en su puesto. Sin embargo, igual de preocupante es el requisito de pedir licencia para participar en la carrera electoral, obstáculo que no ha recibido la misma cobertura de analistas y comentaristas que los dos anteriores. Pero incluso ha llegado a la Suprema Corte (vea [[jekyll-post:2017-11-22-catanho-licencias-yuc.org][esto]]).
+
+* Variación institucional
+
+Con el objetivo de analizar características y matices de este obstáculo a la reelección, estudiamos la legislación de cada estado, tanto en su Constitución como en su ley electoral (la Ley de Instituciones y Procedimientos Electorales, pero también llamado simplemente Código Electoral en algunos casos). Encontramos, en el mejor escenario, casos en los que la constitución omite hablar del tema pero sí lo hace la ley electoral (o vice versa); en el peor, inconsistencias entre una y otra de las disposiciones legales. Enunciamos a continuación los resultados generales más relevantes de dicho trabajo de exploración.
+
+Veintitrés estados piden explícitamente que los alcaldes se separen del cargo para buscar reelegirse. De los siete restantes, sólo Tlaxcala permite explícitamente que los presidentes municipales no se separen del cargo, mientras que los demás no mencionan nada o son ambiguos al respecto. Es decir, 77% de los estados que permiten la reelección consecutiva de alcaldes casos exigen licencia, 20% tienen ambigüedad, y sólo en 3% se permite explícitamente no pedir licencia.
+
+En cambio, la legislación es más laxa con los diputados locales. Trece de treinta y dos estados (41%) piden la separación del cargo, en nueve (28%) es ambiguo o no mencionan y en diez (31%) se establece explícitamente que no deben solicitar licencia. Pareciera que, en general, los legisladores locales se trataron a sí mismos con más benevolencia que la que tuvieron con los alcaldes.
+
+Para que el lector pueda profundizar en este análisis, construimos una base de datos (encuéntrela [[../_data/instLics.xlsx][aquí]]) que intenta sistematizar la legislación de cada estado. Primero se informa cuál es el primer año en el que los ocupantes (tanto diputados locales como munícipes) podrán competir por la reelección. Segundo, se enuncia el número de periodos consecutivos que se podrá permanecer en el puesto para cada cargo, así como el artículo de la Constitución local en que se dictamina dicha particularidad. 
+
+En tercer lugar, se deshilvana con todo el detalle posible la legislación contenida en la Constitución local: si ésta exige o no la separación del cargo de presidente municipal o diputado local, y si hay ambigüedades al respecto. En cuarto lugar, se presenta algo similar para el caso de los Códigos electorales o Leyes de Instituciones y Procedimientos Electorales: si hay exigencia de pedir licencia o si sólo remiten a la Constitución local. Finalmente damos, en un breve comentario, los detalles relevantes del requisito de licencia en el estado. 
+
+Al respecto, sólo queda por añadir que hemos recopilado las [[../assets/pdfs/constEdos/][constituciones]] así como las [[../assets/pdfs/leyesElecEdos/][leyes electorales]] de todos los estados en versión PDF para quien quiera extraer más detalle (la base de datos lista los artículos que consideramos relevantes). 
+
+* Las elecciones de 2018
+
+Éste será un año electoral muy importante para el país. Según el Instituto Nacional Electoral, se elegirán 3,216 cargos en todo México. Además de renovar la Cámara de Diputados, el Senado y el presidente de la República, también en Veracruz, Tabasco, Yucatán, Chiapas, Puebla, Morelos, Ciudad de México, Jalisco y Guanajuato habrá elecciones para elegir a un nuevo gobernador. Es decir, 35 millones 291 mil 135 electores tendrán que votar además por uno de los candidatos para la gubernatura de sus respectivos estados. En el caso de la Ciudad de México, por primera vez se votará por alcaldes, como lo dicta su nueva Constitución local.
+
+En el caso de las elecciones locales, los periodos electorales son distintos, dependiendo de lo que disponga cada estado. Por ejemplo, los estados de Jalisco, Guanajuato, Chiapas, Yucatán, Tabasco y Morelos renovarán el "carro completo", es decir, tanto sus gobernadores como sus legisladores locales y alcaldes. Sin embargo, hay otros estados que el próximo año no cambiarán de gobernador, pero sí elegirán ediles y diputados locales. Estos son los estados de Baja California Sur, Campeche, Chihuahua, Colima, Estado de México, Guerrero, Michoacán, Nuevo León, Oaxaca, Querétaro, San Luis Potosí, Sinaloa, Sonora y Zacatecas.
+
+#+CAPTION: Estados que celebrarán elecciones en 2018
+#+NAME:   tab:1
+| Estado              | Gubernatura | Congreso Local | Alcaldías |
+|---------------------+-------------+----------------+-----------|
+| Aguascalientes      |             | X              |           |
+| Baja California     |             |                |           |
+| Baja California Sur |             | X              | X         |
+| Campeche            |             | X              | X         |
+| Chiapas             | X           | X              | X         |
+| Chihuahua           |             | X              | X         |
+| Coahuila            |             |                | X         |
+| Colima              |             | X              | X         |
+| CDMX                | X           | X              | X         |
+| Durango             |             | X              |           |
+| Estado de México    |             | X              | X         |
+| Guanajuato          | X           | X              | X         |
+| Guerrero            |             | X              | X         |
+| Hidalgo             |             | X              |           |
+| Jalisco             | X           | X              | X         |
+| Michoacán           |             | X              | X         |
+| Morelos             | X           | X              | X         |
+| Nayarit             |             |                |           |
+| Nuevo León          |             | X              | X         |
+| Oaxaca              |             | X              | X         |
+| Puebla              | X           | X              | X         |
+| Querétaro           |             | X              | X         |
+| Quintana Roo        |             |                | X         |
+| San Luis Potosí     |             | X              | X         |
+| Sinaloa             |             | X              | X         |
+| Sonora              |             | X              | X         |
+| Tabasco             | X           | X              | X         |
+| Tamaulipas          |             |                | X         |
+| Tlaxcala            |             | X              |           |
+| Veracruz            | X           | X              | X         |
+| Yucatán             | X           | X              | X         |
+| Zacatecas           |             | X              | X         |
+|---------------------+-------------+----------------+-----------|
+
+En la tabla [[tab:1]] se muestra de una forma más detallada las elecciones locales que los estados tendrán este año. De éstas, las que resultarían más afectadas por el requisito de licencia son las de Jalisco, Guanajuato, Chiapas y Morelos, donde los que quieren mantenerse en sus alcaldías o Congresos locales tienen que pedir licencia, al mismo tiempo que gobernadores, legisladores y alcaldes son renovados por medio de elecciones. Los segundos estados más afectados son los que requieren separarse del cargo para volver a contender por alcaldías y legislaturas, pero los gobernadores no son renovados. En esta categoría están Baja California Sur, Campeche, Chihuahua, Colima, Estado de México, Guerrero, Michoacán, San Luis Potosí, Sonora, Sinaloa y Zacatecas. Querétaro y Oaxaca son casos especiales, porque sí especifican quién quedaría como alcalde suplente en caso de que el propietario quisiera reelegirse, ya que los otros concejales no pueden reelegirse y por lo tanto el síndico debe tomar su lugar. 
+
+* Conclusión
+
+El próximo año, por primera vez en casi un siglo, veremos el escenario en el que los legisladores y alcaldes muestren su intención de reelegirse. Aunque en este momento conozcamos las aspiraciones de solo algunos de ellos, es muy probable que durante los próximos meses se escuchen declaraciones de muchos más con el motivo de buscar mantenerse en el cargo.
+
+Más de la mitad de los estados tendrán elecciones para alcaldes y legisladores locales, lo que significa que las ambigüedades de la reglamentación con respecto a las licencias para contender por el cargo del incumbent será un problema en casi todo el país. Es recomendable eliminar los requisitos de licencia en caso de reelección por tres razones: para que los beneficios de la reelección realmente sean aprovechados, para que la legislación no caiga en vaguedades, ambigüedades y contradicciones como las que pueden suscitarse en este momento, y para que los procesos electorales sean más eficientes. Este modelo de reelecciones, sin requisitos de licencia, no es novedoso, ya que países como los EE.UU. y Colombia los utilizan. Esto, sin embargo, no ha generado como consecuencia no deseada la perpetuación del partido político o el ocupante del cargo, como algunos que están en contra de esta idea podrían argumentar.
+
+

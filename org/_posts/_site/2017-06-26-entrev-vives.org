@@ -1,0 +1,80 @@
+#+STARTUP: showall
+#+OPTIONS: toc:nil
+# will change captions to Spanish, see https://lists.gnu.org/archive/html/emacs-orgmode/2010-03/msg00879.html
+#+LANGUAGE: es 
+#+begin_src yaml :exports results :results value html
+  ---
+  layout: single
+  title:  Entrevista a Horacio Vives
+  authors:
+    - gretel
+    - rodrigo.corona
+  comments: true
+  date:   2017-06-26
+  tags: 
+    - reelección
+    - entrevistas
+  categories: reeleccion
+  ---
+#+end_src
+#+results:
+
+/Entrevista al *Dr. Horacio Vives Segl*, profesor de medio tiempo del ITAM y especialista en el tema electoral. Realizada el 5 de mayo de 2017 en el ITAM./
+
+El entrevistado dio su autorización para transcribirla.
+
+------------------------------------
+
+*Rodrigo Corona*: ¿Considera que la reelección resultará positivo para el acercamiento de la ciudadanía con sus candidatos, o no tendrá efecto alguno?
+
+*Horacio Vives*: Existen respuestas o comentarios en diferentes sentidos y distintos órdenes. Soy un fanático y convencido de la importancia de la reelección, me apena mucho que en México haya llegado tarde, que se quedó como un actor solitario, porque hay un jugador que no había interiorizado esta regla tan importante porque es fundamental que tengan la posibilidad los ciudadanos de evaluar a un partido y a una persona en particular, ya sea en una función ejecutiva o legislativa. 
+Qué bueno que se hizo, aunque no hay en este momento claridad de los efectos que esto tendrá. Lamento que no exista aún la reelección para gobernador o presidente de la república. 
+
+Por otro lado, la reelección legislativa es importante porque ayuda a la profesionalización de los legisladores: mucho se decía que podían brincar de un congreso local al Congreso de la Unión, pero en realidad, aunque existen muy pocos casos, no se especializan en lo mismo o están en las mismas comisiones. 
+
+A mí lo que me gusta es que se le da un mayor poder al ciudadano, esto es que la suerte de un legislador no depende exclusivamente de un partido, sino también que ahora buena parte dependa de un adecuado ejercicio para que la ciudadanía lo evalúe.
+
+*Gretel Calleros*: ¿Qué problemas podemos encontrar con la situación de paridad de género respecto a la reelección de funcionarios?
+
+*Vives*: Soy un fiel convencido de la importancia de la paridad de género, que tiene que ser un estadío intermedio, concluyendo en que, independientemente del género, las personas más capacitadas lleguen a ocupar los cargos ejecutivos o legislativos. Sin embargo, como hemos sabido que a lo largo de la historia las mujeres han tenido que romper estos techos de cristal y son sujetos de violencia política, creo que, sin duda alguna estamos en una etapa donde tenemos que apoyar muchísimo la agenda de paridad de género.
+
+En efecto, representa la reelección un problema para la paridad de género. No sólo tienes los dispositivos que se incorporaron en la reforma del 2014 de paridad de género vertical, que es muy sencillo en término del acomodo de las listas, intercalando en la misma a hombres y mujeres, pero también tienes que atender específicamente a la paridad horizontal y esto ha sido determinante en las sentencias que el Tribunal Electoral ha concluido. Por lo anterior, afectará a los partidos esta manera en la que deberán estar sujetos a este acomodo en términos en que el primer término para seleccionar algún candidato no será el apego o el aspecto competitivo, sino que tendrán que verlo por cuestiones de género.
+
+*Corona*: En un mundo con reelección, ¿mantiene sentido la obligación de pedir licencia para poder volver a contender en una elección? 
+Horacio Vives. Tenemos un problema muy importante aquí, porque sabemos que en estricto sentido la promoción de los logros de quien está al frente de una responsabilidad pública, producto de una elección, solamente puede difundir esto en un período designado, es decir, tienes 13 días que marca la ley para poder hacer promoción abierta de tus logros en el desempeño de un cargo. Sin embargo, el asunto de la reelección está en su diseño y origen completamente peleado con esto porque la lógica sería que, alguien que está en su cargo, debería hablar permanentemente de los resultados que ha hecho en beneficio de sus ciudadanos y la oposición debería estar haciendo su labor que le corresponde, que es estar criticando y señalando los errores, este debería ser el esquema liberal clásico. 
+
+En esta medida, el asunto de que tienes que separarte en determinada fecha para competir por un cargo es absurdo, porque, por un lado, está esta presuposición de que alguien que está haciendo campaña va a descuidar las labores por las que fue electo. Esta es una crítica válida, pero yo también veo la otra parte: si tienes los incentivos para reelegirte, tu mejor carta de presentación es tu trabajo, por lo tanto, si tienes que dividirte entre ser candidato y trabajar por el cargo que ocupas, resulta más sencillo y genera menos incertidumbre y, además, lo hemos visto en muchas partes del mundo y esto no genera mayores problemas. Entonces esto es producto de una legislación absolutamente restrictiva, barroca y con desconfianza de los partidos. 
+
+Respecto a la reforma electoral realizada, no tenemos una precisión clara de hasta dónde van a tener que quedarse estas directrices, creo que el INE deberá proponer cómo se va a llevar a cabo esta nueva realidad de funcionares que buscarán reelección en distintos niveles y eventualmente habrá impugnaciones en el tribunal donde se dará mayor precisión, porque la ley no está escrita de forma clara.
+Gretel Calleros. ¿Cómo tendríamos que ubicar el sentido de actos anticipados de campaña respecto a la promoción de aquellos funcionarios que buscan la reelección?
+
+*Vives*: Soy de la idea, considerando que, por ejemplo, para la legislación electoral previa a la reforma del 2007, no existía como tal la palabra “precampaña”, entonces vamos metiéndole más supuestos, candados y más restricciones a la ley. Yo entiendo que, cualquier actividad que se haga entre el inicio de las precampañas y el término de un proceso electoral es “fair play”. Cualquier cosa que se haga en este período previo al inicio de las precampañas, puedes hacer y decir cualquier cosa que quieras. Creo que sería absurdo restringir a un político porque está en su actividad hacer permanentemente política. Habrá algunos señalamientos, pero creo que es una restricción absurda.
+Por otro lado, tiene muchos problemas la legislación, porque no hay una total libertad de expresión en el sentido llano que debería de tenerse, porque hay unos supuestos en los cuales si caes, te sancionan. Lo más sencillo sería que, si ocupas un cargo, no debes dejar el cargo ni quedarse callado en lo previo a la precampaña.
+
+*Corona*: Cuando algún funcionario quiere contender en las próximas elecciones para reelegirse, ¿cómo se podrá distinguir entre los fondos que les propicie su partido y los privados?
+
+*Vives*: Eso podría tener algunos problemas, pero en principio la verdad es que no me preocupa tanto porque yo tendería a pensar que, por ejemplo, un candidato que busque mantener el cargo, se tiene que someter a las reglas de financiamiento público y privado establecidas en la Constitución, en la Ley General de Instituciones y Procedimientos Electorales y la Ley de Partidos; en ese sentido, no creo que esto represente algún problema porque hay mecanismos que están expresamente prohibidos por la ley y sabes que tienes derecho a cierta aportación de tus recursos para la campaña, cierta aportación que te dará el partido y creo que, en ese sentido, sí está reglamentado.
+
+Eventualmente se asocia que, si estás en un cargo, no solamente tengas un financiamiento tal de dinero, sino en especie asociado al beneficio de una campaña. En resumen, sabemos que los candidatos tienen derecho a un financiamiento público y privado, los topes de gasto de campaña, las restricciones y las vías por las cuales puedes financiar tu campaña y la verdad no creo que pueda ser un inconveniente mayor.
+
+*Calleros*: La Constitución Política de los Estados Unidos Mexicanos menciona que, si antes de la mitad del período tú renuncias a tu partido, puedes ser reelecto vía otro partido o independiente, ¿qué podríamos esperar de ello?
+
+Esta es una pregunta muy pertinente, creo que tiene efectos importantes a considerar. En este tipo de restricciones, se pensaría que tienden a favorecer más a los partidos políticos que a los candidatos y a los ciudadanos, pero yo te pregunto en un ejemplo muy puntual: cuando fueron las elecciones de 2012, que se votó, además de Presidente de la República, por la Cámara de Senadores por la renovación completa, todos aquellos electores que votaron por el PRD, tal vez lo hicieron porque en ese momento López Obrador no estaba tan distanciado del PRD como ahora, tal vez lo hicieron por el partido o, incluso, por el candidato puntual a Senador en un estado en particular, aunque también sabemos que hay una proporción que le corresponde al partido por la Lista Nacional de Representación Proporcional. Con esto, yo me pregunto, ¿todos aquellos que votaron por el PRD por el partido, no se sentirán un poco decepcionados por lo que está pasando ahora? Porque no votaron por la futura bancada de MORENA probablemente ni porque se pulverizara esa opción política. 
+
+Pues bien, si uno puede votar por algún candidato o puede votar en contra para que no llegue una determinada opción política, también creo que hay una parte del electorado que sí vota por los partidos, porque considera que medianamente van a defenderse ciertas posiciones, ciertas políticas públicas o cierta ideología; entonces, creo que, en alguna medida, los partidos políticos son estos atajos informativos, estos bancos que de alguna manera permiten simplificar información para los receptores, entonces creo que no está del todo mal en términos de tratar de incidir una cierta lealtad entre el candidato que se elige y el partido que lo está postulando. Si no les gusta a los candidatos esta vía, están los independientes, pero yo la verdad no tengo una posición clara porque veo pros y contras.
+
+De esto, lo que yo valoro más es que el ciudadano tenga más opciones: si el elector decide votar por un independiente, está muy bien, cosa que antes no se podía; si quiere votar por una coalición de partidos o por un solo partido, también me parece muy bien; y, si quiere votar por una persona, también está perfecto. Ya si, eventualmente, el funcionario quiere brincar de una bancada a otra, o hacerse independiente, ya es otra consideración posterior, pero también lo interesante es que, con el poder de la reelección, un ciudadano podrá decir que votó por un candidato porque pertenece a algún partido que en cierto momento se cambió a otro o se convirtió en independiente, entonces ya no le convence ese candidato y, por ende, ya no espera reelegirlo a través de su voto. Entonces, ahí tiene ciertos aspectos positivos y negativos esta ancla para que los políticos le tengan un mínimo de lealtad a las siglas del partido por el que están siendo elegidos a un cargo, por lo que no todo está mal en esta restricción.
+
+*Calleros*: ¿Qué opina de que los diputados electos por coalición tienen más alternativas para volver a nominarse que quienes compitieron por solamente un partido?
+
+*Vives*: No siempre será así, pero actualmente hay coaliciones que son muy estables y otras que son más volátiles. Por ejemplo, sabemos que una coalición que tiende a ser estable es una coalición PRI-PVEM-Nueva Alianza, pero también depende de las negociaciones que se hagan en cada ámbito de la elección, pues en algunas preferirán ir con un convenio de coalición total y en otras buscarán ir con una coalición parcial, y también va a depender mucho de cómo vayan a ser distribuidos, porque recordemos que las coaliciones tienen efectos para dar la oferta electoral en las boletas, pero los legisladores son parte de bloques parlamentarios específicos tanto en Cámara de Diputados, Cámara de Senadores y en los congresos locales. 
+
+Entonces, considero que debería empezar a verse que no es lo mismo ser parte de una coalición electoral que el desempeño en lo individual que se tenga durante el ejercicio de las funciones de un parlamento. Por lo tanto, creo que eso es algo que, eventualmente, se va a empezar a ver en la medida en que vaya jalando la reelección y se vean los beneficios ciudadanos en términos de monitoreo, de rendición de cuentas y  de actuación que vayan teniendo los legisladores.
+
+En conclusión, pensaría que sí, pero también depende del tipo de coalición y si es total o parcial, también de la cuestión de género y ver si es necesario, en algún momento dado, incorporar a un hombre o a una mujer como candidato o candidata de la coalición. Creo que esto se podría comenzar a complejizar, porque ya son muchos más factores en la ecuación, no creo que se trate de un efecto automático donde el candidato que busca reelegirse tenga la libertad de decidir por qué partido contender. Luego también hay coaliciones que van cambiando dependiendo de elección en elección; hemos visto que PAN-PRD se presentan juntos en una elección y en la siguiente ya no. En fin, hay muchos factores que intervienen en este proceso.
+
+*Corona*: ¿Considera pertinente que se regule más a la figura de la reelección o que todas las controversias referentes a este tema se resuelvan en los tribunales?
+
+*Vives*: Creo que, lo primero, es tener claridad sobre el procedimiento de reelección como tal para que sea mucho más útil, porque podríamos caer en esto que está pasando que es una enorme litigiosidad y que, eventualmente puede llegar, inclusive, por parte de los tribunales locales, o las salas regionales o la sala superior, a resoluciones que son incongruentes o contradictorias entre sí. Ahí sabemos que termina imperando la decisión de la sala superior, pero ya hemos visto muchos casos en los cuales esta sala le enmienda la plana a una sala regional, cuando en estricto sentido, si hubiera una correcta coordinación sobre cuáles deben ser los criterios y las formas de resolver esto, no tendría que pasar. Además, también cambia dependiendo de la conformación de una sala regional o inclusive de la superior misma.
+
+En fin, hay tantos factores que creo que lo mejor sería tener claridad sobre una figura nueva y no andarse esperando a que, a golpes de sentencias, se vayan abriendo caminos sobre qué va a pasar. Obviamente no soy optimista porque, como toda figura novedosa, seguramente habrán resoluciones e interpretaciones que se irán ajustando en el camino, pero creo que, lamentablemente, vamos para allá.    
