@@ -1,0 +1,37 @@
+#+STARTUP: showall
+#+OPTIONS: toc:nil
+# # will change captions to Spanish, see https://lists.gnu.org/archive/html/emacs-orgmode/2010-03/msg00879.html
+#+LANGUAGE: es 
+#+begin_src yaml :exports results :results value html
+  ---
+  layout: single
+  title: AMLO jaló el mapa hacia la izquierda
+  # subtitle: 
+  author: eric.magar
+  date:   2018-07-06
+  last_modified_at: 2018-07-06
+  toc: false
+  tags: 
+    - elecciones
+    - voto presidencial
+  ---
+#+end_src
+#+results:
+
+/Una parte sustancial del crecimiento de AMLO fue a expensas del PRI a lo largo y ancho del país/
+
+En 2016 el /New York Times/ publicó un extraordinario retrato de cómo Trump tiró el mapa electoral de EE.UU. hacia la derecha del espectro (consúltelo [[https://www.nytimes.com/interactive/2016/11/08/us/elections/how-trump-pushed-the-election-map-to-the-right.html][aquí]]). A sugerencia de Federico Estévez, he empezado a replicarlo con el cómputo distrital de votos presidenciales del domingo pasado. Presento un borrador.
+
+El mapa contrasta porcentajes de voto para presidente en 2012 y 2018, agregados para los municipios del país. Las flechas marrones reportan diferenciales positivos obtenidos por AMLO y las negras por Meade (comparados con Peña en 2012). Sólo aparecen flechas en caso de crecimiento porcentual del voto. 
+
+(Hay una versión descargable del mapa, en formato pdf, con mucho mejor resolución [[https://github.com/emagar/elecRetrns/raw/master/graph/nytPlus.pdf][aquí]].)
+
+#+CAPTION: Réplica del mapa del /NYT/ para nuestra elección presidencial
+#+NAME:   fig:1
+#+ATTR_HTML: style="float:center;"
+#+ATTR_HTML: :width 100%
+[[file:https://github.com/emagar/elecRetrns/raw/master/graph/nytPlus.png]]
+
+Destaca el crecimiento de AMLO en la casi totalidad de municipios: el cómputo distrital reporta sólo 97 municipios en donde no creció el porcentaje respecto del que obtuvo en 2012. Pero también el hecho de que prácticamente no hay casos donde AMLO y Meade hayan crecido simlutáneamente (a expensas de Anaya). Esto indica una migración masiva de votantes priistas hacia Morena --- indicio de una realineación electoral. 
+
+Subiré nuevas versiones pronto. Siga atento.

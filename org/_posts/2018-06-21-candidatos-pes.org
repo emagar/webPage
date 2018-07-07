@@ -5,11 +5,11 @@
 #+begin_src yaml :exports results :results value html
   ---
   layout: single
-  title:  Los candidatos al Congreso de AMLO
+  title:  Los candidatos de AMLO
   subtitle: Consecuencias de las coaliciones electorales 
   author: eric.magar
   date:   2018-06-21
-  last_modified_at: 2018-06-21
+  last_modified_at: 2018-07-02
   toc: true
   tags: 
     - elecciones
