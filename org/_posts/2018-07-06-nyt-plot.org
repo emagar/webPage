@@ -9,8 +9,9 @@
   # subtitle: 
   author: eric.magar
   date:   2018-07-06
-  last_modified_at: 2018-07-06
-  toc: false
+  last_modified_at: 2018-07-17
+  toc: true
+  teaser: /assets/img/pirinola.jpg
   tags: 
     - elecciones
     - voto presidencial
@@ -18,20 +19,547 @@
 #+end_src
 #+results:
 
-/Una parte sustancial del crecimiento de AMLO fue a expensas del PRI a lo largo y ancho del país/
+/La parte sustancial del crecimiento de AMLO fue a expensas del PRI a lo largo y ancho del país/
 
-En 2016 el /New York Times/ publicó un extraordinario retrato de cómo Trump tiró el mapa electoral de EE.UU. hacia la derecha del espectro (consúltelo [[https://www.nytimes.com/interactive/2016/11/08/us/elections/how-trump-pushed-the-election-map-to-the-right.html][aquí]]). A sugerencia de Federico Estévez, he empezado a replicarlo con el cómputo distrital de votos presidenciales del domingo pasado. Presento un borrador.
+En 2016 el /New York Times/ publicó un extraordinario retrato de cómo Trump tiró el mapa electoral de EE.UU. hacia la derecha del espectro (consúltelo [[https://www.nytimes.com/interactive/2016/11/08/us/elections/how-trump-pushed-the-election-map-to-the-right.html][aquí]]). A sugerencia de Federico Estévez, lo he replicado con el cómputo distrital de votos para presidente. 
 
-El mapa contrasta porcentajes de voto para presidente en 2012 y 2018, agregados para los municipios del país. Las flechas marrones reportan diferenciales positivos obtenidos por AMLO y las negras por Meade (comparados con Peña en 2012). Sólo aparecen flechas en caso de crecimiento porcentual del voto. 
+* Los municipios del país
 
-(Hay una versión descargable del mapa, en formato pdf, con mucho mejor resolución [[https://github.com/emagar/elecRetrns/raw/master/graph/nytPlus.pdf][aquí]].)
+El primer par de mapas contrasta porcentajes de voto para presidente en 2012 y 2018, agregados para los ~2,500 municipios del país. Las flechas marrones reportan diferenciales positivos obtenidos por AMLO y las negras por Meade (comparados con Peña en 2012). Sólo aparecen flechas en caso de crecimiento porcentual del voto. 
 
-#+CAPTION: Réplica del mapa del /NYT/ para nuestra elección presidencial
+(Hay una versión descargable del mapa, en formato pdf, con mucho mejor resolución [[https://github.com/emagar/elecRetrns/raw/master/graph/nytPlusPri.pdf][aquí]].)
+
+#+CAPTION: Réplica del mapa del /NYT/ para nuestra elección presidencial, AMLO vs Meade
 #+NAME:   fig:1
 #+ATTR_HTML: style="float:center;"
 #+ATTR_HTML: :width 100%
-[[file:https://github.com/emagar/elecRetrns/raw/master/graph/nytPlus.png]]
+[[file:https://github.com/emagar/elecRetrns/raw/master/graph/nytPlusPri.png]]
 
 Destaca el crecimiento de AMLO en la casi totalidad de municipios: el cómputo distrital reporta sólo 97 municipios en donde no creció el porcentaje respecto del que obtuvo en 2012. Pero también el hecho de que prácticamente no hay casos donde AMLO y Meade hayan crecido simlutáneamente (a expensas de Anaya). Esto indica una migración masiva de votantes priistas hacia Morena --- indicio de una realineación electoral. 
 
-Subiré nuevas versiones pronto. Siga atento.
+Lo anterior parece confirmarse al contrastar el cambio AMLO con el de Anaya (en comparación con el porcentaje de voto de Josefina Vásquez Mota en 2012). A diferencia de la coalición del PRI, el candidato del Frente sí creció en muchos municipios (en 884). Y en muchos creció a la par de AMLO (en detrimento del PRI).
+
+Lo anterior parece confirmarse al contrastar el cambio AMLO con el de Anaya. La validez de la medición es menos certera por las coaliciones. Si bien Meade contó con un socio más que Peña en 2012 (el PANAL), se trata de un partido relativamente chico en relación a la suma del PRI y PVEM. Pero al contrastar el voto Anaya con el porcentaje de Josefina Vásquez Mota en 2012 son dos los socios adicionales, uno relativamente chico (MC), otro de importante en algunos estados. Con este grano de sal en mente, a diferencia de la coalición del PRI, el candidato del Frente sí creció en muchos municipios (en 884). Y en muchos creció a la par de AMLO (en detrimento del PRI).
+
+(Hay una versión descargable del mapa AMLO-PAN, en formato pdf, con mucho mejor resolución [[https://github.com/emagar/elecRetrns/raw/master/graph/nytPlusPan.pdf][aquí]].)
+
+#+CAPTION: Réplica del mapa del /NYT/ para nuestra elección presidencial, AMLO vs Anaya
+#+NAME:   fig:2
+#+ATTR_HTML: style="float:center;"
+#+ATTR_HTML: :width 100%
+[[file:https://github.com/emagar/elecRetrns/raw/master/graph/nytPlusPan.png]]
+
+En panorama no es halagüeño para ninguno de los perdedores de 2018 desde la perspectiva de qué candidato presidencial ganó los municipios en 2012. De los 240 municipios que Josefina ganó, Anaya creció en 29 (12 por ciento). De los 1,582 municipios que Peña ganó, Meade creció en 29 solamente (menos de 2 por ciento). Los mapas siguientes ubican esto geográficamente. 
+
+(Hay una versión descargable del mapa de municipios que Peña ganó, en formato pdf, con mucho mejor resolución [[https://github.com/emagar/elecRetrns/raw/master/graph/meade-pena-won.pdf][aquí]].)
+
+#+CAPTION: Crecimiento de Meade en municipios que peña ganó en 2012
+#+NAME:   fig:2c
+#+ATTR_HTML: style="float:center;"
+#+ATTR_HTML: :width 100%
+[[file:https://github.com/emagar/elecRetrns/raw/master/graph/meade-pena-won.png]]
+
+(Hay una versión descargable del mapa de municipios que Peña ganó, en formato pdf, con mucho mejor resolución [[https://github.com/emagar/elecRetrns/raw/master/graph/anaya-jvm-won.pdf][aquí]].)
+
+#+CAPTION: Crecimiento de Anaya en municipios que Josefina Vásquez Mota ganó
+#+NAME:   fig:2d
+#+ATTR_HTML: style="float:center;"
+#+ATTR_HTML: :width 100%
+[[file:https://github.com/emagar/elecRetrns/raw/master/graph/anaya-jvm-won.png]]
+
+* Las secciones electorales
+
+Las secciones electorales ofrecen una perspectiva más fina. Por tratarse de unidades geográficas mucho más pequeñas, presento mapas estado por estado (aún faltan algunos que espero tener pronto). Revelan patrones regionales diferenciados, pero es muy notable que el crecimiento de AMLO y Anaya a expensas del PRI es reconocible por doquier. El votante del PRI populista parecería haber migrado a Morena en todo el país, mientras que el de corte más independiente lo hizo hacia el Frente.
+
+Los mapas seccionales muestran también que las flechas de crecimiento de Anaya son un tanto engañosas donde el PRD tuvo una presencia fuerte hasta 2015. El caso de la Ciudad de México ilustra bien lo anterior. El mapa [[fig:2b]] compara el cremiento de Ricardo Anaya sobre Josefina Vázquez Mota (flechas azules) con el voto del PRD para diputados federales en 2015 (las flechas amarillas que apuntan hacia abajo). La fracción del voto perredista que se mudó al Frente en 2018 alimenta el crecimiento de Anaya. Usar al PAN en 2012 (que compitió solo) como base del crecimiento de la coalición crea una ilusión de crecimiento desmedido. El mapa Anaya es más fiable en estados/regiones con presencia sustancial del PAN en elecciones anteriores (Guanajuato o Yucatán) que donde el PRD era fuerte (Guerrero o el noroeste de Hidalgo son otros ejemplos).
+
+#+CAPTION: Mapa de secciones electorales, Anaya vs PRD
+#+NAME:   fig:2b
+#+ATTR_HTML: style="float:center;"
+#+ATTR_HTML: :width 100%
+[[file:https://github.com/emagar/elecRetrns/raw/master/graph/nytNegPrd-df.png]]
+
+A continuación, para cada estado, el par de mapas que contrastan el crecimiento seccional de AMLO contra el de Meade y de Anaya, respectivamente.
+
+** Aguascalientes
+Versión en pdf [[https://github.com/emagar/elecRetrns/raw/master/graph/nytPlusPri-ags.pdf][aquí]]
+#+CAPTION: Mapa de secciones electorales, AMLO vs Meade
+#+NAME:   fig:1
+#+ATTR_HTML: style="float:center;"
+#+ATTR_HTML: :width 100%
+[[file:https://github.com/emagar/elecRetrns/raw/master/graph/nytPlusPri-ags.png]]
+
+Versión en pdf [[https://github.com/emagar/elecRetrns/raw/master/graph/nytPlusPan-ags.pdf][aquí]]
+#+CAPTION: Mapa de secciones electorales, AMLO vs Anaya
+#+NAME:   fig:1
+#+ATTR_HTML: style="float:center;"
+#+ATTR_HTML: :width 100%
+[[file:https://github.com/emagar/elecRetrns/raw/master/graph/nytPlusPan-ags.png]]
+ 
+** Baja California
+Versión en pdf [[https://github.com/emagar/elecRetrns/raw/master/graph/nytPlusPri-bc.pdf][aquí]]
+#+CAPTION: Mapa de secciones electorales, AMLO vs Meade
+#+NAME:   fig:2
+#+ATTR_HTML: style="float:center;"
+#+ATTR_HTML: :width 100%
+[[file:https://github.com/emagar/elecRetrns/raw/master/graph/nytPlusPri-bc.png]]
+
+Versión en pdf [[https://github.com/emagar/elecRetrns/raw/master/graph/nytPlusPan-bc.pdf][aquí]]
+#+CAPTION: Mapa de secciones electorales, AMLO vs Anaya
+#+NAME:   fig:2
+#+ATTR_HTML: style="float:center;"
+#+ATTR_HTML: :width 100%
+[[file:https://github.com/emagar/elecRetrns/raw/master/graph/nytPlusPan-bc.png]]
+ 
+** Baja California Sur
+Versión en pdf [[https://github.com/emagar/elecRetrns/raw/master/graph/nytPlusPri-bcs.pdf][aquí]]
+#+CAPTION: Mapa de secciones electorales, AMLO vs Meade
+#+NAME:   fig:3
+#+ATTR_HTML: style="float:center;"
+#+ATTR_HTML: :width 100%
+[[file:https://github.com/emagar/elecRetrns/raw/master/graph/nytPlusPri-bcs.png]]
+
+Versión en pdf [[https://github.com/emagar/elecRetrns/raw/master/graph/nytPlusPan-bcs.pdf][aquí]]
+#+CAPTION: Mapa de secciones electorales, AMLO vs Anaya
+#+NAME:   fig:3
+#+ATTR_HTML: style="float:center;"
+#+ATTR_HTML: :width 100%
+[[file:https://github.com/emagar/elecRetrns/raw/master/graph/nytPlusPan-bcs.png]]
+  
+** Campeche
+Versión en pdf [[https://github.com/emagar/elecRetrns/raw/master/graph/nytPlusPri-cam.pdf][aquí]]
+#+CAPTION: Mapa de secciones electorales, AMLO vs Meade
+#+NAME:   fig:4
+#+ATTR_HTML: style="float:center;"
+#+ATTR_HTML: :width 100%
+[[file:https://github.com/emagar/elecRetrns/raw/master/graph/nytPlusPri-cam.png]]
+
+Versión en pdf [[https://github.com/emagar/elecRetrns/raw/master/graph/nytPlusPan-cam.pdf][aquí]]
+#+CAPTION: Mapa de secciones electorales, AMLO vs Anaya
+#+NAME:   fig:4
+#+ATTR_HTML: style="float:center;"
+#+ATTR_HTML: :width 100%
+[[file:https://github.com/emagar/elecRetrns/raw/master/graph/nytPlusPan-cam.png]]
+ 
+** Coahuila
+Versión en pdf [[https://github.com/emagar/elecRetrns/raw/master/graph/nytPlusPri-coa.pdf][aquí]]
+#+CAPTION: Mapa de secciones electorales, AMLO vs Meade
+#+NAME:   fig:5
+#+ATTR_HTML: style="float:center;"
+#+ATTR_HTML: :width 100%
+[[file:https://github.com/emagar/elecRetrns/raw/master/graph/nytPlusPri-coa.png]]
+
+Versión en pdf [[https://github.com/emagar/elecRetrns/raw/master/graph/nytPlusPan-coa.pdf][aquí]]
+#+CAPTION: Mapa de secciones electorales, AMLO vs Anaya
+#+NAME:   fig:5
+#+ATTR_HTML: style="float:center;"
+#+ATTR_HTML: :width 100%
+[[file:https://github.com/emagar/elecRetrns/raw/master/graph/nytPlusPan-coa.png]]
+  
+** Colima
+Versión en pdf [[https://github.com/emagar/elecRetrns/raw/master/graph/nytPlusPri-col.pdf][aquí]]
+#+CAPTION: Mapa de secciones electorales, AMLO vs Meade
+#+NAME:   fig:6
+#+ATTR_HTML: style="float:center;"
+#+ATTR_HTML: :width 100%
+[[file:https://github.com/emagar/elecRetrns/raw/master/graph/nytPlusPri-col.png]]
+
+Versión en pdf [[https://github.com/emagar/elecRetrns/raw/master/graph/nytPlusPan-col.pdf][aquí]]
+#+CAPTION: Mapa de secciones electorales, AMLO vs Anaya
+#+NAME:   fig:6
+#+ATTR_HTML: style="float:center;"
+#+ATTR_HTML: :width 100%
+[[file:https://github.com/emagar/elecRetrns/raw/master/graph/nytPlusPan-col.png]]
+ 
+** Chiapas
+Versión en pdf [[https://github.com/emagar/elecRetrns/raw/master/graph/nytPlusPri-cps.pdf][aquí]]
+#+CAPTION: Mapa de secciones electorales, AMLO vs Meade
+#+NAME:   fig:7
+#+ATTR_HTML: style="float:center;"
+#+ATTR_HTML: :width 100%
+[[file:https://github.com/emagar/elecRetrns/raw/master/graph/nytPlusPri-cps.png]]
+
+Versión en pdf [[https://github.com/emagar/elecRetrns/raw/master/graph/nytPlusPan-cps.pdf][aquí]]
+#+CAPTION: Mapa de secciones electorales, AMLO vs Anaya
+#+NAME:   fig:7
+#+ATTR_HTML: style="float:center;"
+#+ATTR_HTML: :width 100%
+[[file:https://github.com/emagar/elecRetrns/raw/master/graph/nytPlusPan-cps.png]]
+  
+** Chihuahua
+Versión en pdf [[https://github.com/emagar/elecRetrns/raw/master/graph/nytPlusPri-cua.pdf][aquí]]
+#+CAPTION: Mapa de secciones electorales, AMLO vs Meade
+#+NAME:   fig:8
+#+ATTR_HTML: style="float:center;"
+#+ATTR_HTML: :width 100%
+[[file:https://github.com/emagar/elecRetrns/raw/master/graph/nytPlusPri-cua.png]]
+
+Versión en pdf [[https://github.com/emagar/elecRetrns/raw/master/graph/nytPlusPan-cua.pdf][aquí]]
+#+CAPTION: Mapa de secciones electorales, AMLO vs Anaya
+#+NAME:   fig:8
+#+ATTR_HTML: style="float:center;"
+#+ATTR_HTML: :width 100%
+[[file:https://github.com/emagar/elecRetrns/raw/master/graph/nytPlusPan-cua.png]]
+ 
+** Ciudad de México
+Versión en pdf [[https://github.com/emagar/elecRetrns/raw/master/graph/nytPlusPri-df.pdf][aquí]]
+#+CAPTION: Mapa de secciones electorales, AMLO vs Meade
+#+NAME:   fig:9
+#+ATTR_HTML: style="float:center;"
+#+ATTR_HTML: :width 100%
+[[file:https://github.com/emagar/elecRetrns/raw/master/graph/nytPlusPri-df.png]]
+
+Versión en pdf [[https://github.com/emagar/elecRetrns/raw/master/graph/nytPlusPan-df.pdf][aquí]]
+#+CAPTION: Mapa de secciones electorales, AMLO vs Anaya
+#+NAME:   fig:9
+#+ATTR_HTML: style="float:center;"
+#+ATTR_HTML: :width 100%
+[[file:https://github.com/emagar/elecRetrns/raw/master/graph/nytPlusPan-df.png]]
+  
+** Durango
+Versión en pdf [[https://github.com/emagar/elecRetrns/raw/master/graph/nytPlusPri-dgo.pdf][aquí]]
+#+CAPTION: Mapa de secciones electorales, AMLO vs Meade
+#+NAME:   fig:10
+#+ATTR_HTML: style="float:center;"
+#+ATTR_HTML: :width 100%
+[[file:https://github.com/emagar/elecRetrns/raw/master/graph/nytPlusPri-dgo.png]]
+
+Versión en pdf [[https://github.com/emagar/elecRetrns/raw/master/graph/nytPlusPan-dgo.pdf][aquí]]
+#+CAPTION: Mapa de secciones electorales, AMLO vs Anaya
+#+NAME:   fig:10
+#+ATTR_HTML: style="float:center;"
+#+ATTR_HTML: :width 100%
+[[file:https://github.com/emagar/elecRetrns/raw/master/graph/nytPlusPan-dgo.png]]
+ 
+** Guanajuato
+Versión en pdf [[https://github.com/emagar/elecRetrns/raw/master/graph/nytPlusPri-gua.pdf][aquí]]
+#+CAPTION: Mapa de secciones electorales, AMLO vs Meade
+#+NAME:   fig:11
+#+ATTR_HTML: style="float:center;"
+#+ATTR_HTML: :width 100%
+[[file:https://github.com/emagar/elecRetrns/raw/master/graph/nytPlusPri-gua.png]]
+
+Versión en pdf [[https://github.com/emagar/elecRetrns/raw/master/graph/nytPlusPan-gua.pdf][aquí]]
+#+CAPTION: Mapa de secciones electorales, AMLO vs Anaya
+#+NAME:   fig:11
+#+ATTR_HTML: style="float:center;"
+#+ATTR_HTML: :width 100%
+[[file:https://github.com/emagar/elecRetrns/raw/master/graph/nytPlusPan-gua.png]]
+  
+** Guerrero
+Versión en pdf [[https://github.com/emagar/elecRetrns/raw/master/graph/nytPlusPri-gue.pdf][aquí]]
+#+CAPTION: Mapa de secciones electorales, AMLO vs Meade
+#+NAME:   fig:12
+#+ATTR_HTML: style="float:center;"
+#+ATTR_HTML: :width 100%
+[[file:https://github.com/emagar/elecRetrns/raw/master/graph/nytPlusPri-gue.png]]
+
+Versión en pdf [[https://github.com/emagar/elecRetrns/raw/master/graph/nytPlusPan-gue.pdf][aquí]]
+#+CAPTION: Mapa de secciones electorales, AMLO vs Anaya
+#+NAME:   fig:12
+#+ATTR_HTML: style="float:center;"
+#+ATTR_HTML: :width 100%
+[[file:https://github.com/emagar/elecRetrns/raw/master/graph/nytPlusPan-gue.png]]
+ 
+** Hidalgo
+Versión en pdf [[https://github.com/emagar/elecRetrns/raw/master/graph/nytPlusPri-hgo.pdf][aquí]]
+#+CAPTION: Mapa de secciones electorales, AMLO vs Meade
+#+NAME:   fig:13
+#+ATTR_HTML: style="float:center;"
+#+ATTR_HTML: :width 100%
+[[file:https://github.com/emagar/elecRetrns/raw/master/graph/nytPlusPri-hgo.png]]
+
+Versión en pdf [[https://github.com/emagar/elecRetrns/raw/master/graph/nytPlusPan-hgo.pdf][aquí]]
+#+CAPTION: Mapa de secciones electorales, AMLO vs Anaya
+#+NAME:   fig:13
+#+ATTR_HTML: style="float:center;"
+#+ATTR_HTML: :width 100%
+[[file:https://github.com/emagar/elecRetrns/raw/master/graph/nytPlusPan-hgo.png]]
+  
+** Jalisco
+Versión en pdf [[https://github.com/emagar/elecRetrns/raw/master/graph/nytPlusPri-jal.pdf][aquí]]
+#+CAPTION: Mapa de secciones electorales, AMLO vs Meade
+#+NAME:   fig:14
+#+ATTR_HTML: style="float:center;"
+#+ATTR_HTML: :width 100%
+[[file:https://github.com/emagar/elecRetrns/raw/master/graph/nytPlusPri-jal.png]]
+
+Versión en pdf [[https://github.com/emagar/elecRetrns/raw/master/graph/nytPlusPan-jal.pdf][aquí]]
+#+CAPTION: Mapa de secciones electorales, AMLO vs Anaya
+#+NAME:   fig:14
+#+ATTR_HTML: style="float:center;"
+#+ATTR_HTML: :width 100%
+[[file:https://github.com/emagar/elecRetrns/raw/master/graph/nytPlusPan-jal.png]]
+ 
+** México
+Versión en pdf [[https://github.com/emagar/elecRetrns/raw/master/graph/nytPlusPri-mex.pdf][aquí]]
+#+CAPTION: Mapa de secciones electorales, AMLO vs Meade
+#+NAME:   fig:15
+#+ATTR_HTML: style="float:center;"
+#+ATTR_HTML: :width 100%
+[[file:https://github.com/emagar/elecRetrns/raw/master/graph/nytPlusPri-mex.png]]
+
+Versión en pdf [[https://github.com/emagar/elecRetrns/raw/master/graph/nytPlusPan-mex.pdf][aquí]]
+#+CAPTION: Mapa de secciones electorales, AMLO vs Anaya
+#+NAME:   fig:15
+#+ATTR_HTML: style="float:center;"
+#+ATTR_HTML: :width 100%
+[[file:https://github.com/emagar/elecRetrns/raw/master/graph/nytPlusPan-mex.png]]
+  
+** Michoacán
+Versión en pdf [[https://github.com/emagar/elecRetrns/raw/master/graph/nytPlusPri-mic.pdf][aquí]]
+#+CAPTION: Mapa de secciones electorales, AMLO vs Meade
+#+NAME:   fig:16
+#+ATTR_HTML: style="float:center;"
+#+ATTR_HTML: :width 100%
+[[file:https://github.com/emagar/elecRetrns/raw/master/graph/nytPlusPri-mic.png]]
+
+Versión en pdf [[https://github.com/emagar/elecRetrns/raw/master/graph/nytPlusPan-mic.pdf][aquí]]
+#+CAPTION: Mapa de secciones electorales, AMLO vs Anaya
+#+NAME:   fig:16
+#+ATTR_HTML: style="float:center;"
+#+ATTR_HTML: :width 100%
+[[file:https://github.com/emagar/elecRetrns/raw/master/graph/nytPlusPan-mic.png]]
+ 
+** Morelos
+Versión en pdf [[https://github.com/emagar/elecRetrns/raw/master/graph/nytPlusPri-mor.pdf][aquí]]
+#+CAPTION: Mapa de secciones electorales, AMLO vs Meade
+#+NAME:   fig:17
+#+ATTR_HTML: style="float:center;"
+#+ATTR_HTML: :width 100%
+[[file:https://github.com/emagar/elecRetrns/raw/master/graph/nytPlusPri-mor.png]]
+
+Versión en pdf [[https://github.com/emagar/elecRetrns/raw/master/graph/nytPlusPan-mor.pdf][aquí]]
+#+CAPTION: Mapa de secciones electorales, AMLO vs Anaya
+#+NAME:   fig:17
+#+ATTR_HTML: style="float:center;"
+#+ATTR_HTML: :width 100%
+[[file:https://github.com/emagar/elecRetrns/raw/master/graph/nytPlusPan-mor.png]]
+  
+** Nayarit
+Versión en pdf [[https://github.com/emagar/elecRetrns/raw/master/graph/nytPlusPri-nay.pdf][aquí]]
+#+CAPTION: Mapa de secciones electorales, AMLO vs Meade
+#+NAME:   fig:18
+#+ATTR_HTML: style="float:center;"
+#+ATTR_HTML: :width 100%
+[[file:https://github.com/emagar/elecRetrns/raw/master/graph/nytPlusPri-nay.png]]
+
+Versión en pdf [[https://github.com/emagar/elecRetrns/raw/master/graph/nytPlusPan-nay.pdf][aquí]]
+#+CAPTION: Mapa de secciones electorales, AMLO vs Anaya
+#+NAME:   fig:18
+#+ATTR_HTML: style="float:center;"
+#+ATTR_HTML: :width 100%
+[[file:https://github.com/emagar/elecRetrns/raw/master/graph/nytPlusPan-nay.png]]
+ 
+** Nuevo León
+Versión en pdf [[https://github.com/emagar/elecRetrns/raw/master/graph/nytPlusPri-nl.pdf][aquí]]
+#+CAPTION: Mapa de secciones electorales, AMLO vs Meade
+#+NAME:   fig:19
+#+ATTR_HTML: style="float:center;"
+#+ATTR_HTML: :width 100%
+[[file:https://github.com/emagar/elecRetrns/raw/master/graph/nytPlusPri-nl.png]]
+
+Versión en pdf [[https://github.com/emagar/elecRetrns/raw/master/graph/nytPlusPan-nl.pdf][aquí]]
+#+CAPTION: Mapa de secciones electorales, AMLO vs Anaya
+#+NAME:   fig:19
+#+ATTR_HTML: style="float:center;"
+#+ATTR_HTML: :width 100%
+[[file:https://github.com/emagar/elecRetrns/raw/master/graph/nytPlusPan-nl.png]]
+  
+** Oaxaca
+Versión en pdf [[https://github.com/emagar/elecRetrns/raw/master/graph/nytPlusPri-oax.pdf][aquí]]
+#+CAPTION: Mapa de secciones electorales, AMLO vs Meade
+#+NAME:   fig:20
+#+ATTR_HTML: style="float:center;"
+#+ATTR_HTML: :width 100%
+[[file:https://github.com/emagar/elecRetrns/raw/master/graph/nytPlusPri-oax.png]]
+
+Versión en pdf [[https://github.com/emagar/elecRetrns/raw/master/graph/nytPlusPan-oax.pdf][aquí]]
+#+CAPTION: Mapa de secciones electorales, AMLO vs Anaya
+#+NAME:   fig:20
+#+ATTR_HTML: style="float:center;"
+#+ATTR_HTML: :width 100%
+[[file:https://github.com/emagar/elecRetrns/raw/master/graph/nytPlusPan-oax.png]]
+ 
+** Puebla
+Versión en pdf [[https://github.com/emagar/elecRetrns/raw/master/graph/nytPlusPri-pue.pdf][aquí]]
+#+CAPTION: Mapa de secciones electorales, AMLO vs Meade
+#+NAME:   fig:21
+#+ATTR_HTML: style="float:center;"
+#+ATTR_HTML: :width 100%
+[[file:https://github.com/emagar/elecRetrns/raw/master/graph/nytPlusPri-pue.png]]
+
+Versión en pdf [[https://github.com/emagar/elecRetrns/raw/master/graph/nytPlusPan-pue.pdf][aquí]]
+#+CAPTION: Mapa de secciones electorales, AMLO vs Anaya
+#+NAME:   fig:21
+#+ATTR_HTML: style="float:center;"
+#+ATTR_HTML: :width 100%
+[[file:https://github.com/emagar/elecRetrns/raw/master/graph/nytPlusPan-pue.png]]
+  
+** Querétaro
+Versión en pdf [[https://github.com/emagar/elecRetrns/raw/master/graph/nytPlusPri-que.pdf][aquí]]
+#+CAPTION: Mapa de secciones electorales, AMLO vs Meade
+#+NAME:   fig:22
+#+ATTR_HTML: style="float:center;"
+#+ATTR_HTML: :width 100%
+[[file:https://github.com/emagar/elecRetrns/raw/master/graph/nytPlusPri-que.png]]
+
+Versión en pdf [[https://github.com/emagar/elecRetrns/raw/master/graph/nytPlusPan-que.pdf][aquí]]
+#+CAPTION: Mapa de secciones electorales, AMLO vs Anaya
+#+NAME:   fig:22
+#+ATTR_HTML: style="float:center;"
+#+ATTR_HTML: :width 100%
+[[file:https://github.com/emagar/elecRetrns/raw/master/graph/nytPlusPan-que.png]]
+ 
+** Quintana Roo
+Versión en pdf [[https://github.com/emagar/elecRetrns/raw/master/graph/nytPlusPri-qui.pdf][aquí]]
+#+CAPTION: Mapa de secciones electorales, AMLO vs Meade
+#+NAME:   fig:23
+#+ATTR_HTML: style="float:center;"
+#+ATTR_HTML: :width 100%
+[[file:https://github.com/emagar/elecRetrns/raw/master/graph/nytPlusPri-qui.png]]
+
+Versión en pdf [[https://github.com/emagar/elecRetrns/raw/master/graph/nytPlusPan-qui.pdf][aquí]]
+#+CAPTION: Mapa de secciones electorales, AMLO vs Anaya
+#+NAME:   fig:23
+#+ATTR_HTML: style="float:center;"
+#+ATTR_HTML: :width 100%
+[[file:https://github.com/emagar/elecRetrns/raw/master/graph/nytPlusPan-qui.png]]
+  
+** San Luis Potosí
+Versión en pdf [[https://github.com/emagar/elecRetrns/raw/master/graph/nytPlusPri-san.pdf][aquí]]
+#+CAPTION: Mapa de secciones electorales, AMLO vs Meade
+#+NAME:   fig:24
+#+ATTR_HTML: style="float:center;"
+#+ATTR_HTML: :width 100%
+[[file:https://github.com/emagar/elecRetrns/raw/master/graph/nytPlusPri-san.png]]
+
+Versión en pdf [[https://github.com/emagar/elecRetrns/raw/master/graph/nytPlusPan-san.pdf][aquí]]
+#+CAPTION: Mapa de secciones electorales, AMLO vs Anaya
+#+NAME:   fig:24
+#+ATTR_HTML: style="float:center;"
+#+ATTR_HTML: :width 100%
+[[file:https://github.com/emagar/elecRetrns/raw/master/graph/nytPlusPan-san.png]]
+ 
+** Sinaloa
+Versión en pdf [[https://github.com/emagar/elecRetrns/raw/master/graph/nytPlusPri-sin.pdf][aquí]]
+#+CAPTION: Mapa de secciones electorales, AMLO vs Meade
+#+NAME:   fig:25
+#+ATTR_HTML: style="float:center;"
+#+ATTR_HTML: :width 100%
+[[file:https://github.com/emagar/elecRetrns/raw/master/graph/nytPlusPri-sin.png]]
+
+Versión en pdf [[https://github.com/emagar/elecRetrns/raw/master/graph/nytPlusPan-sin.pdf][aquí]]
+#+CAPTION: Mapa de secciones electorales, AMLO vs Anaya
+#+NAME:   fig:25
+#+ATTR_HTML: style="float:center;"
+#+ATTR_HTML: :width 100%
+[[file:https://github.com/emagar/elecRetrns/raw/master/graph/nytPlusPan-sin.png]]
+  
+** Sonora
+Versión en pdf [[https://github.com/emagar/elecRetrns/raw/master/graph/nytPlusPri-son.pdf][aquí]]
+#+CAPTION: Mapa de secciones electorales, AMLO vs Meade
+#+NAME:   fig:26
+#+ATTR_HTML: style="float:center;"
+#+ATTR_HTML: :width 100%
+[[file:https://github.com/emagar/elecRetrns/raw/master/graph/nytPlusPri-son.png]]
+
+Versión en pdf [[https://github.com/emagar/elecRetrns/raw/master/graph/nytPlusPan-son.pdf][aquí]]
+#+CAPTION: Mapa de secciones electorales, AMLO vs Anaya
+#+NAME:   fig:26
+#+ATTR_HTML: style="float:center;"
+#+ATTR_HTML: :width 100%
+[[file:https://github.com/emagar/elecRetrns/raw/master/graph/nytPlusPan-son.png]]
+ 
+** Tabasco
+Versión en pdf [[https://github.com/emagar/elecRetrns/raw/master/graph/nytPlusPri-tab.pdf][aquí]]
+#+CAPTION: Mapa de secciones electorales, AMLO vs Meade
+#+NAME:   fig:27
+#+ATTR_HTML: style="float:center;"
+#+ATTR_HTML: :width 100%
+[[file:https://github.com/emagar/elecRetrns/raw/master/graph/nytPlusPri-tab.png]]
+
+Versión en pdf [[https://github.com/emagar/elecRetrns/raw/master/graph/nytPlusPan-tab.pdf][aquí]]
+#+CAPTION: Mapa de secciones electorales, AMLO vs Anaya
+#+NAME:   fig:27
+#+ATTR_HTML: style="float:center;"
+#+ATTR_HTML: :width 100%
+[[file:https://github.com/emagar/elecRetrns/raw/master/graph/nytPlusPan-tab.png]]
+  
+** Tamaulipas
+Versión en pdf [[https://github.com/emagar/elecRetrns/raw/master/graph/nytPlusPri-tam.pdf][aquí]]
+#+CAPTION: Mapa de secciones electorales, AMLO vs Meade
+#+NAME:   fig:28
+#+ATTR_HTML: style="float:center;"
+#+ATTR_HTML: :width 100%
+[[file:https://github.com/emagar/elecRetrns/raw/master/graph/nytPlusPri-tam.png]]
+
+Versión en pdf [[https://github.com/emagar/elecRetrns/raw/master/graph/nytPlusPan-tam.pdf][aquí]]
+#+CAPTION: Mapa de secciones electorales, AMLO vs Anaya
+#+NAME:   fig:28
+#+ATTR_HTML: style="float:center;"
+#+ATTR_HTML: :width 100%
+[[file:https://github.com/emagar/elecRetrns/raw/master/graph/nytPlusPan-tam.png]]
+ 
+** Tlaxcala
+Versión en pdf [[https://github.com/emagar/elecRetrns/raw/master/graph/nytPlusPri-tla.pdf][aquí]]
+#+CAPTION: Mapa de secciones electorales, AMLO vs Meade
+#+NAME:   fig:29
+#+ATTR_HTML: style="float:center;"
+#+ATTR_HTML: :width 100%
+[[file:https://github.com/emagar/elecRetrns/raw/master/graph/nytPlusPri-tla.png]]
+
+Versión en pdf [[https://github.com/emagar/elecRetrns/raw/master/graph/nytPlusPan-tla.pdf][aquí]]
+#+CAPTION: Mapa de secciones electorales, AMLO vs Anaya
+#+NAME:   fig:29
+#+ATTR_HTML: style="float:center;"
+#+ATTR_HTML: :width 100%
+[[file:https://github.com/emagar/elecRetrns/raw/master/graph/nytPlusPan-tla.png]]
+  
+** Veracruz
+Versión en pdf [[https://github.com/emagar/elecRetrns/raw/master/graph/nytPlusPri-ver.pdf][aquí]]
+#+CAPTION: Mapa de secciones electorales, AMLO vs Meade
+#+NAME:   fig:30
+#+ATTR_HTML: style="float:center;"
+#+ATTR_HTML: :width 100%
+[[file:https://github.com/emagar/elecRetrns/raw/master/graph/nytPlusPri-ver.png]]
+
+Versión en pdf [[https://github.com/emagar/elecRetrns/raw/master/graph/nytPlusPan-ver.pdf][aquí]]
+#+CAPTION: Mapa de secciones electorales, AMLO vs Anaya
+#+NAME:   fig:30
+#+ATTR_HTML: style="float:center;"
+#+ATTR_HTML: :width 100%
+[[file:https://github.com/emagar/elecRetrns/raw/master/graph/nytPlusPan-ver.png]]
+ 
+** Yucatán
+Versión en pdf [[https://github.com/emagar/elecRetrns/raw/master/graph/nytPlusPri-yuc.pdf][aquí]]
+#+CAPTION: Mapa de secciones electorales, AMLO vs Meade
+#+NAME:   fig:31
+#+ATTR_HTML: style="float:center;"
+#+ATTR_HTML: :width 100%
+[[file:https://github.com/emagar/elecRetrns/raw/master/graph/nytPlusPri-yuc.png]]
+
+Versión en pdf [[https://github.com/emagar/elecRetrns/raw/master/graph/nytPlusPan-yuc.pdf][aquí]]
+#+CAPTION: Mapa de secciones electorales, AMLO vs Anaya
+#+NAME:   fig:31
+#+ATTR_HTML: style="float:center;"
+#+ATTR_HTML: :width 100%
+[[file:https://github.com/emagar/elecRetrns/raw/master/graph/nytPlusPan-yuc.png]]
+  
+** Zacatecas
+Versión en pdf [[https://github.com/emagar/elecRetrns/raw/master/graph/nytPlusPri-zac.pdf][aquí]]
+#+CAPTION: Mapa de secciones electorales, AMLO vs Meade
+#+NAME:   fig:32
+#+ATTR_HTML: style="float:center;"
+#+ATTR_HTML: :width 100%
+[[file:https://github.com/emagar/elecRetrns/raw/master/graph/nytPlusPri-zac.png]]
+
+Versión en pdf [[https://github.com/emagar/elecRetrns/raw/master/graph/nytPlusPan-zac.pdf][aquí]]
+#+CAPTION: Mapa de secciones electorales, AMLO vs Anaya
+#+NAME:   fig:32
+#+ATTR_HTML: style="float:center;"
+#+ATTR_HTML: :width 100%
+[[file:https://github.com/emagar/elecRetrns/raw/master/graph/nytPlusPan-zac.png]]
+ 
+
+

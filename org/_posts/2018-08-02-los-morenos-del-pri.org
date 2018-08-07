@@ -1,0 +1,41 @@
+#+STARTUP: showall
+#+OPTIONS: toc:nil
+# # will change captions to Spanish, see https://lists.gnu.org/archive/html/emacs-orgmode/2010-03/msg00879.html
+#+LANGUAGE: es 
+#+begin_src yaml :exports results :results value html
+  ---
+  layout: single
+  title: La defenestración
+  # subtitle: 
+  author: eric.magar
+  date:   2018-08-03
+  last_modified_at: 2018-08-04
+  toc: true
+  # teaser: /assets/img/pirinola.jpg
+  tags: 
+    - elecciones
+    - voto presidencial
+  ---
+#+end_src
+#+results:
+
+/El PRI erró por completo la estrategia electoral. Lo pagó caro/
+
+El 1o de julio de 2012 Enrique Peña Nieto tuvo una jornada de fábula. No sólo ganó la elección presidencial, lo hizo con un margen de 7 puntos sobre AMLO, su contrincante más fuerte. Obtuvo la pluralidad o mayoría de los votos emitidos en 65 por ciento de los municipios del país. Y dejó al partido del entonces presidente en un vergonzoso y distante tercer lugar, sacándole 13 puntos de ventaja a su candidata. 
+
+Seis años después, el panorama no podría ser más desolador para el ahora presidente y su partido. De los 1,582 municipios que Peña ganó en 2012, Meade sólo consiguió ganar 194 (a penas 12 por ciento). 
+
+El mapa que aparece abajo conjuga elementos de los que publiqué hace unas semanas [[jekyll-post:2018-07-06-nyt-plot.org][aquí]]. Grafica únicamente los municipios ganados por Peña en 2012. Las flechas de color marrón indican aquéllos donde AMLO creció (esto es, donde ganó un porcentaje de votos mayor en 2018 que el que obtuvo en 2012). El tamaño de la flecha es proporcional al crecimiento. Fueron sólo 41 los municipios en cuestión en donde AMLO no creció (y éstos no tienen flecha marrón en el mapa). Las flechas de color azul indican municipios donde Anaya creció en comparación con Josefina Vásquez Mota en 2012 (y no hay flecha azul en caso de decrecimiento). Las de color rojo, en cambio, indican el fenómeno contrario, o sea municipios donde Meade *de*creció en comparación con el voto Peña (apuntan hacia abajo, y no hay flecha roja en los rarísimos casos de crecimiento).
+
+(Hay una versión descargable del mapa, en formato pdf, con mucho mejor resolución [[https://github.com/emagar/elecRetrns/raw/master/graph/nytAmloPlusAnayaPlusMeadeNegPenaWon.pdf][aquí]].)
+
+#+CAPTION: El Peje se comió vivito a Peña
+#+NAME:   fig:1
+#+ATTR_HTML: style="float:center;"
+#+ATTR_HTML: :width 100%
+[[file:https://github.com/emagar/elecRetrns/raw/master/graph/nytAmloPlusAnayaPlusMeadeNegPenaWon.png]]
+
+Aunque el mapa muestra que hubo municipios donde AMLO y Anaya se repartieron la caída del PRI, es apabullante el número donde el único en crecer fue AMLO. (Esto se ve mucho más claro en la versión [[https://github.com/emagar/elecRetrns/raw/master/graph/nytAmloPlusAnayaPlusMeadeNegPenaWon.pdf][pdf]] del mapa, abriendo el /zoom/.) Los que abandonaron al PRI en esos municipios migraron en una sola dirección, la de Morena. 
+
+De la arrogancia en la comunicación hasta la persecución de Ricardo Anaya, pasando por la nominación de un tecnócrata, quienes tuvieron las riendas del PRI este sexenio y esta campaña no pudieron haber hecho las cosas peor. El gigante resultó tener pies de barro, su supuesta fortaleza y sabiduría electorales eran otros tantos mitos que se han venido abajo. ¿Sabrán aprender de todo esto en medio de las pugnas intestinas que está viviendo el partido para renovar su cúpula? 
+
