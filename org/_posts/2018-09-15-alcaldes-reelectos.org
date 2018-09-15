@@ -1,0 +1,293 @@
+#+STARTUP: showall
+#+OPTIONS: toc:nil
+# # will change captions to Spanish, see https://lists.gnu.org/archive/html/emacs-orgmode/2010-03/msg00879.html
+#+LANGUAGE: es 
+#+begin_src yaml :exports results :results value html
+  ---
+  layout: single
+  title:  Incumbency advantage a la mexicana
+  subtitle: 
+  author: eric.magar
+  date:   2018-09-15
+  #last_modified_at: 
+  tags: 
+    - elecciones 
+    - reelección
+    - alcaldes
+    - municipios
+  categories:
+    - reeleccion
+  #teaser: /assets/img/reelectMayor2.jpg
+  ---
+#+end_src
+#+results:
+
+/Los alcaldes que buscaron la reelección sortearon el tsunami del 1o de julio mucho mejor que los demás candidatos/
+
+En una [[jekyll-post:2018-03-31-magar-ambiciosos-2018.org][entrada]] anterior a la elección pasada referí los presidentes municipales que inaugurarían la reelección consecutiva. Daniel Saavedra (daniel.saavedra) revisó pacientemente la prensa y los sitios de autoridades estatales para dar seguimiento poselectoral a los casos. El resultado: entre los 169 alcaldes que se postularon para repetir consecutivamente en el palacio municipal,[fn:1] fueron más los exitosos que los derrotados, 55 contra 45 por ciento. 
+
+De primera impresión, los 10 puntos de diferencia no se antojan particularmente impresionantes. (Y aún podría restarse un caso de reelección si el Tribunal Electoral revertiera el fallo de la sala regional que le asignó el triunfo en Monterrey al priista Adrián de la Garza Santos.) Pero argumentaré abajo que las circunstancias de la contienda amplifican la importancia de los números relativos. 
+
+#+CAPTION: Alcaldes renominados y reelectos consecutivamente en 2018. Se incluyen 22 estados que celebraron elecciones (CdMx, Puebla y Sonora no permitieron aún la reelección consecutiva). No se contabilizan los municipios de usos y costumbres. /Fuentes/: preparado con información de [[http://www.alcaldesdemexico.com]], páginas de internet de diversos diarios locales y de los institutos elctorales estatales.
+#+NAME:   tab:1
+|            |            (a) |         (b) |      (c) | (a*100/c) |  (b*100/a) | (b*100/c) |
+| Estado     | Repostu- lados | Reelec- tos | N munic. | % repost. | % reelecto | % retorno |
+|------------+----------------+-------------+----------+-----------+------------+-----------|
+| BCS        |              2 |           1 |        5 |        40 |         50 |        20 |
+| Campeche   |              0 |         --- |       11 |         0 |          0 |       --- |
+| Coahuila   |             21 |          15 |       38 |        55 |         71 |        39 |
+| Colima     |              3 |           1 |       10 |        30 |         33 |        10 |
+| Chiapas    |              2 |           0 |      123 |         2 |          0 |         0 |
+| Chihuahua  |             29 |          16 |       67 |        43 |         55 |        24 |
+| Guanajuato |             14 |           7 |       46 |        30 |         50 |        15 |
+| Guerrero   |              7 |           4 |       81 |         9 |         57 |         5 |
+| Jalico     |              9 |           5 |      125 |         7 |         56 |         4 |
+| México     |             36 |          17 |      125 |        29 |         47 |        14 |
+| Michoacán  |             18 |          11 |      112 |        16 |         61 |        10 |
+| Morelos    |              9 |           3 |       33 |        27 |         33 |         9 |
+| Nuevo León |              4 |           3 |       51 |         8 |         75 |         6 |
+| Oaxaca     |              0 |         --- |      154 |         0 |          0 |       --- |
+| Querétaro  |              4 |           1 |       18 |        22 |         25 |         6 |
+| Q.Roo      |              0 |         --- |       11 |         0 |          0 |       --- |
+| SLP        |              1 |           1 |       58 |         2 |        100 |         2 |
+| Sinaloa    |              0 |         --- |       18 |         0 |          0 |       --- |
+| Tabasco    |              0 |         --- |       17 |         0 |          0 |       --- |
+| Tamaulipas |              0 |         --- |       43 |         0 |          0 |       --- |
+| Yucatán    |             10 |           8 |      106 |         9 |         80 |         8 |
+| Zacatecas  |              0 |         --- |       58 |         0 |          0 |       --- |
+|------------+----------------+-------------+----------+-----------+------------+-----------|
+| Total      |            169 |          93 |    1,310 |        13 |         55 |         7 |
+
+El cuadro [[tab:1]] reporta la subdivisión por estado. Destacan siete estados, que en conjunto suman 322 municipios, sin registro de alcaldes repostulados. Y también tres estados (Coahuila, Chihuahua y México) que, además de contar con un número importante de municipios, tuvieron tasas considerables de repostulación---55, 43 y 29 por ciento, respectivamente. Estos tres aportron en conjunto 86 alcaldes deseosos de repetir. También es notable que si en conjunto sólo 7 por ciento de los alcaldes que concluyeron mandatos en 2018 retornarán al palacio municipal, la tasa de retorno por estado presenta una variación considerable---desde cero (la moda) hasta 39 por ciento.
+
+Mirar las tasas desde otra óptica amplifica su significancia. Basta para esto recordar que el 1o de julio barrió una formidable ola electoral en dirección de Morena (que este [[jekyll-post:2018-08-02-los-morenos-del-pri.org][mapa]] ilustra con elocuencia). No he recopilado la totalidad de resultados municipales para comparar la frecuencia con que candidatos distinto al ocupante reeligieron a sus partidos con con las tasas reportadas arriba. Pero hay bases para sospechar que los ocupantes repostulados fueron sustancialmente más capaces de contener el arrastre de AMLO en contra de sus partidos que los demás. 
+
+#+CAPTION: Tasa de reelección por partido (relativa al total de alcaldes renominados)
+#+NAME:   tab:2
+|               | % reelectos | N renominados |
+|---------------+-------------+---------------|
+| pan/coal      |          66 |            35 |
+| prd           |          58 |            24 |
+| mc            |          67 |             9 |
+|---------------+-------------+---------------|
+| pri/coal      |          51 |            90 |
+| pvem          |           0 |             1 |
+| na            |         100 |             1 |
+|---------------+-------------+---------------|
+| morena/coal   |         100 |             1 |
+| pt            |           0 |             1 |
+| pes           |           0 |             1 |
+|---------------+-------------+---------------|
+| local         |          50 |             2 |
+| independiente |          25 |             4 |
+|---------------+-------------+---------------|
+| total         |          55 |           169 |
+
+El cuadro [[tab:2]], que reporta las tasas de éxito de los alcaldes repostulados por cada partido, aporta elementos para apoyar esta afirmación. De 90 alcaldes ocupantes priistas en la boleta, la mitad (51 por ciento) se reeligió. Para dar perspectiva, considere que Meade ganó solamente 12 por ciento de los municipios que Peña había ganado en 2012. Aunque no son cifras exactamente comparables, la diferencia es muy clara. Por su lado, los partidos del Frente lograron tasas de reelección de entre 58 (para el PRD) y 67 por ciento que contrastan con el desempeño pobre de Anaya en la elección presidencial concurrente. 
+
+# #+CAPTION: Tasa de reelección por género (relativa al total de alcaldes renominados)
+# #+NAME:   tab:3
+# |        | % reelectos | N repostulados |
+# |--------+-------------+----------------|
+# | Hombre |          56 |            130 |
+# | Mujer  |          51 |             39 |
+
+Los ocupantes en la boleta sortearon la tormenta perfecta con relativo éxito. Cierro con un contrafactual. De no haber vivido la inmensa ola morena, o de haber contado con un contingente nutrido de alcaldes de Morena en la boleta (hubo sólo uno), las tasas de reelección habrían sido aún mayores a las observadas. México inaugura la "ventaja del ocupante" (/incumbency advantage/, vea Jacobson 1987) cuyo estudio sistemático promete ser interesante.  
+
+* Referencia
+
+- Gary Jacobson (1987) "Running scared: elections and congressional politics in the 1980s" in /Congress: Structure and Policy/ coord. por Mathew D. McCubbins y Terry Sullivan, Nueva York: Cambridge University Press.
+
+
+* Apéndice
+
+#+CAPTION: Los municipios con alcaldes repostulados
+#+NAME:   tab:3
+| edo | municipio                | alcalde                           | partido     | reelecto | género |
+|-----+--------------------------+-----------------------------------+-------------+----------+--------|
+| bcs | Cabos--Los               | ARTURO DE LA ROSA ESCALANTE       | pan/coal    | no       | hombre |
+| bcs | Loreto                   | ARELY ARCE PERALTA                | pan/coal    | reelec.  | mujer  |
+|-----+--------------------------+-----------------------------------+-------------+----------+--------|
+| coa | Abasolo                  | HERLINDA GARCIA TREVIÑO           | pri/coal    | no       | mujer  |
+| coa | Acuña                    | ROBERTO DE LOS SANTOS VAZQUEZ     | local       | reelec.  | hombre |
+| coa | Arteaga                  | EVERARDO DURAN FLORES             | pri/coal    | reelec.  | hombre |
+| coa | Candela                  | MARCOS AMADOR GARZA GONZALEZ      | pri/coal    | reelec.  | hombre |
+| coa | Castaños                 | ENRIQUE SOTO OJEDA                | pri/coal    | reelec.  | hombre |
+| coa | Escobedo                 | DULCE BELEN DE LA ROSA SEGURA     | pri/coal    | reelec.  | mujer  |
+| coa | Frontera                 | FLORENCIO SILLER LINAJE           | pri/coal    | reelec.  | hombre |
+| coa | Jiménez                  | RAUL PECINA VILLAREAL             | pri/coal    | reelec.  | hombre |
+| coa | Matamoros                | JUAN CARLOS AYUP GUERRERO         | pri/coal    | no       | hombre |
+| coa | Monclova                 | JESUS ALFREDO PAREDES LOPEZ       | pan/coal    | reelec.  | hombre |
+| coa | Múzquiz                  | LUISA SANTOS CADENA               | pri/coal    | reelec.  | mujer  |
+| coa | Nadadores                | ABRAHAM SEGUNDO GONZALEZ RUIZ     | pri/coal    | reelec.  | hombre |
+| coa | Nava                     | SERGIO ZENON VELAZQUEZ VAZQUEZ    | pri/coal    | reelec.  | hombre |
+| coa | Piedras Negras           | SONIA VILLAREAL PEREZ             | pri/coal    | no       | mujer  |
+| coa | Sacramento               | SILVIA BERENICE OVALLE REYNA      | pri/coal    | no       | mujer  |
+| coa | Saltillo                 | MANOLO JIMENEZ SALINAS            | pri/coal    | reelec.  | hombre |
+| coa | San Buenaventura         | GLADYS AYALA FLORES               | pri/coal    | reelec.  | mujer  |
+| coa | San Pedro                | ANA ISABEL DURAN PIÑA             | pri/coal    | no       | mujer  |
+| coa | Torreón                  | JORGE ZERMEÑO INFANTE             | pan/coal    | reelec.  | hombre |
+| coa | Villa Unión              | SERGIO CARDENAS CHAPA             | pri/coal    | no       | hombre |
+| coa | Zaragoza                 | ANGELES ELOISA FLORES TORRES      | pri/coal    | reelec.  | mujer  |
+|-----+--------------------------+-----------------------------------+-------------+----------+--------|
+| col | Colima                   | HECTOR INSUA GARCIA               | pan/coal    | no       | hombre |
+| col | Cuauhtémoc               | RAFAEL MENDOZA GODINEZ            | pan/coal    | reelec.  | hombre |
+| col | Villa de Álvarez         | YULENNY CORTES LEON               | pan/coal    | no       | mujer  |
+|-----+--------------------------+-----------------------------------+-------------+----------+--------|
+| cps | Soyaló                   | FREDY ESPINOZA HERNANDEZ          | pri/coal    | no       | hombre |
+| cps | Tonalá                   | JOSE LUIS CASTILLEJOS VILA        | pvem        | no       | hombre |
+|-----+--------------------------+-----------------------------------+-------------+----------+--------|
+| cua | Ahumada                  | LUIS MARCELO LOPEZ RUIZ           | mc          | no       | hombre |
+| cua | Aquiles Serdán           | HECTOR ARIEL FERNANDEZ MARTINEZ   | pri/coal    | reelec.  | hombre |
+| cua | Bachíniva                | IRMA DELIA MORALES MENDOZA        | pri/coal    | no       | mujer  |
+| cua | Balleza                  | ROBERTO ARTURO MEDINA AGUIRRE     | pri/coal    | reelec.  | hombre |
+| cua | Batopilas                | ISRAEL VARELA ORDOÑEZ             | pri/coal    | reelec.  | hombre |
+| cua | Buenaventura             | MIRIAM CABALLERO ARRAS            | pri/coal    | no       | mujer  |
+| cua | Camargo                  | ARTURO ZUBIA FERNANDEZ            | pan/coal    | reelec.  | hombre |
+| cua | Casas Grandes            | YESENIA GUADALUPE REYES CALZADIAS | pan/coal    | reelec.  | mujer  |
+| cua | Chihuahua                | MARIA EUGENIA CAMPOS GALVAN       | pan/coal    | reelec.  | mujer  |
+| cua | Cruz--La                 | ADOLFO TRILLO HERRERA             | na          | reelec.  | hombre |
+| cua | Cuauhtémoc               | HUMBERTO PEREZ HOLGUIN            | pan/coal    | no       | hombre |
+| cua | Delicias                 | ELISEO COMPEAN FERNANDEZ          | pan/coal    | reelec.  | hombre |
+| cua | Guachochi                | HUGO AGUIRRE GARCIA               | pri/coal    | reelec.  | hombre |
+| cua | Guadalupe                | JAIME GUERRERO GUADIAN            | pri/coal    | reelec.  | hombre |
+| cua | Guadalupe y Calvo        | NOEL CHAVEZ VELAZQUEZ             | pri/coal    | no       | hombre |
+| cua | Guerrero                 | LUIS FERNANDO CHACON ERIVES       | pri/coal    | no       | hombre |
+| cua | Hidalgo del Parral       | JORGE ALFREDO LOZOYA SANTILLAN    | indep       | reelec.  | hombre |
+| cua | Jiménez                  | JOSE ARNOLDO ABES DURAN           | pri/coal    | no       | hombre |
+| cua | Juárez                   | HECTOR ARMANDO CABADA ALVIDREZ    | indep       | no       | hombre |
+| cua | Matamoros                | MA. DE LOS ANGELES GAUCIN SALAS   | pan/coal    | reelec.  | mujer  |
+| cua | Meoqui                   | ISMAEL PEREZ PAVIA                | pan/coal    | reelec.  | hombre |
+| cua | Moris                    | PERLA GACELA LOPEZ PEREZ          | pri/coal    | no       | mujer  |
+| cua | Ocampo                   | ANA MARIA SAENZ CAMPOS            | pri/coal    | reelec.  | mujer  |
+| cua | Ojinaga                  | MARTIN SANCHEZ VALLES             | pan/coal    | reelec.  | hombre |
+| cua | Rosales                  | ELIDA AIMEE SANCHEZ DIAZ          | pri/coal    | no       | mujer  |
+| cua | S.Francisco de Conchos   | IZAY VALLES VILLA                 | pan/coal    | no       | hombre |
+| cua | S.Francisco del Oro      | JESUS ENRIQUE PEREZ BARRAZA       | pri/coal    | no       | hombre |
+| cua | Santa Isabel             | FERNANDO ORTEGA BALDERRAMA        | pan/coal    | reelec.  | hombre |
+| cua | Valle de Zaragoza        | CARMEN LETICIA SALCIDO GARCIA     | pri/coal    | no       | mujer  |
+|-----+--------------------------+-----------------------------------+-------------+----------+--------|
+| gua | Comonfort                | JOSE ALBERTO MENDEZ PEREZ         | indep       | no       | hombre |
+| gua | Coroneo                  | ISRAEL MORALES BERMUDEZ           | pri/coal    | reelec.  | hombre |
+| gua | Cortazar                 | HUGO ESTEFANIA MONROY             | prd         | no       | hombre |
+| gua | Dolores Hidalgo          | JUAN RENDON LOPEZ                 | pan/coal    | no       | hombre |
+| gua | Irapuato                 | JOSE RICARDO ORTIZ GUTIERREZ      | pan/coal    | reelec.  | hombre |
+| gua | Jaral del Progreso       | JOSE ALBERTO VARGAS FRANCO        | pri/coal    | reelec.  | hombre |
+| gua | León                     | RENE LOPEZ SANTILLANA             | pan/coal    | reelec.  | hombre |
+| gua | Moroleón                 | JORGE ORTIZ ORTEGA                | prd         | reelec.  | hombre |
+| gua | Pueblo Nuevo             | LARISA SOLORZANO VILLANUEVA       | pri/coal    | reelec.  | mujer  |
+| gua | Salamanca                | ANTONIO ARREDONDO MUÑOZ           | pan/coal    | no       | hombre |
+| gua | Salvatierra              | J. HERLINDO VELAZQUEZ FERNANDEZ   | pri/coal    | no       | hombre |
+| gua | San Francisco del Rincón | YSMAEL LOPEZ GARCIA               | pan/coal    | no       | hombre |
+| gua | San Luis de la Paz       | GUILLERMO RODRIGUEZ CONTRERAS     | pan/coal    | no       | hombre |
+| gua | Santa Cruz               | SERAFIN PRIETO ALVAREZ            | prd         | reelec.  | hombre |
+|-----+--------------------------+-----------------------------------+-------------+----------+--------|
+| gue | Arcelia                  | ADOLFO TORALES CATALAN            | pri/coal    | reelec.  | hombre |
+| gue | Chilapa                  | JESUS PARRA GARCIA                | pri/coal    | reelec.  | hombre |
+| gue | Cocula                   | ERIK ULISES RAMIREZ CRESPO        | prd         | no       | hombre |
+| gue | Copalillo                | GETULIO RAMIREZ CHINO             | pt          | no       | hombre |
+| gue | San Miguel Totolapan     | JUAN MENDOZA ACOSTA               | prd         | reelec.  | hombre |
+| gue | Tlapehuala               | ANABEL BALBUENA LARA              | prd         | reelec.  | mujer  |
+| gue | Zihuatanejo              | GUSTAVO GARCIA BELLO              | prd         | no       | hombre |
+|-----+--------------------------+-----------------------------------+-------------+----------+--------|
+| jal | Ahualulco                | VICTOR EDUARDO CASTAÑEDA LUQUIN   | pri/coal    | no       | hombre |
+| jal | Cihuatlán                | FERNANDO MARTINEZ GUERRERO        | prd         | reelec.  | hombre |
+| jal | Limón--El                | ROBERTO DURAN MICHEL              | prd         | no       | hombre |
+| jal | Puerto Vallarta          | ARTURO DAVALOS PEÑA               | mc          | reelec.  | hombre |
+| jal | San Gabriel              | CESAR AUGUSTO RAMIREZ GOMEZ       | pri/coal    | no       | hombre |
+| jal | Tlaquepaque              | MARIA ELENA LIMON GARCIA          | mc          | reelec.  | mujer  |
+| jal | Tuxcueca                 | CUAUHTEMOC SOSA CARDENAS          | mc          | no       | hombre |
+| jal | Zapopan                  | JESUS PABLO LEMUS NAVARRO         | mc          | reelec.  | hombre |
+| jal | Zapotlanejo              | HECTOR ALVAREZ CONTRERAS          | mc          | reelec.  | hombre |
+|-----+--------------------------+-----------------------------------+-------------+----------+--------|
+| mex | Amatepec                 | JOSE FELIX GALLEGOS HERNANDEZ     | pan/coal    | reelec.  | hombre |
+| mex | Atizapán                 | ANA MARIA BALDERAS TREJO          | pan/coal    | no       | mujer  |
+| mex | Chapa de Mota            | LETICIA ZEPEDA MARTINEZ           | pan/coal    | reelec.  | mujer  |
+| mex | Cocotitlán               | TOMAS SUAREZ JUAREZ               | prd         | reelec.  | hombre |
+| mex | Ecatzingo                | MARCELINO ROBLES FLORES           | pri/coal    | no       | hombre |
+| mex | Huixquilucan             | ENRIQUE VARGAS DEL VILLAR         | pan/coal    | reelec.  | hombre |
+| mex | Isidro Fabela            | LEOBARDO MONDRAGON ORTEGA         | prd         | no       | hombre |
+| mex | Ixtlahuaca               | JUAN CARLOS BAUTISTA SANTOS       | pri/coal    | no       | hombre |
+| mex | Jiquipilco               | MARISOL GONZALEZ TORRES           | pri/coal    | reelec.  | mujer  |
+| mex | Jocotitlán               | IVAN DE JESUS ESQUER CRUZ         | pri/coal    | reelec.  | hombre |
+| mex | Joquicingo               | ALMA DELIA PALLARES CASTAÑEDA     | pri/coal    | no       | mujer  |
+| mex | Lerma                    | JAIME CERVANTES SANCHEZ           | pri/coal    | reelec.  | hombre |
+| mex | Luvianos                 | ANIBAL MARTINEZ PEÑALOZA          | prd         | no       | hombre |
+| mex | Melchor Ocampo           | MIRIAM ESCALONA PIÑA              | pan/coal    | reelec.  | mujer  |
+| mex | Nezahualcóyotl           | JUAN HUGO DE LA ROSA GARCIA       | prd         | reelec.  | hombre |
+| mex | Ocuilan                  | FELIX ALBERTO LINARES GONZALEZ    | prd         | reelec.  | hombre |
+| mex | Otzoloapan               | SANTOS CABRERA CRUZ               | pri/coal    | no       | hombre |
+| mex | Rayón                    | JOSE LUIS ROBLES VAZQUEZ          | pri/coal    | no       | hombre |
+| mex | S.Martín Pirámides       | FRANCISCO ROBLES BADILLO          | pri/coal    | no       | hombre |
+| mex | San Mateo Atenco         | JULIO CESAR SERRANO GONZALEZ      | pri/coal    | reelec.  | hombre |
+| mex | Santo Tomás              | MARIA CLOTILDE GARCIA ENRIQUEZ    | pri/coal    | no       | mujer  |
+| mex | Soyaniquilpan            | JORGE ESPINOSA ARCINIEGA          | pan/coal    | reelec.  | hombre |
+| mex | Sultepec                 | MIGUEL ANGEL HERNANDEZ TINOCO     | pri/coal    | reelec.  | hombre |
+| mex | Tejupilco                | LINO GARCIA GAMA                  | pri/coal    | no       | hombre |
+| mex | Temascalcingo            | RIGOBERTO DEL MAZO GARDUÑO        | pri/coal    | no       | hombre |
+| mex | Temascaltepec            | NOE BARRUETA BARON                | pri/coal    | no       | hombre |
+| mex | Tenango del Valle        | JOSE FRANCISCO GARDUÑO GOMEZ      | pri/coal    | no       | hombre |
+| mex | Tepetlaoxtoc             | ROLANDO TRUJANO SANCHEZ           | pri/coal    | no       | hombre |
+| mex | Tepotzotlán              | ANGEL ZUPPA NUÑEZ                 | mc          | reelec.  | hombre |
+| mex | Texcaltitlán             | ZOILA HUERTA LOZA                 | pri/coal    | no       | mujer  |
+| mex | Toluca                   | FERNANDO ZAMORA MORALES           | pri/coal    | no       | hombre |
+| mex | Tonatico                 | ANA CECILIA PERALTA CANO          | pri/coal    | no       | mujer  |
+| mex | Tultepec                 | ARMANDO PORTUGUEZ FUENTES         | prd         | reelec.  | hombre |
+| mex | Valle de Bravo           | MAURICIO OSORIO DOMINGUEZ         | pri/coal    | reelec.  | hombre |
+| mex | Villa Victoria           | MARIO SANTANA CARBAJAL            | pri/coal    | reelec.  | hombre |
+| mex | Zinacantepec             | MARCOS MANUEL CASTREJON MORALES   | pri/coal    | no       | hombre |
+|-----+--------------------------+-----------------------------------+-------------+----------+--------|
+| mic | Chucándiro               | SALVADOR VALLEJO VILLALOBOS       | prd         | no       | hombre |
+| mic | Contepec                 | RUBEN RODRIGUEZ JIMENEZ           | pri/coal    | reelec.  | hombre |
+| mic | Copándaro                | DAVID GARCIA GARCIA               | pri/coal    | no       | hombre |
+| mic | Erongarícuaro            | ADRIAN MARCIAL MELGOZA NOVOA      | pri/coal    | reelec.  | hombre |
+| mic | Ixtlán                   | ANGEL RAFAEL MACIAS MORA          | prd         | reelec.  | hombre |
+| mic | José Sixto Verduzco      | GUSTAVO AVILA VAZQUEZ             | prd         | no       | hombre |
+| mic | Marcos Castellanos       | ROLANDO GONZALEZ CHAVEZ           | pri/coal    | reelec.  | hombre |
+| mic | Morelia                  | ALFONSO MARTINEZ ALCAZAR          | indep       | no       | hombre |
+| mic | Morelos                  | JOSE GUADALUPE CORIA SOLIS        | prd         | reelec.  | hombre |
+| mic | Numarán                  | DANIEL ZARATE ESTRADA             | pan/coal    | reelec.  | hombre |
+| mic | Pátzcuaro                | VICTOR MANUEL BAEZ CEJA           | morena/coal | reelec.  | hombre |
+| mic | Puruándiro               | VICTOR MANUEL VAZQUEZ TAPIA       | pri/coal    | no       | hombre |
+| mic | Santa Ana Maya           | MARIA DE JESUS LOPEZ PARRA        | pri/coal    | no       | mujer  |
+| mic | Senguio                  | RODOLFO QUINTANA TRUJILLO         | pri/coal    | reelec.  | hombre |
+| mic | Taretan                  | ALEJANDRO CHAVEZ ZAVALA           | pan/coal    | reelec.  | hombre |
+| mic | Tuxpan                   | JESUS ANTONIO MORA GONZALEZ       | prd         | reelec.  | hombre |
+| mic | Zinapécuaro              | MARIA DEL REFUGIO SILVA DURAN     | pri/coal    | no       | mujer  |
+| mic | Zitácuaro                | CARLOS HERRERA TELLO              | pan/coal    | reelec.  | hombre |
+|-----+--------------------------+-----------------------------------+-------------+----------+--------|
+| mor | Amacuzac                 | JORGE MIRANDA ABARCA              | pri/coal    | no       | hombre |
+| mor | Atlatlahucan             | ESTEBAN HERNANDEZ FRANCO          | pan/coal    | no       | hombre |
+| mor | Jiutepec                 | JOSE MANUEL AGÜERO TOVAR          | prd         | no       | hombre |
+| mor | Tepoztlán                | LAURO SALAZAR GARRIDO             | mc          | no       | hombre |
+| mor | Tetecala                 | LUZ DARY QUEVEDO MALDONADO        | mc          | reelec.  | mujer  |
+| mor | Totolapan                | MARIA DE JESUS VITAL DIAZ         | prd         | no       | mujer  |
+| mor | Xochitepec               | ALBERTO SANCHEZ ORTEGA            | pri/coal    | reelec.  | hombre |
+| mor | Yautepec                 | AGUSTIN ALONSO GUTIERREZ          | prd         | reelec.  | hombre |
+| mor | Zacatepec                | FRANCISCO SALINAS SANCHEZ         | local       | no       | hombre |
+|-----+--------------------------+-----------------------------------+-------------+----------+--------|
+| nl  | General Escobedo         | CLARA LUZ FLORES CARRALES         | pri/coal    | reelec.  | mujer  |
+| nl  | Juárez                   | HERIBERTO TREVIÑO CANTU           | pes         | no       | hombre |
+| nl  | Monterrey                | ADRIAN EMILIO DE LA GARZA SANTOS  | pri/coal    | reelec.? | hombre |
+| nl  | Pesquería                | MIGUEL ANGEL LOZANO MUNGUIA       | pri/coal    | reelec.  | hombre |
+|-----+--------------------------+-----------------------------------+-------------+----------+--------|
+| que | Colón                    | JOSE ALEJANDRO OCHOA VALENCIA     | pan/coal    | reelec.  | hombre |
+| que | Huimilpan                | CELIA DURAN TERRAZAS              | pri/coal    | no       | mujer  |
+| que | Marqués--El              | MARIO CALZADA MERCADO             | pri/coal    | no       | hombre |
+| que | Querétaro                | MARCOS AGUILAR VEGA               | pan/coal    | no       | hombre |
+|-----+--------------------------+-----------------------------------+-------------+----------+--------|
+| san | San Luis Potosí          | RICARDO GALLARDO JUAREZ           | prd         | reelec.  | hombre |
+|-----+--------------------------+-----------------------------------+-------------+----------+--------|
+| yuc | Chicxulub Pueblo         | GUADALUPE CANTO ALE               | pri/coal    | reelec.  | mujer  |
+| yuc | Cuncunul                 | EUSEBIO VAZQUEZ SALAZAR           | pri/coal    | reelec.  | hombre |
+| yuc | Huhí                     | HUMBERTO ECHEVERRIA CHAN          | pri/coal    | reelec.  | hombre |
+| yuc | Maxcanú                  | MARLENE CATZIN CHIN               | pri/coal    | reelec.  | mujer  |
+| yuc | Sucilá                   | DIEGO ALBERTO LUGO INTERIAN       | pri/coal    | reelec.  | hombre |
+| yuc | Suma                     | JOSE DE LA CRUZ PACHECO BAZAN     | pri/coal    | reelec.  | hombre |
+| yuc | Tekantó                  | LILIANA ARAUJO                    | pri/coal    | reelec.  | mujer  |
+| yuc | Tekax                    | FERNANDO ROMERO AYUSO             | pri/coal    | no       | hombre |
+| yuc | Tixmehuac                | GASPAR PANTI CEL                  | pri/coal    | no       | hombre |
+| yuc | Yaxcabá                  | SANSON SANTOS PALMA               | pri/coal    | reelec.  | hombre |
+|-----+--------------------------+-----------------------------------+-------------+----------+--------|
+
+[fn:1] El seguimiento permitió descartar media docena de "falsos positivos" que había reportado [[jekyll-post:2018-03-31-magar-ambiciosos-2018.org][anteriormente]]. /El Universal/ [[http://www.eluniversal.com.mx/estados/logran-reeleccion-59-de-alcaldes][reportó]] el 9 de julio números mayores, que habrá que revisar. Aquí solamente se verificó si quienes reporté antes ganaron o perdieron.  

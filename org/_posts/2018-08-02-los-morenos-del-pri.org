@@ -10,7 +10,7 @@
   author: eric.magar
   date:   2018-08-03
   last_modified_at: 2018-08-04
-  toc: true
+  toc: false
   # teaser: /assets/img/pirinola.jpg
   tags: 
     - elecciones
