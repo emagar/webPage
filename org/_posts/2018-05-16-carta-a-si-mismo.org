@@ -1,0 +1,32 @@
+#+STARTUP: showall
+#+OPTIONS: toc:nil
+# # will change captions to Spanish, see https://lists.gnu.org/archive/html/emacs-orgmode/2010-03/msg00879.html
+#+LANGUAGE: es 
+#+begin_src yaml :exports results :results value html
+  ---
+  layout: single
+  title:  Anecdotario reeleccionista
+  subtitle: 
+  author: eric.magar
+  date:   2018-09-16
+  #last_modified_at: 
+  tags: 
+    - elecciones 
+    - reelección
+    - anécdotas
+  categories:
+    - reeleccion
+  teaser: /assets/img/alcaldesedirigeasimismo.jpg
+  ---
+#+end_src
+#+results:
+
+El alcalde reelecto de Candelaria, Salvador Farías, solicitó una reunión oficial consigo mismo para acordar el cambio de mando. 
+
+#+ATTR_HTML: style="float:right;"
+#+ATTR_HTML: :width 100%
+[[https://www.mientrastantoenmexico.mx/alcalde-de-campeche-se-envia-una-carta-a-si-mismo-tras-resultar-reelecto/][file:../assets/img/alcaldesedirigeasimismo.jpg]]
+
+La nota aparece [[https://www.mientrastantoenmexico.mx/alcalde-de-campeche-se-envia-una-carta-a-si-mismo-tras-resultar-reelecto/][aquí]] (de donde también saqué la foto del oficio). 
+
+
