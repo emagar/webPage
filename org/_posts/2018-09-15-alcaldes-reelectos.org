@@ -9,7 +9,7 @@
   subtitle: 
   author: eric.magar
   date:   2018-09-15
-  #last_modified_at: 
+  last_modified_at: 2018-09-21 
   tags: 
     - elecciones 
     - reelección
@@ -23,6 +23,8 @@
 #+results:
 
 /Los alcaldes que buscaron la reelección sortearon el tsunami del 1o de julio mucho mejor que los demás candidatos/
+
+*Nota* (del 21-9-2018): Fue a partir de reportes de prensa que indentifiqué alcaldes que intentaron repetir en el cargo. Los periodistas aún cubren el tema de la reelección muy parcialmente. He empezado a cotejar sistemáticamente los alcaldes entrante y saliente con los candidatos que contendieron en 2018. Hay grandes discrepancias con los datos que aquí se reportan. Muy pronto reportaré los datos completos. Un poco de paciencia, por favor, manténgase conectado.
 
 En una [[jekyll-post:2018-03-31-magar-ambiciosos-2018.org][entrada]] anterior a la elección pasada referí los presidentes municipales que inaugurarían la reelección consecutiva. Daniel Saavedra (daniel.saavedra) revisó pacientemente la prensa y los sitios de autoridades estatales para dar seguimiento poselectoral a los casos. El resultado: entre los 169 alcaldes que se postularon para repetir consecutivamente en el palacio municipal,[fn:1] fueron más los exitosos que los derrotados, 55 contra 45 por ciento. 
 
