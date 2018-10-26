@@ -1,0 +1,103 @@
+#+STARTUP: showall
+#+OPTIONS: toc:nil
+# # will change captions to Spanish, see https://lists.gnu.org/archive/html/emacs-orgmode/2010-03/msg00879.html
+#+LANGUAGE: es 
+#+begin_src yaml :exports results :results value html
+  ---
+  layout: single
+  title:  Quieren abortar el experimento reeleccionista
+  subtitle: 
+  author: eric.magar
+  date:   2018-10-17
+  last_modified_at: 2018-10-19
+  tags: 
+    - elecciones 
+    - reelección
+    - alcaldes
+    - municipios
+  categories:
+    - reeleccion
+  #teaser: /assets/img/reelectMayor2.jpg
+  ---
+#+end_src
+#+results:
+
+/Morena busca abolir la reelección consecutiva antes de ver sus efectos. Quizás haya esperanza de que el PRI no los secunde/
+
++Aún no he sistematizado los datos para tres estados que eligieron alcaldes el 1o de julio pasado (Chiapas, Michoacán y Sinaloa). Pero, en los 20 restantes, hubo 246 alcaldes reelectos. Y se renominaron 188 ocupantes más pero fueron derrotados.+
+
+Hubo 258 alcaldes reelectos en 22 estados que permitieron la reelección consecutiva el 1o de julio pasado (aún no he sistematizado los datos de Michoacán). Y se repostularon 212 alcaldes más que fueron derrotados en las urnas y no alcanzaron a repetir en el cargo. 
+
+#+CAPTION: Reelección consecutiva de alcaldes en 22 estados en 2018. Se exluye Michoacán, con datos pendientes. No se contabilizan los municipios de usos y costumbres, ni ocho elecciones anuladas. Tampoco dos estados que aún no permitieron la reelección cosecutiva de alcaldes. /Fuentes/: preparado con información de los institutos estatales electorales y de páginas de internet de diversos diarios locales.
+#+NAME:   tab:1
+|               | Nuevo ingreso |          |       |
+| Nuevo ingreso | que derrotó   |  Alcalde |       |
+|  silla suelta | a ocupante    | reelecto | Total |
+|---------------+---------------+----------+-------|
+|           789 |           212 |      258 | 1,261 |
+|           63% |           17% |      20% |  100% |
+# |           692 | 188           |      246 | 1,026 |
+# |           61% | 17%           |      22% | 100%  |
+
+El panorama general aparece resumido en el cuadro [[tab:1]]. Del 1,261 alcaldes con posibilidad de reelección, 20 por ciento lo consiguió. Con otro 17 por ciento que fracasó en el intento, representaron 37 por ciento los alcaldes con ambición estática. La cifra es prometedora: los actores locales mostraron gran interés por repetir en la primera ocasión que se les presentó. Desafortunadamente, quizás sea la única.
+
++El desglose partidista es interesante. PAN and PRI, con o sin aliados, reeligieron números parecidos de ocupantes del Palacio Municipal (99 y 90, respectivamente). Y Morena consiguió reelegir a 15 alcaldes, a la par que derrotó a 56 alcaldes ocupantes de otros partidos.+
+
+#+CAPTION: Reelección de alcaldes por partido. /Fuentes/: misma que en el cuadro 1
+#+NAME:   tab:2
+| Partido     |  Ocupante | Ocupante |   Silla suelta | Silla suelta |       |     |
+| saliente    | derrotado | reelecto | partido perdió | partido ganó | Total |   N |
+|-------------+-----------+----------+----------------+--------------+-------+-----|
+| pan/coal    |        15 |       28 |             32 |           24 |   100 | 328 |
+| pri/coal    |        18 |       16 |             42 |           23 |   100 | 582 |
+| prd/coal    |        20 |       17 |             38 |           24 |   100 |  94 |
+| morena      |         0 |       42 |             16 |           42 |   100 |  19 |
+| pvem        |        12 |       11 |             58 |           20 |   100 |  76 |
+| mc          |        13 |       29 |             29 |           29 |   100 |  55 |
+| pes         |         0 |       40 |             60 |            0 |   100 |   5 |
+| pna         |        14 |       29 |             48 |           10 |   100 |  21 |
+| pt          |        23 |       23 |             45 |           10 |   100 |  31 |
+| indep       |        38 |       38 |             25 |            0 |   100 |   8 |
+| local       |        18 |       10 |             68 |            5 |   100 |  40 |
+
+# | Outgoing    | Incumbent | Incumbent |      Open seat |    Open seat |   Row |     |
+# | party       |    ousted | reelected |     diff party |   same party |   tot |   N |
+
+# v2
+# | pan/coal    |        15 |       28 |             32 |           25 |  100% | 325 |
+# | pri/coal    |        18 |       17 |             42 |           23 |   100 | 541 |
+# | prd/coal    |        20 |       19 |             36 |           26 |   100 |  86 |
+# | morena/coal |         0 |       42 |             16 |           42 |   100 |  19 |
+# | pvem        |        14 |       14 |             55 |           18 |   100 |  22 |
+# | mc          |        10 |       31 |             29 |           31 |   100 |  52 |
+# | pes         |         0 |       40 |             60 |            0 |   100 |   5 |
+# | pna         |        15 |       30 |             45 |           10 |   100 |  20 |
+# | pt          |        24 |       24 |             41 |           10 |   100 |  29 |
+# | indep       |        38 |       38 |             25 |            0 |   100 |   8 |
+# | local       |        11 |       16 |             68 |            5 |   100 |  19 |
+
+# v1
+# |             |               | Nuevo ingreso |          |
+# |             | Nuevo ingreso |   que derrotó |          |
+# |             |  silla suelta |    a ocupante | Reelecto |
+# |-------------+---------------+---------------+----------|
+# | pan/coal    |           210 |            51 |       99 |
+# | pri/coal    |           202 |            37 |       90 |
+# | morena/coal |           158 |            56 |       15 |
+# | prd/coal    |            19 |             8 |       10 |
+# | pvem        |            28 |             5 |        7 |
+# | mc          |            25 |             8 |        7 |
+# | pes         |             1 |             0 |        0 |
+# | pna         |            23 |             6 |        8 |
+# | pt          |             6 |             1 |        1 |
+# | indep       |             8 |             4 |        4 |
+# | local       |            11 |            12 |        4 |
+
+Reporto el desglose partidista en el cuadro [[tab:2]]. PAN y PRI, con o sin aliados, reeligieron números similares de ocupantes del Palacio Municipal: 92 (=328x.28) el primero, 93 el segundo. Morena reeligió 8 alcaldes, que en virtud del escaso número de municipios que gobernaba, representaron 42 por ciento. 
+
+Más interesante es el contraste entre triunfos y derrotas partidistas en municipios con ocupantes en busca de reelección (par de columnas del lado izquierdo) y en municipios con "sillas sueltas" (/open seats/, sin ocupante en la boleta, columnas de la derecha). Por cada municipio sin ocupante en la boleta que el PRI ganó, perdió casi dos. Con ocupantes en la boleta, la tasa fue cercana al 50/50. Para el PAN la diferencia fue aún más acentuada: perdió sustancialmente más municipios de los que ganó sin ocupante en la boleta, pero ganó sustancialmente más de los que perdió con alcaldes en busca de la reelección. El contraste se repite para casi todos los partidos --- inclusive Morena y sus aliados de Juntos Haremos Historia.
+
+En resumen, se percibe una ventaja del ocupante clara y distinta en elecciones municipales. Los ocupantes que se repostularon consiguieron escudar al partido, en grados nada despreciables, de las fuerzas nacionales (en este caso, el arrastre de AMLO). La reelección aumentó significativamente la probabilidad de que los partidos preservasen sus bastiones. 
+
+Hay en los datos que presento un dejo de esperanza: no pocos en el PRI tienen buenas razones para oponerse a la reforma antirreeleccionista recién introducida en el Senado por Morena. Y los votos del PRI (o del PAN, que debería ser aún más escéptico sobre el particular) son necesarios para que Morena pueda reformar la constitución. Hay, incluso, un puñado de morenistas que deberían tener reservas. Ya veremos.
+

@@ -1,0 +1,35 @@
+
+1. En política, un principio elemental de supervivencia es el siguiente: bailas al son de quien defina tu carrera futura.
+
+2. Con la reelección consecutiva en México, inaugurada en el proceso electoral pasado, abrimos la posibilidad de que flautistas ajenos al anquilosado liderazgo nacional de los partidos tocasen algunas coplas del son. No todos, sólo algunos sones y eventualmente. Esto porque los aparatchik mandamases conservan toda clase de recursos para las carreras --- el dinero, el acceso a medios, el candado... Pero eso poco es un cambio drástico de lo que vivimos desde los 1930s.   
+
+3. Morena introdujo iniciativa de reforma constitucional para eliminarla para alcaldes y legisladores de los estados.
+
+4. La reforma conviene, sin lugar a dudas, al liderazgo morenista. Como Calles en los 1930s, centralizar /todos/ los instrumentos de control de carreras contribuye a la consolidación de un nuevo partido con disciplina férrea. Elaborar. 
+
+5. Los demás partidos, en cambio, enfrentan un dilema. 
+
+6. Por un lado, apoyar la iniciativa beneficiaría también a sus líderes, que ampliarán el control sobre sus huestes. Como hasta hace poco.
+
+7. Por el otro, de hacerlo sacrificarían un seguro contra desastres. Desastres electorales. 
+
+#+CAPTION: Reelección de alcaldes por partido. /Fuentes/: misma que en el cuadro 1
+#+NAME:   tab:1
+| Partido     |  Ocupante | Ocupante |   Silla suelta | Silla suelta |       |       |
+| saliente    | derrotado | reelecto | partido perdió | partido ganó | Total |     N |
+|-------------+-----------+----------+----------------+--------------+-------+-------|
+| pan/coal    |        15 |       28 |             32 |           24 |   100 |   328 |
+| pri/coal    |        18 |       16 |             42 |           23 |   100 |   582 |
+| prd/coal    |        20 |       17 |             38 |           24 |   100 |    94 |
+| morena      |         0 |       42 |             16 |           42 |   100 |    19 |
+| pvem        |        12 |       11 |             58 |           20 |   100 |    76 |
+| mc          |        13 |       29 |             29 |           29 |   100 |    55 |
+| pes         |         0 |       40 |             60 |            0 |   100 |     5 |
+| pna         |        14 |       29 |             48 |           10 |   100 |    21 |
+| pt          |        23 |       23 |             45 |           10 |   100 |    31 |
+| indep       |        38 |       38 |             25 |            0 |   100 |     8 |
+| local       |        18 |       10 |             68 |            5 |   100 |    40 |
+|-------------+-----------+----------+----------------+--------------+-------+-------|
+| todos       |        17 |       20 |             40 |           23 |   100 | 1,259 |
+
+8. Considere los datos que resume la tabla siguiente. Considere en caso del PRI. Columnas izq vs der, qué son. 
