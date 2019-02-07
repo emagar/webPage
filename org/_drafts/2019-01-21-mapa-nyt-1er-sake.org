@@ -1,0 +1,54 @@
+#+STARTUP: showall
+#+OPTIONS: toc:nil
+# # will change captions to Spanish, see https://lists.gnu.org/archive/html/emacs-orgmode/2010-03/msg00879.html
+#+LANGUAGE: es 
+#+begin_src yaml :exports results :results value html
+  ---
+  layout: single
+  title: Lo que AMLO se llevó
+  # subtitle: 
+  author: eric.magar
+  date:   2019-01-22
+  last_modified_at: 2019-01-25
+  toc: false
+  # teaser: /assets/img/pirinola.jpg
+  tags: 
+    - elecciones
+    - voto presidencial
+  ---
+#+end_src
+#+results:
+
+
+/El PRI erró por completo la estrategia en 2018. Lo pagó y sigue pagando caro/
+
+El 1o de julio de 2012 Enrique Peña Nieto tuvo una jornada de fábula. No sólo ganó la elección presidencial, lo hizo con un margen de 7 puntos sobre AMLO, su contrincante más fuerte. Obtuvo la pluralidad o mayoría de los votos emitidos en 65 por ciento de los municipios del país. Y dejó al partido del entonces presidente en un vergonzoso y distante tercer lugar, sacándole 13 puntos de ventaja a su candidata. 
+
+Seis años después, el panorama no pudo ser más desolador para el otrora ganador y su partido. De los 1,582 municipios que Peña ganó en 2012, Meade consiguió ganar 194 solamente (o 12 por ciento). El PRI obtuvo nueve diputaciones federales de mayoría, sólo cinco más que su aliado el partido Verde.
+
+#+CAPTION: ... Mor se llevó todo
+#+NAME:   fig:1
+#+ATTR_HTML: style="float:right;"
+#+ATTR_HTML: :width 15%
+[[https://www.amazon.com/Congress-Electoral-Connection-David-Mayhew/dp/0300105878/ref=sr_1_1?s=books&ie=UTF8&qid=1495009601&sr=1-1&keywords=mayhew+electoral+connection][file:../assets/img/no-hay-primor-reformaweb-25-ene-2019.png]]
+
+
+Este post describe una fasceta relacionada, pero distinta, de la debacle priista, el éxodo masivo y generalizado de sus votantes hacia Morena. Si desde 2000 pudimos ver a cada uno de los partidos lamer sus heridas desde un distante tercer sitio, y todos experimentaron importantes /swings/ de escaños, lo que aquí retrato fue más dramático. Cuando desertan casi todos tus votantes, lo que tienes ante ti es el colapso de un sistema de partidos. 
+
+Para este fin, replico un ejercicio gráfico del /New York Times/. El diario publicó un extraordinario retrato de cómo Trump tiró el mapa electoral de EE.UU. hacia la derecha del espectro en la elección de 2016 (consúltelo [[https://www.nytimes.com/interactive/2016/11/08/us/elections/how-trump-pushed-the-election-map-to-the-right.html][aquí]]). Replico aquí el mapa con el cómputo distrital de votos para presidente. 
+
+
+#+CAPTION: El Peje se comió vivo a Peña
+#+NAME:   fig:2
+#+ATTR_HTML: style="float:center;"
+#+ATTR_HTML: :width 100%
+[[file:https://github.com/emagar/elecRetrns/raw/master/graph/nytAmloPlusAnayaPlusMeadeNegPenaWon.svg]]
+
+
+El mapa que acompaña al post contrasta la votación para presidente en 2018 y en 2012. Reporta los votos de los tres principales candidatos en cada municipio del país que Peña ganó en 2012. Las flechas color marrón indican que AMLO creció en el municipio---esto es, ganó un porcentaje de votos mayor en 2018 que el que obtuvo en 2012. El tamaño de las flechas es proporcional a la magnitud del crecimiento. No hay flecha marrón en los 41 municipios en cuestión en donde AMLO no creció. Las de color azul indican crecimiento de Ricardo Anaya, candidato del Frente, respecto de Josefina Vásquez Mota, candidata del PAN en 2012 (y no hay flecha azul en caso de decrecimiento). Y las flechas rojas, que apuntan hacia abajo, indican el fenómeno contrario, o sea municipios donde Meade *de*creció comparado con Peña en 2012 (no las hay en los rarísimos casos de crecimiento). Donde Peña no ganó faltan las tres flechas.
+
+Aunque el mapa muestra que hubo municipios donde AMLO y Anaya se repartieron la caída del PRI, es apabullante el número donde el único en crecer fue AMLO. Los desertores del PRI en esos municipios migraron en una sola dirección, la del partido de López Obrador. 
+
+De la arrogancia en la comunicación durante el sexenio hasta la futil persecución de Ricardo Anaya para bajarlo del segundo lugar en las encuestas, pasando por la nominación de otro tecnócrata, quienes tuvieron las riendas del PRI durante el sexenio y la campaña no pudieron haber hecho las cosas peor. El gigante resultó sí tener pies de barro, su supuesta fortaleza y sabiduría electorales eran otros tantos mitos que vimos colapsarse estrepitosamente. Y con ello se vino abajo la partidocracia que nos trajo la democracia electoral. 
+
+Si Morena consigue consolidarse para preservar estos votantes en elecciones venideras habremos sido testigos no solo de una desalineación masiva, también de la primera gran realineación electoral desde la fundación del Partido Nacional Revolucionario. 
