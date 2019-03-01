@@ -9,7 +9,7 @@
   subtitle: 
   author: eric.magar
   date:   2018-09-16
-  #last_modified_at: 
+  last_modified_at: 2019-03-01 
   tags: 
     - elecciones 
     - reelección
@@ -21,7 +21,13 @@
 #+end_src
 #+results:
 
-El alcalde reelecto de Candelaria, Salvador Farías, solicitó una reunión oficial consigo mismo para acordar el cambio de mando. 
+- Efecto de (des)ocupante (de Templo Mayor /Reforma/, 1-3-2019)
+
+Al grito de "soy chapulín, no grillo", el actual alcalde de Durango capital pretende reelegirse en el cargo, a pesar de que también... ¡es senador!
+Todo indica que José Ramón Enríquez no tiene llenadera, pues aunque el escaño y la alcaldía los obtuvo bajo las siglas de Movimiento Ciudadano, en coalición con el PAN; ya se inscribió como precandidato de Morena para reeelegirse.
+Para ser senador, pidió licencia como alcalde. Y luego pidió licencia como senador para regresar a la alcaldía. Si Morena decide abrirle las puertas, Enríquez tendrá que pedir oootra licencia como alcalde para reelegirse ¡como alcalde! Lo que es el amor a los cargos y no al servicio público.
+
+- El alcalde reelecto de Candelaria, Salvador Farías, solicitó una reunión oficial consigo mismo para acordar el cambio de mando (16-9-2018)
 
 #+ATTR_HTML: style="float:right;"
 #+ATTR_HTML: :width 100%
