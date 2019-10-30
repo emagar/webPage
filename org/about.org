@@ -1,5 +1,5 @@
 #+STARTUP: showall
-# #+TITLE: La redistritación de 1928, pieza faltante de la construcción del Estado moderno mexicano
+# #+TITLE: Opening page
 #+OPTIONS: toc:nil
 # # will change captions to Spanish, see https://lists.gnu.org/archive/html/emacs-orgmode/2010-03/msg00879.html
 #+LANGUAGE: es 
@@ -17,7 +17,7 @@
 #+end_src
 #+results:
 
-¡Bienvenido! Soy politólogo y profesor de tiempo completo en el [[http://www.itam.mx/politica][ITAM]] en la Ciudad de México. Me intereso principalmente en el campo del institucionalismo comparado. Investigo cómo las instituciones, los partidos, las elecciones y la interacción de todo esto moldean las estrategias de negociación en sistemas de poderes separados. Mi trabajo lo han publicado las editoras académicas de Cambridge y Johns Hopkins así como las revistas /American Political Science Review/, /Journal of Politics/, /Political Geography/ y /Electoral Studies/, entre otras.
+¡Bienvenido! Soy politólogo y profesor asociado de tiempo completo en el [[http://www.itam.mx/politica][ITAM]] en la Ciudad de México. Me intereso principalmente en el campo del institucionalismo comparado y las elecciones. Investigo cómo las instituciones, los partidos, las elecciones y la interacción de todo esto moldean las estrategias de negociación en sistemas de poderes separados. La editoriales de Cambridge y Johns Hopkins han publicado mi trabajo, que también ha aparecido en las revistas /American Political Science Review/, /Journal of Politics/, /Political Geography/ y /Electoral Studies/, entre otras.
 
 Obtuve el grado de doctor en la [[https://polisci.ucsd.edu/grad/placement/index.html][Universidad de California, San Diego]] en 2001. Fui profesor visitante en [[http://www.ibei.org][IBEI]] de Barcelona en 2007 e investigador visitante de [[https://polisci.wustl.edu/][Washington University en St. Louis]] en 2014-15. 
 

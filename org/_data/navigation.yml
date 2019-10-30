@@ -1,1 +1,30 @@
-../../emagar.github.io/_data/navigation.yml
+# main links
+main:
+  - title: "Eric Magar"
+    # url: /about/ 
+    url: http:/ericmagar.com 
+  - title: "Archivo"
+    url: /year-archive/
+  - title: "Etiquetas"
+    url: /tags/
+  - title: "?"
+    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+  # - title: "Quién somos"
+  #   url: /algo-nuevo/
+  # - title: "Sample Collections"
+  #   url: /collection-archive/
+  # - title: "Mapa de sitio"
+  #   url: /sitemap/
+
+prof:
+  - title: "CV"
+    children:
+      - title: "español"
+        url: /pdfs/cvEspanol.pdf
+      - title: "English"
+        url: /pdfs/cvEnglish.pdf
+
+
+
+
+        

@@ -1,0 +1,73 @@
+#+STARTUP: showall
+#+OPTIONS: toc:nil
+#+OPTIONS: H:2 num:1
+# # will change captions to Spanish, see https://lists.gnu.org/archive/html/emacs-orgmode/2010-03/msg00879.html
+#+LANGUAGE: es 
+#+begin_src yaml :exports results :results value html
+  ---
+  layout: splash
+  classes: wide
+  title:  IV Taller la ciencia política desde México
+  subtitle: 
+  author: eric.magar
+  date:   2019-05-13
+  last_modified_at: 2019-05-13
+  header:
+    overlay_color: "#000"
+    overlay_filter: "0.25"
+    overlay_image: /assets/img/jose_maria_velasco_vista_del_ajusco_y_pueblo_de_san_angel_desde_la_barranca-del-muerto2.jpg
+    caption: "J.M. Velasco El Ajusco y Pueblo de San Angel desde la Barranca del Muerto (1898, detalle)"
+  excerpt: "17 de mayo 2019, Casa de la Marquesa, ITAM"
+  tags: 
+    - ciencia política
+  ---
+#+end_src
+#+results:
+
+
+* <<start>>Programa
+
+** 9h30--9h50  Café
+
+** 9h50-10h  Bienvenida
+
+** 10h-11h10  Mesa de redistribución y geografía
+- Alberto Simpser, Federico Finan y Enrique Seira (ITAM) --- /The effect of neighborhoods on voting behavior/ ([[simp][abstract]])
+- Adrián Lucardi y Eric Magar (ITAM) --- /The dark side of electoral reform: the geography of public good distribution/ ([[luma][abstract]]) ([[../pdfs/naylum02.pdf][paper]])
+- Guillermo Rosas (Wash-U) --- /Borrowing Welfare: Credit Access and Support for Redistribution/ ([[grb][abstract]]) ([[../pdfs/markgrafRosas2019.pdf][paper]])
+
+** 11h30-12h40 Mesa de conducta política
+- Fernanda Somuano y Fernando Nieto (Colmex) --- /Analisis tipológico de la participación política en México/
+- Christian Ambrosius (FU-Berlin) --- /Immigration Demand and the Boomerang of Deportation Policies/ ([[amb][abstract]]) ([[../pdfs/ambrosius-leblang-migration-boomerang.pdf][paper]])
+- Rosario Aguilar (CIDE) --- /Explaining Support for Populist Policies Across Contexts/
+
+** 13h-14h10  Mesa de instituciones electorales y legislativas
+- Alvaro López Lara (UAM-Xochimilco), Nicolás Loza (FLACSO) y Jeff-Weldon (ITAM) --- /¿Cuánto importa el bicameralismo?  Iniciativa y estrategia presidencial en el Congreso mexicano/ ([[lllw][abstract]])
+- Juan Pablo Micozzi (ITAM) --- /Progressive Ambition in a Static World: the Chilean Congress/
+- Joy Langston (CIDE) --- /Political Parties and Inefficient Electoral Institutions/
+
+** 14h10-16h  Almuerzo
+ 
+** 16h-17h20 Legados políticos y capacidad estatal
+- Luis de la Calle (CIDE) --- /Civil War Legacies on Contemporary Voting Patterns: Divergent Left and Right Paths in Peru/ ([[ldlc][abstract]]) ([[../pdfs/de-la-calle-Legacies-Peru.pdf][paper]])
+- Mariano Sánchez Talanquer (CIDE) --- /Legacies of Revolution: Popular Militias and the Rule of Law/
+- J.A. Hernández Company y Alejandro Poiré (ITESM) --- /Central and Local State Capabilities in the Fight against Oil Theft/
+- Julio Ríos Figueroa (CIDE) --- /Persistent Patronage Networks: the Erosion of Merit-Based Judicial Selection in Mexico 1917-2017/
+
+** 17h20  Cervezas _heladas_ en el jardín
+
+* Programa del año pasado
+
+Véalo [[jekyll-post:2018-05-11-programa-taller.org][aquí]].
+
+* Abstracts
+- <<luma>>Lucardi y Magar "The dark side of electoral reform: the geography of public good distribution". How do electoral rules affect the geographic distribution of public goods? Theory suggests that splitting a multi-member district into multiple single-member ones should increase politicians' incentives to cater to voters in peripheral areas at the expense of those living in more densely populated regions. We examine this claim with data from Mexico, where municipal councillors are mostly elected in multi-member districts, except in the state of Nayarit, that switched to SMDs in 2008. We exploit this fact to conduct a difference-in-differences matching design to determine how the reform affected the geographic distribution of public services (water, electricity and sewerage) within municipalities. [[start][Arriba]] 
+- <<simp>>How do neighborhoods influence political behavior? Recent work has documented a dramatic effect of neighborhoods on various non-political outcomes, but the effect of local context on political behavior has not been rigorously established. We use panel data for twelve million voters in Mexico to study the effect of local context on individual voter turnout. We exploit variation in local context induced by citizens who move between the 2012 and 2015 national elections. We find that differences in average turnout between the origin and destination localities substantially influence a mover’s probability of turning out to vote subsequent to moving. We next try to adjudicate between mechanisms relating to selection, infrastructure, political party mobilization, and peer effects. Selection cannot easily account for the fact that a mover’s voting history influences average turnout behavior at the destination, nor for the robustness of the main result to restricting the analysis to citizens within a small geographical unit who move from one block to another. The results are also not due to distance to polling station, violence, and campaign spending. Our findings are strongly consistent with peer effects: movers adopt local norms over time, and these spill over to household members who did not move. [[start][Arriba]] 
+- <<amb>> What causes the demand for entry into the United States? We demonstrate the existence of a vicious cycle of deportation policies and migration between the United States and countries from Latin America and the Caribbean. Our argument is simple: deportation of convicts from the United States leads to violence in the deportee’s home country which, in turn, increases the demand for that country’s natives to seek entry in the United States. We test this argument utilizing a nested research design based on both cross-country data as well as subnational data from the case of El Salvador. For both samples of data, we first estimate the effect of deportations on home country violence. In the second step, we show that the predicted level of home country violence helps explain the demand for entry into the United States. [[start][Arriba]] 
+- <<ldlc>>This paper investigates whether the Peruvian conflict between Shining Path and the security forces during the 1980s influences contemporary electoral outcomes. I test broadly assumed arguments about the positive impact of the war on the rightwing fujimorista political movement and its negative impact on leftwing support by exploiting an original dataset at the district level with vote shares for the three major contenders during the first round of the 2016 presidential election. My findings show that even controlling for contemporary factors, fujimorismo does better in districts more affected by the civil war. The leftwing Frente Amplio fared better in districts with high levels of prewar marginalization, and in those where state repression was higher on average. These results point to a victimization-driven legacy of civil war on electoral outcomes. [[start][Arriba]] 
+- <<lllw>>¿Qué factores influyen en la elección de la cámara de origen de las iniciativas de los presidentes mexicanos? ¿Qué información han tomado en cuenta para anticipar las reacciones de los legisladores en un sistema bicameral? A partir del análisis de las estrategias en la presentación de iniciativas de los presidentes Carlos Salinas (1988-1994), Ernesto Zedillo (1994-2000), Vicente Fox (2000-2006), Felipe Calderón (2006-2012), Enrique Peña Nieto (2012-2018), y de los primeros meses de la presidencia de Andrés Manuel López Obrador (diciembre 2018-abril 2019), identificamos los factores que influyen en la elección de la cámara de origen de sus iniciativas. Sostenemos que las estrategias de los presidentes toman en cuenta el tamaño de su contingente legislativo en cada cámara, la naturaleza de los temas de las iniciativas, y quizá de manera más determinante la variable que condiciona la decisión de enviar a la cámara de diputados o al senado es el control de la comisión o comisiones legislativas que dictaminarán el proyecto de ley: si en alguna de las cámaras el ejecutivo puede delegar el control de la agenda en un presidente de comisión de su propio partido tendrá incentivos para iniciar sus proyectos en dicha cámara. Proponemos que la conducta presidencial se moldea con la información de la distribución de jugadores partidarios en el pleno de la cámara de origen y el control de la agenda en la comisión a la que se turnará la iniciativa. Al momento de decidir cuál será la mejor “puerta de entrada” para sus iniciativas, los presidentes elegirán, como cámara de origen, a aquella en donde detentan el control de la agenda en la comisión o disponen de una coalición ganadora en las votaciones nominales en el pleno de la asamblea. Es evidente que en un Congreso bicameral la aprobación en la cámara de origen es una condición necesaria, aunque no suficiente para que el proyecto presidencial sea aprobado en la cámara revisora. Sin embargo, la elección de la cámara de origen es una estrategia de control de la agenda que aumenta las oportunidades de aprobación en la cámara revisora y otorga cierta ventaja para incidir sobre el juego bicameral. [[start][Arriba]] 
+- <<grb>>Do voters see bank credit as an acceptable substitute for publicly-provided welfare? Recent scholarship has studied the political determinants of credit booms, yet we know much less about the “demand side”, i.e. what voters want. We speculate that voters see bank credit as a private form of insurance against economic risk and therefore prefer a smaller welfare state when credit access is facilitated, but we argue that the tradeoff depends on (1) the type of credit, (2) the specific welfare policy, and (3) the socioeconomic situation of voters. We test these claims in two steps: relying on observational data from the European Social Survey between 2002–10 we analyze if individuals with better credit access demand lower levels of redistribution. Furthermore, we conduct a conjoint analysis in the United Kingdom that cleanly identifies a causal credit-access effect on preferences for redistribution; we find that voters support lower income taxation and less generous social security policies when credit is cheaply available, but do not find any evidence of a tradeoff between bank credit and support for unemployment benefits. We moreover demonstrate that the findings vary considerably across different income and risk groups. [[start][Arriba]]
+
+
+
+

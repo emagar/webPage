@@ -1,0 +1,24 @@
+#+STARTUP: showall
+#+OPTIONS: toc:nil
+# # will change captions to Spanish, see https://lists.gnu.org/archive/html/emacs-orgmode/2010-03/msg00879.html
+#+LANGUAGE: es 
+#+begin_src yaml :exports results :results value html
+  ---
+  layout: single
+  title: Algunos papers presentados en el seminario de investigación de ciencia política del ITAM
+  # subtitle: 
+  author: Depto. CPol
+  date:   2019-03-15
+  last_modified_at: 2019-03-15
+  toc: false
+  # teaser: /assets/img/pirinola.jpg
+  tags: 
+   - investigación
+   - divulgación
+  ---
+#+end_src
+#+results:
+
+- 14-3-2019 Alisha Holland (Princeton) -> [[../pdfs/Holland-2019-Private-Property-Against-Public-Works-Colombia-Ecuador.pdf][paper]]
+- 21-3-2019 John Marshall (Columbia) -> [[../pdfs/Marshall-2019-Tuning-In-Voting-Out.pdf][paper]]
+

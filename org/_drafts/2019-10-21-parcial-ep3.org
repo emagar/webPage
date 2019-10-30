@@ -1,0 +1,43 @@
+#+STARTUP: showall
+#+OPTIONS: toc:nil
+# # will change captions to Spanish, see https://lists.gnu.org/archive/html/emacs-orgmode/2010-03/msg00879.html
+#+LANGUAGE: es 
+#+begin_src yaml :exports results :results value html
+  ---
+  layout: single
+  title: Trabajo de Elección Pública III, otoño 2019
+  # subtitle: 
+  author: Eric Magar
+  date:   2019-10-21
+  last_modified_at: 2019-10-21
+  toc: false
+  # teaser: /assets/img/pirinola.jpg
+  #tags: 
+  #  - elecciones
+  #  - voto presidencial
+  ---
+#+end_src
+#+results:
+
+* Enunciado
+
+Use la teoría espacial del voto y los modelos de manipulador de la agenda (p.ej., Romer y Rosenthal o Kiewiet y McCubbins) para analizar el papel político de la Suprema Corte en la democracia mexicana.
+
+En particular, puede hacer hincapié en una o más de las áreas siguientes:
+
+(1) ¿Qué papel puede esperarse juegue la interpretación constitucional en la negociación de política pública entre las ramas del gobierno?
+
+(2) ¿Cuál es la lógica política trás la selección y el nombramiento de los nuevos integrantes de la Corte?
+
+(3) ¿Hay elementos para compartir el pesimismo hacia la democracia mexicana de muchos editorialistas respecto del status de la Corte con el nuevo gobierno? 
+
+Trabajará en equipos de tres alumnos. Presentarán (al profesor) un avance sustancial de su argumento y de su estrategia de presentación el 20 de noviembre---esto contará como su calificación parcial del curso. El día 4 de diciembre entregarán un póster de investigación para presentación pública---daré los detalles más adelante. 
+
+* Literatura relevante
+
+- [[https://github.com/emagar/ep3/blob/master/parcial/lecturas/martin+quinnDynSC2002pa.pdf][Martin-Quinn 2002]]
+- [[https://github.com/emagar/ep3/blob/master/parcial/lecturas/mccubbins-noll-weingast-Conditions-judicial-independence2006jcli.pdf][McNollGast 2006]]
+- [[https://github.com/emagar/ep3/blob/master/parcial/lecturas/segal-cameron-cover-Sup-Court-confirmations1992ajps.pdf][Segal-Cameron-Cover 1992]]
+- [[https://github.com/emagar/ep3/blob/master/parcial/lecturas/reforma-Temen-corte-proclive-a-AMLO.pdf][Página publicada en /Reforma/ 5 oct. 2019]].
+- Consulten en biblioteca Saavedra, C.E. (compilador). 2018. /Veinte años no es nada: La Suprema Corte y la justicia constitucional antes y después de la reforma judicial de 1994/. Unos cuantos de los capítulos les pueden dar pistas interesantes.
+

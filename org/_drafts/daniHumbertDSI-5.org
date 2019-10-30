@@ -1,0 +1,190 @@
+#+TITLE: Impacto de la intervención de un actor nacional en la política local: la redistritación
+#+AUTHOR: Eric Magar
+#+DATE:  <2018-01-29>
+#+OPTIONS: toc:nil # don't place toc in default location
+# # will change captions to Spanish, see https://lists.gnu.org/archive/html/emacs-orgmode/2010-03/msg00879.html
+#+LANGUAGE: es 
+
+# style sheet
+#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="../css/stylesheet.css" />
+
+#+BEGIN_CENTER
+por
+
+*Daniel Saavedra Lladó* 
+
+y 
+
+*Humberto Trejo*
+#+END_CENTER
+
+#+OPTIONS: broken-links:mark
+
+# #+LINK_UP: index.html
+[[../index.html][Arriba/up]]
+
+
+La representación política se entiende como la forma en que quienes ocupan puestos de elección popular responden ante la ciudadanía, articulando posiciones que promuevan y defiendan los intereses de sus representados. La premisa que subyace a una parte importante del estudio de la representación es que las instituciones que definen sus detalles---los puestos en disputa, sus poderes relativos, las reglas para ocuparlos, entre otros---sientan los incentivos determinantes de la conducta de los representantes (Cain, Ferejohn y Fiorina 1987, Myerson 1995). Desde esta óptica, si cambian las instituciones, lo esperable es observar cambios subsecuentes y predecibles en la conducta de los representantes. 
+
+Esta nota retrata un cambio reciente e importante en las instituciones de la representación: nuevos mapas de los distritos legislativos de todos los estados. Nuestro objetivo es evaluar el grado de cambio que sufrieron estos mapas en relación con el mapa que replazaron. Nuestra aproximación es estadística. 
+
+* Los actores a cargo de la redistritación, antes y ahora
+
+El gobierno representativo se instauró desde la Constitución de 1824. Sin embargo, fue hasta 1857 cuando se subdividió al territorio nacional en distritos electorales. Cada diputado, ya fuera en la legislatura nacional o en la de algún estado, representaba a los habitantes del distrito que lo eligió. Desde entonces también, y hasta 2014, fueron autoridades estatales las encargadas de dibujar las fronteras electorales de los diputados de la legislatura del estado (López Levi 2006, Lujambio y Vives 2008). 
+
+En 2013 el Congreso de la Unión aprobó la reforma político-electoral más reciente. Una de las cuestiones medulares fue la transformación del Instituto Federal Electoral (IFE) en uno Nacional (INE). Los institutos electorales de los estados perdieron su autonomía. El INE absorbió directamente algunas de sus facultades y obtuvo el poder de intervenir en todas sus deciciones---inclusive administrar un proceso electoral estatal a cabalidad. 
+
+Bajo la sospecha de que los gobernadores influían indebida y sistemáticamente en el instituto electoral de su estado, una de las facultades que el INE absorbió directamente fue la redistritación. De modo que, con la reforma, un actor nacional remplazó a los actores estatales en el trazo de los distritos legislativos. 
+
+* Los criterios de la redistritación.
+
+El INE llevó a cabo el proceso de redistritación de los 31 estados y la Ciudad de México entre 2014 y 2017. El proceso de redistritación consiste en 3 etapas (Trelles, Altman, Magar y McDonald 2016). En la primera, la dirección de cartografía delINE presentó a los representantes de los partidos un borrador del mapa (llamado primer escenario). Los partidos, tanto locales como nacionales, hacen observaciones al borrador. Los cartógrafos pueden o no tomar en cuenta las observaciones al elaborar el segundo escenario. Este proceso de observaciones se repite para elaborar el tercer escenario que tiene que ser aprobado por el Consejo General, órgano rector del INE.
+
+En la elaboración del mapa, se utiliza un proceso automatizado que busca minimizar una función de costo. Dicha función considera siete criterios: la equilibrio poblacional según el número de distritos electorales en la legislación de cada estado, la equidad poblacional buscando equilibrar el número de habitantes en los distritos, distritos integrados en municipios de con al menos 40% de población indígena, integridad de los municipios, compacidad de los distritos o fronteras parecidas a polígonos regulares, la reducción de los tiempos de traslado en el territorio del distrito, continuidad geográfica. 
+
+Por último, el proceso descrito puede detenerse utilizando el criterio 8, este criterio toma en cuenta los factores socioeconómicos y accidentes geográficos. Puede usarse cuando se cumplen los 7 criterios mencionados anteriormente y se llega a un consenso por parte de los partidos políticos en la Comisión Nacional de Vigilancia.  
+
+Al elaborar un nuevo mapa distrital, los actores involucrados en el proceso persiguen objetivos múltiples, a menudo velados e inevitablemente contradictorios entre sí. Partimos de la premisa que la mudanza de actores locales por actores nacionales en la redistritación cambió de manera sustancial la gama de intereses que reflejan los mapas. Los distritos de cada estado que heredó el INE variaban enormemente unos de otros. Pero todos, sin excepción, compartían el atributo de haber sido dibujados, en su momento, por los institutos electorales locales o los congresos de los estados. Y, si bien los partidos estatales intervinieron en el proceso, los mapas nuevos los trazó el actor nacional. 
+
+* El índice de similitud distrital
+
+Evaluaremos los nuevos mapas con el *índice de similitud distrital* (DSI por sus siglas en inglés) de Cox y Katz (2002). El DSI permite hacer una comparación sistemática de cada mapa nuevo con su antecesor. El estadístico cuantifica qué tanto cambió cada distritos en relación al que suplanta en el mapa. 
+
+Para obtener el índice, sobreponemos los mapas viejo y nuevo en aras de identificar al "padre" de cada distrito. El padre es aquel distrito del mapa viejo que más secciones electorales contribuyó en la integración del distrito nuevo (o "hijo"). El índice DSI del distrito i se obtiene mediante la siguiente fórmula: 
+
+$DSI_i = \frac{C}{P+H-C}$, 
+
+donde C es el número de secciones electorales que comparten ambos distritos, P es el número de secciones del distrito padre y H es el número de secciones del distrito hijo. Se trata de una adaptación del índice de los autores citados, ya que lo calculamos a partir de la proporción de las secciones electorales comunes entre los distritos padre e hijo, a diferencia de la versión original donde se considera la población común entre los distritos.[fn:1]
+
+#+ATTR_HTML: style="float:center;"
+#+ATTR_HTML: :width 40%
+[[file:https://github.com/emagar/mxDistritos/raw/master/mapasComparados/loc/maps/bc6-2.png]]
+
+La interpretación del índice DSI es simple. Toma el valor máximo de 1 cuando el distrito hijo comparte la totalidad de las secciones que integraban al distrito padre y nada más---P = H = C---es decir, padre e hijo son distritos idénticos. Un total de 45 distritos tienen un DSI = 1. El valor del índice es menor al reducirse la similitud entre padre e hijo. El valor mínimo de 0 indicaría que hay nula similitud entre distrito padre e hijo (C=0). Por construcción, este mínimo nunca se alcanza.  Para ilustrar, se observa en el Diagrama 1 que el distrito 6 de Baja California, con cabecera en Tecate, tiene un DSI = 0.111. Este distrito comparte 11.1 por ciento de secciones, en la parte oeste, con su padre. La línea negra gruesa representa la deliminación del distrito 6, mientras que la roja gruesa indica el límite del padre (ésta incluso se sale del rango geográfico del mapa). El distrito hijo está formado primordialmente por secciones ajenas al padre. 
+
+La información de los distritos padres se obtuvo a partir de los últimos mapas electorales utilizados en la elección al congreso local previa a la redistritación hecha por el actor nacional a partir de 2014. Usamos el reporte de votos a nivel casilla para determinar a qué distrito solía pertenecer cada sección electoral del estado. Las secciones que integran los distritos nuevos se obtuvo de los mapas generados y aprobados por el Consejo General del INE. Obtuvimos los estadísticos descriptivos del DSI para la redistritación local.
+
+
+#+CAPTION: Descriptivos del DSI
+#+NAME:   tab:1
+|    Min | 1st. Qu. | Median |   Mean | 3rd. Qu |  Max |
+| 0.0790 |   0.3805 | 0.5485 | 0.5787 |  0.7768 | 1.00 |
+
+Podemos observar que el distrito más disímil con su padre es el distrito 9 de Baja California Sur con cabecera en Cabo San Lucas que tiene un DSI de apenas 0.079: se trata de un distrito cuyas fronteras fueron casi completamente redibujadas y que comparte menos de una de cada diez secciones con su padre.  
+
+De la misma manera, los cuartiles de la distribución se encuentra en los valores del índice de 0.3805, 0.5485 y 0.7768. La media se encuentra en 0.5787.
+
+#+CAPTION: Histograma del DSI con una curva normal superpuesta
+#+ATTR_HTML: style="float:center;"
+#+ATTR_HTML: :width 40%
+[[file:../img/histDani.png]]
+   
+Un distrito con un DSI cercano al mínimo es el distrito 13 de Nayarit con cabecera en Santa María del Oro. El DSI es de 0.189, la s fronteras del nuevo distrito incluyen a Santa María del Oro, como lo hacía el distrito padre, pero gana las comunidades de La Yesca, Jala y San Pedro Lagunillas, así como pierde las secciones del lado noroeste cercanas a Tepic.
+    
+#+CAPTION: El distrito 13 de Nayarit
+#+ATTR_HTML: style="float:center;"
+#+ATTR_HTML: :width 40%
+[[file:https://github.com/emagar/mxDistritos/raw/master/mapasComparados/loc/maps/nay13-2.png]]
+
+En el primer cuartil se encuentra un distrito similar al 14 de Nayarit, con cabecera en Xalisco, con DSI = 0.289. El distrito hijo cuenta con las secciones que formaban la porción sur del distrito padre, en el municipio de Xalisco, y perdió la parte norte, que consiste en la parte sur de la Sierra de San Juan. Esto muestra que el nuevo distrito comparte una pequeña porción del antiguo; por lo tanto, en una elección, el candidato que buscaría reelegirse solo repetiría un pequeño porcentaje de su antiguo electorado, se perdería la ventaja que implica ser incumbent -y el conocimiento dentro del distrito-, por lo que, se sugeriría que es más probable la alternancia.
+
+#+CAPTION: El distrito 14 de Nayarit
+#+ATTR_HTML: style="float:center;"
+#+ATTR_HTML: :width 40%
+[[file:https://github.com/emagar/mxDistritos/raw/master/mapasComparados/loc/maps/nay14-2.png]]
+
+En el segundo cuartil se encuentra el distrito 7 de Nayarit con cabecera en Tepic, este nuevo distrito tiene un DSI de 0.418. Este distrito perdió parte de la ciudad capital y la parte este del padre, ganando la parte norte del distrito.  A pesar de que el porcentaje del nuevo distrito que comparte con el nuevo es mayor que en el mapa anterior, sigue siendo menos de la mitad; al igual que en el caso anterior, en una elección, el candidato que buscaría la elección solo repetiría un pequeño porcentaje de su antiguo electorado, por lo que, en este caso también se podría sugerir que es más probable la alternancia.
+
+#+CAPTION: El distrito 7 de Nayarit
+#+ATTR_HTML: style="float:center;"
+#+ATTR_HTML: :width 40%
+[[file:https://github.com/emagar/mxDistritos/raw/master/mapasComparados/loc/maps/nay7-2.png]]
+
+En el tercer cuartil encontramos al distrito 12 con cabecera en Tepic y un DSI de 0.622. Este distrito ganó la parte este y perdió la parte oeste del distrito padre.  En este caso, ya más de la mitad del distrito es compartido por el viejo, por lo que, bajo nuestros supuestos, la probabilidad de alternancia se reduce.
+
+#+CAPTION: El distrito 12 de Nayarit
+#+ATTR_HTML: style="float:center;"
+#+ATTR_HTML: :width 40%
+[[file:https://github.com/emagar/mxDistritos/raw/master/mapasComparados/loc/maps/nay12-2.png]]
+
+En el último cuartil tenemos al distrito 1 con cabecera en Acaponeta. Este distrito tiene un DSI de 0.77. Mantiene las fronteras del distrito padre y tiene una ganancia en la parte sur del nuevo distrito.  A diferencia de los mapas anteriores, en este caso, el porcentaje del distrito viejo que cambió con el nuevo es muy pequeño, por lo que, el electorado se comportaría básicamente como si fuese un incumbent y la probabilidad de reelección sería alta.
+
+#+CAPTION: El distrito 1 de Nayarit
+#+ATTR_HTML: style="float:center;"
+#+ATTR_HTML: :width 40%
+[[file:https://github.com/emagar/mxDistritos/raw/master/mapasComparados/loc/maps/nay1-2.png]]
+
+Un distrito con DSI = 1 es el 33 de la Ciudad de México, que se encuentra en la Magdalena Contreras. Este distrito mantiene la misma configuración de secciones que su distrito padre, así como sus fronteras, pese a la reducción de 40 a 33 distritos electorales locales consecuencia de la reforma del Distrito Federal aprobada en 2015 y la Constitución para la Ciudad. Se esperaría que el diputado que ocupa la oficina resulte reelecto con facilidad, ya que no cambian las secciones que integran su distrito.  
+
+#+CAPTION: El distrito 33 de la CDMX
+#+ATTR_HTML: style="float:center;"
+#+ATTR_HTML: :width 40%
+[[file:https://github.com/emagar/mxDistritos/raw/master/mapasComparados/loc/maps/df33-2.png]]
+
+
+#+CAPTION: Distribución del DSI por Estado
+#+NAME:   tab:2
+| Estado              |  DSI25 | DSImediana |  DSI75 | num_distritos |
+| Aguascalientes      | .35175 |       .619 |  .7985 |            18 |
+| Baja California     |   .382 |       .482 |   .611 |            17 |
+| Baja California Sur |  .3085 |      .4105 | .47125 |            16 |
+| Campeche            |   .364 |       .567 |    .96 |            21 |
+| Coahuila            | .39375 |       .553 |  .7045 |            16 |
+| Colima              | .32675 |      .3795 |  .5795 |            16 |
+| Chiapas             |   .392 |      .4685 |    .56 |            24 |
+| Chihuahua           |  .3315 |      .5045 |  .6965 |            22 |
+| DF                  |   .568 |       .668 |   .794 |            33 |
+| Durango             | .29525 |      .3555 | .48325 |            16 |
+| Guanajuato          |  .3535 |       .438 | .58325 |            22 |
+| Guerrero            |  .9975 |          1 |      1 |            28 |
+| Hidalgo             |  .3495 |      .5095 |  .6065 |            18 |
+| Jalisco             | .48225 |       .626 | .80775 |            20 |
+| México              |   .356 |       .495 |   .551 |            45 |
+| Michoacán           |  .5185 |       .718 | .86525 |            24 |
+| Morelos             | .35825 |      .4695 |   .533 |            12 |
+| Nayarit             |  .3065 |       .525 |   .665 |            18 |
+| Nuevo León          | .33625 |       .441 | .66825 |            26 |
+| Oaxaca              |   .435 |       .593 |   .684 |            25 |
+| Puebla              |  .3855 |      .6395 | .84125 |            26 |
+| Querétaro           |   .352 |       .462 |  .7025 |            15 |
+| San Luis Potosí     |  .5825 |       .718 |      1 |            15 |
+| Tabasco             |   .382 |       .581 |   .691 |            21 |
+| Tlaxcala            |   .499 |       .656 |  .7445 |            15 |
+| Veracruz            | .10725 |      .1495 |   .183 |            30 |
+| Zacatecas           | .37775 |       .503 | .83925 |            18 |
+
+* El criterio 8
+
+Identificamos los estados en los que se utilizó el criterio 8 para detener el proceso al llegar a un consenso, y analizamos el impacto de utilizar este criterio en el índice de DSI. Para analizar la relación usamos un modelo de regresión lineal con el índice DSI como variable dependiente y una dummy con valor de 1 para los estados donde se usó el criterio 8.
+    
+#+CAPTION: Un modelo de regresión. La variable es el DSI del distrito. 
+#+NAME:   tab:3
+|            | Coeficiente | Error est. | valor p |
+|------------+-------------+------------+---------|
+| Constante  |      .50069 |     .01151 |   <.001 |
+| Criterio 8 |      .21209 |     .02434 |   <.001 |
+|------------+-------------+------------+---------|
+| $R^2$      |         .12 |            |         |
+| F(1,557)   |       75.94 |            |   <.001 |
+
+Los distritos que pertenecen a los estados donde se utilizó el criterio 8 sistemáticamente tienen 0.21 de similitud más que los distritos donde no se utilizó el criterio citado. Por lo que los mapas que casi no cambiaron pueden tratarse de casos donde los partidos buscan preservar distritos ya conocidos, porque son aversos al riesgo de buscar nuevos votantes.
+                                                  
+Los representantes deben atender sus obligaciones legislativas, a las que dedican la mayor parte de su tiempo, y atender a las personas que forman la coalición que los llevó al cargo donde se encuentran o con miras al que pretenden aspirar. Por eso dividen sus recursos y a su personal para tratar de cubrir ambas actividades. Una redistritación hecha por un actor externo a la política local puede dejar fuera del distrito a los votantes que ya son leales, por lo que tanto partidos como candidatos con control territorial de los distritos anteriores se opondrán al nuevo reparto de secciones y buscarán llegar a un acuerdo con los demás actores políticos usando el criterio 8 y tratando de que las fronteras distritales cambien poco o no cambien con el objetivo de mantener junta a su coalición de votantes y no correr el riesgo de poder perder el distrito en la próxima elección.                                                   
+                                                 
+* Referencias
+
+- Cox, Gary and Katz, Jonathan; Elbridge Gerry’s Salamander: The electoral consequences of the apportionment revolution, Cambridge University Press, 2004.
+
+- López Levi, Liliana; Distritación electoral en México: logros pasados y retos futuros; 2006; Departamento de Política y Cultura, UAM-Xochimilco 2006.
+
+- Cain, Bruce and Ferejohn, John and Fiorina, Morris; The personal vote: constituency service and electoral independence, Harvard University Press, Cambridge, Massachussets, 1987.
+
+- Lujambio, Alonso and Vives, Horacio; From Politics to Technicalities: Mexican Redistricting in Historical Perspective in Redistricting in Comparative Perspective, by Lisa Handley and Bernard Grofman, Oxford University Press, 2008.
+                                                  
+- Trelles, Alejandro and Altman, Micah and Magar, Eric and McDonald, Michael; Datos abiertos, transparencia y redistritación en México, Política y gobierno, volumen XXIII, número 2, 2016.   
+                                                 
+- Fenno, Richard F.. Home style: house members in their districts, Longman, New York, México, 1978                                                 
+
+
+[fn:1] Si las secciones electorales tuvieran idéntica población, nuestra versión sería idéntica a la de Cox y Katz. Conforme crece la heterogeneidad poblacional de las secciones, también lo hace la discrepancia entre las versiones del DSI. Las secciones del país suelen tener poblaciones relativamente homogéneas: 99 por ciento de las secciones tenían en el censo 2010 una población total que oscilaba entre los 100 y los 5,700 habitantes.
+

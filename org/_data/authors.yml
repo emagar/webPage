@@ -1,1 +1,114 @@
-../../emagar.github.io/_data/authors.yml
+# /_data/authors.yml
+
+eric.magar:
+  name: "Eric Magar"
+  uri: "http://ericmagar.com"
+  location: "Cd de México"
+  email: "emagar@itam.mx"
+  bio: "Politólogo. Enseño e investigo en el ITAM" # Political scientist, full-time professor at ITAM in Mexico City"
+  avatar: "/assets/img/aye.jpg"
+  twitter: "emagar"
+  github: "emagar"
+
+alonso.lujambio:
+  name: "Alonso Lujambio"
+  bio: "De los más destacados precursores del estudio institucional en México"
+  avatar: "/assets/img/ali-sq.jpg"
+
+zabel:
+  name: "Zabel Revuelta Pineda"
+  location: "CDMX"
+  email: "zabel.rp@gmail.com"
+  twitter: "zabelconz"
+  bio: "Politóloga de alma libre"
+  avatar: "/assets/img/zabel.jpg"
+
+vero.navarrete:
+  name: "Verónica Navarrete Morales"
+  bio: "Estudia ciencia política en el ITAM"
+
+claudia.cervantes:
+  name: "Claudia Cervantes Pérez"
+  location: "Cd de México"
+  email: "ccalucp95@gmail.com"
+  twitter: "Calu_cp95"
+  avatar: "/assets/img/claudia.cervantes2.jpeg"
+  bio: "Politóloga (en proceso). ITAM"
+
+jr.moreno:
+  name: "Juan Ramón Moreno"
+  location: "Ciudad de México"
+  twitter: "Jota__Erre"
+  email: "jmoreno@itam.mx"
+  avatar: "/assets/img/jr2.JPG"
+  bio: "Politólogo y economista, ITAM"
+  
+patricia.cruz:
+  name: "Patricia Cruz Marín"
+  location: "CdMx"
+  email: "pacruma@gmail.com"
+  avatar: "/assets/img/patricia-cruz.jpg"
+  bio: "Abogada/Politóloga/DH"
+
+ruben.figueroa:
+  name: "Rubén Figueroa Velasco"
+  bio: "Estudia ciencia política en el ITAM"
+
+lupe.cervantes:
+  name: "Guadalupe Cervantes Terán"
+  bio: "Estudia ciencia política en el ITAM"
+
+fermin.acosta:
+  name: "Fermín Acosta Ruiz"
+  bio: "Estudia ciencia política en el ITAM"
+  
+iliana.rendon:
+  name: "Iliana Rendón Arias"
+  bio: "Doctora en Ciencias Sociales con mención en Ciencia Política por FLACSO México"
+  
+adolfo.ramirez:
+  name: "Adolfo Ramírez"
+  bio: "Estudia ciencia política en el ITAM"
+
+sofia.delamora:
+  name: "Sofía de la Mora Tostado"
+  bio: "Estudia ciencia política en el ITAM"
+  
+samuel.glez:
+  name: "Samuel González Cataño"
+  bio: "Estudia derecho y ciencia política en el ITAM"
+  
+daniel.saavedra:
+  name: "Daniel Saavedra Lladó"
+  bio: "Estudia ciencia política en el ITAM"
+
+humberto.trejo:
+  name: "Humberto Trejo"
+  bio: "Estudia ciencia política en el ITAM"
+
+ceci.cabello:
+  name: "Cecilia Cabello Esquer"
+  email: "cecicabes@gmail.com"
+  bio: "Estudia ciencia política en el ITAM"
+
+dalia.rincon:
+  name: "Dalia Rincón Altamirano"
+  email: "dalia94@gmail.com"
+  bio: "Estudia ciencia política en el ITAM"
+
+valentina.fix:
+  name: "Valentina Fix Martínez"
+  bio: "Estudia ciencia política y derecho en el ITAM"
+
+rodrigo.corona:
+  name: "Rodrigo Corona"
+  bio: "Estudia ciencia política en el ITAM"
+
+alejandro.palma:
+  name: "José Alejandro Palma"
+  bio: "Estudia ciencia política en el ITAM"
+
+gretel:
+  name: "Gretel Esmeralda Calleros Arellano"
+  bio: "Estudia ciencia política en el ITAM"
+

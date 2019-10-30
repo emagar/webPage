@@ -1,1 +1,71 @@
-../../emagar.github.io/_includes/archive-single.html
+{% if post.header.teaser %}
+  {% capture teaser %}{{ post.header.teaser }}{% endcapture %}
+{% else %}
+  {% assign teaser = site.teaser %}
+{% endif %}
+
+{% if post.id %}
+  {% assign title = post.title | markdownify | remove: "<p>" | remove: "</p>" %}
+{% else %}
+  {% assign title = post.title %}
+{% endif %}
+
+{% if post.id %}
+  {% assign authors = post.authors | markdownify | remove: "<p>" | remove: "</p>" %}
+{% else %}
+  {% assign authors = post.authors %}
+{% endif %}
+
+<div class="{{ include.type | default: "list" }}__item">
+  <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
+    {% if include.type == "grid" and teaser %}
+      <div class="archive__item-teaser">
+        <img src=
+          {% if teaser contains "://" %}
+            "{{ teaser }}"
+          {% else %}
+            "{{ teaser | absolute_url }}"
+          {% endif %}
+          alt="">
+      </div>
+    {% endif %}
+    <h2 class="archive__item-title" itemprop="headline">
+      {% if post.link %}
+        <a href="{{ post.link }}">{{ title }}</a> <a href="{{ post.url | absolute_url }}" rel="permalink"><i class="fas fa-link" aria-hidden="true" title="permalink"></i><span class="sr-only">Permalink</span></a>
+      {% else %}
+        <a href="{{ post.url | absolute_url }}" rel="permalink">{{ title }}</a>
+      {% endif %}
+    </h2>
+
+    <div itemscope itemtype="http://schema.org/Person">
+      {% assign authorCount = post.authors | size %}
+      {% if authorCount == 0 or authorCount == 1 %}
+        {% assign author = post.author | default: post.authors[0] | default: site.author %}
+        {% assign author = site.data.authors[author] | default: author %}
+        <div class="author__content">
+          {% if author.home %}
+            <a href="{{ author_link }}"><p class="author__name" itemprop="name" style="font-family:courier;font-size:75%">{{ author.name }}</p></a>
+          {% else %}
+            <p class="author__name" itemprop="name" style="font-family:courier;font-size:75%">{{ author.name }}</p>
+          {% endif %}
+        </div>
+      {% else %}
+        {% assign authors = post.authors %}
+        {% for authorid in authors %}
+          <div class="author__content">
+            {% if author.home %}
+              <a href="{{ site.data.authors[authorid].author_link }}"><p class="author__name" itemprop="name" style="font-family:courier;font-size:75%">{{ site.data.authors[authorid].name }}</p></a>
+            {% else %}
+              <p class="author__name" itemprop="name" style="font-family:courier;font-size:75%">{{ site.data.authors[authorid].name }}</p>
+            {% endif %}
+          </div>
+        {% endfor %}
+      {% endif %}
+    </div>
+
+    {% if post.read_time %}
+      <p class="page__meta">{{ post.date | date: "%-d-%-m-%Y" }} • <i class="far fa-clock" aria-hidden="true"></i> {% include read-time.html %}</p>
+    {% endif %}
+    {% if post.excerpt %}<p class="archive__item-excerpt" itemprop="description">{{ post.excerpt | markdownify | strip_html | truncate: 160 }}</p>{% endif %}
+  </article>
+</div>

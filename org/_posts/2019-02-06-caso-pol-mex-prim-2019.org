@@ -1,4 +1,4 @@
-#+STARTUP: showall
+y#+STARTUP: showall
 #+OPTIONS: toc:nil
 # # will change captions to Spanish, see https://lists.gnu.org/archive/html/emacs-orgmode/2010-03/msg00879.html
 #+LANGUAGE: es 
@@ -7,7 +7,7 @@
   layout: single
   title: Titulación por caso, primavera 2019
   # subtitle: 
-  author: Depto. CPol
+  author: Departamento de Ciencia Política
   date:   2019-02-06
   last_modified_at: 2019-02-06
   toc: false
@@ -22,7 +22,7 @@
 | *Política mexicana*  | (coordinación: Federico Estévez) |
 | *Política comparada* | (coordinación: Eric Magar)       |
 
-/Pregunta/ ¿Lo que experimentamos el 1ero de julio pasado fue una elección crítica o la maduración de una realineación secular? ¿Podría concebirse una elección crítica en ausencia de una gran catástrofe?
+/Pregunta/ ¿Lo que experimentamos el 1 de julio pasado fue una elección crítica o la maduración de una realineación secular? ¿Podría concebirse una elección crítica en ausencia de una gran catástrofe?
 
 #+CAPTION: Réplica de un mapa del /New York Times/
 #+NAME:   fig:1
@@ -30,7 +30,7 @@
 #+ATTR_HTML: :width 100%
 [[file:https://github.com/emagar/elecRetrns/raw/master/graph/nytAmloPlusAnayaPlusMeadeNegPenaWon.png]]
 
-El mapa retrata el fenómeno a explicar (una versión con mejor definición puede descargarse [[https://github.com/emagar/elecRetrns/raw/master/graph/nytAmloPlusAnayaPlusMeadeNegPenaWon.pdf][aquí]]). Contrasta la votación para presidente en 2018 y en 2012. Reporta los votos de los tres principales candidatos en cada municipio que Peña ganó en 2012. Las flechas color marrón indican que AMLO creció en el municipio---esto es, ganó un porcentaje de votos mayor en 2018 que el que obtuvo en 2012. El tamaño de las flechas es proporcional a la magnitud del crecimiento. No hay flecha marrón en los 41 municipios en cuestión en donde AMLO no creció. Las de color azul indican crecimiento de Ricardo Anaya, candidato del Frente, respecto de Josefina Vásquez Mota, candidata del PAN en 2012 (y no hay flecha azul en caso de decrecimiento). Y las flechas rojas, que apuntan hacia abajo, indican el fenómeno contrario, o sea municipios donde Meade *de*-creció comparado con Peña en 2012 (no las hay en los rarísimos casos de crecimiento). Donde Peña no ganó faltan las tres flechas.
+El mapa retrata el fenómeno a explicar (una versión con mejor definición puede descargarse [[https://github.com/emagar/elecRetrns/raw/master/graph/nytAmloPlusAnayaPlusMeadeNegPenaWon.pdf][aquí]]. Contrasta la votación para presidente en 2018 y en 2012. Reporta los votos de los tres principales candidatos en cada municipio que Peña ganó en 2012. Las flechas color marrón indican que AMLO creció en el municipio---esto es, ganó un porcentaje de votos mayor en 2018 que el que obtuvo en 2012. El tamaño de las flechas es proporcional a la magnitud del crecimiento. No hay flecha marrón en los 41 municipios en cuestión en donde AMLO no creció. Las de color azul indican crecimiento de Ricardo Anaya, candidato del Frente, respecto de Josefina Vásquez Mota, candidata del PAN en 2012 (y no hay flecha azul en caso de decrecimiento). Y las flechas rojas, que apuntan hacia abajo, indican el fenómeno contrario, o sea municipios donde Meade *de*-creció comparado con Peña en 2012 (no las hay en los rarísimos casos de crecimiento). Donde Peña no ganó faltan las tres flechas.
 
 Analice la votación de los municipios del país en busca de evidencia para responder las preguntas. En su trabajo, defina claramente los conceptos que capturan  cambio y estabilidad electorales y elabore hipótesis que guíen su análisis empírico.
 

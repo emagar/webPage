@@ -1,0 +1,37 @@
+#+STARTUP: showall
+#+OPTIONS: toc:nil
+# # will change captions to Spanish, see https://lists.gnu.org/archive/html/emacs-orgmode/2010-03/msg00879.html
+#+LANGUAGE: es 
+#+begin_src yaml :exports results :results value html
+  ---
+  layout: single
+  title: Trabajo parcial PCII, primavera 2019
+  # subtitle: 
+  author: Eric Magar
+  date:   2019-03-26
+  last_modified_at: 2019-03-26
+  toc: false
+  # teaser: /assets/img/pirinola.jpg
+  #tags: 
+  #  - elecciones
+  #  - voto presidencial
+  ---
+#+end_src
+#+results:
+
+Sistematice los datos siguientes de elecciones británicas a nivel /constituency/ (distritos):
+
+1. [[../pdfs/uk-2015-General-Election.csv][Elección general 2015]] (reelección de Cameron)
+2. [[https://commonslibrary.parliament.uk/parliament-and-elections/elections-elections/brexit-votes-by-constituency/][Voto en el referedum del Brexit]] (datos hasta abajo de la página)
+3. [[../pdfs/uk-2017-General-Election.csv][Elección general 2017]] (Theresa May pierde su mayoría)
+
+Sistematice también los datos siguientes por diputado (MP):
+ 
+4. [[file:../pdfs/uk-2019-meaningful-votes.txt][First and second meaningful votes]] de enero y marzo 2019 (derrotas del Tratado de Brexit en el Parlamento)
+5. [[../pdfs/uk-2019-mps-take-control-of-brexit-process.txt][MPs to take control of Brexit]] del 25 de marzo
+
+Formen equipos de tres para hacer un estudio de los determinantes electorales de la conducta en el Parlamento de los MPs conservadores. Tomen en cuenta el voto Remain/Leave, si el MP se reelegió o no en 2017, su grado de vulnerabilidad (recuerden los "marginales" de EE.UU.), regionalismos, etc.
+
+Hagan una cita con el profesor antes de Semana Santa para discutir sus avances e ideas. Anunciaré la fecha de entrega (pasada la Semana Santa) próximamente. 
+
+
