@@ -11,7 +11,7 @@
   # subtitle: 
   author: eric.magar
   date:   2019-10-22
-  last_modified_at: 2019-10-22
+  last_modified_at: 2019-10-30
   toc: false
   mathjax: true
   # teaser: /assets/img/pirinola.jpg
@@ -101,7 +101,7 @@ Para estimar este núcleo sigo el procedimiento de Díaz Cayeros /et al/. (2016)
 $$\begin{equation}
 v_{ut} = \alpha + \beta \times \bar{v}_t + \text{error}, \; t = 1994, \ldots, 2018.
 \end{equation}$$
-$\beta$ mide el efecto de las mareas nacionales de apoyo en el voto del partido en la unidad $u$. Por ejemplo, $\hat{\beta}=1$ estimaría que por cada punto porcentual que el partido ganó o perdió a nivel nacional en el periodo, ganó o perdió un punto porcentual en la unidad; $\hat{\beta}=0$, en cambio, indicaría un aislamiento cabal de la unidad de los cambios nacionales. Es una medida de volatilidad del voto en el municipio o sección. 
+$\beta$ mide el efecto de las mareas nacionales de apoyo en el voto del partido en la unidad $u$. Por ejemplo, $\hat{\beta}=1$ estimaría que por cada punto porcentual que el partido ganó o perdió a nivel nacional en el periodo, ganó o perdió un punto porcentual en la unidad; $\hat{\beta}=0$, en cambio, indicaría un aislamiento cabal de la unidad de los cambios nacionales. Es una medida de volatilidad del +voto+ partido en el municipio o sección. 
 
 El coeficiente $\alpha$ estima el núcleo: el apoyo esperado en $u$ en el hipotético caso de que el partido no recibiera ningún voto a nivel nacional. Por ejemplo, $\hat{\alpha}=.4$ indicaría que, llueve, truene o relampaguee, 40% del electorado del municipio es incondicional al partido---lo cual indicaría un núcleo de tamaño considerable.
 
