@@ -11,7 +11,7 @@
   # subtitle: 
   author: eric.magar
   date:   2019-10-22
-  last_modified_at: 2019-10-30
+  last_modified_at: 2019-11-05
   toc: false
   mathjax: true
   # teaser: /assets/img/pirinola.jpg
@@ -25,7 +25,9 @@
 #+end_src
 #+results:
 
-El propósito de esta nota es presentar, discutir y distribuir estadísticas (disponibles [[https://github.com/emagar/mxDistritos][aquí]]) del desempeño electoral de los partidos en la época competitiva. Elaboro dos cantidades de interés: el *pronóstico de voto* con base en la historia electoral y el *núcleo de apoyo* de los partidos. El procedimiento que describo mas abajo permite obtener medidas resumen del pasado reciente en unidades territoriales relativamente pequeñas, los municipios ($N \approx 2500$) y las secciones electorales ($N \approx 66000$) del país. Aplico la metodología a cuatro elecciones de diputados federales entre 2009 y 2018 (próximamente lo haré con resultados de elecciones de ayutamientos), echando mano de resultados desde 1994 como insumo histórico.
+(English version [[https://emagar.github.io/residuales-2018-english/][here]].)
+
+El propósito de esta nota es presentar, discutir y distribuir estadísticas (disponibles [[https://github.com/emagar/mxDistritos][aquí]]) del desempeño electoral de los partidos en la época competitiva. Elaboro dos cantidades de interés: el *pronóstico de voto* con base en la historia electoral y el *núcleo de apoyo* de los partidos. El procedimiento que describo más abajo permite obtener medidas resumen del pasado reciente en unidades territoriales relativamente pequeñas, los municipios ($N \approx 2500$) y las secciones electorales ($N \approx 66000$) del país. Aplico la metodología a cuatro elecciones de diputados federales entre 2009 y 2018 (próximamente lo haré con resultados de elecciones de ayutamientos), echando mano de resultados desde 1994 como insumo histórico.
 
 La nota empieza mostrando los estadísticos en acción. Esto permite ver su enorme potencial descriptivo y analítico. Al resumir la historia electoral reciente y su geografía, los estadísticos ofrecen una mirada panorámica a un aspecto fundamental de la política mexicana contemporánea. 
 
@@ -39,9 +41,9 @@ La tabla [[fig:1]] presenta dos pares de diagramas de las elecciones de diputado
 | file:../assets/img/triplot2018-vhat-mu.png | [[file:../assets/img/triplot2018-v-mu.png]] |
 | file:../assets/img/triplot2015-vhat-mu.png | [[file:../assets/img/triplot2015-v-mu.png]] |
 
-Del lado izquierdo aparecen los /pronósticos de voto/ para los municipios. La idea detrás del estadístico es resumir la evolución del voto en el municipio en cinco elecciones previas (2003-2015 en el caso de 2018) y usar la tendencia para proyectar un pronóstico de voto para 2018. Los diagramas del lado derecho, en cambio, muestran los resultados observados en ambas elecciones.
+Del lado izquierdo aparecen los /pronósticos de voto/ para los municipios. La idea detrás del estadístico es resumir la evolución del voto en el municipio en cinco elecciones previas (2003--2015 en el caso de 2018) y usar la tendencia para proyectar un pronóstico de voto para 2018. Los diagramas del lado derecho, en cambio, muestran los resultados observados en ambas elecciones.
 
-Destaco tres rasgos notables en 2018. El primero es la discrepancia entre los diagramas ternarios izquierdo y derecho. O el modelo no acierta en sus pronósticos, o la de 2018 fue una elección extraordinaria. La historia daba licencia para pronosticar un triunfo holgado del PRI, tanto en número de municipios ganados como en los márgenes de victoria. Los municipios fuera de las bandas punteadas los gana un partido con un margen de 15 puntos o más, y el grueso de los municipios seguros son rojos en el pronóstico, con Morena en un distante segundo lugar. En los hechos, si bien un número no insignificante de municipios migraron hacia el PAN, la clara ventaja la demostró Morena. El /underachiever/ fue el PRI. En contraste, los diagramas inferiores izquierdo y derecho presentan diferecias menores---2015 fue una elección normal, el pasado permitió pronosticar mejor. 
+Destaco tres rasgos notables en 2018. El primero es la discrepancia entre los diagramas ternarios izquierdo y derecho. O el modelo no acierta en sus pronósticos, o la de 2018 fue una elección extraordinaria. La historia otorgaba licencia para pronosticar un triunfo holgado del PRI, tanto en número de municipios ganados como en los márgenes de victoria. Los municipios fuera de las bandas punteadas los gana un partido con un margen de 15 puntos o más, y el grueso de los municipios seguros son rojos en el pronóstico, con Morena en un distante segundo lugar. En los hechos, si bien un número no insignificante de municipios migraron hacia el PAN, la clara ventaja la demostró Morena. El /underachiever/ fue el PRI. En contraste, los diagramas inferiores izquierdo y derecho presentan diferecias menores---2015 fue una elección normal, el pasado permitió pronosticar mejor. 
 
 Segundo, las aristas y los vértices del triángulo 2018 se despoblaron en los hechos. En los vértices se ubican municipios "zapato", sin competencia. Las aristas, en cambio, capturan bipartidismo más (dentro de las bandas punteadas) o menos (fuera) simétrico. Destaca en los pronósticos que sólo la arista PAN--Morena se esperaba desierta. En la práctica, el voto del tercer partido nunca se anuló, hubo más descoordinación que en el pasado. De hecho la intersección de las bandas punteadas aparece más densa y homogénea en el diagrama derecho que en el izquierdo. 
 
@@ -62,11 +64,11 @@ Los diagramas de la Tabla [[fig:4]] reportan secciones electorales y por ello of
 #+NAME:   fig:4
 | file:../assets/img/resid-pan-2018-vs-pan-core-se.png | [[file:../assets/img/resid-morena-2018-vs-morena-core-se.png]] | file:../assets/img/resid-pri-2018-vs-pri-core-se.png |
 
-El eje horizontal de cada diagrama mide el tamaño estimado del núcleo de apoyo de cada partido como proporción del electorado de la sección. El PRI aventajó a los demás en el periodo, gozó de núcleos en /todas/ las secciones del país. Las distribuciones del PAN y de la izquierda, en cambio, aparecen desplazadas hacia el cero del eje---son replativamente pocas las secciones donde contaron con apoyo incondicional. 
+El eje horizontal de cada diagrama mide el tamaño estimado del núcleo de apoyo de cada partido como proporción del electorado de la sección. El PRI aventajó a los demás en el periodo, gozó de núcleos en /todas/ las secciones del país. Las distribuciones del PAN y de la izquierda, en cambio, aparecen desplazadas hacia el cero del eje---son reativamente pocas las secciones donde contaron con apoyo incondicional. 
 
 El eje vertical reporta el desempeño de los tres partidos en 2018 (la diferencia entre el voto observado y el pronóstico). Valores positivos indican que el partido superó las expectativas en la sección, negativos que quedó a deber. El desastre electoral del PRI se aprecia claro en el diagrama rojo. Aunque hubo secciones con desempeño positivo, la densidad se concentra masivamente debajo de la línea horizontal del cero, algo que la Tabla [[fig:1]] ya dejaba entrever. Lo verdaderamente sorprendente es que el pésimo desempeño es directamente proporcional al tamaño del núcleo priista. Peña y Meade consiguieron lo que parecía, si no imposible, sí extremadamente improbable: enajenar a los votantes incondicionales del PRI en 2018. El PAN y la izquierda, en cambio, cumplieron con el pronóstico en secciones donde han contado con algunos grupos de apoyo. Ambos (sobretodo Morena) excedieron pronósticos donde carecen de núcleos importantes, arrabatándole al PRI sus votantes. 
 
-La nota elabora ahora sobre la receta con que cociné los estadísticos (el código para replicarlos se encuentra [[https://github.com/emagar/mxDistritos/code/elec-data-for-maps.r][aquí]]).
+La nota elabora ahora sobre la cocina de los estadísticos (el código para replicarlos se encuentra [[https://github.com/emagar/mxDistritos/code/elec-data-for-maps.r][aquí]]).
 
 # [[file:https://github.com/emagar/elecRetrns/raw/master/graph/nytAmloPlusAnayaPlusMeadeNegPenaWon.svg]]
 
@@ -101,13 +103,13 @@ Para estimar este núcleo sigo el procedimiento de Díaz Cayeros /et al/. (2016)
 $$\begin{equation}
 v_{ut} = \alpha + \beta \times \bar{v}_t + \text{error}, \; t = 1994, \ldots, 2018.
 \end{equation}$$
-$\beta$ mide el efecto de las mareas nacionales de apoyo en el voto del partido en la unidad $u$. Por ejemplo, $\hat{\beta}=1$ estimaría que por cada punto porcentual que el partido ganó o perdió a nivel nacional en el periodo, ganó o perdió un punto porcentual en la unidad; $\hat{\beta}=0$, en cambio, indicaría un aislamiento cabal de la unidad de los cambios nacionales. Es una medida de volatilidad del +voto+ partido en el municipio o sección. 
+$\beta$ mide el efecto de las mareas nacionales sobre el voto del partido en la unidad $u$. Por ejemplo, $\hat{\beta}=1$ estimaría que por cada punto porcentual que el partido ganó o perdió a nivel nacional en el periodo, ganó o perdió un punto porcentual en la unidad; $\hat{\beta}=0$, en cambio, indicaría un aislamiento cabal de la unidad de los cambios nacionales. Es una medida de volatilidad del +voto+ partido en el municipio o sección (análogo a la [[https://www.investopedia.com/terms/v/volatility.asp]["volatilidad beta"]] de la literatura financiera). 
 
 El coeficiente $\alpha$ estima el núcleo: el apoyo esperado en $u$ en el hipotético caso de que el partido no recibiera ningún voto a nivel nacional. Por ejemplo, $\hat{\alpha}=.4$ indicaría que, llueve, truene o relampaguee, 40% del electorado del municipio es incondicional al partido---lo cual indicaría un núcleo de tamaño considerable.
 
 Una crítica anticipable a esta medición del núcleo es su carácter contrafactual extremo (King y Zeng 2006). Amerita un escrutinio riguroso, que planeo llevar a cabo en el futuro. 
 
-(El núcleo de los partidos aparece en los campos ~alphahat.pan~, ~alphahat.pri~ y ~alphahat.morena~ de los datos distribuidos.)
+(El núcleo de los partidos aparece en los campos ~alphahat.pan~, ~alphahat.pri~ y ~alphahat.morena~ de los datos distribuidos. La volatiiad partidista en ~betahat.pan~, ~betahat.pri~ y ~betahat.morena~.)
 
 * Variables composicionales
 Cierro con un rasgo importante de la especificación de los modelos, asociado con la naturaleza del voto como /variable composicional/. Las variables composicionales son descripciones cuantitativas de las partes de un todo y, por ende, tienen dos características: son proporciones que suman la unidad.[fn:3] 
