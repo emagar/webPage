@@ -1,0 +1,82 @@
+#+STARTUP: showall
+#+OPTIONS: toc:nil
+#+OPTIONS: H:2 num:1
+# # will change captions to Spanish, see https://lists.gnu.org/archive/html/emacs-orgmode/2010-03/msg00879.html
+#+LANGUAGE: es 
+#+begin_src yaml :exports results :results value html
+  ---
+  layout: splash
+  classes: wide
+  title:  Taller la ciencia política desde México
+  subtitle: 
+  author: eric.magar
+  date:   2020-01-08
+  last_modified_at: 2020-01-08
+  header:
+    overlay_color: "#000"
+    overlay_filter: "0.25"
+    overlay_image: /assets/img/fotoTodos2016.png
+#    overlay_image: /assets/img/jose_maria_velasco_vista_del_ajusco_y_pueblo_de_san_angel_desde_la_barranca-del-muerto2.jpg
+    caption: "J.M. Velasco El Ajusco y Pueblo de San Angel desde la Barranca del Muerto (1898, detalle)"
+#  excerpt: "17 de mayo 2019, Casa de la Marquesa, ITAM"
+  tags: 
+    - ciencia política
+  ---
+#+end_src
+#+results:
+
+* ¿Qué es?
+El taller reúne desde 2016 a un grupo de investigadores en ciencias sociales que compartimos una orientación empírica. La mayoría radicamos en la Ciudad de México, aunque hemos contado con visitantes del extranjero. El objetivo del taller es tender lazos entre académicos con afinidades metodológicas, compartir nuestras agendas de investigación y promover colaboraciones académicas. En la reunión anual en la Casa de la Marquesa de San Angel presentamos y discutimos, a lo largo de un día entero, nuestro trabajo reciente. 
+* ¿Quiénes somos?
+Han participado en uno o más de los talleres los siguientes investigadores:
+- Adriana Alfaro Altamirano (ITAM)
+- Adrián Lucardi (ITAM)
+- Alberto Simpser (ITAM)
+- Alejandra Ríos Cázares (CIDE)
+- Alejandro Díaz Domínguez (ITESM)
+- Alejandro Poiré (ITESM)
+- Allyson L. Benton (CIDE)
+- Alvaro F. López Lara (UAM-Xochimilco)
+- Brian Palmer-Rubin (UC-Berkeley)
+- Brian Phillips (CIDE)
+- Carolina Garriga (CIDE)
+- Christian Ambrosius (FU-Berlin)
+- Emilio Gutiérrez (ITAM)
+- Eric Magar (ITAM)
+- Felipe Curcó Cobos (ITAM)
+- Fernanda Somuano (Colmex)
+- Fernando Nieto (Colmex)
+- Francisco Cantú (University of Houston)
+- Guillermo Rosas (Wash-U)
+- José Antonio Hernández Company (ITESM)
+- Javier Márquez (BLA y Oraculus)
+- Jeff Weldon (ITAM)
+- José Ramón Enríquez (ITAM)
+- Joy Langston (CIDE)
+- Juan Cruz Olmeda (Colmex)
+- Juan Pablo Micozzi (ITAM)
+- Julio Ríos Figueroa (CIDE)
+- Karina Ansolabehere (FLACSO)
+- Laura Flamand (COLMEX)
+- Lisandro Devoto (Colmex)
+- Luis de la Calle (CIDE)
+- Luis Fernando Medina (Juan March)
+- Luz Marina Arias (CIDE)
+- Mariano Sánchez Talanquer (CIDE)
+- Nicolás Loza (FLACSO)
+- Rosario Aguilar (CIDE)
+- Vidal Romero (ITAM)
+- Willibald Sonnleitner (COLMEX)
+* Programas
+2019
+2018
+2017
+2016
+
+- [[jekyll-post:2019-05-17-prog-taller.org][2019]
+- [[jekyll-post:2018-05-11-programa-taller.org][2018]
+- [[jekyll-post:2017.org][2017]
+- [[jekyll-post:2016.org][2016]
+
+
+
