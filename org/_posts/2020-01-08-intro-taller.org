@@ -67,14 +67,9 @@ Han participado en uno o más de los talleres los siguientes investigadores:
 - Rosario Aguilar (CIDE)
 - Vidal Romero (ITAM)
 - Willibald Sonnleitner (COLMEX)
-* Programas
-2019
-2018
-2017
-2016
-
-- [[jekyll-post:2019-05-17-prog-taller.org][2019]
-- [[jekyll-post:2018-05-11-programa-taller.org][2018]
+* Programas de los talleres anuales
+- [[jekyll-post:2019-05-17-prog-taller.org][2019]]
+- [[jekyll-post:2018-05-11-programa-taller.org][2018]]
 - [[jekyll-post:2017.org][2017]
 - [[jekyll-post:2016.org][2016]
 
