@@ -10,8 +10,8 @@
   title:  III Taller la ciencia política desde México
   subtitle: 
   author: eric.magar
-  date:   2018-05-11
-  last_modified_at: 2018-05-11
+  date:   2018-05-18
+  last_modified_at: 2018-05-18
   header:
     overlay_color: "#000"
     overlay_filter: "0.5"

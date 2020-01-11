@@ -1,0 +1,79 @@
+#+STARTUP: showall
+#+OPTIONS: toc:nil
+#+OPTIONS: H:2 num:1
+# # will change captions to Spanish, see https://lists.gnu.org/archive/html/emacs-orgmode/2010-03/msg00879.html
+#+LANGUAGE: es 
+#+begin_src yaml :exports results :results value html
+  ---
+  layout: splash
+  classes: wide
+  title:  I Taller la ciencia política desde México
+  subtitle: 
+  author: eric.magar
+  date:   2016-05-13
+  last_modified_at: 2020-01-08
+  header:
+    overlay_color: "#000"
+    overlay_filter: "0.25"
+  excerpt: "13 de mayo 2016, Casa de la Marquesa, ITAM"
+  tags: 
+    - ciencia política
+  ---
+#+end_src
+#+results:
+
+#    overlay_image: /assets/img/jose_maria_velasco_vista_del_ajusco_y_pueblo_de_san_angel_desde_la_barranca-del-muerto2.jpg
+#    caption: "J.M. Velasco El Ajusco y Pueblo de San Angel desde la Barranca del Muerto (1898, detalle)"
+
+
+* <<start>>Programa
+
+** Café (8:15-8:45)
+** Presentación (8:45-9)
+** Mesa de política subnacional (9-10:30)
+
+*Alejandra Ríos*                      (CIDE)    [[./160513-Rios-Cazares.pptx][Condicionantes de la transparencia gubernamental: evidencia desde México estatal]]
+
+*Allyson Benton*                      (CIDE)    [[./160322BentonCrime&Debt8.pdf][Crime and Capital Market Punishment: How Violent Crime Affects the Supply of Debt to Municipal Mexico]]
+
+*Carolina Garriga*                    (CIDE)    [[./garrigaAbstract.pdf][Foreign Investors' Subnational Political Preferences in Mexico]]
+
+*Laura Flamand y Juan Cruz Olmeda*    (COLMEX)  [[./BargainingTogetherOrNot-FlamandOlmeda-ITAM.pdf][Associations of governors in Latin America]]
+
+** Mesa de economía política (10:45-12:15)
+
+*Alberto Simpser y Marc Grau*         (ITAM)    [[./simpserAbstract.pdf][Does corruption respond to political competition?]]
+
+*Alejandro Díaz*                      (Tec)     [[./diaz-cct-programs-religious.pdf][Is there a Religious Coping Effect on Conditional Cash Transfer Programs Enrollment in Latin America?]]
+
+*Luz Marina Arias y Luis de la Calle* (CIDE)    The Legacy of War Dynamics on Fiscal Capacity Building: Mexico during the 19th Century
+
+*Vidal Romero*                        (ITAM)    [[./VidalRomero_MoneyLaundering_v2.0.pdf][La ropa sucia se lava en casa: Money laundering and incentives' disconnect between national and local authorities]]
+
+** Refrigerio (12:15-1:30)
+** Mesa de ideología y política legislativa (1:30-3)
+
+*Fernanda Somuano y Juan Cruz Olmeda* (COLMEX)  [[./somuano.olmeda_LeftRightLA 9_05_2016.pdf][What does it mean to be in the Left or in the Right in Latin America?]]
+
+*Alvaro López Lara*                   (UAM-X)   [[http://ericmagar.com/taller/Mapa_Ideologico_Lopez_Lara.pdf][El mapa ideológico de las legislaturas estatales en México]]
+
+*Joy Langston*                        (CIDE)    [[./joyPres.pptx][Clientelist Parties and Congressional Campaigns]]
+
+*Juan Pablo Micozzi*                  (ITAM)    [[./Aleman_Micozzi_Ramirez_mpsa_2016_v2.pdf][The Hidden Electoral Connection: Analyzing Information Requests in the Chilean Congress]]
+
+** Mesa de nuevas agendas: cortes y geografía electoral (3:15-4:45)
+
+*Andrea Pozas y Julio Ríos*           (IIJ/CIDE) [[http://ericmagar.com/taller/pozas.riosJudicialClienteleNetworksv7.pdf][Birth and Development of Judicial Clientelistic Networks in Mexico, 1917-1994]]
+
+*Javier Márquez*                      (BuendíaLaredo y Asocs.)     [[./presentacionMarquez.pdf][De votos a curules: Elección intermedia de 2015]]
+
+*Willibald Sonnleitner*               (COLMEX)  [[./sonnleitnerAbstract.pdf][Dinámicas territoriales de la fragmentación del sistema de partidos mexicano]]
+
+*Eric Magar*                          (ITAM)    [[http://ericmagar.com/taller/redMexPartyStrategy.pdf][Automated redistricting and partisan strategic interaction in Mexico]]
+
+** Comentarios finales (4:45-5)
+** Cervezas _heladas_ y parrillada mexicana (5-6:30)
+
+* Foto de grupo
+
+[[../assets/img/fotoTodos2016.png]]

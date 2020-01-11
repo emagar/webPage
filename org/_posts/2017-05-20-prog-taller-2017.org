@@ -1,0 +1,59 @@
+#+STARTUP: showall
+#+OPTIONS: toc:nil
+#+OPTIONS: H:2 num:1
+# # will change captions to Spanish, see https://lists.gnu.org/archive/html/emacs-orgmode/2010-03/msg00879.html
+#+LANGUAGE: es 
+#+begin_src yaml :exports results :results value html
+  ---
+  layout: splash
+  classes: wide
+  title:  II Taller la ciencia política desde México
+  subtitle: 
+  author: eric.magar
+  date:   2017-05-26
+  last_modified_at: 2020-01-08
+  header:
+    overlay_color: "#000"
+    overlay_filter: "0.25"
+  excerpt: "26 de mayo 2017, Casa de la Marquesa, ITAM"
+  tags: 
+    - ciencia política
+  ---
+#+end_src
+#+results:
+
+
+* <<start>>Programa
+
+** Café (8:45-9:15)
+** Presentación (9:15-9:30)
+** El ámbito electoral (9:30-11:10)
+*Cristian Challú*, *Enrique Seira* y *Alberto Simpser*  (ITAM)   It isn't vote counters who count, but how many votes they have to count: evidence on the quality of vote counting in Mexican elections
+
+*Alvaro López Lara* (UAM-X)    De la hegemonía a la fragmentación: La difusión de los sistemas electorales mixtos y el pluralismo en los congresos locales de México
+
+*Alonso Ahumada*, *JR Enríquez* y *Emilio Gutiérrez*  (ITAM) Identification of Dynastic Power in Contexts with Spanish Naming Conventions
+
+*Juan Cruz Olmeda* y *Lisandro Devoto* (Colmex)  Evaluating the success of electoral coalitions at the subnational level. Evidence from legislative elections in Mexico 2000-16
+** Economía política (11:25-12:45)
+     # ** Costos de agencia en democracia (14:00-15:30)
+*Adrián Lucardi* (ITAM)     Strength in Expectation Elections, Economic Performance and Authoritarian Breakdown
+
+*Allyson Benton* (CIDE)     Indebted to Your Friends and Enemies: The Mechanics of Subnational Debt Policy Diffusion in Mexico
+
+*Mireia Vilar Compte*   (UIA)      Inseguridad alimentaria en México desde un enfoque de economía política y utilizando modelos jerárquicos
+** Almuerzo (12:45-14:15)
+** Delegación en cortes y legislaturas (14:15-15:45)
+*Eric Magar*          (ITAM)   Restrictive rules in the Chilean Congress (con Valeria Palanza y Gisela Sin)
+
+*Juan Pablo Micozzi*  (ITAM)   Gender Quotas, Women's Substantive Representation, and Cosponsorship Activity in Argentina
+
+*Karina Ansolabehere* (FLACSO) Fidelidad concentrada: Difusión de innovaciones sobre derechos humanos de la SCJN en las instancias inferiores del poder judicial
+** El monopolio de la violencia (16:00-17:30)
+*Brian Phillips*    (CIDE)     Indiscriminate vs. selective repression: Evidence from Argentina's Dirty War
+
+*Fernanda Somuano*  (Colmex)   Capacidades estatales y participación política en México: un análisis subnacional
+
+*Vidal Romero*      (ITAM)     The Perils to Order and Security in Cuba's Transition to Democracy
+** Comentarios finales (17:30-17:45)
+** Cervezas _heladas_ y parrillada mexicana (17:45-19:30)

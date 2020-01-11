@@ -1,0 +1,31 @@
+#+STARTUP: showall
+# #+TITLE: Opening page
+#+OPTIONS: toc:nil
+# # will change captions to Spanish, see https://lists.gnu.org/archive/html/emacs-orgmode/2010-03/msg00879.html
+#+LANGUAGE: es 
+#+begin_src yaml :exports results :results value html
+  ---
+  layout: single
+  title: Eric Magar
+  header:
+    overlay_image: /assets/img/SaintVast-crop.JPG
+    image_description: "Eric Magar"
+  sidebar:
+    nav: "prof"
+  permalink: /contact/
+  ---
+#+end_src
+#+results:
+
+| Address: | Eric Magar Meurs                        |
+|          | Departamento de ciencia política - ITAM |
+|          | Río Hondo 1                             |
+|          | Col. Tizapán-San Angel                  |
+|          | Del. Alvaro Obregón                     |
+|          | 01000 Ciudad de México                  |
+|----------+-----------------------------------------|
+| Tels:    | +52(55)5628-4079                        |
+|          | +52(55)5628-4000 ext 3702               |
+|----------+-----------------------------------------|
+|          | emagar at itam dot mx                   |
+|          |                                         |
