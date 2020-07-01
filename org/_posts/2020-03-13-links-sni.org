@@ -1,0 +1,33 @@
+#+STARTUP: showall
+#+OPTIONS: toc:nil
+#+OPTIONS: H:2 num:1
+# # will change captions to Spanish, see https://lists.gnu.org/archive/html/emacs-orgmode/2010-03/msg00879.html
+#+LANGUAGE: es 
+#+begin_src yaml :exports results :results value html
+  ---
+  layout: splash
+  classes: wide
+  title:  Vínculos a pruebas de mi solicitud de reingreso vigente al SNI
+  subtitle: 
+  author: eric.magar
+  date:   2020-03-13
+  last_modified_at: 2020-03-13
+  tags: 
+    - ciencia política
+  ---
+#+end_src
+#+results:
+
+* Vículo a mi CV
+- [[https://github.com/emagar/cv/blob/master/cvEspanol.pdf]]
+
+* Bibliotecas de datos reportadas: 
+1) En el *Harvard Dataverse* [[https://doi.org/10.7910/DVN/X2IDWS]] un repositorio de *instituciones electorales de los estados*, con énfasis en las reglas de reelección consecutiva, 
+2) En *Github* [[https://github.com/emagar/elecRetrns.git]] un repositorio de *resultados electorales desde 1979 en México* que incluye elecciones municipales, de gobernador, de diputados federales y senadores y presidenciales; los datos pueden descargarse a distintos niveles de agregación: casillas, municipios, distritos federales y locales o estados. 
+3) en *Github* [[https://github.com/emagar/mxDistritos.git]] un repositorio de mapas digitales que distribuye la *cartografía electoral de México desde 1979*. El código que acompaña permite reconstruir los distritos federales y locales a través de los años y exportarlos en formato digital (shapefile).
+
+* Participación en el desarrollo institucional
+1) Organicé junto con Adrián Lucardi y Juan P. Micozzi el *IV encuentro del Grupo de Estudios Legislativos de la Asociación Latinoamericana de Ciencia Política* 9-10 ago. 2018, Ciudad de México. 38 investigadores de nueve países asistieron y presentaron su trabajo. Vea [[https://github.com/emagar/cv/blob/master/evidence/GEL2018Program03eng.pdf]].
+2) Fundé el *Taller la Ciencia Política desde México* que reunió en mayo de 2016, 2017, 2018 y 2019 a entre 16 y 20 académicos para presentar y discutir su investigación reciente. Vea [[https://emagar.github.io/intro-taller/]].
+* Participación en comités de evaluación
+1) Fui sinodal en 51 exámenes de grado (vea [[https://github.com/emagar/cv/blob/master/evidence/sinodal2016-2019sni.pdf]]). 

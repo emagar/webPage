@@ -11,7 +11,7 @@
   # subtitle: 
   author: eric.magar
   date:   2019-11-06
-  last_modified_at: 2019-11-06
+  last_modified_at: 2020-06-08
   toc: false
   mathjax: true
   # teaser: /assets/img/pirinola.jpg
@@ -81,7 +81,7 @@ The note elaborates how statistics were prepared (replication code can be found 
 * First differences
 One common approach to study electoral change is through first differences. Denoting $v_t$ the party's vote share in the municipality or the /sección/, in period $t$, the first difference is simply $d_t = v_t - v_{t-1}$. 
 
-$d_t$ is an intuitive quantity, showing the sign and magnitude of change from one election to the next. But, precisely because it compares pairs of consecutive elections only, it misses more dynamic processes in the units. One example, well documented by electoral sociology, is the regression to the mean (Campbell 1991, Segovia 1979). Its detection requires observing the unit through at least three consecutive periods to verify contrary signs in $d_{t+1}$ and $d_t$. The study of secular change in the Mexican party system in the last quarter of century calls for deeper historical perspective. 
+$d_t$ is an intuitive quantity, showing the sign and magnitude of change from one election to the next. But, precisely because it compares pairs of consecutive elections only, it misses more dynamic processes in the units. One example, well documented by electoral sociology, is the regression to the mean (Campbell 1991, Segovia 1979). Detection requires observing the unit through at least three consecutive periods to verify contrary signs in $d_{t+1}$ and $d_t$. The study of secular change in the Mexican party system in the last quarter of century calls for deeper historical perspective. 
 
 (First differences appear in the fields ~d.pan~, ~d.pri~, and ~d.morena~ in the distributed data.)
 
@@ -116,16 +116,16 @@ I close with an important feature of the model specifications, associated with t
 
 When estimating parties separately, the challenge of equations 1 and 2 is to avoid forecasting vote shares less than zero or greater than one; and that the sum of party forecasts equals 1. To achieve this, Aitchison (1986) proposes substituting vote shares by log-ratios in the analysis. Arbitrarily setting the PRI as the reference party, define party $p$'s vote relative to the PRI as 
 $$r_p = \frac{v_p}{v_{\text{pri}}}.$$ 
-A value $r_p=1$ would indicate a tie between the party and the PRI, while $r_p>1$ that it finished ahead of the PRI in the proportion that the value reveals. 
+A value $r_p=1$ would indicate a tie between the party and the PRI, while $r_p>1$ that it finished ahead of the PRI by a proportion given by the value of $r_p$. 
 
 Thus, equation 1 is re-specified as
 $$\ln r_{put} = a + b \times t + \text{error}$$
 y equation 2 as
 $$\ln r_{put} = \alpha + \beta \times \bar{r}_{pt} + \text{error}.$$
 
-Applying the natural logarithm attenuates the effect of extreme values of the regressor on the dependent variable, similar as a logit regression would. Models fitting was done with ordinary least squares. 
+Applying the natural logarithm attenuates the effect of extreme values of the regressor on the dependent variable, similar as a logit regression would. Model fitting was done with ordinary least squares. 
 
-Coefficient estimates requires transformation to collect party vote shares. Illustrating with a three-party caste, it is trivial that 
+Coefficient estimates must be transformed to collect party vote shares. Illustrating with a three-party case, it is trivial that 
 
 \begin{equation}
 \hat{v}_p = \frac{\hat{r}_p}{1 + \hat{r}_{\text{pan}} + \hat{r}_{\text{morena}}} \; \text{and} \;
