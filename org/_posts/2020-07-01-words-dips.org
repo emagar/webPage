@@ -7,7 +7,7 @@
   layout: single
   # layout: splash
   classes: wide
-  title: Los diputados en la tribuna 2006--2020
+  title: Hay diputados de muchas y de pocas palabras
   # subtitle: 
   author: eric.magar
   date:   2020-07-01
@@ -34,11 +34,11 @@ Los datos provienen de las [[http://cronica.diputados.gob.mx][versiones estenogr
 
 La figura [[fig:1]] presenta el número de diputados que tomaron la palabra en cada una de las sesiones. El día mediano contribuyeron al debate 36.5 oradores diferentes, y la distribución es claramente acampanada. Hubo seis días con más de 100 oradores. Se trata de sesiones con onomásticos próximos, extraordinarias o de presupuesto. 
 
-#+CAPTION: Número de intervenciones (izq.) y total de palabras de las intervenciones (der.)
+#+CAPTION: Número de intervenciones (izq.) y total de palabras (der.)
 #+NAME:   fig:2
 | [[file:../assets/img/dv-nspeech-histogram.png]] | file:../assets/img/dv-histogram.png]] |
 
-El par de figuras en la tabla [[fig:2]] resumen la actividad individual en los periodos observados, una el número de discursos, otra el número de palabras pronunciadas. Consideré arbitrariamente que todo aquel que dijo menos de 50 palabras en todo un día no contribuyó al debate, y lo eliminé de los conteos. La moda de la distribución de discursos se ubica en un rotundo cero: más de 3,500 diputados (38% de las observaciones) nunca abrieron el pico en el periodo. El diputado mediano dio un solo discurso en cada periodo de sesiones. Esto me recuerda al patrón de mis alumnos en clase: un puñado participa activamente, la mayoría restante escucha en silencio.[fn:1] La marca al mayor número de discursos se la llevó el Diputado Ricardo Mejía Berdeja de MC en la LXII Legislatura. 
+El par de diagramas en la tabla [[fig:2]] resumen la actividad individual en los periodos observados, una el número de discursos, otra el número de palabras pronunciadas. Consideré arbitrariamente que todo aquel que dijo menos de 50 palabras en todo un día no contribuyó al debate, y lo eliminé de los conteos. La moda de la distribución de discursos se ubica en un rotundo cero: más de 3,500 diputados (38% de las observaciones) nunca abrieron el pico en el periodo. El diputado mediano dio un solo discurso en cada periodo de sesiones. Esto me recuerda al patrón de mis alumnos en clase: un puñado participa activamente, la mayoría restante escucha en silencio.[fn:1] La marca al mayor número de discursos se la llevó el Diputado Ricardo Mejía Berdeja de MC en la LXII Legislatura. 
 
 En lo que respecta a la extensión de las intervenciones, la métrica es el número de palabras acumuladas por orador en el periodo. En este caso la distribución es bimodal: un pico alto en cero; otro más bajo alrededor de la mediana de 593 palabras por periodo de sesiones. La columna que aparece en el extremo derecho, bajo un asterisco, es cumulativa---reporta, juntas, 217 observaciones con ocho mil o más palabras en el periodo (2.2 por ciento, distribuidas con mayor rareza de 8,000 a 50,291 palabras). 
 
