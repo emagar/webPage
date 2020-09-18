@@ -11,7 +11,7 @@
   # subtitle: 
   author: eric.magar
   date:   2020-07-01
-  last_modified_at: 2020-07-01
+  last_modified_at: 2020-07-02
   toc: false
   mathjax: true
   # teaser: /assets/img/pirinola.jpg
@@ -51,6 +51,8 @@ La figura [[fig:3]] representa los totales diarios en los periodos observados. L
 Los puntos huecos son mínimos y máximos de cada periodo. La Diputada Valentina Batres obtuvo la marca por haber pronunciado el discurso más extenso de entre los observados. Con 15,932 palabras, su intervención del 11 de marzo 2008 es 50 por ciento más larga que la siguiente en orden de importancia y contiene aproximadamente el mismo número de palabras que los siete primeros capítulos de /Don Quijote de la Mancha/ (cuarenta y cinco páginas en la edición que tengo en casa). Batres y otros diputados cercanos a AMLO usaron tácticas dilatorias a lo largo de la sesión, atrasando la votación del Sistema Nacional de Información Estadística y Geográfica. Tomaron esta ley como rehén, en demandaba de que la Presidenta de la Cámara, la Diputada Ruth Zavaleta de su propio partido, modificara el orden del día para debatir e investigar unos contratos millonarios firmados por Juan Camilo Mouriño, Secretario de Gobernación. 
 
 El filibusterismo legislativo, amparado en los derechos que a las minorías otorga el Reglamento cameral, amerita un estudio sistemático. Promete ser interesante.  
+
+*Actualización 2jul2020* La figura [[fig:3]] ahora incluye el periodo extraordinario del 30 de junio 2020. Sesión /sui generis/. Los protocolos para prevenir el contagio del codid-19 regimentaron los discursos, con poca variación entre sí. Los diputados entraron al salón a votar en grupos de cincuenta. 
 
 # FOOTNOTES
 
