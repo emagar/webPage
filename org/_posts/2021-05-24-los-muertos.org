@@ -1,0 +1,36 @@
+#+STARTUP: showall
+#+OPTIONS: toc:nil
+# # will change captions to Spanish, see https://lists.gnu.org/archive/html/emacs-orgmode/2010-03/msg00879.html
+#+LANGUAGE: es 
+#+begin_src yaml :exports results :results value html
+  ---
+  layout: single
+  # layout: splash
+  classes: wide
+  title: Alcaldes que fallecieron en el cargo
+  # subtitle: 
+  author: eric.magar
+  date:   2021-05-24
+  # last_modified_at: 2020-07-02
+  toc: false
+  mathjax: true
+  # teaser: /assets/img/pirinola.jpg
+  tags: 
+    - reelección consecutiva
+    - elección intermedia 2021
+    - ambición estática
+  hidden: false
+  ---
+#+end_src
+#+results:
+
+Desde el año 2000 han fallecido por lo menos 127 alcaldes en el cargo. La cifra es probablemente mayor ya que la búsqueda no fue sistemática (se buscaron registros en prensa solamente, agradezco a Eugenio Solís Flores por asistir esta investigación). A pesar de no ser exhaustivos, los datos arrojan patrones interesantes (y descncertantes). 
+
+
+# #+CAPTION: Del sitio web de reforma.com, 2-abr-2021
+# #+NAME:   fig:1
+# [[file:../assets/img/toledo-renom-2021-04-02.png]] 
+
+
+
+# Foto del reforma con PT-Toledo. 
