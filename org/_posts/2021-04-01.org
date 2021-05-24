@@ -1,0 +1,42 @@
+#+STARTUP: showall
+#+OPTIONS: toc:nil
+# # will change captions to Spanish, see https://lists.gnu.org/archive/html/emacs-orgmode/2010-03/msg00879.html
+#+LANGUAGE: es 
+#+begin_src yaml :exports results :results value html
+  ---
+  layout: single
+  # layout: splash
+  classes: wide
+  title: Partidos v ocupantes
+  # subtitle: 
+  author: eric.magar
+  date:   2021-04-02
+  # last_modified_at: 2020-07-02
+  toc: false
+  mathjax: true
+  # teaser: /assets/img/pirinola.jpg
+  tags: 
+    - reelección consecutiva
+    - elección intermedia 2021
+    - ambición estática
+  ---
+#+end_src
+#+results:
+
+
+En nuestro entorno electoral sobrerregulado
+
+Volver a permitir la reelección consecutiva en 2014
+
+En 2014, cuando volvimos a permitir la reelección consecutiva, varias voces prominentes se alzaron para advertir que es poco el cupo para esperar que cambiará gran cosa. Los partidos mantuvieron el control de las nominaciones y las campañas, en demérito de la independencia que se asocia con la ambición reeleccionista. Por ejemplo, en lo que podríamos llamar la cláusula partidista, Merino Zarkin vieron [una cita de ellos]. Y es cierto que habría sido muy preferible una reelección sin restricciones de este tipo. Sin embargo, habrá que ver sistemáticamente las renominaciones y las elecciones municipales y legislativas venideras para detrminar si no hay fuerzas contrarias que dificultarán el control de la jerarquía partidista.
+
+Argumento: quitas al campeón bajo tu propio riesgo.
+
+
+#+CAPTION: Del sitio web de reforma.com, 2-abr-2021
+#+NAME:   fig:1
+[[file:../assets/img/toledo-renom-2021-04-02.png]] 
+
+
+
+Foto del reforma con PT-Toledo. 

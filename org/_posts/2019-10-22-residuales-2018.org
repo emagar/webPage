@@ -11,7 +11,7 @@
   # subtitle: 
   author: eric.magar
   date:   2019-10-22
-  last_modified_at: 2019-11-05
+  last_modified_at: 2020-10-05
   toc: false
   mathjax: true
   # teaser: /assets/img/pirinola.jpg
@@ -27,7 +27,7 @@
 
 (English version [[https://emagar.github.io/residuales-2018-english/][here]].)
 
-El propósito de esta nota es presentar, discutir y distribuir estadísticas (disponibles [[https://github.com/emagar/mxDistritos][aquí]]) del desempeño electoral de los partidos en la época competitiva. Elaboro dos cantidades de interés: el *pronóstico de voto* con base en la historia electoral y el *núcleo de apoyo* de los partidos. El procedimiento que describo más abajo permite obtener medidas resumen del pasado reciente en unidades territoriales relativamente pequeñas, los municipios ($N \approx 2500$) y las secciones electorales ($N \approx 66000$) del país. Aplico la metodología a cuatro elecciones de diputados federales entre 2009 y 2018 (próximamente lo haré con resultados de elecciones de ayutamientos), echando mano de resultados desde 1994 como insumo histórico.
+El propósito de esta nota es presentar, discutir y distribuir estadísticas (disponibles [[https://github.com/emagar/mxDistritos][aquí]]) del desempeño electoral de los partidos en la época competitiva. Elaboro dos cantidades de interés: el *pronóstico de voto* con base en la historia electoral y el *núcleo de apoyo* de los partidos. El procedimiento que describo a continuación permite obtener medidas resumen del pasado reciente en unidades territoriales relativamente pequeñas, los municipios ($N \approx 2,500$) y las secciones electorales ($N \approx 66,000$) del país. Aplico la metodología a cuatro elecciones de diputados federales entre 2009 y 2018 (próximamente lo haré con resultados de elecciones de ayutamientos), echando mano de resultados desde 1994 como insumo histórico.
 
 La nota empieza mostrando los estadísticos en acción. Esto permite ver su enorme potencial descriptivo y analítico. Al resumir la historia electoral reciente y su geografía, los estadísticos ofrecen una mirada panorámica a un aspecto fundamental de la política mexicana contemporánea. 
 
