@@ -11,7 +11,8 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "defau
 
 # Site Settings
 locale                   : "es-MX" # "en-US"
-title                    : "El blog de CiPol" # "Dilemas" "Democracia en México" "Blog de elecciones" "VotosVetos" "Blog de elección pública"
+#title                    : "El blog de CiPol" # "Dilemas" "Democracia en México" "Blog de elecciones" "VotosVetos" "Blog de elección pública"
+title                    : "/emagar/, blog" # "Dilemas" "Democracia en México" "Blog de elecciones" "VotosVetos" "Blog de elección pública"
 title_separator          : "|"
 
 name                     : "Eric Magar"
