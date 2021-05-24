@@ -11,6 +11,7 @@
   date:   2019-03-26
   last_modified_at: 2019-03-26
   toc: false
+  hidden: true
   # teaser: /assets/img/pirinola.jpg
   #tags: 
   #  - elecciones
