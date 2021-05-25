@@ -9,7 +9,7 @@
   subtitle: 
   author: eric.magar
   date:   2018-09-16
-  last_modified_at: 2019-03-01 
+  last_modified_at: 2021-05-25 
   tags: 
     - elecciones 
     - reelección
@@ -34,5 +34,59 @@ Para ser senador, pidió licencia como alcalde. Y luego pidió licencia como sen
 [[https://www.mientrastantoenmexico.mx/alcalde-de-campeche-se-envia-una-carta-a-si-mismo-tras-resultar-reelecto/][file:../assets/img/alcaldesedirigeasimismo.jpg]]
 
 La nota aparece [[https://www.mientrastantoenmexico.mx/alcalde-de-campeche-se-envia-una-carta-a-si-mismo-tras-resultar-reelecto/][aquí]] (de donde también saqué la foto del oficio). 
+
+- Ambición estática con /single-term limit/: la vía dinástica
+
+(Este artículo apareció en /La Jornada/, puede leerse [[https://www.jornada.com.mx/2009/12/18/estados/028n1est][aquí]]. Lo transcribo por si se rompiera el enlace.)
+
+*En NL, cacicazgos y corrupción al amparo de relecciones disfrazadas*
+
+por David Carrizales
+Corresponsal
+
+Periódico /La Jornada/
+Viernes 18 de diciembre de 2009, p. 28
+
+Monterrey, NL, 17 de diciembre. Desde muchos años antes de que el presidente Felipe Calderón Hinojosa planteara la relección de alcaldes, políticos nuevoleoneses han burlado el precepto constitucional al pasar de un municipio a otro en periodos consecutivos, amparándose en la ambigüedad de las leyes y en resoluciones incongruentes o contradictorias de los organismos electorales. En un alarde de caciquismo, otros optan por heredar el poder o ejercerlo a través de esposas, hijos, hermanos y demás parientes.
+
+El panista Jesús María Elizondo González fue alcalde de Ciudad Guadalupe de 1994 a 1997 y en el periodo siguiente (1997-2000) lo fue de Monterrey. Es uno de los funcionarios más cuestionados por presuntos actos de corrupción. Abarrotero de oficio, en medios periodísticos se documentó que llegó a estar a punto del embargo por una deuda cercana a 10 millones de pesos, pero al llegar al gobierno pagó y se enriqueció en sólo seis años, compró dos terrenos al contado y construyó un edificio de departamentos.
+
+En 1997 pidió licencia al cabildo para dejar la alcaldía de Guadalupe del primero de abril al 13 de julio de 1997, a fin de contender por la presidencia municipal de Monterrey. Apenas obtuvo la victoria regresó a Guadalupe para ejercer el cargo los tres meses que le faltaban. Así, el 31 de octubre, el mismo día que entregó la administración guadalupense recibió la de la capital del estado.
+
+El Tribunal Estatal Electoral (TEE) desechó el recurso presentado por el Partido Revolucionario Institucional (PRI), que alegaba que Elizondo era inelegible por violar los artículos 115 de la Constitución de la República, 124 de la Constitución estatal y 9 de la Ley Estatal Electoral, que impiden la relección de alcaldes, síndicos y regidores.
+
+El TEE argumentó que se trataba de municipios diferentes y expuso: Si bien es cierto que el artículo 122 de la Constitución local señala el requisito de residencia en el área metropolitana, no podemos establecer que exista una limitante para que los ciudadanos del área metropolitana ocupen un cargo o puesto en un municipio primero y posteriormente en otro municipio, pues no existe prohibición expresa.
+
+/Visto bueno del TEPJF/
+
+Con ese criterio, cualquier alcalde hubiera estado en condiciones de gobernar los ocho municipios metropolitanos o alternarse en por lo menos dos de ellos indefinidamente. El 9 de octubre de 1997, el Tribunal Electoral del Poder Judicial de la Federación (TEPJF), por unanimidad de votos, ratificó el fallo del TEE y ni siquiera entró al fondo del juicio de revisión constitucional presentado por el PRI, alegando que la elección de Elizondo fue impugnada el 15 de julio de 1997, cuando era improcedente hacerlo, porque el proceso había sido declarado válido un día después.
+
+El 21 de marzo de 2000, con las elecciones de julio en puerta, la sala superior del TEPJF resolvió por unanimidad en favor de un juicio de inconstitucionalidad promovido por el Partido Acción Nacional (PAN) contra la resolución del TEE que permitía a cualquier ciudadano de la zona metropolitana postularse para la alcaldía de alguno de los ocho municipios que la forman con sólo comprobar su residencia en alguno de ellos.
+
+Jesús Chuy Hinojosa Tijerina, otro panista que fue alcalde de San Nicolás de los Garza entre 1976 y 1979 y ocupó el mismo cargo en el trienio 1991-1994, pasó a Monterrey en el periodo inmediato 1994-1997. El partido Auténtico de la Revolución Mexicana (PARM) pidió que se le declarara inelegible.
+
+El TEE declaró improcedente el recurso de reconsideración porque, argumentó, las resoluciones de la sala de segunda instancia, que había reconocido la validez de la elección de Hinojosa Tijerina, eran definitivas e inatacables.
+
+/Negocios familiares y dinastías alternadas/
+
+En una demostración de la fuerza política del clan de los Hinojosa, al tiempo que Hinojosa culminaba su gestión como alcalde de Monterrey, el 31 de octubre de 1997, su hijo, Jorge Luis Hinojosa Moreno, debutaba como presidente municipal de San Nicolás (1997-2000).
+
+Otros políticos que se han aferrado al poder y gobernado dos veces sus municipios son los priístas Raymundo Flores Elizondo, de Apodaca, y Abel Guerra, de Escobedo; los panistas Fernando Margáin y Mauricio Fernández, en San Pedro Garza García, además de Fernando Larrazábal, que después de gobernar San Nicolás de los Garza (2000-2003) ahora encabeza la administración de Monterrey.
+
+Pero los casos más escandalosos se observan en los municipios rurales, donde algunas familias acaparan los gobiernos hasta por décadas y traspasan las alcaldías a esposos, hijos o padres.
+
+En Bustamante, el panista Jorge Santos Gutiérrez (1997-2000), famoso porque retiró de la plaza principal un busto de Benito Juárez para colocar en su lugar una estatua de San Miguel Arcángel, heredó la alcaldía a su esposa, Norma Yolanda Robles (2000-2003).
+
+En Pesquería, Crescencio Oliveira Cantú, ha sido alcalde cuatro veces en 24 años, tres por el PRI y la última (2006-2009) por el Partido de la Revolución Democrática (PRD). Dos de sus primos y dos de sus cuñados también fueron presidentes municipales. En los comicios de julio pasado se rompió la racha, pues su esposa, Laura Esthela Treviño, que contendió por Nueva Alianza (Panal), perdió ante el PRI por 20 votos.
+
+En Doctor Arroyo, el priísta Juan Paredes Gloria, que ha gobernado el municipio dos veces, buscó en julio pasado volver al cargo, pero perdió ante el PAN y no pudo recibir la administración de manos de su yerno, Juan Francisco Espinosa Eguía.
+
+Abasolo es otro municipio donde los cargos públicos quedan en familia. En 2003 el priísta David Milán Ramos entregó la alcaldía a su hijo David Milán Rivera, de 22 años. En julio pasado, Milán Ramos, ahora del Panal, quiso volver a la presidencia municipal, pero perdió ante el priísta Enrique Villarreal Gutiérrez, quien ya había sido alcalde (1994-1997), y el 31 de octubre recibió la presidencia municipal de manos de su hijo, Jaime Villarreal Ramírez (2006-2009). Villarreal Gutiérrez contendió sin éxito en 2003, postulado por el Partido del Trabajo.
+
+En General Zuazua, el 5 de julio, el alcalde panista, Roberto Montemayor, fracasó en su intento de traspasarle el gobierno a su esposa, Elvira Fernández Morín, postulada por el blanquiazul. Ganó el PRI.
+
+En General Bravo, la priísta María Guadalupe Guajardo (2000-2003), que antecedió a su cónyuge Adolfo Cantú (2003-2006), no pudo volver a la alcaldía porque perdió ante el PAN.
+
+En Cadereyta, los hermanos José y Francisco Lozano Fernández gobernaron la ciudad durante el sexenio 2000-2006 y el panista Edelmiro Cantú Sada estuvo al frente de ese municipio en los periodos 1994-1997 y 2006-2009.
 
 

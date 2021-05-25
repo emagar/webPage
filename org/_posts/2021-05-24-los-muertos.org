@@ -24,7 +24,9 @@
 #+end_src
 #+results:
 
-Desde el año 2000 han fallecido por lo menos 127 alcaldes en el cargo. La cifra es probablemente mayor ya que la búsqueda no fue sistemática (se buscaron registros en prensa solamente, agradezco a Eugenio Solís Flores por asistir esta investigación). A pesar de no ser exhaustivos, los datos arrojan patrones interesantes (y descncertantes). 
+Desde el año 2000 han fallecido por lo menos 127 alcaldes en el cargo. La cifra es probablemente mayor. La búsqueda no ha sido sistemática, sólo buscamos registros en prensa solamente (agradezco a Eugenio Solís Flores por asistir esta investigación). A pesar de no ser exhaustivos, los datos arrojan patrones interesantes (y desconcertantes). 
+
+
 
 
 # #+CAPTION: Del sitio web de reforma.com, 2-abr-2021
