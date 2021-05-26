@@ -10,29 +10,202 @@
   title: Alcaldes que fallecieron en el cargo
   # subtitle: 
   author: eric.magar
-  date:   2021-05-24
-  # last_modified_at: 2020-07-02
+  date:   2021-05-25
+  last_modified_at: 2021-05-26
   toc: false
   mathjax: true
   # teaser: /assets/img/pirinola.jpg
   tags: 
-    - reelección consecutiva
-    - elección intermedia 2021
-    - ambición estática
+    - alcaldes
+    - asesinatos
+    - covid-19
   hidden: false
   ---
 #+end_src
 #+results:
 
-Desde el año 2000 han fallecido por lo menos 127 alcaldes en el cargo. La cifra es probablemente mayor. La búsqueda no ha sido sistemática, sólo buscamos registros en prensa solamente (agradezco a Eugenio Solís Flores por asistir esta investigación). A pesar de no ser exhaustivos, los datos arrojan patrones interesantes (y desconcertantes). 
+Desde el año 2000 han fallecido por lo menos 128 alcaldes en el cargo. Posible y probable es que la cifra sea mayor, porque no rastreé municipios de manera sistemática, solo busqué registros en prensa (agradezco a Eugenio Solís Flores por asistir esta investigación). A pesar de no ser exhaustivos, los patrones resaltan dos rasgos muy desconcertantes.
 
+(Los datos excluyen candidatos a alcalde fallecidos---que también son numerosos. Ésa es otra investigación, aún pendiente.)
 
+#+CAPTION: Causas de muerte de alcaldes desde 2000. Fuente: investigación propia
+#+NAME:   tab:1
+| Causa               |   N |   % |
+|---------------------+-----+-----|
+| Asesinato           |  68 |  54 |
+| Enfermedad (covid)  |  27 |  21 |
+| Enfermedad (otra)   |  17 |  13 |
+| Accidente aéreo     |   2 |   2 |
+| Accidente carretero |   9 |   7 |
+| Otras causas        |   4 |   3 |
+|---------------------+-----+-----|
+| Total               | 128 | 100 |
 
+La moda de la distribución de causas de muerte, con más de la mitad de los efectivos, fue el homicidio. Un horror. Un total de 68 alcaldes en los registros (ubicados [[https://github.com/emagar/elecRetrns/blob/master/data/aymu1989-present.incumbents.csv][aquí]]) fueron asesinados en el desempeño de su cargo. Como es de esperar, el asesinato de alcaldes ha tenido una tendencia temporal al alza. La mayor presencia del crimen organizado ante gobiernos municipales ha cobrado demasiadas vidas, particularmente en los estados de Michoacán, Veracruz, Oaxaca, Puebla, México y Guerrero. 
 
-# #+CAPTION: Del sitio web de reforma.com, 2-abr-2021
-# #+NAME:   fig:1
-# [[file:../assets/img/toledo-renom-2021-04-02.png]] 
+#+CAPTION: Distribución anual de alcaldes asesinados
+#+NAME:   tab:2
+|  Año | Frecuencia |   | Estado          | Frecuencia |
+|------+------------+---+-----------------+------------|
+| 2000 |          0 |   | Michoacán       |         14 |
+| 2001 |          0 |   | Veracruz        |         14 |
+| 2002 |          0 |   | Oaxaca          |         13 |
+| 2003 |          0 |   | Puebla          |         12 |
+| 2004 |          0 |   | México          |         10 |
+| 2005 |          1 |   | Guerrero        |          8 |
+| 2006 |          3 |   | Chihuahua       |          5 |
+| 2007 |          0 |   | Nuevo León      |          5 |
+| 2008 |          3 |   | Zacatecas       |          5 |
+| 2009 |          2 |   | Hidalgo         |          4 |
+| 2010 |         12 |   | Jalisco         |          4 |
+| 2011 |          3 |   | San Luis Potosí |          4 |
+| 2012 |          1 |   | Tlaxcala        |          4 |
+| 2013 |          5 |   | Yucatán         |          4 |
+| 2014 |          2 |   | Coahuila        |          3 |
+| 2015 |          1 |   | Chiapas         |          3 |
+| 2016 |          7 |   | Nayarit         |          3 |
+| 2017 |          8 |   | Tamaulipas      |          3 |
+| 2018 |         12 |   | Durango         |          2 |
+| 2019 |          7 |   | Sinaloa         |          2 |
+| 2020 |          2 |   | Aguascalientes  |          1 |
+| 2021 |          3 |   | Colima          |          1 |
+|      |            |   | Guanajuato      |          1 |
+|      |            |   | Morelos         |          1 |
+|      |            |   | Sonora          |          1 |
+|      |            |   | Tabasco         |          1 |
 
+Excluyo de la cuenta a ex-alcaldes asesinados. Algunos seguían activos en la política del municipio, como fue el caso de [[https://www.alcalorpolitico.com/informacion/dan-ultimo-adios-a-rafael-pacheco-molina-en-paso-del-macho-305585.html#.YK3cV3VKiV5][Rafael Pacheco Molina]] de Paso del Macho, Ver., asesinado a balazos en diciembre 2019.
 
+Las muertes por problemas de salud ocupan el segundo lugar, representan una tercera parte de los casos. La covid, por sí sola, se ha llevado a 27 alcaldes de México en el último año.
 
-# Foto del reforma con PT-Toledo. 
+La lista de alcaldes fallecidos aparece a continuación.
+
+|      fecha | municipio                     | estado          | nombre                                  | postulado                   | causa       |
+|------------+-------------------------------+-----------------+-----------------------------------------+-----------------------------+-------------|
+| 2002-03-15 | Pesquería                     | Nuevo León      | OSCAR ZUÑIGA QUIROZ                     | pri                         | carretera   |
+| 2003-07-28 | Motul                         | Yucatán         | CARLOS FILEMON KUK Y CAN                | pan-prd                     | carretera   |
+| 2004-02-14 | Contla de Juan Cuamatzi       | Tlaxcala        | CECILIO AMADOR CUAHUTLE                 | pri                         | carretera   |
+| 2004-02-14 | Santa Cruz Quilehtla          | Tlaxcala        | PEDRO ROJAS PEREZ                       | pt                          | carretera   |
+| 2005-07-09 | Buenavista                    | Michoacán       | FERNANDO CHAVEZ LOPEZ                   | pri-pvem                    | asesinado   |
+| 2006-01-14 | Ciudad Ixtepec                | Oaxaca          | NEGUIB TADEO MANRIQUE MADARIAGA         | pri                         | asesinado   |
+| 2006-07-16 | Cuautitlán de García Barragán | Jalisco         | RAUL DELGADO BENAVIDES                  | pan                         | asesinado   |
+| 2006-11-16 | Huimanguillo                  | Tabasco         | WALTER HERRERA RAMIREZ                  | prd                         | asesinado   |
+| 2007-07-20 | Mier                          | Tamaulipas      | MARIA DELIA GARZA GUTIERREZ             | pri                         | salud       |
+| 2008-06-03 | Madero                        | Michoacán       | MARCELO IBARRA VILLA                    | pri                         | asesinado   |
+| 2008-09-26 | Ayutla de los Libres          | Guerrero        | HOMERO LORENZO RIOS                     | prd                         | asesinado   |
+| 2008-10-06 | Ixtapan de la Sal             | México          | SALVADOR CHRISTOPHER VERGARA CRUZ       | pri-pvem                    | asesinado   |
+| 2009-02-25 | Piedad--La                    | Michoacán       | OCTAVIO MANUEL CARRILLO CASTELLANOS     | pri                         | asesinado   |
+| 2009-07-15 | Guadalupe                     | Chihuahua       | HECTOR ARIEL MEIXUEIRO MUÑOZ            | pri-pna                     | asesinado   |
+| 2010-01-10 | Temoac                        | Morelos         | ABRAHAM ORTIZ ROSALES                   | pvem                        | asesinado   |
+| 2010-02-18 | Guadalupe y Calvo             | Chihuahua       | RAMON MENDIVIL SOTELO                   | pri-pna                     | asesinado   |
+| 2010-02-23 | Mezquital                     | Durango         | MANUEL ESTRADA ESCALANTE                | pri-pna                     | asesinado   |
+| 2010-04-28 | Zapotitlán Tablas             | Guerrero        | JOSE SANTIAGO AUGUSTINO                 | pri                         | asesinado   |
+| 2010-06-20 | Namiquipa                     | Chihuahua       | JESUS MANUEL LARA RODRIGUEZ             | pri-pna                     | asesinado   |
+| 2010-06-21 | San José Estancia Grande      | Oaxaca          | OSCAR VENANCIO MARTINEZ RIVERA          | pri                         | asesinado   |
+| 2010-07-07 | Juárez                        | Coahuila        | JOSE MANUEL MALDONADO                   | pri-pna                     | avionazo    |
+| 2010-07-25 | Santiago                      | Nuevo León      | ROGELIO ALEJANDRO PEREZ ARRAMBIDE       | pri-pvem-pd1-cc1            | salud       |
+| 2010-08-18 | Mier y Noriega                | Nuevo León      | EDELMIRO CAVAZOS LEAL                   | pan                         | asesinado   |
+| 2010-08-28 | San Fernando                  | Tamaulipas      | MARCO ANTONIO LEAL GARCIA               | pri-pna                     | asesinado   |
+| 2010-09-08 | Naranjo--El                   | San Luis Potosí | ALEXANDER LOPEZ GARCIA                  | pri-pvem                    | asesinado   |
+| 2010-09-23 | Doctor González               | Nuevo León      | PRISCILIANO RODRIGUEZ SALINAS           | pri-pvem-pd1-cc1            | asesinado   |
+| 2010-11-06 | San Bernardo                  | Durango         | JAIME LOZOYA AVILA                      | pan-prd-conve               | asesinado   |
+| 2010-11-08 | Aquila                        | Veracruz        | GREGORIO BARRADAS MIRAVETE              | pan-pna                     | asesinado   |
+| 2011-01-08 | Piedras Negras                | Coahuila        | SAUL VARA RIVERA                        | pri-pvem-pna-psd1           | asesinado   |
+| 2011-07-28 | Benito Juárez                 | Zacatecas       | FORTINO CORTES SANDOVAL                 | pri-pvem-pna                | asesinado   |
+| 2011-11-02 | Vista Hermosa                 | Michoacán       | RICARDO GUZMAN ROMERO                   | pan                         | asesinado   |
+| 2012-08-12 | Matehuala                     | San Luis Potosí | EDGAR MORALES PEREZ                     | pri-pvem                    | asesinado   |
+| 2012-11-29 | Buenavista                    | Michoacán       | IGNACIO RODRIGUEZ VILLA                 | pri-pvem                    | salud       |
+| 2013-01-06 | Heroica Ciudad de Tlaxiaco    | Oaxaca          | FELIX SAN JUAN REBOLLAR                 | pan-prd-pt-conve            | ?           |
+| 2013-02-07 | Temósachic                    | Chihuahua       | LEOBARDO DIAZ ESTRADA                   | pri-pvem-pna                | carretera   |
+| 2013-02-11 | Atzacan                       | Veracruz        | ELIUD ALBERTO CERVANTES RAMIREZ         | pri-pvem-prv                | salud       |
+| 2013-04-14 | Coetzala                      | Veracruz        | JOEL ALEJANDRO CEBADA BERNAL            | pan                         | salud       |
+| 2013-04-19 | Acteopan                      | Puebla          | JOSE RENE GARRIDO ROCHA                 | pri-pvem                    | asesinado   |
+| 2013-07-22 | Catemaco                      | Veracruz        | GERONIMO MANUEL GARCIA ROSAS            | pri-pvem-prv                | asesinado   |
+| 2013-08-16 | Tepetongo                     | Zacatecas       | ERNESTO RODRIGUEZ RODRIGUEZ             | pan                         | salud       |
+| 2013-09-11 | San Baltazar Chichicápam      | Oaxaca          | EVERARDO HUGO HERNANDEZ GUZMAN          | pan-prd-pt                  | asesinado   |
+| 2013-09-30 | Villanueva                    | Zacatecas       | FILIMON CARLOS ROBLES                   | pri                         | suicidio    |
+| 2013-11-09 | Aquila                        | Michoacán       | IGNACIO LOPEZ MENDOZA                   | pt                          | asesinado   |
+| 2014-02-10 | Juchipila                     | Zacatecas       | JUAN ANGEL CASTAÑEDA LIZARDO            | pan-prd                     | carretera   |
+| 2014-03-23 | Nahuatzen                     | Michoacán       | GUSTAVO GARIBAY GARCIA                  | pan-pna                     | asesinado   |
+| 2014-08-03 | Ayutla                        | Jalisco         | MANUEL GOMEZ TORRES                     | pan                         | asesinado   |
+| 2015-06-19 | Tlapa de Comonfort            | Guerrero        | SADOT BELLO GARCIA                      | pri-pvem                    | salud       |
+| 2015-06-22 | Jerécuaro                     | Guanajuato      | ROGELIO SANCHEZ GALAN                   | pvem                        | asesinado   |
+| 2015-07-09 | Cochoapa el Grande            | Guerrero        | JAVIER MORALES PRIETO                   | pri-pvem                    | salud       |
+| 2016-01-02 | Temixco                       | Morelos         | GISELA RAQUEL MOTA OCAMPO               | prd                         | asesinada   |
+| 2016-04-22 | Cuautitlán                    | México          | JUAN ANTONIO MAYEN SAUCEDO              | pan                         | asesinado   |
+| 2016-07-23 | Bochil                        | Chiapas         | DOMINGO LOPEZ GONZALEZ                  | pvem                        | asesinado   |
+| 2016-07-25 | Copala                        | Guerrero        | AMBROSIO SOTO DUARTE                    | prd-pt                      | asesinado   |
+| 2016-08-02 | San Salvador el Verde         | Puebla          | JOSE SANTAMARIA ZAVALA                  | mc                          | asesinado   |
+| 2016-09-20 | Concordia                     | Sinaloa         | ALFREDO VISCARRA DIAZ                   | pan-prd-pt                  | salud       |
+| 2016-12-17 | Ocotlán de Morelos            | Oaxaca          | JOSE VILLANUEVA RODRIGUEZ               | pan-prd-pt                  | asesinado   |
+| 2017-01-24 | Cohetzala                     | Puebla          | ANTOLINI VITAL MARTINEZ                 | pri-pvem                    | asesinado   |
+| 2017-03-05 | Coyotepec                     | México          | MARTHA ELVIA FERNANDEZ SANCHEZ          | pri-pvem-pna                | salud       |
+| 2017-03-25 | Jaltenco                      | México          | FERNANDO ALVARO GOMEZ                   | pan-pt                      | salud       |
+| 2017-08-20 | Hidalgotitlán                 | Veracruz        | HUGO CASTRO ROSADO                      | pan-prd                     | salud       |
+| 2017-08-26 | Ocampo                        | Michoacán       | EDGAR GIL YOGUEZ                        | prd-pt-ph                   | ?           |
+| 2017-10-06 | Santa Ana Maya                | Michoacán       | STALIN SANCHEZ GONZALEZ                 | prd-pt                      | asesinado   |
+| 2017-10-10 | Huitzilan de Serdán           | Puebla          | MANUEL HERNANDEZ PASION                 | pri-pvem                    | asesinado   |
+| 2017-10-20 | Ixtlahuacán                   | Colima          | CRISPIN GUTIERREZ MORENO                | pri                         | asesinado   |
+| 2017-11-20 | Juan Rodríguez Clara          | Veracruz        | SANTANA CRUZ BAHENA                     | pna                         | asesinado   |
+| 2017-11-25 | Nogales                       | Veracruz        | VICTOR MANUEL ESPINOSA TOLENTINO        | pri-pvem-pna                | asesinado   |
+| 2017-12-18 | Chamula                       | Chiapas         | SERGIO ANTONIO ZENTENO ALBORES          | pri                         | asesinado   |
+| 2017-12-29 | Coyuca de Catalán             | Guerrero        | ARTURO GOMEZ PEREZ                      | prd-pt                      | asesinado   |
+| 2018-01-29 | Tlanepantla                   | Puebla          | SALVADOR AGUILAR GARCIA                 | pri-pvem                    | carretera   |
+| 2018-04-12 | Naupan                        | Puebla          | JOSE EFRAIN GARCIA GARCIA               | pt                          | asesinado   |
+| 2018-04-15 | Jilotlán de los Dolores       | Jalisco         | JUAN CARLOS ANDRADE MAGAÑA              | mc                          | asesinado   |
+| 2018-05-03 | Pacula                        | Hidalgo         | ALEJANDRO GONZALEZ RAMOS                | pan                         | asesinado   |
+| 2018-05-08 | Petatlán                      | Guerrero        | ABEL MONTUFAR MENDOZA                   | pri-pvem                    | asesinado   |
+| 2018-06-14 | Tanhuato                      | Michoacán       | ALEJANDRO CHAVEZ ZAVALA                 | pan                         | asesinado   |
+| 2018-07-02 | Tecalitlán                    | Jalisco         | VICTOR JOSE GUADALUPE DIAZ CONTRERAS    | pri                         | asesinado   |
+| 2018-07-05 | Huehuetlán el Grande          | Puebla          | GENARO NEGRETE URBANO                   | pri-pvem                    | asesinado   |
+| 2018-07-13 | Hidalgo                       | Tamaulipas      | ROBERTO GUSTAVO GONZALEZ HINOJOSA       | pan                         | asesinado   |
+| 2018-07-20 | Paracho                       | Michoacán       | ELISEO DELGADO SANCHEZ                  | pt-morena                   | asesinado   |
+| 2018-08-11 | Sombrerete                    | Zacatecas       | JORGE LUIS GARCIA VERA                  | pri-pvem-pna                | carretera   |
+| 2018-09-04 | Tepexco                       | Puebla          | FELIX AGUILAR CABALLERO                 | pvem                        | asesinado   |
+| 2018-09-10 | Pungarabato                   | Guerrero        | DANIEL ESTEBAN GONZALEZ                 | pan-prd-mc                  | asesinado   |
+| 2018-09-20 | Matías Romero                 | Oaxaca          | ZOTICO GOMEZ BAUTISTA                   | pt                          | carretera   |
+| 2018-10-30 | San Baltazar Chichicápam      | Oaxaca          | JESUS BERNARDO TORRES GARCIA            | pan-prd                     | salud       |
+| 2018-12-17 | Zaragoza                      | Coahuila        | OLGA GABRIELA KOBEL LARA                | pri-pvem-pna-si-pj1-prc-pcp | asesinado   |
+| 2019-01-01 | San Andrés Cabecera Nueva     | Oaxaca          | ALEJANDRO APARICIO SANTIAGO             | pt-morena-pes               | asesinado   |
+| 2019-04-16 | Ixhuatlán de Madero           | Veracruz        | OSCAR PIMENTEL UGARTE                   | pna                         | asesinado   |
+| 2019-04-23 | Taretan                       | Michoacán       | DAVID EDUARDO OTLICA AVILES             | prd-pvem                    | asesinado   |
+| 2019-04-25 | Antigua--La                   | Veracruz        | MARICELA VALLEJO OREA                   | morena                      | asesinado   |
+| 2019-08-16 | Santiago Suchilquitongo       | Oaxaca          | CARMELA PARRAL SANTOS                   | pri                         | asesinada   |
+| 2019-10-06 | Kantunil                      | Yucatán         | MARIA RAYMUNDA CHE PECH                 | pri-pna                     | salud       |
+| 2019-10-29 | Jilotzingo                    | México          | FRANCISCO FERNANDO TENORIO CONTRERAS    | pt-morena-pes               | asesinado   |
+| 2019-12-23 | Santiago Tetepec              | Oaxaca          | ARTURO GARCIA VELAZQUEZ                 | pt-morena-pes               | asesinado   |
+| 2020-01-04 | Tianguistenco                 | México          | FELIX ALBERTO LINARES GONZALEZ          | pan-prd-mc                  | avionazo    |
+| 2020-02-20 | Tapachula                     | Chiapas         | OSCAR GURRIA PEÑAGOS                    | pt-morena-pes               | salud       |
+| 2020-05-15 | Amaxac de Guerrero            | Tlaxcala        | JOSE ESTEBAN CORTES TORRES              | indep                       | salud-covid |
+| 2020-05-23 | Ocuilan                       | México          | ARMANDO PORTUGUEZ FUENTES               | pan-prd-mc                  | salud       |
+| 2020-06-08 | Tultepec                      | México          | SERGIO ANGUIANO MELENDEZ                | pt-morena-pes               | salud-covid |
+| 2020-06-16 | Bacoachi                      | Sonora          | RIGOBERTO GONZALEZ PACHECO              | pri                         | salud-covid |
+| 2020-06-17 | Acaponeta                     | Nayarit         | JOSE HUMBERTO ARELLANO NUÑEZ            | morena                      | salud-covid |
+| 2020-06-28 | San Felipe Jalapa de Díaz     | Oaxaca          | FLORENCIO SAN GERMAN SANTIAGO           | pt-morena-pes               | salud-covid |
+| 2020-06-28 | Jamapa                        | Veracruz        | GERARDO TIRSO ACAHUA APALE              | pna                         | salud-covid |
+| 2020-07-08 | Santo Domingo                 | San Luis Potosí | JOSUE ANTONIO GARCIA RODRIGUEZ          | pvem                        | salud-covid |
+| 2020-07-09 | Maxcanú                       | Yucatán         | REYNA MARLENE DE LOS ANGELES CATZIN CIH | pri                         | salud-covid |
+| 2020-07-12 | Mazatecochco de Morelos       | Tlaxcala        | FAUSTINO CARIN MOLINA CASTILLO          | pvem                        | salud-covid |
+| 2020-07-16 | San José Estancia Grande      | Oaxaca          | FERNANDO BAUTISTA DAVILA                | pna                         | salud-covid |
+| 2020-07-16 | Miahuatlán                    | Veracruz        | IRMA DELIA BARCENA VILLA                | pan-prd                     | salud-covid |
+| 2020-07-19 | Samahil                       | Yucatán         | RIGOBERTO JAVIER TUN SALAS              | prd                         | salud-covid |
+| 2020-08-09 | Mixtla de Altamirano          | Veracruz        | VICTORIA RASGADO PEREZ                  | morena                      | salud-covid |
+| 2020-08-18 | San Juan Bautista Tuxtepec    | Oaxaca          | ALFREDO JUAREZ DIAZ                     | pt-morena-pes               | salud-covid |
+| 2020-08-24 | General Felipe Ángeles        | Puebla          | MIGUEL ANGEL ANTONIO VAZQUEZ            | pt-morena-pes               | salud-covid |
+| 2020-08-30 | Valle de Chalco Solidaridad   | México          | MAURO MARTINEZ MARTINEZ                 | pri                         | salud-covid |
+| 2020-09-30 | Urique                        | Chihuahua       | CARLOS IGNACIO BELTRAN BENCOMO          | prd                         | asesinado   |
+| 2020-10-03 | Nopalucan                     | Puebla          | HECTOR CARRASCO MARQUEZ                 | pan-prd-mc-pcpp             | salud-covid |
+| 2020-10-05 | Nahuatzen                     | Michoacán       | ROBERTO ARRIAGA COLIN                   | pt-morena                   | salud-covid |
+| 2020-10-07 | Salvador Alvarado             | Sinaloa         | CARLO MARIO ORTIZ SANCHEZ               | pri-pvem-pna                | salud-covid |
+| 2020-10-25 | San Agustín Tlaxiaca          | Hidalgo         | FELIPE DE J. HERNANDEZ GONZALEZ         | pri                         | salud-covid |
+| 2020-10-26 | Tulcingo                      | Puebla          | JUAN MANUEL RODRIGUEZ RODRIGUEZ         | pri                         | salud-covid |
+| 2020-11-09 | Vanegas                       | San Luis Potosí | RUBEN DIAZ ESPINOZA                     | pri                         | salud-covid |
+| 2020-11-11 | Atoyac                        | Veracruz        | FLORISEL RIOS DELFIN                    | pan-prd                     | asesinada   |
+| 2020-12-14 | Aldamas--Los                  | Nuevo León      | JORGE LUIS PEÑA PEÑA                    | pna                         | salud       |
+| 2020-12-17 | Tonanitla                     | México          | JOSE ROSARIO ROMERO LUGO                | pt-morena-pes               | salud-covid |
+| 2021-01-05 | San Francisco de los Romo     | Aguascaliente   | JUAN JOSE LOSOYA PONCE                  | pri                         | salud-covid |
+| 2021-01-05 | Venustiano Carranza           | Michoacán       | JUAN HERNANDEZ RAMIREZ                  | pri-pvem                    | asesinado   |
+| 2021-01-30 | Tasquillo                     | Hidalgo         | MARIA DE JESUS X CHAVEZ                 | pri                         | salud-covid |
+| 2021-02-08 | Moloacán                      | Veracruz        | OCTAVIO MISAEL LORENZO GONZALEZ         | pvem                        | salud-covid |
+| 2021-02-18 | Tezontepec de Aldama          | Hidalgo         | SANTIAGO HERNANDEZ CERON                | pan                         | salud-covid |
+|      c2019 | Venustiano Carranza           | Puebla          | ANDRES PAVON ROSALES                    | pri                         | ?           |
