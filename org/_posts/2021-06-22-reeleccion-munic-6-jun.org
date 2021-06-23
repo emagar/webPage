@@ -1,0 +1,73 @@
+#+STARTUP: showall
+#+OPTIONS: toc:nil
+# # will change captions to Spanish, see https://lists.gnu.org/archive/html/emacs-orgmode/2010-03/msg00879.html
+#+LANGUAGE: es 
+#+begin_src yaml :exports results :results value html
+  ---
+  layout: single
+  # layout: splash
+  classes: wide
+  title: Reelección en los municipios
+  # subtitle: 
+  author: eric.magar
+  date:   2021-06-22
+  last_modified_at: 2021-06-22
+  toc: false
+  mathjax: true
+  # teaser: /assets/img/pirinola.jpg
+  tags: 
+    - presidentes municipales
+    - reelección
+    - México
+  hidden: false
+  ---
+#+end_src
+#+results:
+
+
+/Para apreciar la reelección municipal no basta mirarla desde la superficie. Sumergirse en los resultados revela el interés reeleccionista con más claridad./ 
+
+#+CAPTION: Anuncio de resultados del 6 de junio en mi casilla (donde fui funcionario electoral). Foto propia.
+#+NAME: fig:1
+[[../assets/img/mi-casilla-2021-1.jpeg]]
+
+(Agradezco a Daniela Guzmán Lerma y Sonia Kuri Kosegarten la recopilación de una parte de la información.)
+
+Treinta estados renovaron ayuntamientos municipales de modo concurrente con la elección intermedia pasada. En todos menos tres, los presidentes ocupantes no enfrentaron restricción constitucional para buscar un segundo periodo consecutivo en su gobierno municipal.[fn:1] Describo patrones de renominación y, en su caso, reelección de 1,527 presidentes municipales y sus partidos (hubo 105 resultados preliminares faltantes, incluido el estado de [[https://www.elsoldemexico.com.mx/republica/politica/en-guerrero-falla-de-luz-e-internet-ocasiono-lentitud-de-conteo-en-prep-6818300.html][Guerrero]] en su totalidad). La relación de presidentes interesados en repetir y los desinteresados fue de 55 a 45. 
+
+La figura [[fig:2]] resume la evidencia preliminar. Proviene de los programas de resultados preliminares del INE y, por ello, los cómputos oficiales y sentencias del Tribunal seguramente cambiarán algunos ganadores---si bien suelen ser pocos. La perspectiva de esta exploración es la del partido que defiende el municipio: ¿lo ganó nuevamente? ¿repostuló al ocupante?. Clasifico victorias y derrotas en tres grandes categorías: en tonos de verde los municipios donde el ocupante contendió, en rojos donde no pudo contender por un tercer periodo consecutivo, en azules donde se retiró. La $N$ en el extremo derecho de cada fila reporta el número de municipios que defendió cada partido.
+
+#+CAPTION: Presidentes municipales en la boleta (verdes), impedidos de tercer mandato (rojos) y retirados (azules) en 2021. Fuente: investigación propia con datos del prep del INE. 
+#+NAME:   fig:2
+[[../assets/img/reel-munic2021.png]]
+
+Destaco cuatro patrones que permiten extraer conclusiones.
+
+1. La regularidad del grupo verde intenso de presidentes municipales reelectos. Representaron fielmente alrededor de 20% de cada fila. Las excepciones fueron el PRD hacia abajo, con sólo 12% de presidentes reelectos, y MC hacia arriba, con 25%, aunque ambos defendían pocos municipios. Que en 2021 se reeligiera sólo un presidente municipal por cada cuatro que no repetirán representa una tasa poco impresionante. Pero reevaluaré esta cifra desde otras ópticas. 
+
+2. La suma de los grupos verde claro y oscuro de cada fila identifica todos los alcaldes que contendieron por la reelección consecutiva, incluidos los derrotados. Los tonos verde demostraron tener lo que Schlesinger, en su libro clásico, llamó "ambición estática".[fn:2] Con una variación interpartidista más manifiesta, en el conjunto de los municipios analizados alcanzó 37%. Desde esta óptica, un alcalde quiso reelegirse (aunque en muchos casos fracasara) por cada dos que no. Entre los derrotados, destacan los grupos verdes claro de Morena y de MC, que superan en magnitud al grupo verde oscuro de su fila. Ambos partidos tuvieron un desempeño extraordinario en 2018, Morena por el arrastre impresionante de AMLO en la carrera presidencial, MC por la coalición con el PAN y el PRD. Sin AMLO en la boleta en 2021, o sin coaligarse, muchos de los alcaldes que colocaron en 2018 perdieron competitividad. 
+
+3. El grupo rojo incluye presidentes que, reelectos en 2018, estuvieron impedidos constitucionalmente para competir en 2021 por tercera vez consecutiva (/term limited/, un desafortunado límite de la reelección municipal). Si tomamos en cuenta que este grupo ya demostró su ambición estática hace tres años, lo procedente sería inluirlo con los verdes para obtener un mejor indicador del atractivo de la reelección consecutiva. Es notable que sobrapasa la marca de 50% en todos los casos---inclusive Morena que, por haber llegado tarde al concierto partidista, contaba pocos alcaldes en funciones hace tres años, y controlaba un grupo rojo modesto. A solo tres años de operación de esta institución, más de la mitad de los políticos municipales de México han buscado la reelección consecutiva (55% en el conjunto, que serían más si también contáramos ocupantes derrotados en 2018). Esta cifra ofrece un panorama mucho más optimista de la reforma electoral reeleccionista. 
+
+4. Finalmente, el grupo de azules reporta presidentes que se retiraron de la contienda sin buscar la reelección y dejaron sillas vacías. Sumaron 45% del agregado. Desafortunadamente no conozco la naturaleza del retiro: cuántos ocupantes abandonaron voluntariamente la silla y cuántos fueron orillados a hacerlo tras vetarlos el partido en su aspiración por renominarse. Este dato, difícil de obtener, es fundamental para entender el fenómeno de la reelección---espero poder recopilarlo sistemáticamente en un futuro próximo, en aras de estimar la ventaja del ocupante (/incumbency advantage/, cf. Jacobson y Kernell 1983) que parece discernirse en los casos PAN, PRI y PVEM.[fn:3] Conocerlo también ilumniará el otro desafortunado límite constitucional a la reelección consecutiva en México---la total discreción que conservaron los partidos para negarle la renominación a cualquiera de sus ocupantes.
+
+# Es interesante también notar como PAN, PRI y PVEM tuvieron más éxitos que fracasos con ocupantes en la boletael grupo verde oscuro fue sustancialmente más grande que el verde claro. Quienes aspiraron a la reelección contaron tuvieron hubo un diferencial imoirtante en favor del éxito en busca de la reelección consecutiva. Más adelante esbozo u modelo multivariado que intenta detectar evidencia de una ventaja del ocupante. Los aspirantes reelectos (verde oscuro) del PAN, el PRI y el PVEM superaron por un buen margen a los desairados (verde claro). Incumbency advantage. Es tentador interpretar este dato como ventaja del ocupante 
+
+# El contexto electoral mexicano se compone de tres décadas de erosión de la lealtad del voto priista. Tranformada en creciente deslealtad generalizada, y no en una realineación hacia otro partido (Moreno 2009).[fn:4] , eslealtad que no   que fueron calzada de un solo sentido de la lealtad hacia la deslealtad partidista del votante, la reelección promete poder reciclar coaliciones electorales por dos periodos. En vez de tener que reconstruir la coalición from scratch. Díaz Cayeros, Estévez y Magaloni (2016)
+
+En un contexto donde treinta años de erosión de la hegemonía priista fueron mucho menos recomposición de lealtades partidistas que generalización de la deslealtad y el oportunismo entre votantes (Moreno 2009),[fn:4] la reelección consecutiva promete restituir una dosis de estabilidad a las coaliciones electorales. La intuición indica que es más efectivo volver a comprar el voto retrospectivo de la misma coalición de oportunistas que te eligió, que volver a empezar una coalición electoral desde casi cero (Díaz Cayeros, Estévez y Magaloni 2016).[fn:5] Esto amerita reabrir el debate reeleccionista para remover las dos limitaciones desafortunadas a la reelección en México. 
+
+# Habrá que revisar la institución para quitarle las dos liminationes a la reelección municipal---permitir un número indefinido de mandatos consecutivos y quitar el candado partidista de las nominaciones. 
+
+
+[fn:1] Durango e Hidalgo no eligieron alcaldes. Nayarit, Tlaxcala y Veracruz inaugurarán la reelección consecutiva de gobernantes municipales en 2024. El único estado cuya constitución seguirá proscribiendo la reelección municipal es Hidalgo.
+
+[fn:2] Joseph A. Schlesinger /Ambition and Politics: Political Careers in the United States/ (Chicago, Rand McNally, 1966). 
+
+[fn:3] Gary C. Jacobson y Samuel Kernell /Strategy and Choice in Congressional Elections/ (New Haven, Yale University Press, 1983).
+
+[fn:4] Alejandro Moreno /La decisión electoral: votantes, partidos y democracia en México/ (México DF, Porrúa, 2009). 
+
+[fn:5] 	Alberto Díaz Cayeros, Federico Estévez y Beatriz Magaloni /The Political Logic of Poverty Relief: Electoral Strategies and Social Policy in Mexico/ (Nueva York, Cambridge University Press, 2016). 
+
+

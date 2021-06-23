@@ -77,7 +77,7 @@ La cuenta excluye ex-alcaldes asesinados. Algunos seguían activos en la políti
 
 Los problemas de salud ocupan el segundo lugar en frecuencias, representan una tercera parte de los casos. La covid-19, por sí sola, se ha llevado a 26 alcaldes de México en el último año, alrededor de 1 por cada 100 presidentes en el país. A esta cifra habría que añadirle el número de síndicos y regidores municipales que también perdieron la vida, que no fueron parte de la búsqueda. Una merma sustancial a los gobiernos de México.
 
-La lista de alcaldes fallecidos aparece a continuación.
+La lista de alcaldes fallecidos aparece a continuación. (Si encontrara un error u omisión, agradeceré un [[mailto:emagar@itam.mx][email]] para corregirlo ☻)
 
 |      fecha | municipio                          | estado          | nombre                                  | postulado                   | causa       |
 |------------+------------------------------------+-----------------+-----------------------------------------+-----------------------------+-------------|

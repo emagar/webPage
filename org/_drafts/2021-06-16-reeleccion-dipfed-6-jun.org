@@ -1,0 +1,178 @@
+#+STARTUP: showall
+#+OPTIONS: toc:nil
+# # will change captions to Spanish, see https://lists.gnu.org/archive/html/emacs-orgmode/2010-03/msg00879.html
+#+LANGUAGE: es 
+#+begin_src yaml :exports results :results value html
+  ---
+  layout: single
+  # layout: splash
+  classes: wide
+  title: La reelección en el Congreso 
+  # subtitle: 
+  author: eric.magar
+  date:   2021-06-13
+  last_modified_at: 2021-06-13
+  toc: false
+  mathjax: true
+  # teaser: /assets/img/pirinola.jpg
+  tags: 
+    - diputados
+    - reelección
+    - México
+  hidden: false
+  ---
+#+end_src
+#+results:
+
+Una intro.
+
+Presto atención a los diputados de mayoría solamente
+
+Junto con las 15 gubernaturas, la renovación intermedia de la cámara de diputados se llevó los reflectores. Además de que el bloque legislativo del presidente retuvo la mayoría a pesar de la pandemia y una economía deplorable, es también notable que 101 de 300 diputados de mayoría consiguió reelegirse. Aunque los patrones más interesantes y reveladores han de encontrarse en la pista municipal (analizados esta entrada). 
+
+
+La tabla [[tab:1]] reporta el total y el desglose por partido. Extrapolando esta tasa hacia los diputados pluris (a quienes no presto atención en esta nota en virtud de que no necesitan construir una coalición para reelegirse, que suelen servir los intereses de la cúpula partidista y que son poco interesantes para el estudio de la reelección consecutiva), en la LXV Legislatura habrá dos novatos por cada uno que se reeligió.
+
+#+CAPTION: Diputados federales en la boleta (verdes) y los retirados (rojos) en 2021. Fuente: investigación propia con datos del INE y de la Cámara de Diputados. 
+#+NAME:   fig:1
+[[../assets/img/reel-dipfed2021.png]]
+
+El desglose identifica los distritos que defendía cada partido en 2021.[fn:1] La columna derecha reporta el número. Morena defendía el mayor número, 164 distritos, seguido por el PAN, con 41. Las barras horizontales representan el porcentaje de victorias y derrotas en dos grandes grupos: distritos donde el ocupante buscó la reelección en verdes, y distritos donde el ocupante se retiró en rojos. 
+
+
+
+Alcaldes en la boleta (verde), impedidos por segundo mandato (gris) y los retirados (rojo) en 2021. Fuente: investigación propia. 
+
+#+CAPTION: Presidente municipales en la boleta (verdes), los retirados (rojos) y los impedidos de tercer mandato (azules) en 2021. Fuente: investigación propia. 
+#+NAME:   fig:2
+[[../assets/img/reel-munic2021.png]]
+
+
+#+CAPTION: Reelección en la Cámara de Diputados en 2021
+#+NAME:   tab:1
+
+| Partido saliente | Ocupante reelecto | Ocupante derrotado | Silla vacía, partido ganó | Silla vacía, partido perdió | Total |   N |
+|------------------+-------------------+--------------------+---------------------------+-----------------------------+-------+-----|
+| PAN              |                37 |                  0 |                        51 |                          12 |   100 |  41 |
+| PRI              |                20 |                 20 |                        40 |                          20 |   100 |  10 |
+| PRD              |                 0 |                  0 |                        50 |                          50 |   100 |   6 |
+| MORENA           |                40 |                 13 |                        36 |                          10 |   100 | 164 |
+| PVEM             |                20 |                 40 |                        20 |                          20 |   100 |   5 |
+| MC               |                 0 |                 13 |                        40 |                          47 |   100 |  15 |
+| PT               |                44 |                 21 |                        28 |                           8 |   100 |  39 |
+| PES              |                 0 |                 10 |                         0 |                          90 |   100 |  20 |
+|------------------+-------------------+--------------------+---------------------------+-----------------------------+-------+-----|
+| Total            |                34 |                 13 |                        35 |                          19 |   100 | 300 |
+
+Si, a priori, no parecen ser muchos, una perspectiva comparativa permite dimensionar mejor la llamada "ambición estática" entre políticos mexicanos. 
+
+Saiegh, Samuels, Siavelis, Jacobson. 
+
+Congreso Argentino 1983-2001, 85 por ciento de los legisladores tuvieron un mandato único, 11 por ciento dos periodos, sólo 4 por ciento tres o más. De tener ambición política, es de naturaleza predominantemente progresiva---buscan volver a la pista provincial (Samuels, Jones). Chibber+? políticos siguen el dinero. 
+
+| Caso   | % de legisladores que buscaron reelegirse | % de los que la buscaron que tuvo éxito | Tasa de retorno |
+|--------+-------------------------------------------+-----------------------------------------+-----------------|
+| Brasil |                                        70 |                                      60 |              42 |
+| Chile  |                                        71 |                                      83 |              59 |
+| USA    |                                        95 |                                      91 |              86 |
+
+
+
+
+Breakdown partidista dice poco. Swing anti-morena. 
+
+Reelección de alcaldes en 2021 (excepto Chiapas, Guerrero, Michoacán, Nayarit, Oaxaca, Puebla, Durango, Hidalgo, Tlaxcala, Veracruz)
+
+| Partido saliente | Alcalde reelecto | Alcalde derrotado | Silla vacía p. ganó | Silla vacía p. perdió | Term limit p. ganó | Term limit p. perdió | Total |   N |
+|------------------+------------------+-------------------+---------------------+-----------------------+--------------------+----------------------+-------+-----|
+| pan              |               22 |                12 |                  14 |                    22 |                 16 |                   13 |   100 | 314 |
+| pri              |               21 |                12 |                  22 |                    15 |                 16 |                   14 |   100 | 272 |
+| prd              |               11 |                11 |                  11 |                    36 |                  0 |                   32 |   100 |  28 |
+| morena           |               25 |                25 |                  26 |                    22 |                  0 |                    2 |   100 | 186 |
+| pvem             |               22 |                17 |                   8 |                    31 |                  3 |                   19 |   100 |  36 |
+| mc               |               29 |                22 |                   2 |                    29 |                  5 |                   12 |   100 |  41 |
+| otros            |               30 |                22 |                   3 |                    24 |                  5 |                   16 |   100 |  63 |
+|------------------+------------------+-------------------+---------------------+-----------------------+--------------------+----------------------+-------+-----|
+| Total            |               23 |                16 |                  17 |                    21 |                 11 |                   12 |   100 | 940 |
+
+
+(1) patrones municipales mixtos. un tercio se reeligió. poco más de 10 por ciento intentó y fracasó. algunos ejemplos.
+
+(2) patrones municipales más interesantes. tres grupos. gana v pierde en c/u. 
+
+(3) reelectos son pocos. pero sumando term limited (que ya dieron evidencia de), hay un número sustancial de ambicón estática.   
+
+[fn:1] El transfuguismo partidista fue muy frecuente en la legislatura que concluye, en particular entre diputados del bloque legislativo del presidente conformado por MORENA, el PT y el PES . Para esta tabla tomé en cuenta la afiliación partidista que reportaba la Cámara en su [[http://diputados.gob.mx][sitio de internet]] a principios de junio 2021.
+
+
+-----
+
+El 6 de junio se renovarán 1,921 ayuntamientos en las urnas. Es patente el interés de presidentes municipales por reelegirse. Agradezco a Daniela Guzmán Lerma y Sonia Kuri Kosegarten su asistencia para recopilar mucha de la información.
+
+Hay 292 alcaldes que no pudieron aspirar a la reelección consecutiva este año porque la constitución de sus estados prevé que puedan hacerlo hasta 2024. Es el caso en Nayarit, Tlaxcala y Veracruz. En lo restante, excluiré los municipios de estos estados de las cuentas. Quito también los casos de Oaxaca y Puebla ($N = 370$), por el grande número de registros faltantes.
+
+De los 1,628 alcaldes que restan, 34 por ciento buscan de la reelección. La proporción de alcaldes que se retiraron de la contienda es mayor, alcanza 39 por ciento. La desventaja de los partidarios de la reelección es leve y puede matizarse, ya que hubo también 19 por ciento de ocupantes impedidos constitucionalmente de renominarse por haberse reelegido los comicios pasados. La constitución federal aún proscribe un tercer mandato consecutivo en los gobiernos municipales---una limitación que puede y debe relajarse. Tomando en cuenta esta quinta parte de los presidentes municipales que lo hizo en el pasado, 53 por ciento de los alcaldes han revelado poseer ambición estática. Cifra nada despreciable tratándose de una institución aún joven.
+
+El diagrama resume los patrones por estado. De verde se pinta el porcentaje estatal de presidentes municipales que compiten actualmente por la reelección consecutiva. De gris, los que no pueden reelegirse otra vez más. Y de rojo los que abandonaron la contienda. Y la cifra de arriba reporta el número de alcaldes que componen el 100 por ciento de la columna.
+
+Aunque varían fuerte entre sí, todos los estados tienen alcaldes en la boleta---con uno solo, Tabasco estuvo a punto de ser la excepión. En términos relativos, hay nueve estados con 40 por ciento o más de sus ocupantes municipales en la boleta: Querétaro alcanza 67 por ciento; Ciudad de México, Quintana Roo y Estado de México sobrepasan 50; Guanajuato, Jalisco, Yucatán, Morelos, Chihuahua y Baja California sobrepasan 40.
+
+Llama la atención el bloque adyacente de Sinaloa, Zacatecas, Nuevo León y Aguascalientes, y Coalhuila también. Los cinco tienen barras grises grandes que, sumadas a la base verde, elevan la proporción de políticos que quieren o han querido (y podido) reelegirse arriba de 60 por ciento. 
+
+El desglose partidista revela a PAN y PRI con, todavía, el mayor número de municipios (aunque no los más grandes, en 2018 Morena arrasó en las ciudades). Morena parecería haber sobrepuesto su desconfianza expresada a la reelección, 45 por ciento de sus ocupantes la están buscando. Sólo 2 por ciento de sus ambiciosos están en la banca por segundo mandato, mientras que los otrora partidos mayores tienen una cuarta parte en la banca. Esto debería operar en favor del partido del presidente. 
+ 
+#+CAPTION: Status de los alcaldes salientes en 2021 por partido que lo eligió
+#+NAME:   tab:1
+| partido       | ocupante en la boleta | segundo mandato | silla suelta (retirado)    | total |   N |
+|---------------+-----------------------+-----------------+-------------------------+-------+-----|
+| pan           |                    33 |              27 |                      40 |   100 | 383 |
+| pri           |                    31 |              26 |                      43 |   100 | 335 |
+| morena        |                    45 |               2 |                      52 |   100 | 266 |
+| pvem          |                    34 |              16 |                      50 |   100 |  74 |
+| prd           |                    33 |              28 |                      39 |   100 |  54 |
+| pna           |                    37 |              17 |                      46 |   100 |  46 |
+| mc            |                    48 |              17 |                      36 |   100 |  42 |
+| otro          |                    29 |               5 |                      66 |   100 |  38 |
+| independiente |                    55 |              20 |                      25 |   100 |  20 |
+
+
+* Resumen completo de alcaldes que compiten/no por reelegirse en 2021
+
+|       | alcalde compite | impedido por 2do mandato o hasta 2024 | alcalde se retiró |   ? | Total |
+|-------+-----------------+---------------------------------------+-------------------+-----+-------|
+| ags   |               3 |                                     5 |                 3 |   0 |    11 |
+| bc    |               2 |                                     0 |                 3 |   0 |     5 |
+| bcs   |               1 |                                     1 |                 3 |   0 |     5 |
+| cam   |               2 |                                     1 |                 8 |   0 |    11 |
+| coa   |               3 |                                    22 |                13 |   0 |    38 |
+| col   |               3 |                                     1 |                 6 |   0 |    10 |
+| cps   |              29 |                                     3 |                90 |   0 |   122 |
+| cua   |              27 |                                    25 |                15 |   0 |    67 |
+| df    |               9 |                                     0 |                 7 |   0 |    16 |
+| gua   |              22 |                                     7 |                17 |   0 |    46 |
+| gue   |              30 |                                     9 |                41 |   0 |    80 |
+| jal   |              57 |                                    25 |                43 |   0 |   125 |
+| mex   |              65 |                                    19 |                41 |   0 |   125 |
+| mic   |              38 |                                    20 |                54 |   0 |   112 |
+| mor   |              14 |                                     8 |                11 |   0 |    33 |
+| nay   |               0 |                                   100 |                 0 |   0 |    20 |
+| nl    |              14 |                                    19 |                18 |   0 |    51 |
+| oax   |               3 |                                    58 |                10 |  82 |   153 |
+| pue   |              90 |                                     0 |                69 |  58 |   217 |
+| que   |              12 |                                     4 |                 2 |   0 |    18 |
+| qui   |               6 |                                     3 |                 2 |   0 |    11 |
+| san   |              10 |                                    10 |                38 |   0 |    58 |
+| sin   |               5 |                                     8 |                 5 |   0 |    18 |
+| son   |              27 |                                     7 |                38 |   0 |    72 |
+| tab   |               1 |                                     0 |                16 |   0 |    17 |
+| tam   |              11 |                                    13 |                19 |   0 |    43 |
+| tla   |               0 |                                   100 |                 0 |   0 |    60 |
+| ver   |               0 |                                   100 |                 0 |   0 |   212 |
+| yuc   |              48 |                                    14 |                44 |   0 |   106 |
+| zac   |              16 |                                    21 |                21 |   0 |    58 |
+|-------+-----------------+---------------------------------------+-------------------+-----+-------|
+| Total |             548 |                                   303 |               637 | 140 |  1920 |
+
+
+
+
